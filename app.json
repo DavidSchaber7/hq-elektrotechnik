@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "HQ Elektrotechnik",
+    "slug": "hq-elektrotechnik",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3755B4"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.hqelektrotechnik.app",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "HQ Elektrotechnik",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#3755B4"
+      },
+      "package": "de.hqelektrotechnik.app",
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "dascstudio",
+    "plugins": [
+      "react-native-iap"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "44b62252-ce42-4443-a1da-83d72618dcb4"
+      }
+    }
+  }
+}

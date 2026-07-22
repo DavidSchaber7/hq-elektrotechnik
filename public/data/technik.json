@@ -1,0 +1,3004 @@
+{
+  "questions": [
+    {
+      "id": "tec-001",
+      "text": "Auf welchem physikalischen Grundprinzip beruht die Funktionsweise eines Transformators?",
+      "options": [
+        "Elektromagnetische Induktion",
+        "Piezoelektrischer Effekt",
+        "Thermoelektrischer Effekt (Seebeck-Effekt)",
+        "Hall-Effekt"
+      ],
+      "correct": 0,
+      "explanation": "Transformatoren nutzen die elektromagnetische Induktion nach Faraday: Ein sich änderndes Magnetfeld in der Primärwicklung induziert eine Spannung in der Sekundärwicklung.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Transformatoren"
+    },
+    {
+      "id": "tec-002",
+      "text": "Wie verhält sich das Spannungsübersetzungsverhältnis eines idealen, unbelasteten Transformators zur Windungszahl?",
+      "options": [
+        "Es ist umgekehrt proportional zum Quadrat der Windungszahl",
+        "Es entspricht dem Verhältnis der Windungszahlen U1/U2 = N1/N2",
+        "Es ist unabhängig von der Windungszahl",
+        "Es entspricht dem Verhältnis der Leiterquerschnitte"
+      ],
+      "correct": 1,
+      "explanation": "Im idealen Transformator verhalten sich Primär- und Sekundärspannung wie die jeweiligen Windungszahlen der beiden Wicklungen.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Transformatoren"
+    },
+    {
+      "id": "tec-003",
+      "text": "Welche Verlustart wird durch den Leerlaufversuch an einem Transformator ermittelt?",
+      "options": [
+        "Kupferverluste (stromabhängige Wicklungsverluste)",
+        "Reibungsverluste im Kühlsystem",
+        "Eisenverluste (Ummagnetisierungs- und Wirbelstromverluste)",
+        "Übergangswiderstandsverluste an Klemmen"
+      ],
+      "correct": 2,
+      "explanation": "Im Leerlaufversuch fließt näherungsweise kein Laststrom, sodass die gemessene Leistungsaufnahme im Wesentlichen den Eisenverlusten entspricht.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Transformatorprüfung"
+    },
+    {
+      "id": "tec-004",
+      "text": "Welche Verlustart wird mit dem Kurzschlussversuch an einem Transformator bestimmt?",
+      "options": [
+        "Eisenverluste",
+        "Dielektrische Verluste der Isolation",
+        "Reibungsverluste im Lüftermotor",
+        "Kupferverluste (stromabhängige Wicklungsverluste)"
+      ],
+      "correct": 3,
+      "explanation": "Beim Kurzschlussversuch wird nur mit reduzierter Spannung bei Nennstrom gemessen, wodurch die Eisenverluste vernachlässigbar sind und im Wesentlichen die stromabhängigen Kupferverluste erfasst werden.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Transformatorprüfung"
+    },
+    {
+      "id": "tec-005",
+      "text": "Um welchen Winkel sind die drei Spannungen eines symmetrischen Drehstromsystems zueinander phasenverschoben?",
+      "options": [
+        "120°",
+        "90°",
+        "60°",
+        "180°"
+      ],
+      "correct": 0,
+      "explanation": "Ein symmetrisches Drehstromsystem besteht aus drei gleich großen Spannungen, die jeweils um 120° zueinander phasenverschoben sind.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Drehstromsysteme"
+    },
+    {
+      "id": "tec-006",
+      "text": "Wie verhält sich bei einer Sternschaltung im Drehstromnetz die Außenleiterspannung (verkettete Spannung) zur Strangspannung?",
+      "options": [
+        "U_Außenleiter = U_Strang",
+        "U_Außenleiter = √3 × U_Strang",
+        "U_Außenleiter = 3 × U_Strang",
+        "U_Außenleiter = U_Strang / √3"
+      ],
+      "correct": 1,
+      "explanation": "In der Sternschaltung ergibt sich die verkettete Spannung geometrisch aus der Vektoraddition zweier um 120° versetzter Strangspannungen zu U_L = √3 × U_Strang.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Drehstromsysteme"
+    },
+    {
+      "id": "tec-007",
+      "text": "In welcher physikalischen Einheit wird die elektrische Blindleistung angegeben?",
+      "options": [
+        "Watt (W)",
+        "Voltampere (VA)",
+        "Var (var)",
+        "Joule (J)"
+      ],
+      "correct": 2,
+      "explanation": "Blindleistung wird in var angegeben, während Wirkleistung in Watt und Scheinleistung in Voltampere gemessen wird.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Blindleistung"
+    },
+    {
+      "id": "tec-008",
+      "text": "Welches Bauteil wird in Niederspannungsanlagen üblicherweise zur Kompensation induktiver Blindleistung eingesetzt?",
+      "options": [
+        "Drosselspule",
+        "Vorwiderstand",
+        "Gleichrichterdiode",
+        "Kondensator"
+      ],
+      "correct": 3,
+      "explanation": "Kondensatoren erzeugen kapazitive Blindleistung, die der induktiven Blindleistung von Motoren und Transformatoren entgegenwirkt und so den Leistungsfaktor cos φ verbessert.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Blindleistungskompensation"
+    },
+    {
+      "id": "tec-009",
+      "text": "Ein Betrieb hat eine Wirkleistung von 100 kW bei cos φ1 = 0,7. Welche Kompensationsblindleistung ist näherungsweise erforderlich, um cos φ auf 0,95 zu verbessern?",
+      "options": [
+        "ca. 69 kvar",
+        "ca. 30 kvar",
+        "ca. 50 kvar",
+        "ca. 102 kvar"
+      ],
+      "correct": 0,
+      "explanation": "Mit Q = P × (tan φ1 − tan φ2) ergibt sich Q ≈ 100 kW × (1,02 − 0,33) ≈ 69 kvar als erforderliche Kompensationsblindleistung.",
+      "difficulty": 3,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Blindleistungskompensation"
+    },
+    {
+      "id": "tec-010",
+      "text": "Welches Merkmal kennzeichnet ein TN-S-Netz nach DIN VDE 0100?",
+      "options": [
+        "PE und N sind über die gesamte Anlage in einem PEN-Leiter kombiniert",
+        "Schutzleiter (PE) und Neutralleiter (N) werden im gesamten Netz getrennt geführt",
+        "Der Sternpunkt ist nicht geerdet",
+        "Körper werden über eine vom Netz unabhängige Erdungsanlage geerdet"
+      ],
+      "correct": 1,
+      "explanation": "Im TN-S-System sind Neutralleiter und Schutzleiter im gesamten Netz durchgehend getrennt, was Störungen durch Betriebsströme im Schutzleiter vermeidet.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Netzformen"
+    },
+    {
+      "id": "tec-011",
+      "text": "Was kennzeichnet ein TN-C-Netz?",
+      "options": [
+        "PE und N sind im gesamten Netz getrennt geführt",
+        "Der Sternpunkt ist isoliert und wird überwacht",
+        "Schutz- und Neutralleiterfunktion sind in einem gemeinsamen PEN-Leiter kombiniert",
+        "Die Körper werden unabhängig vom Netzanschluss geerdet"
+      ],
+      "correct": 2,
+      "explanation": "Beim TN-C-System übernimmt ein einziger Leiter (PEN) sowohl die Schutzleiter- als auch die Neutralleiterfunktion.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Netzformen"
+    },
+    {
+      "id": "tec-012",
+      "text": "Welches Merkmal ist typisch für ein TT-Netz?",
+      "options": [
+        "PEN-Leiter kombiniert Neutral- und Schutzleiterfunktion",
+        "Der Sternpunkt ist nicht oder nur hochohmig geerdet",
+        "Ein Schutzleiter ist nicht erforderlich",
+        "Der Sternpunkt ist geerdet, die Körper der elektrischen Anlage werden jedoch über eine eigene, vom Netz unabhängige Erdungsanlage geerdet"
+      ],
+      "correct": 3,
+      "explanation": "Im TT-System sind Anlagenerder und Betriebserder des Netzes voneinander unabhängig, weshalb der Fehlerschutz meist über RCDs realisiert wird.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Netzformen"
+    },
+    {
+      "id": "tec-013",
+      "text": "Welche Aussage zum IT-Netz trifft zu?",
+      "options": [
+        "Der Sternpunkt ist nicht oder nur über eine hohe Impedanz geerdet; eine Isolationsüberwachungseinrichtung ist erforderlich",
+        "Der Sternpunkt ist direkt geerdet",
+        "Alle Außenleiter sind mit dem PEN-Leiter verbunden",
+        "Ein Schutzleiter wird grundsätzlich nicht benötigt"
+      ],
+      "correct": 0,
+      "explanation": "IT-Netze werden dort eingesetzt, wo bei einem ersten Fehler der Betrieb ohne sofortige Abschaltung weiterlaufen soll; eine Isolationsüberwachung meldet den ersten Fehler.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Netzformen"
+    },
+    {
+      "id": "tec-014",
+      "text": "Warum wird elektrische Energie über weite Strecken bevorzugt mit hoher Spannung übertragen?",
+      "options": [
+        "Hohe Spannung verringert grundsätzlich die Kurzschlussgefahr",
+        "Bei gleicher übertragener Leistung sinkt der Strom, wodurch die stromabhängigen Übertragungsverluste (P = I² × R) reduziert werden",
+        "Hohe Spannung beseitigt vollständig den Blindleistungsbedarf im Netz",
+        "Hohe Spannung ermöglicht den Verzicht auf Transformatoren"
+      ],
+      "correct": 1,
+      "explanation": "Da die Übertragungsverluste quadratisch vom Strom abhängen, wird bei konstanter Leistung durch Anheben der Spannung der Strom und damit die Verlustleistung deutlich reduziert.",
+      "difficulty": 3,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Energieübertragung"
+    },
+    {
+      "id": "tec-015",
+      "text": "Wodurch wird die Synchrondrehzahl eines Asynchronmotors am starren Netz bestimmt?",
+      "options": [
+        "Ausschließlich durch die angelegte Netzspannung",
+        "Durch den Wicklungswiderstand des Läufers",
+        "Durch die Netzfrequenz und die Polpaarzahl der Maschine",
+        "Durch die Umgebungstemperatur des Motors"
+      ],
+      "correct": 2,
+      "explanation": "Die Synchrondrehzahl ergibt sich aus n = 60 × f / p, wobei f die Netzfrequenz und p die Polpaarzahl ist.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Asynchronmotor"
+    },
+    {
+      "id": "tec-016",
+      "text": "Was versteht man unter dem Schlupf eines Asynchronmotors?",
+      "options": [
+        "Den Wirkungsgradverlust durch Reibung im Lager",
+        "Die Phasenverschiebung zwischen Strom und Spannung im Ständer",
+        "Die Differenz zwischen Anlauf- und Nennstrom",
+        "Die auf die Synchrondrehzahl bezogene Differenz zwischen Synchrondrehzahl und tatsächlicher Läuferdrehzahl"
+      ],
+      "correct": 3,
+      "explanation": "Der Schlupf s = (n_synchron − n_Läufer) / n_synchron beschreibt die für die Drehmomentbildung notwendige Relativbewegung zwischen Drehfeld und Läufer.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Asynchronmotor"
+    },
+    {
+      "id": "tec-017",
+      "text": "Warum läuft der Läufer eines Asynchronmotors nie exakt synchron mit dem Drehfeld?",
+      "options": [
+        "Ohne Relativbewegung (Schlupf) würde im Läufer keine Spannung induziert und somit kein Drehmoment erzeugt",
+        "Weil die Reibung im Lager die Drehzahl grundsätzlich begrenzt",
+        "Weil die Netzfrequenz während des Betriebs schwankt",
+        "Weil der Läufer stets stärker erregt ist als das Ständerfeld"
+      ],
+      "correct": 0,
+      "explanation": "Das Antriebsmoment eines Asynchronmotors entsteht durch die im Läufer induzierten Ströme, die nur bei einer Drehzahldifferenz zum Drehfeld auftreten.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Asynchronmotor"
+    },
+    {
+      "id": "tec-018",
+      "text": "Welche Auswirkung hat eine Stern-Dreieck-Anlaufschaltung gegenüber dem Direktanlauf eines Asynchronmotors?",
+      "options": [
+        "Der Anlaufstrom bleibt unverändert, nur das Anlaufmoment sinkt",
+        "Der Anlaufstrom sinkt auf etwa ein Drittel, ebenso reduziert sich das Anlaufmoment auf etwa ein Drittel",
+        "Der Anlaufstrom steigt, das Anlaufmoment sinkt",
+        "Anlaufstrom und Anlaufmoment verdreifachen sich"
+      ],
+      "correct": 1,
+      "explanation": "Durch die Sternschaltung während des Hochlaufs liegt an jeder Wicklung nur die um den Faktor √3 kleinere Strangspannung an, wodurch sich Strom und Moment auf etwa ein Drittel reduzieren.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Anlaufverfahren"
+    },
+    {
+      "id": "tec-019",
+      "text": "Welche Hauptaufgabe erfüllt ein Frequenzumrichter beim Betrieb eines Asynchronmotors?",
+      "options": [
+        "Kompensation der Blindleistung im Versorgungsnetz",
+        "Reine Spannungsstabilisierung ohne Frequenzänderung",
+        "Stufenlose Drehzahl- und Drehmomentregelung durch Variation von Ausgangsfrequenz und -spannung",
+        "Erhöhung der Netzspannung zur Drehzahlsteigerung"
+      ],
+      "correct": 2,
+      "explanation": "Ein Frequenzumrichter erzeugt eine variable Ausgangsfrequenz und -spannung, wodurch sich die Drehzahl des Asynchronmotors stufenlos einstellen lässt.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Antriebstechnik"
+    },
+    {
+      "id": "tec-020",
+      "text": "Was bewirkt ein Sanftanlasser (Softstarter) beim Anlauf eines Asynchronmotors?",
+      "options": [
+        "Er erhöht kurzzeitig die Netzfrequenz zur Beschleunigung des Hochlaufs",
+        "Er schaltet den Motor direkt in Dreieckschaltung ein",
+        "Er ersetzt die Funktion eines Motorschutzschalters vollständig",
+        "Er reduziert Anlaufstrom und Anlaufmoment durch stufenlose Spannungsabsenkung mittels Phasenanschnittsteuerung"
+      ],
+      "correct": 3,
+      "explanation": "Softstarter begrenzen den Einschaltstromstoß, indem sie die Motorspannung während des Hochlaufs stufenlos ansteigen lassen, statt den Motor abrupt einzuschalten.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Anlaufverfahren"
+    },
+    {
+      "id": "tec-021",
+      "text": "Worin unterscheidet sich ein Synchronmotor grundsätzlich von einem Asynchronmotor?",
+      "options": [
+        "Der Läufer eines Synchronmotors dreht sich ohne Schlupf exakt mit der Drehfelddrehzahl",
+        "Der Synchronmotor benötigt kein Drehfeld im Ständer",
+        "Der Synchronmotor besitzt grundsätzlich keinen Läufer",
+        "Der Asynchronmotor läuft stets synchron mit dem Drehfeld"
+      ],
+      "correct": 0,
+      "explanation": "Beim Synchronmotor wird der Läufer durch Gleichstromerregung oder Permanentmagnete magnetisiert und läuft dadurch ohne Schlupf synchron mit dem Ständerdrehfeld.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Synchronmotor"
+    },
+    {
+      "id": "tec-022",
+      "text": "Welche Größe beschreibt das Verhältnis von abgegebener mechanischer Leistung zu aufgenommener elektrischer Leistung einer Maschine?",
+      "options": [
+        "Der Leistungsfaktor cos φ",
+        "Der Wirkungsgrad η",
+        "Der Schlupf s",
+        "Die Nennspannung"
+      ],
+      "correct": 1,
+      "explanation": "Der Wirkungsgrad η = P_ab / P_auf gibt an, welcher Anteil der zugeführten elektrischen Leistung in nutzbare mechanische Leistung umgesetzt wird.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Wirkungsgrad"
+    },
+    {
+      "id": "tec-023",
+      "text": "Welche unmittelbare Folge hat ein niedriger Wirkungsgrad eines Elektromotors im Dauerbetrieb?",
+      "options": [
+        "Eine automatische Reduzierung der Nenndrehzahl",
+        "Eine Erhöhung des Leistungsfaktors cos φ",
+        "Eine höhere Verlustleistung, die als Wärme abgeführt werden muss, sowie höhere Energiekosten",
+        "Ein Ausbleiben von Anlaufströmen"
+      ],
+      "correct": 2,
+      "explanation": "Ein niedriger Wirkungsgrad bedeutet, dass ein größerer Anteil der zugeführten elektrischen Energie als Verlustwärme statt als Nutzleistung anfällt.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Wirkungsgrad"
+    },
+    {
+      "id": "tec-024",
+      "text": "Welchen Vorteil bietet ein Schleifringläufermotor gegenüber einem Käfigläufermotor?",
+      "options": [
+        "Er benötigt grundsätzlich keinen Anlaufstrombegrenzer",
+        "Er erreicht ohne Zusatzbeschaltung eine höhere Synchrondrehzahl",
+        "Er kann ausschließlich mit Gleichspannung betrieben werden",
+        "Zusätzliche Anlaufwiderstände können in den Läuferkreis geschaltet werden, um Anlaufstrom zu senken und Anlaufmoment zu erhöhen"
+      ],
+      "correct": 3,
+      "explanation": "Über die Schleifringe lassen sich externe Widerstände in den Läuferstromkreis einbringen, was den Anlauf gezielt beeinflusst.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Schleifringläufer"
+    },
+    {
+      "id": "tec-025",
+      "text": "Was passiert physikalisch, wenn ein Asynchronmotor über sein Kippmoment hinaus belastet wird?",
+      "options": [
+        "Das Drehmoment fällt ab, die Drehzahl bricht ein und der Motor bleibt stehen (kippt)",
+        "Der Motor beschleunigt kurzzeitig über die Synchrondrehzahl hinaus",
+        "Der Wirkungsgrad steigt sprunghaft an",
+        "Die Netzfrequenz passt sich automatisch an die Last an"
+      ],
+      "correct": 0,
+      "explanation": "Oberhalb des Kippmoments nimmt das erzeugte Drehmoment mit steigendem Schlupf wieder ab, sodass der Motor die Last nicht mehr halten kann und stehen bleibt.",
+      "difficulty": 3,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Kennlinienverhalten"
+    },
+    {
+      "id": "tec-026",
+      "text": "Wie verhält sich die Drehzahl eines Gleichstrom-Nebenschlussmotors bei konstanter Erregung mit steigender mechanischer Belastung?",
+      "options": [
+        "Die Drehzahl steigt proportional zur Last an",
+        "Die Drehzahl sinkt nur geringfügig, das Verhalten ist annähernd drehzahlkonstant",
+        "Die Drehzahl bleibt bei jeder Last exakt konstant",
+        "Der Motor läuft nur im Leerlauf stabil und bleibt unter Last stehen"
+      ],
+      "correct": 1,
+      "explanation": "Die Nebenschlusskennlinie zeichnet sich durch ein nahezu drehzahlkonstantes Verhalten über einen weiten Lastbereich aus, da der Erregerfluss unabhängig vom Ankerstrom bleibt.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Gleichstrommaschine"
+    },
+    {
+      "id": "tec-027",
+      "text": "Ein vierpoliger Synchrongenerator (p = 2) läuft mit 1500 min⁻¹. Welche Frequenz erzeugt er?",
+      "options": [
+        "25 Hz",
+        "60 Hz",
+        "50 Hz",
+        "100 Hz"
+      ],
+      "correct": 2,
+      "explanation": "Mit f = n × p / 60 ergibt sich f = 1500 × 2 / 60 = 50 Hz, was der üblichen europäischen Netzfrequenz entspricht.",
+      "difficulty": 3,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Generatoren"
+    },
+    {
+      "id": "tec-028",
+      "text": "Welche Schutzfunktion übernimmt ein Motorschutzschalter mit thermischem und magnetischem Auslöser?",
+      "options": [
+        "Ausschließlich Schutz gegen Unterspannung im Netz",
+        "Ausschließlich Kompensation der Blindleistung",
+        "Ausschließlich Begrenzung der Anlaufdrehzahl",
+        "Schutz des Motors vor Überlast (thermisch, zeitverzögert) und vor Kurzschluss (magnetisch, schnellauslösend)"
+      ],
+      "correct": 3,
+      "explanation": "Der thermische Auslöser schützt vor länger andauernder Überlastung, während der magnetische Schnellauslöser bei Kurzschlussströmen sofort abschaltet.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Motorschutz"
+    },
+    {
+      "id": "tec-029",
+      "text": "Was unterscheidet eine Steuerung grundsätzlich von einer Regelung?",
+      "options": [
+        "Bei der Steuerung liegt ein offener Wirkungsablauf ohne Rückführung vor, bei der Regelung ein geschlossener Wirkungskreis mit Soll-Ist-Vergleich",
+        "Eine Steuerung kann nur digitale Signale verarbeiten",
+        "Eine Regelung benötigt grundsätzlich keinen Sensor",
+        "Eine Steuerung reagiert immer schneller als eine Regelung"
+      ],
+      "correct": 0,
+      "explanation": "Kennzeichnend für die Regelung ist die Rückführung der Regelgröße und der fortlaufende Vergleich mit der Führungsgröße, was bei einer Steuerung fehlt.",
+      "difficulty": 1,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Grundbegriffe"
+    },
+    {
+      "id": "tec-030",
+      "text": "Welche Bestandteile umfasst ein grundlegender Regelkreis?",
+      "options": [
+        "Nur Regler und Stellglied ohne Rückführung",
+        "Regelstrecke, Regler, Messglied und Stellglied mit Rückführung der Regelgröße",
+        "Nur Sensor und Anzeigeeinheit",
+        "Nur Aktor und Netzteil"
+      ],
+      "correct": 1,
+      "explanation": "Ein Regelkreis besteht aus Regelstrecke, Messeinrichtung, Regler und Stellglied, wobei die Regelgröße kontinuierlich zurückgeführt und mit der Führungsgröße verglichen wird.",
+      "difficulty": 1,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Regelkreis"
+    },
+    {
+      "id": "tec-031",
+      "text": "Wie wird die Differenz zwischen Führungsgröße (Sollwert) und Istwert im Regelkreis bezeichnet?",
+      "options": [
+        "Stellgröße",
+        "Störgröße",
+        "Regelabweichung",
+        "Rückführgröße"
+      ],
+      "correct": 2,
+      "explanation": "Die Regelabweichung ist die Eingangsgröße des Reglers und ergibt sich aus der Differenz zwischen Führungsgröße und rückgeführter Regelgröße.",
+      "difficulty": 1,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Regelkreis"
+    },
+    {
+      "id": "tec-032",
+      "text": "Welches Verhalten zeigt ein reiner P-Regler im Regelkreis?",
+      "options": [
+        "Er beseitigt jede Regelabweichung vollständig",
+        "Er reagiert ausschließlich auf die Änderungsgeschwindigkeit der Regelabweichung",
+        "Er integriert die Regelabweichung über die Zeit auf",
+        "Die Stellgröße ist proportional zur Regelabweichung, eine bleibende Regelabweichung bleibt im stationären Zustand möglich"
+      ],
+      "correct": 3,
+      "explanation": "Ein P-Regler erzeugt eine zur momentanen Regelabweichung proportionale Stellgröße, wodurch im stationären Betrieb häufig eine bleibende Regelabweichung verbleibt.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Reglertypen"
+    },
+    {
+      "id": "tec-033",
+      "text": "Welchen Vorteil bietet ein PI-Regler gegenüber einem reinen P-Regler?",
+      "options": [
+        "Der I-Anteil beseitigt die bleibende Regelabweichung im stationären Zustand",
+        "Der I-Anteil beschleunigt ausschließlich die Anfangsreaktion",
+        "Der I-Anteil verhindert grundsätzlich jedes Überschwingen",
+        "Der I-Anteil ersetzt die Rückführung der Regelgröße"
+      ],
+      "correct": 0,
+      "explanation": "Durch die zeitliche Aufsummierung der Regelabweichung im I-Anteil wird die Stellgröße so lange verändert, bis die Regelabweichung zu null wird.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Reglertypen"
+    },
+    {
+      "id": "tec-034",
+      "text": "Welche Wirkung hat der D-Anteil in einem PID-Regler?",
+      "options": [
+        "Er beseitigt die bleibende Regelabweichung im stationären Zustand",
+        "Er reagiert auf die Änderungsgeschwindigkeit der Regelabweichung und verbessert dadurch das dynamische Störverhalten",
+        "Er begrenzt ausschließlich die maximale Stellgröße",
+        "Er verhindert jede Schwingung im Regelkreis vollständig"
+      ],
+      "correct": 1,
+      "explanation": "Der D-Anteil wirkt vorausschauend auf schnelle Änderungen der Regelabweichung und trägt so zu einem schnelleren, gedämpfteren Ausregeln von Störungen bei.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Reglertypen"
+    },
+    {
+      "id": "tec-035",
+      "text": "Welche Aufgabe hat ein Sensor im Zusammenspiel mit Aktoren innerhalb einer SPS-gesteuerten Anlage?",
+      "options": [
+        "Direkte mechanische Umsetzung von Steuerbefehlen in Bewegung",
+        "Bereitstellung der Versorgungsspannung für die Steuerung",
+        "Erfassung physikalischer Prozessgrößen und Umwandlung in elektrische Eingangssignale für die Steuerung",
+        "Speicherung des SPS-Anwenderprogramms"
+      ],
+      "correct": 2,
+      "explanation": "Sensoren liefern der Steuerung die notwendigen Ist-Informationen über den Prozess, auf deren Basis die Steuerung über Aktoren in den Prozess eingreift.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Sensorik/Aktorik"
+    },
+    {
+      "id": "tec-036",
+      "text": "Was versteht man unter einer Ablaufsteuerung?",
+      "options": [
+        "Eine Steuerung, bei der alle Schritte gleichzeitig ausgeführt werden",
+        "Eine Steuerung ohne Rückmeldung aus dem Prozess",
+        "Eine reine Verknüpfungssteuerung ohne Schrittfolge",
+        "Eine Steuerung, die zeit- oder ereignisabhängig festgelegte Schritte nacheinander abarbeitet, sobald jeweils die Weiterschaltbedingung erfüllt ist"
+      ],
+      "correct": 3,
+      "explanation": "Ablaufsteuerungen arbeiten eine definierte Schrittkette ab, wobei der Übergang zum nächsten Schritt erst nach Erfüllung der jeweiligen Transitionsbedingung erfolgt.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Ablaufsteuerung"
+    },
+    {
+      "id": "tec-037",
+      "text": "Wodurch wird bei einer Ablaufkette der Übergang von einem Schritt zum nächsten ausgelöst?",
+      "options": [
+        "Durch die Erfüllung der Transitionsbedingung, zum Beispiel eine Sensormeldung über das Erreichen einer Position",
+        "Ausschließlich durch Ablauf einer festen Zykluszeit der SPS",
+        "Durch manuellen Reset der gesamten Steuerung",
+        "Durch Änderung der Netzspannung"
+      ],
+      "correct": 0,
+      "explanation": "Erst wenn die für den jeweiligen Schritt definierte Transitionsbedingung erfüllt ist, schaltet die Ablaufkette zum nächsten Schritt weiter.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Ablaufsteuerung"
+    },
+    {
+      "id": "tec-038",
+      "text": "Welche Programmiersprache nach IEC 61131-3 stellt die Verknüpfungslogik grafisch ähnlich der klassischen Relaistechnik dar?",
+      "options": [
+        "Anweisungsliste (AWL)",
+        "Kontaktplan (KOP)",
+        "Strukturierter Text (ST)",
+        "Ablaufsprache (AS)"
+      ],
+      "correct": 1,
+      "explanation": "Der Kontaktplan bildet Verknüpfungen mit Symbolen ähnlich Schaltplänen der Relaistechnik ab und ist daher besonders anschaulich für Elektrofachkräfte.",
+      "difficulty": 1,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "SPS-Programmierung"
+    },
+    {
+      "id": "tec-039",
+      "text": "Was kennzeichnet die Programmiersprache Anweisungsliste (AWL) nach IEC 61131-3?",
+      "options": [
+        "Eine rein grafische Darstellung mit Kontaktsymbolen",
+        "Eine Darstellung ausschließlich über Ablaufdiagramme",
+        "Eine textbasierte, dem Assembler ähnliche Befehlsfolge zur Programmierung einer SPS",
+        "Eine Programmiersprache ohne Verzweigungen und Sprünge"
+      ],
+      "correct": 2,
+      "explanation": "AWL arbeitet mit textuellen, prozessorähnlichen Befehlen und war lange die maschinennahe Standardsprache in der SPS-Programmierung.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "SPS-Programmierung"
+    },
+    {
+      "id": "tec-040",
+      "text": "Wie läuft der zyklische Programmablauf einer SPS grundsätzlich ab?",
+      "options": [
+        "Einmaliges Abarbeiten des Programms beim Einschalten ohne Wiederholung",
+        "Gleichzeitiges Verarbeiten aller Ein- und Ausgänge ohne feste Reihenfolge",
+        "Ausschließliches Verarbeiten von Ausgängen ohne Berücksichtigung der Eingänge",
+        "Einlesen der Eingänge, Abarbeiten des Anwenderprogramms, Ausgabe der Ausgänge in wiederkehrenden Zyklen"
+      ],
+      "correct": 3,
+      "explanation": "Die SPS durchläuft fortlaufend den Zyklus aus Prozessabbild-Eingang einlesen, Programm abarbeiten und Prozessabbild-Ausgang ausgeben.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "SPS-Grundlagen"
+    },
+    {
+      "id": "tec-041",
+      "text": "Was ist typischerweise die Folge einer zu hohen Kreisverstärkung in einem Regelkreis?",
+      "options": [
+        "Die Regelgröße neigt zu zunehmenden, sich aufschaukelnden Schwingungen bis hin zur Instabilität",
+        "Die Regelabweichung wird dauerhaft zu null",
+        "Der Regelkreis reagiert grundsätzlich langsamer auf Störungen",
+        "Die Stellgröße bleibt unabhängig von der Regelabweichung konstant"
+      ],
+      "correct": 0,
+      "explanation": "Eine zu hohe Verstärkung im geschlossenen Regelkreis kann die Stabilitätsgrenze überschreiten und zu aufklingenden Schwingungen führen.",
+      "difficulty": 3,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Regelkreisstabilität"
+    },
+    {
+      "id": "tec-042",
+      "text": "Welche Aussage zur Kaskadenregelung trifft zu?",
+      "options": [
+        "Es wird immer nur ein einziger Regelkreis ohne Verschachtelung verwendet",
+        "Mehrere Regelkreise sind ineinander verschachtelt, wobei der unterlagerte (innere) Regelkreis schneller regelt als der überlagerte (äußere) Kreis",
+        "Der äußere Regelkreis muss stets schneller reagieren als der innere",
+        "Kaskadenregelungen kommen ausschließlich ohne Sensorik aus"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Kaskadenregelung gibt der überlagerte Regler dem unterlagerten, schnelleren Regelkreis den Sollwert vor, wodurch Störungen frühzeitig ausgeregelt werden können.",
+      "difficulty": 3,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Regelungsstrukturen"
+    },
+    {
+      "id": "tec-043",
+      "text": "Welche grundlegende Aufgabe hat ein Aktor in einem automatisierten System?",
+      "options": [
+        "Erfassung von Prozessgrößen und Weiterleitung an die Steuerung",
+        "Speicherung des Steuerungsprogramms",
+        "Umwandlung elektrischer Steuersignale in mechanische, thermische oder andere physikalische Wirkungen",
+        "Anzeige von Betriebszuständen für den Bediener"
+      ],
+      "correct": 2,
+      "explanation": "Aktoren wie Motoren, Ventile oder Heizelemente setzen die von der Steuerung ausgegebenen Signale in eine physikalische Wirkung im Prozess um.",
+      "difficulty": 1,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Sensorik/Aktorik"
+    },
+    {
+      "id": "tec-044",
+      "text": "Was versteht man unter einem systematischen Messfehler?",
+      "options": [
+        "Einen rein zufällig streuenden Fehler ohne erkennbare Ursache",
+        "Einen Fehler, der nur bei digitalen Messgeräten auftritt",
+        "Einen Fehler, der ausschließlich durch Temperaturschwankungen verursacht wird",
+        "Einen Fehler mit reproduzierbarer Ursache und gleichbleibender Richtung und Größe, der durch Kalibrierung erkannt und korrigiert werden kann"
+      ],
+      "correct": 3,
+      "explanation": "Systematische Fehler wirken bei Wiederholungsmessungen in gleicher Richtung und Größe und lassen sich daher durch Kalibrierung erfassen und rechnerisch korrigieren.",
+      "difficulty": 1,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Messfehler"
+    },
+    {
+      "id": "tec-045",
+      "text": "Welche Aussage kennzeichnet einen zufälligen Messfehler?",
+      "options": [
+        "Eine nicht vorhersagbare, statistisch streuende Abweichung, die durch Mehrfachmessung und Mittelwertbildung reduziert werden kann",
+        "Eine Abweichung mit konstanter Richtung und Größe bei jeder Messung",
+        "Ein Fehler, der ausschließlich auf Bedienungsfehlern beruht",
+        "Ein Fehler, der durch Kalibrierung vollständig beseitigt wird"
+      ],
+      "correct": 0,
+      "explanation": "Zufällige Fehler streuen unsystematisch um den wahren Wert und lassen sich durch statistische Auswertung mehrerer Messungen verringern, jedoch nicht durch Kalibrierung beseitigen.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Messfehler"
+    },
+    {
+      "id": "tec-046",
+      "text": "Was versteht man unter der Kalibrierung eines Messgeräts?",
+      "options": [
+        "Das aktive Verstellen des Messgeräts, um die Anzeige an den Sollwert anzupassen",
+        "Das Feststellen der Abweichung eines Messgeräts gegenüber einem Referenznormal, ohne dabei in das Gerät einzugreifen",
+        "Den vollständigen Austausch defekter Messwertaufnehmer",
+        "Die einmalige Ersteinstellung eines Messgeräts im Herstellerwerk"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Kalibrierung wird lediglich die Abweichung zu einem Normal ermittelt und dokumentiert, ohne dass eine Korrektur am Gerät selbst vorgenommen wird.",
+      "difficulty": 1,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Kalibrierung"
+    },
+    {
+      "id": "tec-047",
+      "text": "Worin unterscheidet sich die Justierung eines Messgeräts von der Kalibrierung?",
+      "options": [
+        "Justierung und Kalibrierung bezeichnen denselben Vorgang",
+        "Die Kalibrierung verändert das Messgerät, die Justierung ermittelt nur die Abweichung",
+        "Die Justierung greift aktiv in das Messgerät ein, um die Anzeige an den Sollwert anzupassen, während die Kalibrierung nur die Abweichung ermittelt",
+        "Justierung ist nur bei digitalen Messgeräten möglich"
+      ],
+      "correct": 2,
+      "explanation": "Während die Kalibrierung eine reine Feststellung der Abweichung ist, verändert die Justierung das Messgerät so, dass die Anzeige dem Sollwert möglichst genau entspricht.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Kalibrierung"
+    },
+    {
+      "id": "tec-048",
+      "text": "Nach welchem Funktionsprinzip arbeitet ein induktiver Näherungssensor?",
+      "options": [
+        "Erfassung durch Veränderung der Kapazität eines elektrischen Feldes",
+        "Erfassung durch Reflexion von Schallwellen",
+        "Erfassung durch Messung der Umgebungstemperatur",
+        "Erfassung metallischer Objekte durch Dämpfung eines hochfrequenten elektromagnetischen Wechselfelds (Wirbelstromeffekt)"
+      ],
+      "correct": 3,
+      "explanation": "Ein induktiver Sensor erzeugt ein hochfrequentes Magnetfeld, das durch Wirbelströme in metallischen Objekten gedämpft wird, was zur Detektion ausgewertet wird.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Sensorarten"
+    },
+    {
+      "id": "tec-049",
+      "text": "Wodurch erkennt ein kapazitiver Näherungssensor ein Objekt?",
+      "options": [
+        "Durch die Veränderung der Kapazität eines elektrischen Feldes bei Annäherung leitender oder nichtleitender Materialien",
+        "Durch Dämpfung eines hochfrequenten Magnetfeldes",
+        "Durch Auswertung der reflektierten Lichtintensität",
+        "Durch Messung des mechanischen Drucks auf den Sensor"
+      ],
+      "correct": 0,
+      "explanation": "Kapazitive Sensoren detektieren Objekte über die Veränderung der elektrischen Feldkapazität und erkennen dabei im Gegensatz zu induktiven Sensoren auch nichtmetallische Materialien.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Sensorarten"
+    },
+    {
+      "id": "tec-050",
+      "text": "Auf welchem physikalischen Effekt beruht die Temperaturmessung mit einem Thermoelement?",
+      "options": [
+        "Piezoelektrischer Effekt bei mechanischer Verformung",
+        "Seebeck-Effekt: Erzeugung einer Thermospannung bei Temperaturdifferenz zwischen den Kontaktstellen zweier unterschiedlicher Metalle",
+        "Hall-Effekt bei Stromdurchfluss im Magnetfeld",
+        "Fotoelektrischer Effekt bei Lichteinfall"
+      ],
+      "correct": 1,
+      "explanation": "Zwei unterschiedliche Metalle erzeugen an ihrer Kontaktstelle bei Temperaturdifferenz eine messbare Thermospannung, die zur Temperaturbestimmung genutzt wird.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Sensorarten"
+    },
+    {
+      "id": "tec-051",
+      "text": "Nach welchem Messprinzip arbeitet ein Pt100-Widerstandsthermometer?",
+      "options": [
+        "Über eine temperaturabhängige Thermospannung zweier Metalle",
+        "Über die temperaturabhängige Kapazität eines Kondensators",
+        "Über den temperaturabhängigen elektrischen Widerstand eines Platin-Messwiderstands mit positivem Temperaturkoeffizienten",
+        "Über die temperaturabhängige Lichtbrechung eines Sensors"
+      ],
+      "correct": 2,
+      "explanation": "Der elektrische Widerstand des Platin-Messelements steigt mit zunehmender Temperatur nahezu linear an, woraus die Temperatur ermittelt wird.",
+      "difficulty": 1,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Sensorarten"
+    },
+    {
+      "id": "tec-052",
+      "text": "Wie wird die elektrische Arbeit bei einem klassischen Ferraris-Zähler (Induktionszähler) gemessen?",
+      "options": [
+        "Über eine rein digitale Abtastung des Momentanstroms ohne bewegliche Teile",
+        "Über die Zählung von Spannungsspitzen im Netz",
+        "Über die Messung des Isolationswiderstands der Zuleitung",
+        "Über die drehzahlproportionale Drehung einer Aluminiumscheibe im Wirbelstrom- und Induktionsfeld, deren Umdrehungen der verbrauchten Energie entsprechen"
+      ],
+      "correct": 3,
+      "explanation": "Im Ferraris-Zähler erzeugen Strom- und Spannungsspule Wirbelströme in einer Aluminiumscheibe, deren Drehzahl proportional zur momentanen Leistung ist; die Umdrehungszahl entspricht der verbrauchten Energie.",
+      "difficulty": 3,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Energiemessung"
+    },
+    {
+      "id": "tec-053",
+      "text": "Wozu dient ein Stromwandler in der elektrischen Messtechnik?",
+      "options": [
+        "Zur galvanisch getrennten Herabsetzung großer Ströme auf normierte, messtechnisch handhabbare Werte",
+        "Zur direkten Erhöhung der Netzspannung",
+        "Zur Kompensation von Blindleistung im Netz",
+        "Zur Filterung von Oberschwingungen im Netz"
+      ],
+      "correct": 0,
+      "explanation": "Stromwandler transformieren hohe Primärströme unter galvanischer Trennung auf genormte Sekundärströme wie 5 A oder 1 A, die für Mess- und Schutzeinrichtungen geeignet sind.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Messwandler"
+    },
+    {
+      "id": "tec-054",
+      "text": "Was ist bei der Schaltungsart eines Spannungsmessgeräts (Voltmeter) zu beachten?",
+      "options": [
+        "Es wird in Reihe zum Verbraucher geschaltet und sollte einen möglichst hohen Innenwiderstand besitzen",
+        "Es wird parallel zum Messobjekt geschaltet und sollte einen möglichst hohen Innenwiderstand besitzen",
+        "Es wird parallel geschaltet und sollte einen möglichst geringen Innenwiderstand besitzen",
+        "Es wird in Reihe geschaltet und sollte einen möglichst geringen Innenwiderstand besitzen"
+      ],
+      "correct": 1,
+      "explanation": "Ein Voltmeter liegt parallel zur zu messenden Spannung; ein hoher Innenwiderstand sorgt dafür, dass der Messkreis möglichst wenig belastet wird.",
+      "difficulty": 1,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Messtechnik Grundlagen"
+    },
+    {
+      "id": "tec-055",
+      "text": "Wie muss ein Strommessgerät (Amperemeter) in einen Stromkreis eingebunden werden?",
+      "options": [
+        "Parallel zum Verbraucher, mit einem möglichst hohen Innenwiderstand",
+        "Parallel zum Verbraucher, mit einem möglichst geringen Innenwiderstand",
+        "In Reihe zum Verbraucher, mit einem möglichst geringen Innenwiderstand",
+        "In Reihe zum Verbraucher, mit einem möglichst hohen Innenwiderstand"
+      ],
+      "correct": 2,
+      "explanation": "Da das Amperemeter vom vollen Stromkreisstrom durchflossen wird, muss es in Reihe geschaltet werden und darf durch einen niedrigen Innenwiderstand die Messung nur minimal beeinflussen.",
+      "difficulty": 1,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Messtechnik Grundlagen"
+    },
+    {
+      "id": "tec-056",
+      "text": "Welchen Effekt hat ein zu geringer Innenwiderstand eines Spannungsmessgeräts auf das Messergebnis?",
+      "options": [
+        "Das Messergebnis bleibt davon vollständig unbeeinflusst",
+        "Es entsteht ausschließlich ein Nullpunktfehler ohne Einfluss auf den Messwert",
+        "Der Innenwiderstand eines Voltmeters hat grundsätzlich keinen Einfluss auf hochohmige Messkreise",
+        "Es entsteht ein Belastungsfehler, da das Messgerät selbst nennenswerten Strom aufnimmt und dadurch die zu messende Spannung verfälscht"
+      ],
+      "correct": 3,
+      "explanation": "Ein zu niedriger Innenwiderstand des Voltmeters führt zu einer Rückwirkung auf den Messkreis, da der zusätzliche Stromfluss über das Messgerät den Spannungsabfall an der Messstelle verändert.",
+      "difficulty": 3,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Messfehler"
+    },
+    {
+      "id": "tec-057",
+      "text": "Welche Normenreihe regelt in Deutschland grundlegend das Errichten von Niederspannungsanlagen?",
+      "options": [
+        "DIN VDE 0100 (Reihe)",
+        "DIN VDE 0105",
+        "DIN EN ISO 9001",
+        "DIN 31051"
+      ],
+      "correct": 0,
+      "explanation": "Die Normenreihe DIN VDE 0100 legt die grundlegenden Anforderungen an das Errichten von Niederspannungsanlagen fest.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Normen"
+    },
+    {
+      "id": "tec-058",
+      "text": "Welche Vorschrift der gesetzlichen Unfallversicherung regelt Prüfungen elektrischer Anlagen und Betriebsmittel?",
+      "options": [
+        "DGUV Vorschrift 1",
+        "DGUV Vorschrift 3",
+        "DIN EN 60529",
+        "DIN VDE 0105-100"
+      ],
+      "correct": 1,
+      "explanation": "DGUV Vorschrift 3 legt fest, dass elektrische Anlagen und Betriebsmittel vor Inbetriebnahme sowie in wiederkehrenden Abständen von einer Elektrofachkraft zu prüfen sind.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Vorschriften"
+    },
+    {
+      "id": "tec-059",
+      "text": "Welche der 5 Sicherheitsregeln steht an erster Stelle bei Arbeiten an elektrischen Anlagen?",
+      "options": [
+        "Gegen Wiedereinschalten sichern",
+        "Spannungsfreiheit feststellen",
+        "Freischalten",
+        "Erden und Kurzschließen"
+      ],
+      "correct": 2,
+      "explanation": "Die 5 Sicherheitsregeln beginnen mit dem Freischalten der Anlage, gefolgt von Sichern gegen Wiedereinschalten, Feststellen der Spannungsfreiheit, Erden und Kurzschließen sowie dem Abdecken benachbarter aktiver Teile.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "5 Sicherheitsregeln"
+    },
+    {
+      "id": "tec-060",
+      "text": "Welche der 5 Sicherheitsregeln folgt unmittelbar auf das Feststellen der Spannungsfreiheit?",
+      "options": [
+        "Freischalten",
+        "Gegen Wiedereinschalten sichern",
+        "Benachbarte aktive Teile abdecken oder abschranken",
+        "Erden und Kurzschließen"
+      ],
+      "correct": 3,
+      "explanation": "Nach dem Feststellen der Spannungsfreiheit folgt als vierte Regel das Erden und Kurzschließen der Anlage, bevor abschließend benachbarte aktive Teile abgedeckt werden.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "5 Sicherheitsregeln"
+    },
+    {
+      "id": "tec-061",
+      "text": "Was bedeutet die Schutzartkennzeichnung IP54 nach DIN EN 60529?",
+      "options": [
+        "Staubgeschützt sowie geschützt gegen Spritzwasser aus allen Richtungen",
+        "Vollständig staubdicht und geschützt gegen zeitweiliges Untertauchen",
+        "Geschützt nur gegen feste Fremdkörper größer 12 mm ohne Wasserschutz",
+        "Geschützt gegen Strahlwasser aus jeder Richtung"
+      ],
+      "correct": 0,
+      "explanation": "Die erste Kennziffer 5 steht für Staubgeschützt, die zweite Kennziffer 4 für Schutz gegen Spritzwasser aus allen Richtungen nach DIN EN 60529.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutzarten (IP-Code)"
+    },
+    {
+      "id": "tec-062",
+      "text": "Wofür steht die erste Kennziffer im IP-Code nach DIN EN 60529?",
+      "options": [
+        "Schutz gegen das Eindringen von Wasser",
+        "Schutz gegen das Eindringen von Fremdkörpern sowie Berührungsschutz",
+        "Schutz gegen mechanische Stöße",
+        "Schutz gegen elektromagnetische Störungen"
+      ],
+      "correct": 1,
+      "explanation": "Die erste Kennziffer des IP-Codes gibt den Grad des Schutzes gegen feste Fremdkörper und den Berührungsschutz an.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutzarten (IP-Code)"
+    },
+    {
+      "id": "tec-063",
+      "text": "Wofür steht die zweite Kennziffer im IP-Code nach DIN EN 60529?",
+      "options": [
+        "Schutz gegen das Eindringen von Fremdkörpern",
+        "Schutz gegen mechanische Beanspruchung",
+        "Schutz gegen das Eindringen von Wasser",
+        "Schutz gegen UV-Strahlung"
+      ],
+      "correct": 2,
+      "explanation": "Die zweite Kennziffer beschreibt den Schutzgrad eines Betriebsmittels gegen das Eindringen von Wasser in unterschiedlicher Intensität.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutzarten (IP-Code)"
+    },
+    {
+      "id": "tec-064",
+      "text": "Was kennzeichnet ein Betriebsmittel der Schutzklasse II?",
+      "options": [
+        "Eine Basisisolierung mit zwingendem Schutzleiteranschluss",
+        "Der Betrieb ausschließlich mit Schutzkleinspannung",
+        "Eine galvanische Trennung durch einen Trenntransformator",
+        "Schutzisolierung durch doppelte oder verstärkte Isolierung, ohne dass ein Schutzleiteranschluss erforderlich ist"
+      ],
+      "correct": 3,
+      "explanation": "Schutzklasse-II-Betriebsmittel besitzen eine doppelte oder verstärkte Isolierung und benötigen daher keinen Schutzleiter, erkennbar am Symbol des doppelten Quadrats.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutzklassen"
+    },
+    {
+      "id": "tec-065",
+      "text": "Was ist kennzeichnend für die Schutzklasse I?",
+      "options": [
+        "Eine Basisisolierung in Verbindung mit einem Schutzleiteranschluss der berührbaren leitfähigen Teile",
+        "Eine doppelte oder verstärkte Isolierung ohne Schutzleiter",
+        "Der ausschließliche Betrieb mit Funktionskleinspannung",
+        "Eine vollständige galvanische Trennung vom Netz"
+      ],
+      "correct": 0,
+      "explanation": "Bei Schutzklasse I werden berührbare leitfähige Teile über den Schutzleiter mit der Schutzerdung verbunden, um im Fehlerfall eine gefährliche Berührungsspannung zu vermeiden.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutzklassen"
+    },
+    {
+      "id": "tec-066",
+      "text": "Welchen Bemessungsdifferenzstrom besitzt ein RCD (Fehlerstromschutzschalter), der typischerweise dem Personenschutz dient?",
+      "options": [
+        "300 mA",
+        "30 mA",
+        "3 A",
+        "10 mA"
+      ],
+      "correct": 1,
+      "explanation": "Für den zusätzlichen Schutz von Personen gegen elektrischen Schlag ist nach DIN VDE 0100-410 in der Regel ein RCD mit einem Bemessungsdifferenzstrom von 30 mA vorgesehen.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "RCD/FI-Schutzschalter"
+    },
+    {
+      "id": "tec-067",
+      "text": "Nach welchem Funktionsprinzip arbeitet ein RCD (FI-Schutzschalter)?",
+      "options": [
+        "Er misst die Netzspannung und schaltet bei Unterspannung ab",
+        "Er überwacht die Netzfrequenz und schaltet bei Abweichung ab",
+        "Er erfasst über einen Summenstromwandler die Differenz zwischen hin- und rückfließendem Strom und löst bei Überschreiten eines Grenzwerts aus",
+        "Er misst ausschließlich den Isolationswiderstand der Anlage"
+      ],
+      "correct": 2,
+      "explanation": "Fließt ein Teil des Stroms über einen Fehlerpfad ab, entsteht im Summenstromwandler ein Differenzstrom, der bei Überschreiten des Bemessungswerts die Abschaltung auslöst.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "RCD/FI-Schutzschalter"
+    },
+    {
+      "id": "tec-068",
+      "text": "Welche Aussage zum Schutz durch automatische Abschaltung in TN-Systemen trifft zu?",
+      "options": [
+        "Der Fehlerstrom wird ausschließlich über den Erdwiderstand begrenzt, ohne dass eine Abschaltung erfolgt",
+        "Eine automatische Abschaltung ist im TN-System grundsätzlich nicht vorgesehen",
+        "Die Abschaltzeit spielt für den Personenschutz im TN-System keine Rolle",
+        "Im Fehlerfall entsteht ein hoher Kurzschlussstrom, der die vorgeschaltete Überstromschutzeinrichtung innerhalb der geforderten Abschaltzeit auslösen lässt"
+      ],
+      "correct": 3,
+      "explanation": "Im TN-System führt ein Körperschluss über den niederohmigen Fehlerstromkreis zu einem hohen Kurzschlussstrom, der die vorgeschaltete Schutzeinrichtung innerhalb der normativ geforderten Zeit zum Auslösen bringt.",
+      "difficulty": 3,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutzmaßnahmen"
+    },
+    {
+      "id": "tec-069",
+      "text": "Was versteht man unter dem Schutz gegen direktes Berühren (Basisschutz)?",
+      "options": [
+        "Maßnahmen, die im Normalbetrieb das Berühren aktiver, unter Betriebsspannung stehender Teile verhindern, zum Beispiel durch Isolierung oder Abdeckung",
+        "Maßnahmen, die ausschließlich im Fehlerfall wirksam werden",
+        "Maßnahmen, die nur den Schutz vor mechanischen Verletzungen betreffen",
+        "Maßnahmen zur Kompensation von Blindleistung"
+      ],
+      "correct": 0,
+      "explanation": "Der Basisschutz verhindert bereits im fehlerfreien Normalbetrieb, dass Personen aktive, spannungsführende Teile berühren können.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutzmaßnahmen"
+    },
+    {
+      "id": "tec-070",
+      "text": "Worin unterscheiden sich Basisschutz und Fehlerschutz grundlegend?",
+      "options": [
+        "Beide Begriffe bezeichnen denselben Schutzmechanismus",
+        "Basisschutz verhindert die Berührung aktiver Teile im Normalbetrieb, Fehlerschutz verhindert gefährliche Körperströme im Fehlerfall, etwa durch automatische Abschaltung",
+        "Fehlerschutz wirkt nur im Normalbetrieb, Basisschutz nur im Fehlerfall",
+        "Basisschutz ist ausschließlich für Schutzkleinspannung relevant"
+      ],
+      "correct": 1,
+      "explanation": "Während der Basisschutz Berührungen im fehlerfreien Betrieb ausschließt, greift der Fehlerschutz erst bei einem tatsächlich aufgetretenen Isolationsfehler.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutzmaßnahmen"
+    },
+    {
+      "id": "tec-071",
+      "text": "Welcher Grenzwert der Berührungsspannung gilt allgemein in trockenen Bereichen bei Wechselspannung als ungefährlich für den Menschen?",
+      "options": [
+        "25 V",
+        "120 V",
+        "50 V",
+        "230 V"
+      ],
+      "correct": 2,
+      "explanation": "Für Wechselspannung wird in trockenen Räumen üblicherweise 50 V als Grenze der zulässigen dauerhaften Berührungsspannung angesetzt, oberhalb derer Schutzmaßnahmen erforderlich sind.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Berührungsspannung"
+    },
+    {
+      "id": "tec-072",
+      "text": "Wie definiert DIN 31051 den Begriff Wartung?",
+      "options": [
+        "Maßnahmen zur Wiederherstellung des Sollzustands nach einem Ausfall",
+        "Maßnahmen zur Feststellung und Beurteilung des Istzustands",
+        "Maßnahmen zur konstruktiven Verbesserung der Anlage",
+        "Maßnahmen zur Bewahrung des Sollzustands, zum Beispiel Reinigung, Schmierung und Nachstellen"
+      ],
+      "correct": 3,
+      "explanation": "Wartung umfasst nach DIN 31051 alle Maßnahmen zur Verzögerung des Abbaus der Abnutzungsreserve, also zur Bewahrung des Sollzustands.",
+      "difficulty": 1,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "DIN 31051 Grundbegriffe"
+    },
+    {
+      "id": "tec-073",
+      "text": "Wie definiert DIN 31051 den Begriff Inspektion?",
+      "options": [
+        "Feststellen und Beurteilen des tatsächlichen Zustands einer Einheit einschließlich der Ursachen der Abnutzung",
+        "Maßnahmen zur Wiederherstellung des Sollzustands",
+        "Maßnahmen zur Bewahrung des Sollzustands",
+        "Maßnahmen zur Verbesserung der Zuverlässigkeit ohne Zustandsfeststellung"
+      ],
+      "correct": 0,
+      "explanation": "Die Inspektion dient der Ermittlung des Istzustands als Grundlage für die Beurteilung, ob weitere Instandhaltungsmaßnahmen erforderlich sind.",
+      "difficulty": 1,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "DIN 31051 Grundbegriffe"
+    },
+    {
+      "id": "tec-074",
+      "text": "Wie definiert DIN 31051 den Begriff Instandsetzung?",
+      "options": [
+        "Maßnahmen zur Feststellung des Istzustands",
+        "Maßnahmen zur Wiederherstellung des Sollzustands einer Einheit, etwa durch Reparatur oder Austausch defekter Teile",
+        "Maßnahmen zur Bewahrung des Sollzustands",
+        "Maßnahmen zur reinen Dokumentation von Störungen"
+      ],
+      "correct": 1,
+      "explanation": "Instandsetzung umfasst alle Maßnahmen, die nach einem Ausfall oder einer Abweichung den ursprünglichen Sollzustand einer Anlage wiederherstellen.",
+      "difficulty": 1,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "DIN 31051 Grundbegriffe"
+    },
+    {
+      "id": "tec-075",
+      "text": "Welcher Oberbegriff fasst nach DIN 31051 Wartung, Inspektion, Instandsetzung und Verbesserung zusammen?",
+      "options": [
+        "Qualitätssicherung",
+        "Prozessleittechnik",
+        "Instandhaltung",
+        "Arbeitssicherheit"
+      ],
+      "correct": 2,
+      "explanation": "DIN 31051 definiert Instandhaltung als Oberbegriff für alle Maßnahmen zur Bewahrung und Wiederherstellung des Sollzustands sowie zur Feststellung und Beurteilung des Istzustands.",
+      "difficulty": 1,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "DIN 31051 Grundbegriffe"
+    },
+    {
+      "id": "tec-076",
+      "text": "Was ist das Ziel der vorbeugenden (präventiven) Instandhaltung?",
+      "options": [
+        "Schäden erst nach Eintreten eines Ausfalls zu beheben",
+        "Ausschließlich die Dokumentation aufgetretener Störungen",
+        "Die Anlage bis zum vollständigen Ausfall ungeprüft weiterzubetreiben",
+        "Ausfälle durch planmäßige, zeit- oder nutzungsabhängige Maßnahmen zu vermeiden, bevor ein Schaden eintritt"
+      ],
+      "correct": 3,
+      "explanation": "Präventive Instandhaltung setzt auf feste Wartungsintervalle, um Verschleißschäden zu erkennen und zu beheben, bevor es zu einem ungeplanten Ausfall kommt.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Instandhaltungsstrategien"
+    },
+    {
+      "id": "tec-077",
+      "text": "Was kennzeichnet die zustandsorientierte (vorausschauende) Instandhaltung?",
+      "options": [
+        "Instandhaltungsmaßnahmen werden anhand des tatsächlich gemessenen und überwachten Anlagenzustands ausgelöst",
+        "Instandhaltung erfolgt ausschließlich nach festen Kalenderintervallen unabhängig vom Zustand",
+        "Instandhaltung erfolgt erst nach einem vollständigen Anlagenausfall",
+        "Instandhaltung wird ausschließlich durch den Hersteller festgelegt, ohne Messdaten der Anlage"
+      ],
+      "correct": 0,
+      "explanation": "Bei der zustandsorientierten Instandhaltung werden Kenngrößen wie Schwingung, Temperatur oder Isolationswiderstand kontinuierlich überwacht, um den optimalen Zeitpunkt für Maßnahmen zu bestimmen.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Instandhaltungsstrategien"
+    },
+    {
+      "id": "tec-078",
+      "text": "Welcher Nachteil ist typisch für eine rein ausfallbedingte (reaktive) Instandhaltung?",
+      "options": [
+        "Ein unnötig hoher Aufwand durch zu häufige planmäßige Wartungen",
+        "Ungeplante Stillstände und mögliche Folgeschäden durch spät erkannte Fehler, verbunden mit höheren Kosten durch Produktionsausfall",
+        "Eine Überdimensionierung der Ersatzteillagerhaltung",
+        "Ein Verzicht auf jegliche Fehlerdiagnose bei Störungen"
+      ],
+      "correct": 1,
+      "explanation": "Da bei der reaktiven Instandhaltung erst nach Eintreten eines Fehlers reagiert wird, entstehen häufig ungeplante Ausfallzeiten mit entsprechenden wirtschaftlichen Folgen.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Instandhaltungsstrategien"
+    },
+    {
+      "id": "tec-079",
+      "text": "Welche Methode wird häufig zur zerstörungsfreien Fehlerdiagnose an elektrischen Kontakten und Antrieben eingesetzt?",
+      "options": [
+        "Isolationswiderstandsmessung zur Erkennung von Übertemperaturen",
+        "Schwingungsmessung ausschließlich zur Spannungsprüfung",
+        "Thermografie (Infrarot-Temperaturmessung) zur Erkennung von Übergangswiderständen und Erwärmungen",
+        "Drehmomentmessung zur Erkennung von Isolationsfehlern"
+      ],
+      "correct": 2,
+      "explanation": "Mit einer Wärmebildkamera lassen sich erhöhte Kontaktübergangswiderstände oder überlastete Bauteile anhand ihrer Temperaturerhöhung frühzeitig und berührungslos erkennen.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Fehlerdiagnose"
+    },
+    {
+      "id": "tec-080",
+      "text": "Was kann eine Isolationswiderstandsmessung an einer elektrischen Anlage aufdecken?",
+      "options": [
+        "Ausschließlich Überlastungen des Motors im Betrieb",
+        "Ausschließlich Abweichungen der Netzfrequenz",
+        "Ausschließlich mechanischen Verschleiß von Lagern",
+        "Eine Verschlechterung der Isolationseigenschaften, Feuchtigkeit oder beginnende Isolationsschäden"
+      ],
+      "correct": 3,
+      "explanation": "Ein sinkender Isolationswiderstand deutet auf Feuchtigkeit, Verschmutzung oder eine fortschreitende Materialalterung der Isolierung hin und kann so frühzeitig auf drohende Fehler hinweisen.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Fehlerdiagnose"
+    },
+    {
+      "id": "tec-081",
+      "text": "Welche Prüfung ist nach DGUV Vorschrift 3 vor der Wiederinbetriebnahme eines instandgesetzten elektrischen Betriebsmittels erforderlich?",
+      "options": [
+        "Eine Prüfung auf ordnungsgemäßen Zustand, unter anderem Schutzleiterprüfung, Isolationswiderstand und Funktionsprüfung",
+        "Ausschließlich eine Sichtprüfung ohne Messungen",
+        "Eine ausschließlich einmal jährlich durchzuführende Prüfung, unabhängig von Instandsetzungen",
+        "Eine Prüfung, die nur bei ortsveränderlichen Betriebsmitteln erforderlich ist"
+      ],
+      "correct": 0,
+      "explanation": "Nach Instandsetzung ist vor der Wiederinbetriebnahme eine Prüfung erforderlich, die unter anderem Schutzleiterwiderstand, Isolationswiderstand und Funktion umfasst, um die Sicherheit zu gewährleisten.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Prüfungen nach Instandsetzung"
+    },
+    {
+      "id": "tec-082",
+      "text": "Welche Kennzahl beschreibt üblicherweise die mittlere Zeit zwischen zwei Ausfällen einer Anlage?",
+      "options": [
+        "MTTR (Mean Time To Repair)",
+        "MTBF (Mean Time Between Failures)",
+        "OEE (Overall Equipment Effectiveness)",
+        "MTTF (Mean Time To Failure) bei reparierbaren Systemen ohne Wiederholung"
+      ],
+      "correct": 1,
+      "explanation": "Die MTBF gibt den mittleren zeitlichen Abstand zwischen zwei aufeinanderfolgenden Ausfällen eines reparierbaren Systems an und ist eine zentrale Kenngröße der Instandhaltung.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Instandhaltungskennzahlen"
+    },
+    {
+      "id": "tec-083",
+      "text": "Welche Kennzahl beschreibt die mittlere Dauer einer Reparatur beziehungsweise Instandsetzung?",
+      "options": [
+        "MTBF (Mean Time Between Failures)",
+        "OEE (Overall Equipment Effectiveness)",
+        "MTTR (Mean Time To Repair)",
+        "KVP (Kontinuierlicher Verbesserungsprozess)"
+      ],
+      "correct": 2,
+      "explanation": "MTTR beschreibt die durchschnittliche Zeitspanne, die von der Fehlererkennung bis zur erfolgreichen Wiederinbetriebnahme benötigt wird.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Instandhaltungskennzahlen"
+    },
+    {
+      "id": "tec-084",
+      "text": "Wie wirkt sich eine konsequent umgesetzte vorausschauende Instandhaltung typischerweise auf die Anlagenverfügbarkeit aus?",
+      "options": [
+        "Die Verfügbarkeit sinkt durch zusätzliche Überwachungsaufwände",
+        "Die Verfügbarkeit bleibt unabhängig von der Instandhaltungsstrategie stets konstant",
+        "Die Verfügbarkeit hängt ausschließlich vom Alter der Anlage ab",
+        "Die Verfügbarkeit steigt, da Fehler frühzeitig erkannt und Maßnahmen geplant durchgeführt werden können"
+      ],
+      "correct": 3,
+      "explanation": "Durch frühzeitiges Erkennen sich anbahnender Fehler mittels Zustandsüberwachung lassen sich ungeplante Stillstände vermeiden und geplante Instandsetzungen effizient terminieren.",
+      "difficulty": 3,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Instandhaltungsstrategien"
+    },
+    {
+      "id": "tec-085",
+      "text": "Welche systematische Vorgehensweise wird bei der Fehlerdiagnose einer Störung an einer elektrischen Anlage empfohlen?",
+      "options": [
+        "Fehlerbeschreibung, Eingrenzung des Fehlerbereichs, gezielte Messung und Prüfung, Ursachenanalyse und anschließende gezielte Fehlerbeseitigung",
+        "Sofortiger Austausch aller Bauteile der betroffenen Anlage ohne vorherige Eingrenzung",
+        "Ausschließliches Zurücksetzen der Steuerung ohne weitere Fehlersuche",
+        "Alleinige Befragung des Anlagenbedieners ohne Messungen"
+      ],
+      "correct": 0,
+      "explanation": "Eine strukturierte Fehlersuche beginnt mit der genauen Beschreibung der Störung, grenzt den Fehlerbereich systematisch ein und führt über gezielte Messungen zur Ursache und ihrer Beseitigung.",
+      "difficulty": 3,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Fehlerdiagnose"
+    },
+    {
+      "id": "tec-086",
+      "text": "Was bezeichnet der Begriff Industrie 4.0?",
+      "options": [
+        "Die vierte Generation mechanischer Werkzeugmaschinen ohne Elektronik",
+        "Die Vernetzung von Produktionsanlagen, Produkten und IT-Systemen zu intelligenten, sich selbst organisierenden Wertschöpfungsketten",
+        "Die ausschließliche Automatisierung der Buchhaltung in Industriebetrieben",
+        "Die vierte Revision der DIN VDE 0100"
+      ],
+      "correct": 1,
+      "explanation": "Industrie 4.0 beschreibt die vierte industrielle Revolution, geprägt durch die durchgängige Vernetzung von Maschinen, Produkten und IT-Systemen entlang der gesamten Wertschöpfungskette.",
+      "difficulty": 1,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Industrie 4.0"
+    },
+    {
+      "id": "tec-087",
+      "text": "Was versteht man unter einem Cyber-Physischen System (CPS)?",
+      "options": [
+        "Ein rein mechanisches System ohne elektronische Steuerung",
+        "Ein ausschließlich in der IT-Sicherheit eingesetztes Verschlüsselungsverfahren",
+        "Einen Verbund aus mechanischen und elektronischen Komponenten mit eingebetteter Software, der über eine Infrastruktur wie das Internet Daten austauscht",
+        "Ein Prozessleitsystem ohne Sensorik"
+      ],
+      "correct": 2,
+      "explanation": "Cyber-physische Systeme verbinden physische Komponenten mit eingebetteter Software und Kommunikationsfähigkeit, wodurch sie Daten erfassen, austauschen und selbstständig reagieren können.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Industrie 4.0"
+    },
+    {
+      "id": "tec-088",
+      "text": "Welche grundlegende Funktion erfüllt ein Feldbus in der Automatisierungstechnik?",
+      "options": [
+        "Bereitstellung der Netzspannung für Feldgeräte ohne Datenaustausch",
+        "Ausschließliche Übertragung von Videobildern in der Produktion",
+        "Speicherung von Konstruktionsdaten in der Cloud",
+        "Digitale Vernetzung von Sensoren, Aktoren und Steuerungen zur Übertragung von Prozessdaten über eine gemeinsame Leitung"
+      ],
+      "correct": 3,
+      "explanation": "Feldbusse ersetzen die aufwendige Einzelverdrahtung durch eine gemeinsame digitale Kommunikationsleitung, über die Sensoren, Aktoren und Steuerungen Daten austauschen.",
+      "difficulty": 1,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Feldbussysteme"
+    },
+    {
+      "id": "tec-089",
+      "text": "Welchen wesentlichen Vorteil bietet Profinet gegenüber klassischen Feldbussystemen wie Profibus?",
+      "options": [
+        "Die Nutzung von Standard-Ethernet-Technologie mit höheren Übertragungsraten und einfacherer Integration in IT-Netzwerke",
+        "Der vollständige Verzicht auf jegliche Verkabelung",
+        "Eine grundsätzlich geringere erreichbare Datenübertragungsrate",
+        "Die ausschließliche Nutzung analoger Signalübertragung"
+      ],
+      "correct": 0,
+      "explanation": "Profinet basiert auf Industrial Ethernet und ermöglicht dadurch höhere Datenraten sowie eine engere Verzahnung von Feldebene und übergeordneter IT-Infrastruktur als klassische serielle Feldbusse.",
+      "difficulty": 3,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Feldbussysteme"
+    },
+    {
+      "id": "tec-090",
+      "text": "Welche Rolle spielt Profibus DP in der Automatisierungstechnik?",
+      "options": [
+        "Er dient ausschließlich der Übertragung von Sprachsignalen",
+        "Er ermöglicht die schnelle Kommunikation zwischen einer Steuerung und dezentraler Peripherie wie Sensoren und Aktoren",
+        "Er ersetzt die Funktion eines Prozessleitsystems vollständig",
+        "Er wird ausschließlich in Bürocomputernetzwerken eingesetzt"
+      ],
+      "correct": 1,
+      "explanation": "Profibus DP (Dezentrale Peripherie) wurde speziell für die schnelle zyklische Kommunikation zwischen Steuerung und dezentralen Ein-/Ausgabebaugruppen entwickelt.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Feldbussysteme"
+    },
+    {
+      "id": "tec-091",
+      "text": "Welche Aufgabe hat ein Prozessleitsystem (PLS)?",
+      "options": [
+        "Ausschließliche Erfassung von Personalzeiten in der Produktion",
+        "Ausschließliche Speicherung von CAD-Konstruktionsdaten",
+        "Zentrale Überwachung, Steuerung und Visualisierung komplexer verfahrenstechnischer oder industrieller Prozesse",
+        "Reine Rechnungsstellung an Kunden auf Basis der Produktionsdaten"
+      ],
+      "correct": 2,
+      "explanation": "Prozessleitsysteme fassen Messwerte, Steuerbefehle und Visualisierung großer Anlagen zentral zusammen und ermöglichen dem Bedienpersonal die Überwachung und Führung des Gesamtprozesses.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Prozessleittechnik"
+    },
+    {
+      "id": "tec-092",
+      "text": "Wofür steht die Abkürzung SCADA?",
+      "options": [
+        "Standardized Control and Design Application",
+        "System for Cabling and Device Assignment",
+        "Secure Communication and Data Access",
+        "Supervisory Control and Data Acquisition – Überwachung und Steuerung von Prozessen mit Datenerfassung"
+      ],
+      "correct": 3,
+      "explanation": "SCADA-Systeme dienen der Fernüberwachung und -steuerung räumlich verteilter technischer Prozesse sowie der zentralen Erfassung der zugehörigen Prozessdaten.",
+      "difficulty": 1,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Prozessleittechnik"
+    },
+    {
+      "id": "tec-093",
+      "text": "Welche Aufgabe übernimmt ein MES (Manufacturing Execution System) zwischen Produktionsebene und ERP-Ebene?",
+      "options": [
+        "Steuerung, Erfassung und Auswertung von Produktionsdaten in Echtzeit zur Verbindung von Fertigung und Unternehmensplanung",
+        "Ausschließliche Verwaltung der Personalabrechnung",
+        "Ausschließliche Erstellung von CAD-Konstruktionszeichnungen",
+        "Ausschließliche Absicherung der Netzwerksicherheit ohne Produktionsbezug"
+      ],
+      "correct": 0,
+      "explanation": "Ein MES bildet die Schnittstelle zwischen der Feld- und Steuerungsebene und der übergeordneten Unternehmensplanung (ERP), indem es Fertigungsdaten in Echtzeit erfasst und aufbereitet.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Prozessleittechnik"
+    },
+    {
+      "id": "tec-094",
+      "text": "Was versteht man unter einem digitalen Zwilling (Digital Twin)?",
+      "options": [
+        "Eine physische Ersatzanlage für Wartungszwecke",
+        "Ein virtuelles, datenbasiertes Abbild einer realen Anlage oder eines Produkts zur Simulation, Analyse und Optimierung",
+        "Eine zweite, redundante Netzwerkverkabelung",
+        "Ein zweites, baugleiches Steuerungsprogramm ohne Verbindung zur realen Anlage"
+      ],
+      "correct": 1,
+      "explanation": "Der digitale Zwilling bildet den realen Zustand einer Anlage oder eines Produkts virtuell ab und ermöglicht so Simulationen, Analysen und vorausschauende Optimierungen ohne Eingriff in das reale System.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Digitalisierung"
+    },
+    {
+      "id": "tec-095",
+      "text": "Welche typischen Vorteile bietet die Vernetzung von Maschinen im Sinne von Industrie 4.0?",
+      "options": [
+        "Ausschließlich eine Reduzierung der Investitionskosten ohne weiteren Nutzen",
+        "Einen vollständigen Verzicht auf jegliche Instandhaltung",
+        "Durchgängiger Datenaustausch ermöglicht vorausschauende Wartung, flexible Fertigung und schnellere Reaktion auf Störungen",
+        "Eine grundsätzliche Vereinfachung der Anlagenmechanik"
+      ],
+      "correct": 2,
+      "explanation": "Vernetzte Maschinen liefern kontinuierlich Prozess- und Zustandsdaten, die für vorausschauende Instandhaltung, flexible Produktionsanpassungen und schnellere Störungsreaktionen genutzt werden können.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Industrie 4.0"
+    },
+    {
+      "id": "tec-096",
+      "text": "Wie ist die klassische Automatisierungspyramide grundsätzlich aufgebaut?",
+      "options": [
+        "Eine rein flache Struktur ohne hierarchische Ebenen",
+        "Eine Gliederung ausschließlich nach geografischen Standorten",
+        "Eine Gliederung ausschließlich nach Personalabteilungen",
+        "Hierarchische Gliederung von der Feldebene über Steuerungs- und Prozessleitebene bis zur Unternehmensebene (ERP)"
+      ],
+      "correct": 3,
+      "explanation": "Die Automatisierungspyramide ordnet die Informationsverarbeitung eines Industriebetriebs von der Feldebene über Steuerungs-, Prozessleit- und Betriebsleitebene bis zur Unternehmensebene hierarchisch an.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Automatisierungspyramide"
+    },
+    {
+      "id": "tec-097",
+      "text": "Welche besondere Anforderung stellt die zunehmende Vernetzung industrieller Anlagen im Rahmen von Industrie 4.0 an die IT-Sicherheit?",
+      "options": [
+        "Der Schutz vor unbefugtem Zugriff und Manipulation (Cyber-Security) wird zu einer zentralen Anforderung, da Anlagen zunehmend mit externen Netzwerken verbunden sind",
+        "IT-Sicherheit spielt bei vernetzten Produktionsanlagen praktisch keine Rolle",
+        "Vernetzte Anlagen benötigen grundsätzlich keine Firewall-Systeme",
+        "Die Anforderungen an die IT-Sicherheit sinken durch die Vernetzung"
+      ],
+      "correct": 0,
+      "explanation": "Mit zunehmender Vernetzung und Anbindung an IT-Netzwerke steigt das Risiko unbefugter Zugriffe erheblich, weshalb Cyber-Security-Konzepte ein integraler Bestandteil moderner Automatisierungslösungen sein müssen.",
+      "difficulty": 3,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Industrie 4.0 / IT-Sicherheit"
+    },
+    {
+      "id": "tec-098",
+      "text": "Was versteht man unter OPC UA im Kontext der Automatisierungstechnik?",
+      "options": [
+        "Ein rein mechanisches Kupplungssystem für Antriebswellen",
+        "Einen herstellerunabhängigen, plattformneutralen Kommunikationsstandard für den sicheren Datenaustausch zwischen Maschinen und Systemen",
+        "Eine Vorschrift zur Prüfung ortsveränderlicher Betriebsmittel",
+        "Ein ausschließlich analoges Übertragungsprotokoll für Sensordaten"
+      ],
+      "correct": 1,
+      "explanation": "OPC UA (Open Platform Communications Unified Architecture) ermöglicht den herstellerübergreifenden, sicheren Datenaustausch zwischen unterschiedlichen Steuerungs- und IT-Systemen in vernetzten Produktionsanlagen.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Kommunikationsstandards"
+    },
+    {
+      "id": "tec-099",
+      "text": "Worin unterscheidet sich vernetzte Produktion im Sinne von Industrie 4.0 grundlegend von klassischer, starr programmierter Produktion?",
+      "options": [
+        "Beide Produktionsformen unterscheiden sich ausschließlich in der eingesetzten Antriebstechnik",
+        "Vernetzte Produktion verzichtet grundsätzlich auf jegliche Steuerungstechnik",
+        "In vernetzter Produktion kommunizieren Maschinen, Werkstücke und Systeme selbstständig miteinander und passen Abläufe dynamisch an, während klassische Produktion starren, vorprogrammierten Abläufen folgt",
+        "Klassische Produktion ist grundsätzlich flexibler als vernetzte Produktion"
+      ],
+      "correct": 2,
+      "explanation": "Der wesentliche Unterschied liegt in der Fähigkeit vernetzter Systeme, Informationen selbstständig auszutauschen und darauf basierend Produktionsabläufe flexibel anzupassen, statt starren, fest programmierten Sequenzen zu folgen.",
+      "difficulty": 3,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Industrie 4.0"
+    },
+    {
+      "id": "tec-100",
+      "text": "Welche Rolle spielt die Big-Data-Analyse im Rahmen der vorausschauenden Instandhaltung (Predictive Maintenance) in der Automatisierungstechnik?",
+      "options": [
+        "Ausschließliche Archivierung von Daten ohne weitere Auswertung",
+        "Ersatz jeglicher Sensorik durch reine Datenschätzung",
+        "Ausschließliche Nutzung zur Optimierung der Buchhaltung",
+        "Auswertung großer Mengen an Sensor- und Prozessdaten, um Muster zu erkennen und drohende Ausfälle vorherzusagen, bevor sie eintreten"
+      ],
+      "correct": 3,
+      "explanation": "Predictive Maintenance nutzt die Analyse großer, kontinuierlich erfasster Sensordatenmengen, um typische Verschleiß- und Störungsmuster frühzeitig zu erkennen und Instandhaltungsmaßnahmen vorausschauend zu planen.",
+      "difficulty": 3,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Predictive Maintenance"
+    },
+    {
+      "id": "tec-101",
+      "text": "Welchen wesentlichen Vorteil bieten Freileitungen gegenüber Erdkabeln bei der Übertragung elektrischer Energie über große Entfernungen im Hochspannungsbereich?",
+      "options": [
+        "Höhere Betriebssicherheit bei Sturm und Eisregen",
+        "Bessere Unempfindlichkeit gegenüber Witterungseinflüssen",
+        "Geringere Investitions- und Wartungskosten bei gleicher Übertragungsleistung",
+        "Geringerer Platzbedarf im Gelände"
+      ],
+      "correct": 2,
+      "explanation": "Freileitungen sind bei gleicher Übertragungsleistung deutlich kostengünstiger in Bau und Instandhaltung als Erdkabel, da Isolierung, Grabenbau und Verlegung entfallen; dafür sind sie witterungsanfälliger und optisch auffälliger.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Freileitungen und Kabel"
+    },
+    {
+      "id": "tec-102",
+      "text": "Wie verhalten sich in einer symmetrisch belasteten Sternschaltung eines Drehstromnetzes Außenleiterstrom und Strangstrom zueinander?",
+      "options": [
+        "Außenleiterstrom ist das √3-fache des Strangstroms",
+        "Außenleiterstrom ist gleich dem Strangstrom",
+        "Außenleiterstrom ist das Dreifache des Strangstroms",
+        "Außenleiterstrom ist der Strangstrom geteilt durch √3"
+      ],
+      "correct": 1,
+      "explanation": "In Sternschaltung fließt der gesamte Außenleiterstrom auch durch den jeweiligen Wicklungsstrang; beide Ströme sind daher betragsgleich, während sich die Spannungen um den Faktor √3 unterscheiden.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Stern- und Dreieckschaltung"
+    },
+    {
+      "id": "tec-103",
+      "text": "Wie verhalten sich bei einer symmetrisch belasteten Dreieckschaltung Außenleiterstrom und Strangstrom zueinander?",
+      "options": [
+        "Außenleiterstrom ist gleich dem Strangstrom",
+        "Außenleiterstrom entspricht der doppelten Strangspannung",
+        "Außenleiterstrom ist ein Drittel des Strangstroms",
+        "Außenleiterstrom ist das √3-fache des Strangstroms"
+      ],
+      "correct": 3,
+      "explanation": "In Dreieckschaltung entspricht die Strangspannung der Außenleiterspannung, der Außenleiterstrom ergibt sich jedoch als √3-faches des jeweiligen Strangstroms.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Stern- und Dreieckschaltung"
+    },
+    {
+      "id": "tec-104",
+      "text": "Mit welcher Formel wird die Wirkleistung eines symmetrisch belasteten Drehstromverbrauchers aus Außenleiterspannung U und Außenleiterstrom I berechnet?",
+      "options": [
+        "P = U · I",
+        "P = √3 · U · I · cos φ",
+        "P = 3 · U · I",
+        "P = U · I · sin φ"
+      ],
+      "correct": 1,
+      "explanation": "Die Wirkleistung eines symmetrischen Drehstromverbrauchers berechnet sich aus den verketteten Größen als P = √3 · U · I · cos φ, wobei U und I die Außenleitergrößen sind.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Leistungsberechnung Drehstrom"
+    },
+    {
+      "id": "tec-105",
+      "text": "Was versteht man unter der Betriebserdung einer elektrischen Anlage?",
+      "options": [
+        "Die Erdung berührbarer leitfähiger Gehäuseteile zum Personenschutz",
+        "Die Erdung eines Punktes des Betriebsstromkreises, zum Beispiel des Sternpunkts eines Transformators, zur Sicherstellung des ordnungsgemäßen Betriebs",
+        "Die Verbindung aller Schutzleiter mit dem Hauptpotentialausgleich",
+        "Die Erdung von Blitzschutzanlagen an Gebäuden"
+      ],
+      "correct": 1,
+      "explanation": "Die Betriebserdung dient dazu, einen Punkt des aktiven Betriebsstromkreises – meist den Sternpunkt – zu erden, um definierte Spannungsverhältnisse und einen ordnungsgemäßen Netzbetrieb sicherzustellen; sie ist von der Schutzerdung zu unterscheiden.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Erdung"
+    },
+    {
+      "id": "tec-106",
+      "text": "Was beschreibt die Kurzschlussleistung an einem Netzanschlusspunkt?",
+      "options": [
+        "Die maximal zulässige Dauerleistung des Netzes im Normalbetrieb",
+        "Die Nennleistung des größten am Punkt angeschlossenen Verbrauchers",
+        "Die theoretische Scheinleistung, die bei einem satten dreipoligen Kurzschluss an diesem Punkt umgesetzt würde",
+        "Die im Netz umlaufende Blindleistung im Leerlauf"
+      ],
+      "correct": 2,
+      "explanation": "Die Kurzschlussleistung ist eine rechnerische Kenngröße, die angibt, welche Scheinleistung bei einem satten Kurzschluss an diesem Netzpunkt fließen würde; sie ist wichtig für die Dimensionierung von Schutz- und Schaltgeräten.",
+      "difficulty": 3,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Netzkenngrößen"
+    },
+    {
+      "id": "tec-107",
+      "text": "Was gibt die Schaltgruppenbezeichnung eines Drehstromtransformators, zum Beispiel Dyn5, an?",
+      "options": [
+        "Ausschließlich das Übersetzungsverhältnis der Spannungen",
+        "Die Wicklungsschaltung von Ober- und Unterspannungsseite sowie die Phasenverschiebung zwischen Ober- und Unterspannung in Vielfachen von 30 Grad",
+        "Ausschließlich die Bemessungsleistung des Transformators",
+        "Ausschließlich den Wirkungsgrad des Transformators"
+      ],
+      "correct": 1,
+      "explanation": "Die Schaltgruppe beschreibt, wie Ober- und Unterspannungswicklung geschaltet sind (z. B. D für Dreieck, y für Stern) und über die Kennzahl die Phasenverschiebung zwischen den entsprechenden Spannungen in Schritten von 30 Grad.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Transformator-Schaltgruppen"
+    },
+    {
+      "id": "tec-108",
+      "text": "Was beschreibt die relative Kurzschlussspannung uk eines Transformators?",
+      "options": [
+        "Die Spannung, die im Leerlauf an der Unterspannungsseite anliegt",
+        "Den rein ohmschen Spannungsabfall der Primärwicklung im Leerlauf",
+        "Die Spannung, auf die bei kurzgeschlossener Sekundärseite die Primärseite zu speisen ist, damit der Bemessungsstrom fließt, bezogen auf die Bemessungsspannung",
+        "Die maximale Überspannung, die im Fehlerfall auftreten kann"
+      ],
+      "correct": 2,
+      "explanation": "Die relative Kurzschlussspannung uk gibt an, welcher Anteil der Bemessungsspannung im Kurzschlussversuch aufgebracht werden muss, damit auf der Sekundärseite bei Kurzschluss der Bemessungsstrom fließt; sie kennzeichnet die innere Impedanz des Transformators.",
+      "difficulty": 3,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Transformatorkenngrößen"
+    },
+    {
+      "id": "tec-109",
+      "text": "Worin unterscheidet sich die Einzelkompensation von der Zentralkompensation der Blindleistung in einer Betriebsanlage?",
+      "options": [
+        "Die Einzelkompensation ist nur in Mittelspannungsnetzen zulässig",
+        "Beide Verfahren sind technisch und schaltungstechnisch identisch",
+        "Die Zentralkompensation kompensiert ausschließlich kapazitive Lasten",
+        "Bei der Einzelkompensation wird jedem induktiven Verbraucher ein eigener Kondensator direkt zugeordnet, bei der Zentralkompensation erfolgt die Kompensation gebündelt an einer zentralen Stelle der Anlage"
+      ],
+      "correct": 3,
+      "explanation": "Bei der Einzelkompensation erhält jeder größere induktive Verbraucher einen eigenen, fest zugeordneten Kondensator, während bei der Zentralkompensation ein gemeinsamer, meist geregelter Kondensatorpark an zentraler Stelle, z. B. an der Hauptverteilung, eingesetzt wird.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Blindleistungskompensation"
+    },
+    {
+      "id": "tec-110",
+      "text": "Wodurch entstehen überwiegend Oberschwingungen in elektrischen Verteilnetzen?",
+      "options": [
+        "Durch rein ohmsche Verbraucher wie klassische Heizwiderstände",
+        "Durch besonders lange Freileitungsabschnitte",
+        "Durch nichtlineare Verbraucher wie Frequenzumrichter, Schaltnetzteile oder Gleichrichter",
+        "Durch Transformatoren, die ausschließlich im Leerlauf betrieben werden"
+      ],
+      "correct": 2,
+      "explanation": "Oberschwingungen entstehen hauptsächlich durch nichtlineare Verbraucher, die den Strom nicht sinusförmig aus dem Netz entnehmen, etwa Frequenzumrichter, Schaltnetzteile und Gleichrichterschaltungen.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Netzrückwirkungen"
+    },
+    {
+      "id": "tec-111",
+      "text": "Wovon hängt der Durchhang eines Freileitungsseils zwischen zwei Masten maßgeblich ab?",
+      "options": [
+        "Ausschließlich vom Leiterquerschnitt des Seils",
+        "Von der mechanischen Zugspannung, dem Eigengewicht des Seils sowie Temperatur und Zusatzlasten wie Wind und Eis",
+        "Nur von der übertragenen elektrischen Leistung",
+        "Von der Netzfrequenz"
+      ],
+      "correct": 1,
+      "explanation": "Der Durchhang eines Freileitungsseils wird durch mechanische Faktoren bestimmt: Zugspannung, Eigengewicht, Spannweite sowie temperatur- und witterungsbedingte Zusatzlasten wie Wind- und Eisansatz.",
+      "difficulty": 2,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Freileitungsbau"
+    },
+    {
+      "id": "tec-112",
+      "text": "Wofür steht die Kabelbezeichnung NYY nach den einschlägigen Bezeichnungsschlüsseln für Starkstromkabel?",
+      "options": [
+        "Ein Kabel ausschließlich für den Einsatz in explosionsgefährdeten Bereichen",
+        "Ein Aluminiumkabel mit Bleimantel für den Bergbau",
+        "Ein Kupferkabel mit PVC-Isolierung und PVC-Mantel ohne Bewehrung, geeignet für feste Verlegung in Erde oder im Freien",
+        "Ein geschirmtes Datenübertragungskabel"
+      ],
+      "correct": 2,
+      "explanation": "NYY bezeichnet ein Starkstromkabel mit Kupferleitern, PVC-Aderisolierung und PVC-Außenmantel ohne zusätzliche Bewehrung; es eignet sich für feste Verlegung, unter anderem direkt im Erdreich.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Kabeltypen"
+    },
+    {
+      "id": "tec-113",
+      "text": "Eine Leitung weist bei Nennlast einen Spannungsfall von 3 Prozent auf. Was bedeutet dieser Wert für den Betrieb?",
+      "options": [
+        "Die Leitung ist überlastet und muss sofort abgeschaltet werden",
+        "Die Netzfrequenz sinkt um 3 Prozent",
+        "Der Leiterquerschnitt ist um 3 Prozent zu groß dimensioniert",
+        "Die Spannung am Verbraucherende liegt um 3 Prozent unter der Spannung am Einspeisepunkt"
+      ],
+      "correct": 3,
+      "explanation": "Der Spannungsfall gibt den prozentualen Spannungsverlust zwischen Einspeisung und Verbraucher an; bei 3 Prozent liegt die Spannung am Verbraucher entsprechend niedriger als am Einspeisepunkt.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Spannungsfall"
+    },
+    {
+      "id": "tec-114",
+      "text": "Welche Hauptaufgabe hat ein Leistungsschalter in einer Mittelspannungsschaltanlage?",
+      "options": [
+        "Das sichere Schalten von Betriebsströmen sowie das selbsttätige Abschalten von Kurzschlussströmen im Fehlerfall",
+        "Ausschließlich die Messung von Strom und Spannung",
+        "Die galvanische Trennung einer Anlage ohne jegliches Schaltvermögen unter Last",
+        "Ausschließlich die optische Anzeige des Schaltzustands"
+      ],
+      "correct": 0,
+      "explanation": "Ein Leistungsschalter kann sowohl Betriebsströme im Normalbetrieb schalten als auch im Fehlerfall hohe Kurzschlussströme sicher abschalten, was ihn von einem reinen Trennschalter unterscheidet.",
+      "difficulty": 1,
+      "topic": "Energietechnik & Energieverteilung",
+      "subtopic": "Schaltanlagentechnik"
+    },
+    {
+      "id": "tec-115",
+      "text": "Welche Bauteile sind bei einem klassischen Gleichstrommotor mit Kommutator vorrangig für die Stromwendung im Anker verantwortlich?",
+      "options": [
+        "Kommutator (Kollektor) und Kohlebürsten",
+        "Ständerwicklung und Blechpaket",
+        "Schleifringe und Bürstenbrücke",
+        "Frequenzumrichter mit Zwischenkreis"
+      ],
+      "correct": 0,
+      "explanation": "Beim klassischen Gleichstrommotor sorgt der Kommutator zusammen mit den auf ihm schleifenden Kohlebürsten dafür, dass der Strom in den Ankerspulen im richtigen Moment umgepolt wird, sodass ein gleichgerichtetes Drehmoment entsteht.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Gleichstrommaschine"
+    },
+    {
+      "id": "tec-116",
+      "text": "Welche charakteristische Eigenschaft besitzt ein Gleichstrom-Reihenschlussmotor?",
+      "options": [
+        "Eine nahezu konstante Drehzahl unabhängig von der mechanischen Last",
+        "Ein sehr hohes Anlaufmoment, verbunden mit der Gefahr des gefährlichen Durchgehens bei starker Entlastung",
+        "Er kann grundsätzlich nur im Generatorbetrieb arbeiten",
+        "Er benötigt keinerlei Erregerwicklung"
+      ],
+      "correct": 1,
+      "explanation": "Beim Reihenschlussmotor sind Anker- und Erregerwicklung in Reihe geschaltet, wodurch ein hohes Anlaufmoment entsteht; bei starker Entlastung sinkt jedoch die Erregung mit dem Strom, sodass die Drehzahl gefährlich ansteigen kann.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Gleichstrommaschine"
+    },
+    {
+      "id": "tec-117",
+      "text": "Wodurch zeichnet sich ein Gleichstrom-Doppelschlussmotor (Compoundmotor) gegenüber Reihenschluss- und Nebenschlussmotor aus?",
+      "options": [
+        "Er besitzt sowohl eine Reihenschluss- als auch eine Nebenschlusswicklung und vereint dadurch Eigenschaften beider Bauarten",
+        "Er hat grundsätzlich keine Erregerwicklung",
+        "Er wird ausschließlich mit Drehstrom betrieben",
+        "Er kann grundsätzlich nicht in seiner Drehrichtung umgekehrt werden"
+      ],
+      "correct": 0,
+      "explanation": "Der Doppelschlussmotor kombiniert eine Reihenschluss- und eine Nebenschlusswicklung, wodurch er ein gutes Anlaufmoment mit einer stabileren Drehzahl-Last-Kennlinie verbindet.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Gleichstrommaschine"
+    },
+    {
+      "id": "tec-118",
+      "text": "Wie kann die Erregung eines Synchronmotors technisch realisiert werden?",
+      "options": [
+        "Durch Permanentmagnete im Läufer oder durch eine fremd gespeiste Gleichstromerregerwicklung",
+        "Ausschließlich durch Induktion vom Ständer aus, ohne Läufererregung",
+        "Ausschließlich durch parallelgeschaltete Kondensatoren",
+        "Durch den Schlupf zwischen Läufer und Drehfeld"
+      ],
+      "correct": 0,
+      "explanation": "Synchronmotoren werden entweder mit Permanentmagneten im Läufer (permanenterregt) oder mit einer über Schleifringe oder bürstenlos gespeisten Gleichstromerregerwicklung (fremderregt) ausgeführt.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Synchronmaschine"
+    },
+    {
+      "id": "tec-119",
+      "text": "Wozu dient eine polumschaltbare Wicklung, zum Beispiel eine Dahlander-Wicklung, bei einem Asynchronmotor?",
+      "options": [
+        "Zur stufenweisen Drehzahländerung durch Ändern der wirksamen Polpaarzahl über eine Wicklungsumschaltung",
+        "Zur Reduzierung des Anlaufstroms auf etwa ein Drittel des Normalwerts",
+        "Zur Umkehr der Drehrichtung des Motors",
+        "Zur Blindleistungskompensation am Motor"
+      ],
+      "correct": 0,
+      "explanation": "Polumschaltbare Wicklungen erlauben es, durch Umschalten der Wicklungsverbindungen die wirksame Polpaarzahl und damit die Synchrondrehzahl des Motors stufenweise zu ändern, ohne einen Frequenzumrichter einzusetzen.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Asynchronmaschine"
+    },
+    {
+      "id": "tec-120",
+      "text": "Was passiert bei der Gegenstrombremsung eines Drehstrom-Asynchronmotors?",
+      "options": [
+        "Der Motor wird lediglich vom Netz getrennt und läuft frei aus",
+        "Zwei Außenleiter werden vertauscht, wodurch das Drehfeld seine Richtung ändert und dem noch in alter Richtung laufenden Läufer entgegenwirkt",
+        "Der Läufer wird ohne jegliche Netzverbindung kurzgeschlossen",
+        "Es wird lediglich die Netzspannung reduziert, ohne die Phasenfolge zu ändern"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Gegenstrombremsung werden zwei Außenleiter vertauscht, sodass das Drehfeld seine Drehrichtung umkehrt; das dadurch entstehende Gegenmoment bremst den Läufer stark ab, wobei hohe Ströme und Erwärmung auftreten.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Bremsverfahren"
+    },
+    {
+      "id": "tec-121",
+      "text": "Ein Asynchronmotor besitzt 6 Pole (p = 3) und wird an einem Netz mit 50 Hz betrieben. Welche Synchrondrehzahl ergibt sich?",
+      "options": [
+        "3000 min⁻¹",
+        "1500 min⁻¹",
+        "1000 min⁻¹",
+        "750 min⁻¹"
+      ],
+      "correct": 2,
+      "explanation": "Die Synchrondrehzahl berechnet sich als n = f · 60 / p = 50 · 60 / 3 = 1000 min⁻¹.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Drehzahlberechnung"
+    },
+    {
+      "id": "tec-122",
+      "text": "Was kennzeichnen die international genormten IE-Effizienzklassen (zum Beispiel IE2, IE3, IE4) bei Elektromotoren?",
+      "options": [
+        "Die Schutzart des Motorgehäuses",
+        "International genormte Wirkungsgradklassen, wobei eine höhere Klassennummer einen höheren Wirkungsgrad des Motors bedeutet",
+        "Die Isolierstoffklasse der Wicklung",
+        "Die Baugröße beziehungsweise Achshöhe des Motors"
+      ],
+      "correct": 1,
+      "explanation": "Die IE-Klassen (International Efficiency) stufen Elektromotoren nach ihrem Wirkungsgrad ein; je höher die Klassennummer, desto energieeffizienter arbeitet der Motor im Bemessungsbetrieb.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Wirkungsgradklassen"
+    },
+    {
+      "id": "tec-123",
+      "text": "Wie funktioniert ein in die Motorwicklung eingebetteter Kaltleiterfühler (PTC-Thermistor) zum thermischen Schutz eines Motors?",
+      "options": [
+        "Sein elektrischer Widerstand steigt bei Überschreiten einer definierten Grenztemperatur sprunghaft an, was von einem Auswertegerät zur Abschaltung genutzt wird",
+        "Sein elektrischer Widerstand sinkt bei Überschreiten der Grenztemperatur stark ab und löst darüber eine Abschaltung aus",
+        "Er misst ausschließlich den momentanen Motorstrom",
+        "Er ersetzt grundsätzlich den vorgeschalteten Motorschutzschalter vollständig"
+      ],
+      "correct": 0,
+      "explanation": "Kaltleiter (PTC) zeigen bei Überschreiten einer definierten Grenztemperatur einen sprunghaften Widerstandsanstieg; ein Auswertegerät erkennt dies und löst die Abschaltung des Motors aus, bevor die Wicklung thermisch geschädigt wird.",
+      "difficulty": 2,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Motorschutz"
+    },
+    {
+      "id": "tec-124",
+      "text": "In welcher Größenordnung liegt typischerweise der Anlaufstrom eines direkt eingeschalteten Asynchron-Käfigläufermotors im Vergleich zu seinem Bemessungsstrom?",
+      "options": [
+        "Etwa dem 6- bis 8-fachen des Bemessungsstroms",
+        "Etwa dem 0,5- bis 1-fachen des Bemessungsstroms",
+        "Etwa dem 20-fachen des Bemessungsstroms",
+        "Er liegt grundsätzlich unterhalb des Bemessungsstroms"
+      ],
+      "correct": 0,
+      "explanation": "Beim Direktanlauf nimmt ein Käfigläufermotor kurzzeitig etwa das 6- bis 8-fache seines Bemessungsstroms auf, was unter anderem Anlassverfahren wie Stern-Dreieck oder Sanftanlasser motiviert.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Anlaufverhalten"
+    },
+    {
+      "id": "tec-125",
+      "text": "Wodurch zeichnet sich ein Servomotor gegenüber einem einfachen Standard-Asynchronmotor besonders aus?",
+      "options": [
+        "Hohe Dynamik sowie präzise Positionier- und Drehzahlregelung durch ein integriertes Rückführsystem, zum Beispiel Encoder oder Resolver",
+        "Er besitzt grundsätzlich kein Rückführsystem",
+        "Er kann ausschließlich mit konstanter, fest vorgegebener Drehzahl betrieben werden",
+        "Er benötigt grundsätzlich keinen Regler oder Umrichter"
+      ],
+      "correct": 0,
+      "explanation": "Servomotoren sind mit einem integrierten Rückführsystem wie Encoder oder Resolver ausgestattet und werden von einem Servoregler betrieben, wodurch eine hochdynamische und sehr präzise Positions-, Drehzahl- und Drehmomentregelung möglich wird.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Servotechnik"
+    },
+    {
+      "id": "tec-126",
+      "text": "Nach welchem Grundprinzip bewegt sich der Läufer eines Schrittmotors bei Bestromung der Statorwicklungen?",
+      "options": [
+        "Er dreht kontinuierlich synchron mit der Netzfrequenz ohne Ansteuerung",
+        "Er bewegt sich in diskreten, definierten Winkelschritten entsprechend der Ansteuerreihenfolge der Statorwicklungen",
+        "Er läuft ausschließlich asynchron mit Schlupf zum Drehfeld",
+        "Er benötigt zwingend einen Kommutator wie ein Gleichstrommotor"
+      ],
+      "correct": 1,
+      "explanation": "Ein Schrittmotor bewegt seinen Läufer durch gezielt nacheinander bestromte Statorwicklungen in genau definierten, diskreten Schrittwinkeln, wodurch ohne Rückführung eine bestimmte Position angefahren werden kann.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Schrittmotor"
+    },
+    {
+      "id": "tec-127",
+      "text": "Was ist das kennzeichnende Funktionsmerkmal eines Linearmotors gegenüber einem rotierenden Elektromotor?",
+      "options": [
+        "Er wird ausschließlich zur Blindleistungskompensation eingesetzt",
+        "Er kann ausschließlich mit Gleichstrom betrieben werden",
+        "Er besitzt zwingend einen Kommutator und Kohlebürsten",
+        "Er erzeugt unmittelbar eine geradlinige Bewegung, indem das Wanderfeld entlang einer abgewickelten Statorstrecke wirkt, ohne mechanisches Getriebe"
+      ],
+      "correct": 3,
+      "explanation": "Ein Linearmotor entsteht gedanklich durch das Abwickeln eines rotierenden Motors zu einer geraden Strecke; das entstehende Wanderfeld erzeugt direkt eine translatorische Kraft, sodass kein Getriebe zur Umwandlung von Dreh- in Linearbewegung nötig ist.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Linearmotor"
+    },
+    {
+      "id": "tec-128",
+      "text": "Welche Funktion erfüllt das nachgeschaltete Getriebe bei einem Getriebemotor hinsichtlich Drehzahl und Drehmoment?",
+      "options": [
+        "Es erhöht sowohl Drehzahl als auch Drehmoment gleichzeitig im gleichen Verhältnis",
+        "Es dient ausschließlich der elektrischen Isolierung zwischen Motor und Arbeitsmaschine",
+        "Es wandelt die hohe Motordrehzahl in eine niedrigere Abtriebsdrehzahl um und erhöht dabei näherungsweise im gleichen Verhältnis das verfügbare Drehmoment",
+        "Es hat keinerlei Einfluss auf Drehzahl oder Drehmoment"
+      ],
+      "correct": 2,
+      "explanation": "Ein Getriebe übersetzt die vergleichsweise hohe Motordrehzahl auf eine niedrigere, für die Anwendung passende Abtriebsdrehzahl; dabei steigt das an der Abtriebswelle verfügbare Drehmoment näherungsweise im Verhältnis der Übersetzung.",
+      "difficulty": 1,
+      "topic": "Elektrische Maschinen & Antriebstechnik",
+      "subtopic": "Getriebemotor"
+    },
+    {
+      "id": "tec-129",
+      "text": "Wodurch unterscheidet sich eine Regelstrecke mit Ausgleich (P-Strecke) von einer Regelstrecke ohne Ausgleich (I-Strecke)?",
+      "options": [
+        "Eine P-Strecke kann grundsätzlich nicht geregelt werden",
+        "Beide Streckenarten verhalten sich bei einer Störung identisch",
+        "Eine I-Strecke erreicht immer sofort wieder den ursprünglichen Sollwert",
+        "Bei einer P-Strecke stellt sich nach einer Störung ein neuer stabiler Endwert ein, bei einer I-Strecke läuft die Ausgangsgröße ohne Gegenmaßnahme kontinuierlich weiter"
+      ],
+      "correct": 3,
+      "explanation": "Eine Strecke mit Ausgleich (P-Strecke) strebt nach einer sprunghaften Störung selbstständig einem neuen, endlichen Beharrungswert zu, während eine Strecke ohne Ausgleich (I-Strecke) ohne Regeleingriff kontinuierlich weiterläuft, z. B. ein Füllstand ohne Abfluss.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Regelstrecken"
+    },
+    {
+      "id": "tec-130",
+      "text": "Welche Auswirkung hat eine ausgeprägte Totzeit in einer Regelstrecke auf das Regelverhalten?",
+      "options": [
+        "Sie verbessert grundsätzlich die Regelgüte und verkürzt die Ausregelzeit",
+        "Sie verzögert die Reaktion der Regelgröße auf einen Stelleingriff und erschwert dadurch die Regelbarkeit, insbesondere die Stabilität bei hoher Verstärkung",
+        "Sie hat keinerlei Einfluss auf das Regelverhalten",
+        "Sie beseitigt automatisch jede bleibende Regelabweichung"
+      ],
+      "correct": 1,
+      "explanation": "Eine Totzeit bewirkt, dass eine Änderung der Stellgröße erst mit Verzögerung an der Regelgröße sichtbar wird; dies erschwert die Reglerauslegung und kann bei zu hoher Verstärkung zu Instabilität führen.",
+      "difficulty": 3,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Regelstrecken"
+    },
+    {
+      "id": "tec-131",
+      "text": "Welchem Zweck dient eine Störgrößenaufschaltung in einem Regelkreis?",
+      "options": [
+        "Eine messbare Störgröße wird direkt erfasst und ihre Auswirkung durch einen zusätzlichen Steuereingriff kompensiert, bevor sie sich auf die Regelgröße auswirkt",
+        "Sie ersetzt den Regler vollständig durch eine reine Steuerung",
+        "Sie dient ausschließlich der Anzeige der Störgröße ohne Eingriff in den Prozess",
+        "Sie erhöht gezielt die Regelabweichung, um den Regler zu testen"
+      ],
+      "correct": 0,
+      "explanation": "Bei der Störgrößenaufschaltung wird eine messbare Störung erfasst und über einen zusätzlichen, vorsteuernden Eingriff kompensiert, sodass sie sich möglichst wenig oder verzögerungsfrei auf die Regelgröße auswirkt; der eigentliche Regelkreis bleibt zusätzlich aktiv.",
+      "difficulty": 3,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Regelkreisstrukturen"
+    },
+    {
+      "id": "tec-132",
+      "text": "Welche Kenngrößen werden typischerweise zur Beurteilung der Regelgüte eines eingeschwungenen Regelkreises herangezogen?",
+      "options": [
+        "Ausschließlich die Netzfrequenz und die Netzspannung",
+        "Die Bemessungsleistung des Stellantriebs",
+        "Ausschließlich der Wirkungsgrad des Reglers",
+        "Überschwingweite, Anregelzeit und Ausregelzeit nach einer sprunghaften Änderung der Führungs- oder Störgröße"
+      ],
+      "correct": 3,
+      "explanation": "Zur Beurteilung der Regelgüte werden unter anderem die Überschwingweite, die Anregelzeit bis zum ersten Erreichen des Sollwertbereichs und die Ausregelzeit bis zum dauerhaften Verbleib im Toleranzband herangezogen.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Regelgüte"
+    },
+    {
+      "id": "tec-133",
+      "text": "Wie arbeitet ein Zweipunktregler mit Schaltdifferenz (Hysterese), zum Beispiel bei einer einfachen Temperaturregelung?",
+      "options": [
+        "Er gibt die Stellgröße stufenlos proportional zur Regelabweichung aus",
+        "Er kann grundsätzlich keine bleibende Schwankung der Regelgröße verursachen",
+        "Er benötigt zwingend einen I-Anteil, um zu funktionieren",
+        "Er schaltet das Stellglied nur zwischen zwei Zuständen (Ein/Aus) und wechselt den Zustand erst, wenn die Regelgröße definierte obere beziehungsweise untere Schaltschwellen über- oder unterschreitet"
+      ],
+      "correct": 3,
+      "explanation": "Ein Zweipunktregler schaltet das Stellglied nur ein oder aus; durch die Schaltdifferenz (Hysterese) wird verhindert, dass er bei jeder minimalen Abweichung ständig umschaltet, wodurch die Regelgröße innerhalb eines Toleranzbandes schwankt.",
+      "difficulty": 1,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Zweipunktregelung"
+    },
+    {
+      "id": "tec-134",
+      "text": "Wodurch unterscheidet sich ein Dreipunktregler von einem einfachen Zweipunktregler?",
+      "options": [
+        "Ein Dreipunktregler benötigt zwingend drei separate Sollwertgeber",
+        "Der Dreipunktregler kann nur eine höhere Stellgröße als der Zweipunktregler ausgeben",
+        "Beide Reglertypen sind funktionsgleich und unterscheiden sich nur im Namen",
+        "Der Dreipunktregler kennt zusätzlich zu den Zuständen Ein und Aus einen dritten, meist entgegengesetzt wirkenden Schaltzustand, zum Beispiel Heizen, Aus und Kühlen"
+      ],
+      "correct": 3,
+      "explanation": "Ein Dreipunktregler verfügt über einen dritten Schaltzustand gegenüber dem einfachen Ein/Aus des Zweipunktreglers, etwa um sowohl heizen als auch kühlen zu können und dazwischen abzuschalten.",
+      "difficulty": 3,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Zweipunktregelung"
+    },
+    {
+      "id": "tec-135",
+      "text": "Was kennzeichnet die Funktionsbausteinsprache (FBS) als eine der Programmiersprachen nach IEC 61131-3?",
+      "options": [
+        "Die Verknüpfungslogik wird ausschließlich als reiner Fließtext in Anweisungszeilen dargestellt",
+        "Sie stellt ausschließlich Ablaufschritte mit Transitionen dar",
+        "Funktionen und Logikverknüpfungen werden als grafisch miteinander verschaltete Blöcke mit Ein- und Ausgängen dargestellt",
+        "Sie ist keine genormte Programmiersprache nach IEC 61131-3"
+      ],
+      "correct": 2,
+      "explanation": "Die Funktionsbausteinsprache stellt Programmfunktionen als grafische Blöcke mit Ein- und Ausgängen dar, die durch Verbindungslinien signaltechnisch miteinander verknüpft werden, ähnlich einem Schaltplan aus Funktionsbausteinen.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "SPS-Programmiersprachen"
+    },
+    {
+      "id": "tec-136",
+      "text": "Was kennzeichnet die textuelle Programmiersprache Strukturierter Text (ST) nach IEC 61131-3?",
+      "options": [
+        "Sie ähnelt einer höheren Programmiersprache mit Befehlen wie IF, CASE und Schleifen und eignet sich besonders für komplexe Berechnungen und Algorithmen",
+        "Sie ist rein grafisch aufgebaut wie ein Stromlaufplan",
+        "Sie kennt ausschließlich boolesche Verknüpfungsbefehle ohne Schleifen",
+        "Sie ist identisch mit der Anweisungsliste (AWL)"
+      ],
+      "correct": 0,
+      "explanation": "Strukturierter Text ist eine textbasierte, höhere Programmiersprache mit Kontrollstrukturen wie IF-THEN-ELSE, CASE und Schleifen, die sich besonders für komplexe Berechnungen, Algorithmen und Datenverarbeitung eignet.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "SPS-Programmiersprachen"
+    },
+    {
+      "id": "tec-137",
+      "text": "Welche Aussage zur Ablaufsprache (Sequential Function Chart, Grafcet) nach IEC 61131-3 trifft zu?",
+      "options": [
+        "Sie kennt keine parallelen Programmzweige",
+        "Sie ist ausschließlich für kontinuierliche Regelkreise ohne Schrittfolge geeignet",
+        "Sie beschreibt einen Prozess als Folge von Schritten mit zugeordneten Aktionen, die über Transitionen mit Weiterschaltbedingungen verbunden sind",
+        "Sie ersetzt zwingend alle anderen Programmiersprachen nach IEC 61131-3"
+      ],
+      "correct": 2,
+      "explanation": "Die Ablaufsprache beschreibt einen Prozess grafisch als Kette von Schritten mit zugehörigen Aktionen; der Übergang zwischen den Schritten erfolgt über Transitionen, die erst bei Erfüllung ihrer Weiterschaltbedingung aktiviert werden, wobei auch parallele Zweige möglich sind.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "SPS-Programmiersprachen"
+    },
+    {
+      "id": "tec-138",
+      "text": "Welche Aufgabe übernehmen digitale Eingabebaugruppen einer SPS im Unterschied zu analogen Eingabebaugruppen?",
+      "options": [
+        "Digitale Eingaben erfassen nur binäre Zustände wie Ein/Aus, analoge Eingaben erfassen kontinuierliche Messwerte wie Strom- oder Spannungssignale",
+        "Beide Baugruppenarten verarbeiten ausschließlich binäre Signale",
+        "Analoge Eingaben können nur Temperaturen erfassen",
+        "Digitale Eingaben werden ausschließlich für Antriebe verwendet"
+      ],
+      "correct": 0,
+      "explanation": "Digitale Eingabebaugruppen erfassen binäre Zustände wie Schalterstellungen (0/1), während analoge Eingabebaugruppen kontinuierliche Signale, etwa 4…20 mA oder 0…10 V von Sensoren, in digitale Werte für die SPS wandeln.",
+      "difficulty": 1,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "SPS-Hardware"
+    },
+    {
+      "id": "tec-139",
+      "text": "Welchen Einfluss hat eine zu lange Zykluszeit einer SPS auf das Reaktionsverhalten einer gesteuerten Anlage?",
+      "options": [
+        "Sie verbessert grundsätzlich die Reaktionsgeschwindigkeit auf schnelle Signaländerungen",
+        "Sie kann dazu führen, dass kurze Signaländerungen oder schnelle Prozessvorgänge nicht rechtzeitig erkannt oder verarbeitet werden",
+        "Sie hat keinerlei Auswirkung auf das Prozessverhalten",
+        "Sie verkürzt automatisch die Reaktionszeit der angeschlossenen Aktoren"
+      ],
+      "correct": 1,
+      "explanation": "Je länger die Zykluszeit einer SPS ist, desto später werden Eingangssignale erfasst und Ausgänge aktualisiert; sehr kurze oder schnelle Signaländerungen können dadurch unter Umständen nicht rechtzeitig erfasst oder verarbeitet werden.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "SPS-Grundlagen"
+    },
+    {
+      "id": "tec-140",
+      "text": "Welche Aufgabe erfüllt eine Verriegelung (Interlock) in einer Steuerung?",
+      "options": [
+        "Sie verhindert, dass sich Anlagenteile in einem sicherheitskritischen oder unzulässigen Betriebszustand gleichzeitig oder in falscher Reihenfolge bewegen beziehungsweise einschalten",
+        "Sie dient ausschließlich der optischen Zustandsanzeige",
+        "Sie erhöht die maximale Drehzahl eines Antriebs",
+        "Sie ersetzt die Not-Halt-Funktion vollständig"
+      ],
+      "correct": 0,
+      "explanation": "Eine Verriegelung stellt sicher, dass bestimmte Anlagenzustände oder Bewegungen sich gegenseitig ausschließen oder nur in einer festgelegten Reihenfolge zulässig sind, um gefährliche oder funktionsstörende Kollisionen von Anlagenteilen zu verhindern.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Steuerungstechnik Grundlagen"
+    },
+    {
+      "id": "tec-141",
+      "text": "Was ist beim Umschalten einer Anlage vom Handbetrieb in den Automatikbetrieb sicherheitstechnisch besonders zu beachten?",
+      "options": [
+        "Die Umschaltung sollte nur aus einem definierten, sicheren Anlagenzustand heraus erfolgen, damit keine undefinierten oder gefährlichen Bewegungen entstehen",
+        "Eine Umschaltung ist jederzeit ohne Bedingungen zulässig",
+        "Der Automatikbetrieb darf grundsätzlich nicht abgesichert werden",
+        "Im Handbetrieb dürfen keinerlei Sicherheitsfunktionen aktiv sein"
+      ],
+      "correct": 0,
+      "explanation": "Beim Wechsel zwischen Hand- und Automatikbetrieb muss sichergestellt sein, dass sich die Anlage in einem definierten, sicheren Zustand befindet, damit die Steuerung nicht unerwartet und unkontrolliert automatische Bewegungen auslöst.",
+      "difficulty": 2,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Betriebsarten"
+    },
+    {
+      "id": "tec-142",
+      "text": "Worin unterscheidet sich eine Festwertregelung von einer Folgeregelung?",
+      "options": [
+        "Eine Festwertregelung kennt keinen Regelkreis",
+        "Beide Regelungsarten verwenden zwingend denselben konstanten Sollwert",
+        "Eine Folgeregelung kommt ausschließlich ohne Regler aus",
+        "Bei der Festwertregelung bleibt die Führungsgröße konstant, bei der Folgeregelung wird die Regelgröße einer sich zeitlich ändernden Führungsgröße nachgeführt"
+      ],
+      "correct": 3,
+      "explanation": "Bei der Festwertregelung wird ein über die Zeit konstanter Sollwert gehalten, zum Beispiel eine Raumtemperatur; bei der Folgeregelung soll die Regelgröße einer veränderlichen Führungsgröße möglichst genau folgen, etwa bei einer Bahnkurvensteuerung.",
+      "difficulty": 3,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Regelungsarten"
+    },
+    {
+      "id": "tec-143",
+      "text": "Was versteht man unter einer Vorsteuerung, die einem Regelkreis überlagert wird?",
+      "options": [
+        "Ein Verfahren, das ausschließlich bei Zweipunktreglern eingesetzt wird",
+        "Ein Regler, der ausschließlich rückwirkungsfrei ohne Istwerterfassung arbeitet",
+        "Eine Methode, die den Regelkreis vollständig ersetzt",
+        "Ein zusätzlicher, meist aus einem Modell abgeleiteter Steuerungseingriff, der einen Großteil der benötigten Stellgröße bereits vorab bereitstellt, während der Regler nur noch die verbleibende Abweichung ausregelt"
+      ],
+      "correct": 3,
+      "explanation": "Bei der Vorsteuerung wird aus bekannten Prozess- oder Modellinformationen ein Großteil der erforderlichen Stellgröße direkt, ohne Rückführung, vorgegeben; der überlagerte Regler muss dann nur noch kleinere verbleibende Abweichungen ausregeln, was die Regelgüte verbessert.",
+      "difficulty": 3,
+      "topic": "Steuerungs- und Regelungstechnik",
+      "subtopic": "Regelkreisstrukturen"
+    },
+    {
+      "id": "tec-144",
+      "text": "Nach welchem Grundprinzip erkennt eine Einweg-Lichtschranke ein Objekt in ihrem Erfassungsbereich?",
+      "options": [
+        "Sender und Empfänger befinden sich auf gegenüberliegenden Seiten der Strecke; unterbricht ein Objekt den Lichtstrahl, wird dies vom Empfänger erkannt",
+        "Sender und Empfänger sind im gleichen Gehäuse integriert und werten das vom Objekt reflektierte Licht aus",
+        "Es wird ausschließlich die Kapazitätsänderung im Erfassungsbereich gemessen",
+        "Es wird die Laufzeit eines Ultraschallimpulses ausgewertet"
+      ],
+      "correct": 0,
+      "explanation": "Bei der Einweg-Lichtschranke stehen sich Sender und Empfänger getrennt gegenüber; ein Objekt im Strahlengang unterbricht das Lichtsignal, was vom Empfänger als Schaltsignal ausgewertet wird.",
+      "difficulty": 1,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Optische Sensoren"
+    },
+    {
+      "id": "tec-145",
+      "text": "Nach welchem physikalischen Prinzip arbeitet ein Ultraschallsensor zur Abstandsmessung?",
+      "options": [
+        "Er misst die elektrische Kapazität zwischen Sensor und Objekt",
+        "Er wertet ausschließlich die Änderung eines Magnetfelds aus",
+        "Er misst die Zeit zwischen dem Aussenden eines Schallimpulses und dem Empfang seines von einem Objekt reflektierten Echos und berechnet daraus die Entfernung",
+        "Er nutzt den piezoresistiven Effekt zur direkten Kraftmessung"
+      ],
+      "correct": 2,
+      "explanation": "Ein Ultraschallsensor sendet einen Schallimpuls aus und misst die Laufzeit bis zum Empfang des am Objekt reflektierten Echos; aus dieser Laufzeit und der Schallgeschwindigkeit wird der Abstand berechnet.",
+      "difficulty": 1,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Ultraschallsensorik"
+    },
+    {
+      "id": "tec-146",
+      "text": "Nach welchem Messprinzip arbeitet ein Dehnungsmessstreifen (DMS) zur Kraft- oder Wegmessung?",
+      "options": [
+        "Er erzeugt eine Thermospannung proportional zur Temperaturdifferenz",
+        "Er ändert seine Kapazität proportional zur Entfernung eines Objekts",
+        "Er ändert seinen elektrischen Widerstand proportional zu seiner mechanischen Dehnung oder Stauchung",
+        "Er misst die Frequenz eines mechanischen Schwingers"
+      ],
+      "correct": 2,
+      "explanation": "Ein Dehnungsmessstreifen ändert seinen elektrischen Widerstand, wenn er mechanisch gedehnt oder gestaucht wird; über eine Messbrückenschaltung lässt sich daraus die einwirkende Kraft oder Verformung bestimmen.",
+      "difficulty": 1,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Kraft- und Wegmessung"
+    },
+    {
+      "id": "tec-147",
+      "text": "Worin unterscheidet sich ein inkrementaler Drehgeber grundsätzlich von einem absoluten Drehgeber?",
+      "options": [
+        "Beide Drehgebertypen liefern grundsätzlich dieselbe Information",
+        "Der inkrementale Drehgeber liefert bei jeder Umdrehung eine feste Anzahl von Impulsen zur Erfassung von relativer Position und Drehrichtung, während der absolute Drehgeber auch nach Spannungsausfall die tatsächliche Winkelposition eindeutig codiert ausgibt",
+        "Ein absoluter Drehgeber kann nur die Drehrichtung, nicht aber die Position erfassen",
+        "Ein inkrementaler Drehgeber benötigt keine Auswerteelektronik"
+      ],
+      "correct": 1,
+      "explanation": "Inkrementale Drehgeber liefern Impulsfolgen, aus denen die relative Positionsänderung und Drehrichtung ermittelt wird, wobei die Position nach Spannungsausfall verlorengeht; absolute Drehgeber codieren die tatsächliche Winkelposition eindeutig und behalten sie auch nach einem Neustart bei.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Positionssensorik"
+    },
+    {
+      "id": "tec-148",
+      "text": "Wozu wird ein Shunt (Nebenwiderstand) bei der Erweiterung des Messbereichs eines Amperemeters eingesetzt?",
+      "options": [
+        "Er wird parallel zum Messwerk geschaltet, sodass nur ein definierter Bruchteil des Gesamtstroms durch das empfindliche Messwerk fließt und der übrige Strom am Shunt vorbeigeleitet wird",
+        "Er wird in Reihe zum Messwerk geschaltet, um die Spannung am Messwerk zu erhöhen",
+        "Er dient ausschließlich der galvanischen Trennung des Messkreises",
+        "Er wandelt den Gleichstrom in einen Wechselstrom um"
+      ],
+      "correct": 0,
+      "explanation": "Ein Shunt wird parallel zum Strommesswerk geschaltet; er leitet den größten Teil des zu messenden Stroms an dem empfindlichen Messwerk vorbei, sodass durch das Messwerk nur ein definierter, kleiner und dem Gesamtstrom proportionaler Anteil fließt.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Messbereichserweiterung"
+    },
+    {
+      "id": "tec-149",
+      "text": "Wozu dient ein Vorwiderstand bei der Erweiterung des Messbereichs eines Spannungsmessgeräts (Voltmeter)?",
+      "options": [
+        "Er wandelt Wechselspannung in Gleichspannung um",
+        "Er wird parallel zum Messwerk geschaltet, um den Innenwiderstand zu verringern",
+        "Er dient zur Kompensation von Blindleistung im Messkreis",
+        "Er wird in Reihe zum Messwerk geschaltet, sodass nur ein definierter Anteil der zu messenden Spannung am Messwerk selbst abfällt"
+      ],
+      "correct": 3,
+      "explanation": "Ein Vorwiderstand wird in Reihe zum Spannungsmesswerk geschaltet; er nimmt einen Großteil der anliegenden Spannung auf, sodass am empfindlichen Messwerk nur ein definierter, kleinerer und proportionaler Spannungsanteil abfällt, wodurch sich der Messbereich erweitern lässt.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Messbereichserweiterung"
+    },
+    {
+      "id": "tec-150",
+      "text": "Was beschreibt die relative Messabweichung eines Messgeräts im Unterschied zur absoluten Messabweichung?",
+      "options": [
+        "Die relative Messabweichung wird ausschließlich bei Temperaturmessungen verwendet",
+        "Beide Begriffe beschreiben exakt denselben Sachverhalt",
+        "Die relative Messabweichung gibt die Abweichung bezogen auf den wahren oder angezeigten Wert an, meist in Prozent, während die absolute Messabweichung die Differenz in derselben Einheit wie die Messgröße angibt",
+        "Die absolute Messabweichung wird stets in Prozent angegeben"
+      ],
+      "correct": 2,
+      "explanation": "Die absolute Messabweichung ist die Differenz zwischen angezeigtem und wahrem Wert in der Einheit der Messgröße, während die relative Messabweichung diese Differenz auf den wahren beziehungsweise angezeigten Wert bezieht und meist in Prozent angegeben wird.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Messabweichungen"
+    },
+    {
+      "id": "tec-151",
+      "text": "Welche elektrische Messgröße wird mit einem Oszilloskop typischerweise über der Zeit dargestellt?",
+      "options": [
+        "Ausschließlich die elektrische Arbeit in Kilowattstunden",
+        "Ausschließlich die mechanische Drehzahl eines Motors",
+        "Ausschließlich der Isolationswiderstand einer Anlage",
+        "Der zeitliche Verlauf einer Spannung, wodurch auch Kurvenform, Frequenz und Phasenlage von Signalen sichtbar werden"
+      ],
+      "correct": 3,
+      "explanation": "Ein Oszilloskop stellt den zeitlichen Verlauf einer elektrischen Spannung grafisch dar, wodurch sich Kurvenform, Amplitude, Frequenz, Phasenlage sowie Störsignale unmittelbar beurteilen lassen.",
+      "difficulty": 1,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Oszilloskopmesstechnik"
+    },
+    {
+      "id": "tec-152",
+      "text": "Was unterscheidet ein True-RMS-Multimeter von einem einfachen Vielfachmessgerät ohne True-RMS-Funktion?",
+      "options": [
+        "Ein True-RMS-Gerät kann ausschließlich Gleichspannung messen",
+        "Beide Gerätetypen liefern bei jeder Kurvenform identische Messwerte",
+        "Ein True-RMS-Gerät ermittelt den tatsächlichen Effektivwert auch bei nicht sinusförmigen Kurvenformen korrekt, während einfache Geräte oft nur den Effektivwert einer reinen Sinusschwingung korrekt anzeigen",
+        "True-RMS bezeichnet lediglich die Genauigkeit der Anzeige in Volt, nicht in Ampere"
+      ],
+      "correct": 2,
+      "explanation": "True-RMS-Messgeräte berechnen den echten Effektivwert eines Signals unabhängig von dessen Kurvenform, was besonders bei verzerrten Strömen und Spannungen, etwa durch Frequenzumrichter, wichtig ist; einfache Geräte sind häufig nur für reine Sinuskurven kalibriert.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Multimeter"
+    },
+    {
+      "id": "tec-153",
+      "text": "Nach welchem Messprinzip arbeitet ein elektrodynamisches Wattmeter zur direkten Leistungsmessung?",
+      "options": [
+        "Es misst ausschließlich den Strom und rechnet die Spannung anhand des Netzinnenwiderstands hoch",
+        "Es wertet ausschließlich die Frequenz des Netzes aus",
+        "Es besitzt eine feststehende Stromspule und eine bewegliche Spannungsspule, deren Zusammenwirken ein Ausschlagdrehmoment proportional zur Wirkleistung erzeugt",
+        "Es misst nur die Blindleistung, niemals die Wirkleistung"
+      ],
+      "correct": 2,
+      "explanation": "Ein elektrodynamisches Wattmeter besitzt eine feststehende, vom Laststrom durchflossene Stromspule und eine bewegliche, an der Spannung liegende Spannungsspule; das resultierende Drehmoment ist proportional zum Produkt aus Strom, Spannung und cos φ, also der Wirkleistung.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Leistungsmessung"
+    },
+    {
+      "id": "tec-154",
+      "text": "Wozu dient die Messung des Erdungswiderstands einer Erdungsanlage?",
+      "options": [
+        "Um die Isolierstoffklasse einer Wicklung zu bestimmen",
+        "Um die Netzfrequenz an der Erdungsstelle zu bestimmen",
+        "Um den Wirkungsgrad eines Transformators zu ermitteln",
+        "Um zu prüfen, ob der Erder einen ausreichend niedrigen Widerstand gegen das umgebende Erdreich aufweist und Fehlerströme sicher abgeleitet werden können"
+      ],
+      "correct": 3,
+      "explanation": "Die Erdungswiderstandsmessung prüft, ob der Erdungswiderstand niedrig genug ist, damit im Fehlerfall Fehlerströme sicher gegen Erde abfließen können und zulässige Berührungsspannungen nicht überschritten werden.",
+      "difficulty": 1,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Erdungsmessung"
+    },
+    {
+      "id": "tec-155",
+      "text": "Nach welchem physikalischen Prinzip arbeitet ein piezoresistiver Drucksensor?",
+      "options": [
+        "Sein elektrischer Widerstand ändert sich unter mechanischer Verformung durch den einwirkenden Druck",
+        "Er erzeugt eine Spannung ausschließlich durch Temperaturänderung",
+        "Er wandelt Druck direkt in eine Lichtwellenlänge um",
+        "Er misst Druck durch Auswertung eines Magnetfelds"
+      ],
+      "correct": 0,
+      "explanation": "Bei einem piezoresistiven Drucksensor verändert eine Membran unter Druckeinwirkung ihre mechanische Verformung, wodurch sich der elektrische Widerstand eingebetteter Messelemente proportional zum anliegenden Druck ändert.",
+      "difficulty": 2,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Drucksensorik"
+    },
+    {
+      "id": "tec-156",
+      "text": "Nach welchem Messprinzip arbeitet ein magnetisch-induktiver Durchflussmesser (MID)?",
+      "options": [
+        "Er wertet ausschließlich den Druckabfall über eine Blende aus",
+        "Er zählt mechanisch die Umdrehungen eines Flügelrads im Rohr",
+        "Er misst die in einer strömenden, elektrisch leitfähigen Flüssigkeit induzierte Spannung, die proportional zur Strömungsgeschwindigkeit ist",
+        "Er misst die Laufzeit eines Lichtsignals durch die Flüssigkeit"
+      ],
+      "correct": 2,
+      "explanation": "Ein magnetisch-induktiver Durchflussmesser erzeugt ein Magnetfeld quer zur Rohrachse; die strömende, elektrisch leitfähige Flüssigkeit induziert dabei eine Spannung, die proportional zur Strömungsgeschwindigkeit und damit zum Volumenstrom ist.",
+      "difficulty": 3,
+      "topic": "Mess- und Sensortechnik",
+      "subtopic": "Durchflussmesstechnik"
+    },
+    {
+      "id": "tec-157",
+      "text": "Was kennzeichnet die Schutzmaßnahme Schutzkleinspannung mit sicherer Trennung (SELV)?",
+      "options": [
+        "SELV bezeichnet ausschließlich die Erdung des Sternpunkts eines Transformators",
+        "Es handelt sich um eine reine Erhöhung der Netzspannung zur besseren Übertragung",
+        "Es handelt sich um Stromkreise mit einer Nennspannung bis maximal 50 V AC, die sicher von höheren Spannungen getrennt sind und keinen Schutzleiteranschluss besitzen",
+        "SELV-Stromkreise dürfen mit dem Schutzleiter des speisenden Netzes verbunden werden"
+      ],
+      "correct": 2,
+      "explanation": "SELV-Stromkreise arbeiten mit niedrigen Spannungen (bis 50 V AC beziehungsweise 120 V DC), sind durch einen Sicherheitstransformator sicher von höheren Spannungsebenen getrennt und weisen keine Verbindung zu Erde oder Schutzleiter auf, wodurch selbst bei einem Fehler keine gefährliche Berührungsspannung entstehen kann.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutzkleinspannung"
+    },
+    {
+      "id": "tec-158",
+      "text": "Was ist das kennzeichnende Merkmal der Schutzmaßnahme Schutztrennung mittels Trenntransformator?",
+      "options": [
+        "Ein Verbraucherstromkreis wird über einen Transformator galvanisch vom speisenden Netz getrennt, sodass bei einem ersten Körperschluss kein geschlossener Fehlerstromkreis über Erde entstehen kann",
+        "Der Trenntransformator erhöht lediglich die Ausgangsspannung des Netzes",
+        "Bei der Schutztrennung wird der Schutzleiter besonders niederohmig ausgeführt",
+        "Schutztrennung erfordert zwingend den Einsatz eines RCD"
+      ],
+      "correct": 0,
+      "explanation": "Bei der Schutztrennung wird der versorgte Stromkreis über einen Trenntransformator galvanisch vom speisenden Netz getrennt; ein einzelner Körperschluss führt dadurch nicht zu einem gefährlichen Berührungsstrom, da kein geschlossener Stromkreis über Erde besteht.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutztrennung"
+    },
+    {
+      "id": "tec-159",
+      "text": "Worin unterscheidet sich die Funktion eines Not-Halt von der eines Not-Aus an einer Maschine?",
+      "options": [
+        "Ein Not-Halt darf ausschließlich im Automatikbetrieb ausgelöst werden",
+        "Beide Begriffe sind normativ identisch und beliebig austauschbar",
+        "Ein Not-Halt bringt die Maschine in einen sicheren Stillstand, ohne zwingend die gesamte elektrische Energieversorgung abzuschalten, während ein Not-Aus zusätzlich die Energiezufuhr unterbricht",
+        "Ein Not-Aus darf nur von einer Fachkraft betätigt werden"
+      ],
+      "correct": 2,
+      "explanation": "Ein Not-Halt stoppt gefährliche Bewegungen und Funktionen, kann dabei aber bestimmte Hilfsenergien wie Steuerspannung oder Sicherheitsbeleuchtung eingeschaltet lassen; ein Not-Aus unterbricht zusätzlich die Energiezufuhr zu den gefahrbringenden Anlagenteilen.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Not-Halt und Not-Aus"
+    },
+    {
+      "id": "tec-160",
+      "text": "Welche persönliche Schutzausrüstung wird bei Arbeiten unter Spannung im Niederspannungsbereich typischerweise vorausgesetzt?",
+      "options": [
+        "Ausschließlich ein Schutzhelm ohne weitere elektrische Schutzwirkung",
+        "Ausschließlich Sicherheitsschuhe mit Stahlkappe",
+        "Isolierende Handschuhe, isoliertes Werkzeug sowie geeignete Schutzbrille und gegebenenfalls Gesichtsschutz entsprechend der Gefährdungsbeurteilung",
+        "Ein Gehörschutz ohne weitere Schutzmaßnahmen"
+      ],
+      "correct": 2,
+      "explanation": "Bei Arbeiten unter Spannung müssen entsprechend der Gefährdungsbeurteilung isolierende Handschuhe, isoliertes Werkzeug sowie Augen- beziehungsweise Gesichtsschutz gegen Störlichtbögen eingesetzt werden, um Personen vor elektrischen und thermischen Gefahren zu schützen.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Persönliche Schutzausrüstung"
+    },
+    {
+      "id": "tec-161",
+      "text": "Welche der 5 Sicherheitsregeln beschreibt die Maßnahme, die unmittelbar nach dem Freischalten einer Anlage durchzuführen ist, bevor die Spannungsfreiheit festgestellt wird?",
+      "options": [
+        "Gegen Wiedereinschalten sichern",
+        "Erden und Kurzschließen",
+        "Benachbarte, unter Spannung stehende Teile abdecken oder abschranken",
+        "Die Anlage sofort wieder in Betrieb nehmen"
+      ],
+      "correct": 0,
+      "explanation": "Nach dem Freischalten ist die Anlage als zweite der 5 Sicherheitsregeln gegen Wiedereinschalten zu sichern, bevor anschließend die Spannungsfreiheit festgestellt sowie geerdet und kurzgeschlossen wird.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Fünf Sicherheitsregeln"
+    },
+    {
+      "id": "tec-162",
+      "text": "Warum werden freigeschaltete Leiter bei Arbeiten in Mittel- und Hochspannungsanlagen zusätzlich geerdet und kurzgeschlossen?",
+      "options": [
+        "Um die Isolationsfestigkeit der Anlage messtechnisch zu bestimmen",
+        "Um im Falle eines unerwarteten Spannungswiederkehrs, etwa durch Rückspeisung, induzierte oder kapazitiv eingekoppelte Spannungen, die Arbeitsstelle sicher spannungsfrei zu halten",
+        "Um den Übergangswiderstand von Schaltkontakten zu verringern",
+        "Um die Anlage für den späteren Betrieb vorzumagnetisieren"
+      ],
+      "correct": 1,
+      "explanation": "Erden und Kurzschließen schützt die Arbeitsstelle davor, dass durch unbeabsichtigtes Wiedereinschalten, Rückspeisung aus anderen Quellen oder induktiv beziehungsweise kapazitiv eingekoppelte Spannungen aus benachbarten Leitungen eine gefährliche Spannung an der Arbeitsstelle auftritt.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Fünf Sicherheitsregeln"
+    },
+    {
+      "id": "tec-163",
+      "text": "Was ist die letzte der 5 Sicherheitsregeln vor Beginn von Arbeiten an einer freigeschalteten elektrischen Anlage?",
+      "options": [
+        "Feststellen der Spannungsfreiheit",
+        "Freischalten der Anlage",
+        "Benachbarte, unter Spannung stehende Teile abdecken oder abschranken",
+        "Erden und Kurzschließen als allererste Maßnahme"
+      ],
+      "correct": 2,
+      "explanation": "Als letzte der 5 Sicherheitsregeln müssen benachbarte, weiterhin unter Spannung stehende Teile abgedeckt oder abgeschrankt werden, um ein unbeabsichtigtes Berühren während der Arbeiten sicher auszuschließen.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Fünf Sicherheitsregeln"
+    },
+    {
+      "id": "tec-164",
+      "text": "Was wird mit einer Niederohmmessung des Schutzleiters im Rahmen einer wiederkehrenden Prüfung überprüft?",
+      "options": [
+        "Die Kapazität zwischen Außenleiter und Erde",
+        "Ausschließlich die Isolationsfestigkeit der Außenleiter untereinander",
+        "Die Frequenz des speisenden Netzes",
+        "Ob der Schutzleiter einen ausreichend niedrigen Widerstand besitzt, damit im Fehlerfall ein Abschaltstrom sicher fließen kann und keine gefährliche Berührungsspannung bestehen bleibt"
+      ],
+      "correct": 3,
+      "explanation": "Die Niederohmmessung des Schutzleiters stellt sicher, dass die Schutzleiterverbindung einen ausreichend geringen Widerstand aufweist, damit im Fehlerfall ein ausreichend hoher Fehlerstrom fließen und die vorgeschaltete Schutzeinrichtung sicher auslösen kann.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Schutzleiterprüfung"
+    },
+    {
+      "id": "tec-165",
+      "text": "Worin unterscheiden sich Fehlerstrom und Fehlerspannung bei einem Isolationsfehler an einem elektrischen Betriebsmittel?",
+      "options": [
+        "Fehlerspannung tritt ausschließlich in TT-Netzen auf, Fehlerstrom nur in TN-Netzen",
+        "Beide Begriffe bezeichnen exakt denselben physikalischen Sachverhalt",
+        "Der Fehlerstrom ist der über die fehlerhafte Isolation abfließende Strom, die Fehlerspannung ist die dadurch am berührbaren leitfähigen Gehäuse gegenüber Erde auftretende Spannung",
+        "Der Fehlerstrom kann nur bei Wechselspannung auftreten, die Fehlerspannung nur bei Gleichspannung"
+      ],
+      "correct": 2,
+      "explanation": "Der Fehlerstrom fließt durch einen Isolationsfehler zum Gehäuse oder zur Erde ab; die dadurch am Gehäuse gegenüber Erde entstehende Spannung wird als Fehlerspannung bezeichnet und kann bei Berührung zu einer gefährlichen Körperdurchströmung führen.",
+      "difficulty": 3,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Fehlerstrom und Fehlerspannung"
+    },
+    {
+      "id": "tec-166",
+      "text": "Was versteht man unter der Selektivität mehrerer hintereinandergeschalteter RCDs (Fehlerstromschutzschalter) in einer Anlage?",
+      "options": [
+        "Selektivität betrifft ausschließlich die Farbe der Auslösetaste",
+        "Alle RCDs einer Anlage lösen bei jedem Fehler grundsätzlich gleichzeitig aus",
+        "Selektivität bedeutet, dass RCDs niemals gemeinsam in einer Anlage eingesetzt werden dürfen",
+        "Nur der dem Fehlerort am nächsten liegende RCD löst aus, während vorgeschaltete RCDs mit höherem Bemessungsdifferenzstrom und Zeitverzögerung in Betrieb bleiben"
+      ],
+      "correct": 3,
+      "explanation": "Selektivität bedeutet, dass bei einem Fehlerstrom möglichst nur der dem Fehlerort nächstgelegene RCD abschaltet; vorgelagerte RCDs mit höherem Bemessungsdifferenzstrom und einer kurzen Zeitverzögerung bleiben dabei geschlossen, sodass nur der betroffene Anlagenteil abgeschaltet wird.",
+      "difficulty": 3,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "RCD-Technik"
+    },
+    {
+      "id": "tec-167",
+      "text": "Worin unterscheidet sich ein RCD vom Typ A von einem RCD vom Typ B?",
+      "options": [
+        "Beide Typen sind funktional identisch und unterscheiden sich nur im Bemessungsstrom",
+        "Typ A und Typ B unterscheiden sich ausschließlich in der Gehäusefarbe",
+        "Typ B erkennt ausschließlich Wechselfehlerströme, Typ A dagegen alle Fehlerstromarten",
+        "Typ A erfasst sinusförmige Wechselfehlerströme sowie pulsierende Gleichfehlerströme, Typ B erfasst zusätzlich glatte Gleichfehlerströme, wie sie zum Beispiel hinter Frequenzumrichtern auftreten können"
+      ],
+      "correct": 3,
+      "explanation": "RCDs vom Typ A erfassen Wechselfehlerströme und pulsierende Gleichfehlerströme; Typ-B-RCDs erfassen zusätzlich glatte Gleichfehlerströme, die insbesondere bei Anlagen mit Frequenzumrichtern oder bestimmten Gleichrichterschaltungen auftreten können und von Typ-A-Geräten nicht sicher erkannt würden.",
+      "difficulty": 3,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "RCD-Technik"
+    },
+    {
+      "id": "tec-168",
+      "text": "Wie werden explosionsgefährdete Bereiche für Gase, Dämpfe und Nebel nach den einschlägigen Vorschriften hinsichtlich der Häufigkeit und Dauer des Auftretens einer explosionsfähigen Atmosphäre eingeteilt?",
+      "options": [
+        "In die Isolierstoffklassen A bis H",
+        "In die Schutzklassen I bis III",
+        "In die IP-Schutzarten IP20 bis IP68",
+        "In die Zonen 0, 1 und 2, wobei Zone 0 den Bereich mit ständiger oder langzeitiger explosionsfähiger Atmosphäre kennzeichnet"
+      ],
+      "correct": 3,
+      "explanation": "Explosionsgefährdete Bereiche für Gase, Dämpfe und Nebel werden in die Zonen 0, 1 und 2 eingeteilt: Zone 0 kennzeichnet ständige oder langzeitige, Zone 1 gelegentliche und Zone 2 selten und kurzzeitig auftretende explosionsfähige Atmosphäre.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Explosionsschutz"
+    },
+    {
+      "id": "tec-169",
+      "text": "Was ist die Aufgabe des äußeren Blitzschutzes an einem Gebäude im Unterschied zum inneren Blitzschutz?",
+      "options": [
+        "Beide Systeme erfüllen exakt dieselbe Aufgabe und sind austauschbar",
+        "Der äußere Blitzschutz schützt ausschließlich elektronische Geräte im Gebäudeinneren",
+        "Der äußere Blitzschutz erfasst den Blitzstrom über Fangeinrichtungen und leitet ihn kontrolliert über Ableitungen zur Erdungsanlage ab, während der innere Blitzschutz mittels Potentialausgleich und Überspannungsschutzgeräten die Anlagen im Gebäude schützt",
+        "Der innere Blitzschutz besteht ausschließlich aus der Fangeinrichtung auf dem Dach"
+      ],
+      "correct": 2,
+      "explanation": "Der äußere Blitzschutz fängt den Blitzstrom über Fangstangen oder -leitungen auf und leitet ihn über Ableitungen kontrolliert in die Erdungsanlage; der innere Blitzschutz schützt durch Potentialausgleich und Überspannungsschutzgeräte die elektrischen Anlagen und Geräte im Gebäude vor Überspannungen.",
+      "difficulty": 2,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Blitzschutz"
+    },
+    {
+      "id": "tec-170",
+      "text": "Was ist bei der Rettung einer verunfallten Person aus dem Gefahrenbereich einer elektrischen Anlage vorrangig zu beachten, bevor Erste-Hilfe-Maßnahmen begonnen werden?",
+      "options": [
+        "Der Ersthelfer muss zuerst den Eigenschutz sicherstellen, also die Anlage abschalten oder die Person nur mit geeigneten isolierenden Hilfsmitteln aus dem Gefahrenbereich befreien",
+        "Die Person sollte sofort und ohne weitere Vorsichtsmaßnahmen mit bloßen Händen aus dem Gefahrenbereich gezogen werden",
+        "Erste-Hilfe-Maßnahmen haben grundsätzlich Vorrang vor jeder Abschaltung der Anlage",
+        "Es ist ausreichend, die verunfallte Person laut anzusprechen, ohne den Stromkreis zu unterbrechen"
+      ],
+      "correct": 0,
+      "explanation": "Vor jeder Rettungsmaßnahme muss der Ersthelfer den Eigenschutz sicherstellen, indem die Anlage abgeschaltet oder die verunfallte Person nur mit geeigneten isolierenden Hilfsmitteln aus dem Gefahrenbereich befreit wird, um selbst nicht ebenfalls unter Spannung zu geraten.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Erste Hilfe bei Elektrounfällen"
+    },
+    {
+      "id": "tec-171",
+      "text": "Wozu dient das genormte Warnzeichen mit dem schwarzen Blitzpfeil auf gelbem Grund an elektrischen Betriebsmitteln und Anlagenteilen?",
+      "options": [
+        "Es warnt vor einer gefährlichen elektrischen Spannung und dem Risiko eines elektrischen Schlags",
+        "Es kennzeichnet ausschließlich brandgefährdete Bereiche",
+        "Es weist auf einen Fluchtweg hin",
+        "Es zeigt an, dass das Betriebsmittel geerdet und damit gefahrlos berührbar ist"
+      ],
+      "correct": 0,
+      "explanation": "Das Warnzeichen mit dem schwarzen Blitzpfeil auf gelbem Grund warnt allgemein vor gefährlicher elektrischer Spannung und macht auf die Gefahr eines elektrischen Schlags an dem gekennzeichneten Bauteil oder Bereich aufmerksam.",
+      "difficulty": 1,
+      "topic": "Schutzmaßnahmen & Arbeitssicherheit",
+      "subtopic": "Kennzeichnung und Warnzeichen"
+    },
+    {
+      "id": "tec-172",
+      "text": "Welchen Nutzen bietet der Einsatz einer Wärmebildkamera (Thermografie) im Rahmen der Instandhaltung elektrischer Anlagen?",
+      "options": [
+        "Sie dient ausschließlich der Dokumentation der Anlagenfarbe",
+        "Sie ersetzt vollständig die Isolationswiderstandsmessung",
+        "Sie kann ausschließlich an spannungsfreien Anlagen eingesetzt werden",
+        "Sie ermöglicht die berührungslose Erkennung ungewöhnlicher Erwärmung, zum Beispiel durch lose Klemmstellen oder überlastete Bauteile, bevor es zu einem Ausfall kommt"
+      ],
+      "correct": 3,
+      "explanation": "Mit einer Wärmebildkamera lassen sich im laufenden Betrieb berührungslos auffällige Temperaturerhöhungen erkennen, wie sie etwa durch lose Verbindungen, überlastete Kontakte oder beginnende Lagerschäden entstehen, sodass Instandhaltungsmaßnahmen vorausschauend geplant werden können.",
+      "difficulty": 1,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Thermografie"
+    },
+    {
+      "id": "tec-173",
+      "text": "Wozu dient die Schwingungsanalyse als Instrument der zustandsorientierten Instandhaltung an elektrischen Antrieben?",
+      "options": [
+        "Sie dient ausschließlich der Messung der elektrischen Spannung am Motor",
+        "Durch Auswertung des Schwingungsspektrums können beginnende Lagerschäden, Unwuchten oder Ausrichtfehler frühzeitig erkannt werden, bevor sie zu einem Ausfall führen",
+        "Sie ersetzt vollständig die Isolationsprüfung der Motorwicklung",
+        "Sie kann ausschließlich bei stillstehenden Maschinen angewendet werden"
+      ],
+      "correct": 1,
+      "explanation": "Die Schwingungsanalyse wertet das Frequenzspektrum der mechanischen Schwingungen eines laufenden Antriebs aus; charakteristische Frequenzmuster lassen frühzeitig auf Lagerschäden, Unwuchten oder Ausrichtfehler schließen, bevor ein Ausfall eintritt.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Schwingungsanalyse"
+    },
+    {
+      "id": "tec-174",
+      "text": "Wonach richten sich die Wartungsintervalle in einem Instandhaltungsplan für elektrische Betriebsmittel in erster Linie?",
+      "options": [
+        "Ausschließlich nach dem persönlichen Ermessen des Anlagenbedieners",
+        "Nach den Angaben des Herstellers sowie den Betriebsbedingungen und Einsatzhäufigkeit, unter Berücksichtigung einschlägiger Normen und Gefährdungsbeurteilungen",
+        "Ausschließlich nach dem Kaufdatum der Anlage, unabhängig von Nutzung und Umgebung",
+        "Ausschließlich nach der Farbe des Typenschilds"
+      ],
+      "correct": 1,
+      "explanation": "Wartungsintervalle werden im Instandhaltungsplan üblicherweise anhand der Herstellervorgaben, der tatsächlichen Betriebs- und Umgebungsbedingungen, der Einsatzhäufigkeit sowie einschlägiger Normen und der betrieblichen Gefährdungsbeurteilung festgelegt.",
+      "difficulty": 1,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Instandhaltungsplanung"
+    },
+    {
+      "id": "tec-175",
+      "text": "Welches Ziel verfolgt eine FMEA (Fehlermöglichkeits- und Einflussanalyse) im Rahmen der Instandhaltung elektrischer Anlagen?",
+      "options": [
+        "Ausschließlich die nachträgliche Dokumentation bereits eingetretener Schäden",
+        "Systematisches Erkennen möglicher Fehlerarten, ihrer Ursachen und Auswirkungen, um daraus vorbeugende Maßnahmen und Prioritäten für die Instandhaltung abzuleiten",
+        "Die Berechnung der elektrischen Verlustleistung einer Anlage",
+        "Die Festlegung der Netzform einer neuen elektrischen Anlage"
+      ],
+      "correct": 1,
+      "explanation": "Die FMEA analysiert systematisch mögliche Fehlerarten, deren Ursachen sowie deren Auswirkungen und Eintrittswahrscheinlichkeit, um daraus gezielt vorbeugende Instandhaltungsmaßnahmen und Prüfprioritäten abzuleiten, bevor ein Fehler tatsächlich auftritt.",
+      "difficulty": 3,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Fehleranalyse"
+    },
+    {
+      "id": "tec-176",
+      "text": "Warum ist die vollständige Dokumentation durchgeführter Instandhaltungsmaßnahmen, zum Beispiel in Prüfprotokollen, wichtig?",
+      "options": [
+        "Sie ist rechtlich und organisatorisch bedeutungslos und dient nur der Ablage",
+        "Sie belegt den durchgeführten Zustand und die Prüfergebnisse, ermöglicht die Nachverfolgbarkeit und dient als Nachweis gegenüber Behörden, Versicherungen und im Schadensfall",
+        "Sie ersetzt die eigentliche Instandhaltungsmaßnahme vollständig",
+        "Sie ist ausschließlich für neu beschaffte Anlagen erforderlich"
+      ],
+      "correct": 1,
+      "explanation": "Prüfprotokolle und Instandhaltungsdokumentationen belegen den festgestellten Zustand, die durchgeführten Maßnahmen und Prüfergebnisse; sie sind rechtlich bedeutsam als Nachweis, ermöglichen die Nachverfolgbarkeit über die Anlagenlebensdauer und sind im Schadensfall gegenüber Behörden und Versicherungen von Bedeutung.",
+      "difficulty": 1,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Dokumentation"
+    },
+    {
+      "id": "tec-177",
+      "text": "Welche typische Ursache führt bei elektrischen Schaltgeräten häufig zu Kontaktabbrand an den Schaltkontakten?",
+      "options": [
+        "Ausschließlich zu geringe Umgebungstemperatur",
+        "Lichtbogenbildung beim Schalten von Strömen, insbesondere beim häufigen Schalten hoher Ströme oder induktiver Lasten",
+        "Ausschließlich zu hohe Isolationswerte der Wicklung",
+        "Eine zu hohe Netzfrequenz"
+      ],
+      "correct": 1,
+      "explanation": "Beim Öffnen und Schließen von Kontakten unter Last entstehen Lichtbögen, die die Kontaktoberflächen thermisch und durch Materialabtrag schädigen; besonders häufiges Schalten hoher Ströme oder induktiver Lasten beschleunigt diesen Kontaktabbrand.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Schaltgeräteverschleiß"
+    },
+    {
+      "id": "tec-178",
+      "text": "Welche Aussage zur Klassifizierung von Bauteilen als Verschleißteile in der Instandhaltung trifft zu?",
+      "options": [
+        "Verschleißteile sind ausschließlich elektronische Bauteile",
+        "Verschleißteile besitzen grundsätzlich eine unbegrenzte Lebensdauer",
+        "Ein Austausch von Verschleißteilen ist ausschließlich nach einem bereits eingetretenen Totalausfall zulässig",
+        "Verschleißteile unterliegen einer natürlichen, betriebsbedingten Abnutzung und werden planmäßig innerhalb bestimmter Lebensdauergrenzen ausgetauscht, auch wenn noch keine Funktionsstörung erkennbar ist"
+      ],
+      "correct": 3,
+      "explanation": "Verschleißteile wie Kohlebürsten, Dichtungen oder Wälzlager unterliegen einer erwartbaren, betriebsbedingten Abnutzung und werden im Rahmen der vorbeugenden Instandhaltung planmäßig vor Erreichen ihrer Lebensdauergrenze getauscht, um Ausfälle zu vermeiden.",
+      "difficulty": 1,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Verschleißteile"
+    },
+    {
+      "id": "tec-179",
+      "text": "Was ist der Grundgedanke des Total Productive Maintenance (TPM)-Konzepts?",
+      "options": [
+        "Die Instandhaltungsverantwortung wird auf mehrere Schultern verteilt, wobei auch das Bedienpersonal in einfache Wartungs- und Inspektionstätigkeiten aktiv eingebunden wird, um Anlagenverfügbarkeit und Effizienz zu steigern",
+        "Instandhaltung wird ausschließlich von externen Fachfirmen durchgeführt, das Bedienpersonal wird davon vollständig entlastet",
+        "TPM bezeichnet ausschließlich die jährliche Generalüberholung einer Anlage",
+        "TPM ersetzt vollständig die vorbeugende Instandhaltung durch reine Ausfallreparatur"
+      ],
+      "correct": 0,
+      "explanation": "TPM verfolgt den Ansatz, Instandhaltung nicht allein der Fachabteilung zu überlassen, sondern auch das Bedienpersonal in einfache, regelmäßige Wartungs- und Inspektionsaufgaben einzubinden, um Anlagenverfügbarkeit, Produktqualität und Gesamteffizienz nachhaltig zu verbessern.",
+      "difficulty": 1,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "TPM"
+    },
+    {
+      "id": "tec-180",
+      "text": "Was versteht man unter Obsoleszenz-Management im Zusammenhang mit der Ersatzteilversorgung elektrischer Anlagen?",
+      "options": [
+        "Die planmäßige Verschrottung noch funktionsfähiger Anlagenteile",
+        "Die systematische Beobachtung und Planung des Umgangs mit Bauteilen, die vom Hersteller abgekündigt werden oder nicht mehr verfügbar sind, um rechtzeitig Ersatz oder Alternativen zu sichern",
+        "Ausschließlich die Beschaffung möglichst günstiger Ersatzteile ohne Rücksicht auf Verfügbarkeit",
+        "Die Aufgabe, Anlagen grundsätzlich nach zehn Jahren vollständig zu ersetzen"
+      ],
+      "correct": 1,
+      "explanation": "Obsoleszenz-Management befasst sich damit, frühzeitig zu erkennen, welche Bauteile oder Baugruppen vom Hersteller abgekündigt werden, um rechtzeitig Ersatzteile zu bevorraten, Alternativlösungen zu qualifizieren oder Redesigns einzuplanen und damit die langfristige Ersatzteilverfügbarkeit sicherzustellen.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Ersatzteilmanagement"
+    },
+    {
+      "id": "tec-181",
+      "text": "Wodurch werden die Fristen für die wiederkehrende Prüfung ortsfester elektrischer Anlagen und Betriebsmittel in einem Betrieb in der Regel festgelegt?",
+      "options": [
+        "Sie ergeben sich aus einer Gefährdungsbeurteilung unter Berücksichtigung von Betriebsbedingungen, Anlagenart und einschlägigen Vorschriften; bei guten Prüfergebnissen können Fristen angepasst werden",
+        "Sie sind gesetzlich für alle Betriebe bundesweit auf exakt zwölf Monate fixiert und dürfen nicht verändert werden",
+        "Sie werden ausschließlich vom Hersteller des Gebäudes einmalig vorgegeben und bleiben lebenslang unverändert",
+        "Sie richten sich ausschließlich nach dem Alter des Gebäudes, unabhängig von der Anlage"
+      ],
+      "correct": 0,
+      "explanation": "Die Prüffristen für ortsfeste elektrische Anlagen und Betriebsmittel werden anhand einer Gefährdungsbeurteilung festgelegt, die unter anderem Betriebsbedingungen, Beanspruchung und bisherige Prüfergebnisse berücksichtigt; bei durchgängig guten Ergebnissen können die Fristen im zulässigen Rahmen verlängert werden.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Wiederkehrende Prüfungen"
+    },
+    {
+      "id": "tec-182",
+      "text": "Was ist das Ziel einer systematischen Schadensanalyse (Root-Cause-Analyse) nach einem Anlagenausfall?",
+      "options": [
+        "Ausschließlich die schnellstmögliche Wiederinbetriebnahme ohne weitere Untersuchung der Ursache",
+        "Die tatsächliche Grundursache des Ausfalls zu ermitteln, um durch geeignete Maßnahmen ein erneutes Auftreten des gleichen Fehlers dauerhaft zu verhindern",
+        "Die Kosten des eingesetzten Ersatzteils zu minimieren, unabhängig von der Ausfallursache",
+        "Die Verantwortung für den Ausfall einer bestimmten Person zuzuweisen"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Root-Cause-Analyse wird systematisch nach der eigentlichen Grundursache eines Ausfalls gesucht, statt sich mit der Beseitigung des offensichtlichen Symptoms zu begnügen, um durch geeignete Abstellmaßnahmen ein wiederholtes Auftreten des Fehlers zu vermeiden.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Schadensanalyse"
+    },
+    {
+      "id": "tec-183",
+      "text": "Welche Sensorik wird typischerweise beim Condition Monitoring (Zustandsüberwachung) elektrischer Antriebe eingesetzt?",
+      "options": [
+        "Ausschließlich einfache Ein-/Aus-Schalter zur Betriebsartenerkennung",
+        "Ausschließlich Windmessgeräte zur Erfassung der Umgebungsbedingungen",
+        "Ausschließlich optische Sensoren zur Farberkennung des Motorgehäuses",
+        "Zum Beispiel Schwingungssensoren, Temperaturfühler und Stromsensoren, deren Messwerte kontinuierlich erfasst und auf Auffälligkeiten ausgewertet werden"
+      ],
+      "correct": 3,
+      "explanation": "Beim Condition Monitoring werden kontinuierlich Messgrößen wie Schwingung, Temperatur und Motorstrom durch entsprechende Sensoren erfasst und automatisiert ausgewertet, um Trends und Auffälligkeiten frühzeitig zu erkennen, bevor ein Ausfall eintritt.",
+      "difficulty": 2,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Condition Monitoring"
+    },
+    {
+      "id": "tec-184",
+      "text": "Wie verhalten sich die Gesamtkosten typischerweise, wenn eine rein reaktive (ausfallbedingte) Instandhaltungsstrategie durch eine vorbeugende oder zustandsorientierte Strategie ersetzt wird?",
+      "options": [
+        "Ungeplante Stillstands- und Folgekosten sinken in der Regel deutlicher, als die zusätzlichen Kosten für planmäßige Wartung und Überwachung steigen, sodass die Gesamtkosten über die Lebensdauer meist sinken",
+        "Die Gesamtkosten steigen praktisch immer deutlich an, da mehr Personal benötigt wird",
+        "Es ergibt sich grundsätzlich keinerlei Unterschied in den Gesamtkosten",
+        "Vorbeugende Instandhaltung verursacht ausschließlich höhere Materialkosten ohne jeden Nutzen"
+      ],
+      "correct": 0,
+      "explanation": "Auch wenn vorbeugende und zustandsorientierte Instandhaltung zusätzliche geplante Kosten verursachen, überwiegt in der Regel die Einsparung durch vermiedene ungeplante Stillstände, Folgeschäden und Produktionsausfälle, sodass die Gesamtkosten über die Anlagenlebensdauer sinken.",
+      "difficulty": 3,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Instandhaltungsstrategien"
+    },
+    {
+      "id": "tec-185",
+      "text": "Welches Ziel verfolgt ein strukturiertes Ersatzteilmanagement in der Instandhaltung elektrischer Anlagen?",
+      "options": [
+        "Ausschließlich die Minimierung der Lagerkosten unabhängig von der Verfügbarkeit",
+        "Die richtigen Ersatzteile in ausreichender Menge und mit angemessener Reaktionszeit verfügbar zu halten, um Stillstandszeiten im Störungsfall möglichst kurz zu halten, ohne unnötig hohe Lagerbestände aufzubauen",
+        "Die Abschaffung jeglicher Lagerhaltung von Ersatzteilen",
+        "Die ausschließliche Beschaffung von Ersatzteilen erst nach Eintritt eines Schadens"
+      ],
+      "correct": 1,
+      "explanation": "Ein gutes Ersatzteilmanagement wägt Verfügbarkeit und Lagerkosten gegeneinander ab: kritische Ersatzteile mit langer Beschaffungszeit werden bevorratet, um im Störungsfall die Stillstandszeit zu minimieren, während unnötig hohe Lagerbestände vermieden werden.",
+      "difficulty": 1,
+      "topic": "Instandhaltung elektrischer Anlagen",
+      "subtopic": "Ersatzteilmanagement"
+    },
+    {
+      "id": "tec-186",
+      "text": "Welchen Vorteil bietet Industrial Ethernet (Echtzeit-Ethernet) gegenüber klassischem Büro-Ethernet in der Automatisierungstechnik?",
+      "options": [
+        "Es garantiert durch spezielle Verfahren definierte, kurze und deterministische Übertragungszeiten, wie sie für zeitkritische Steuerungs- und Regelungsaufgaben benötigt werden",
+        "Es überträgt ausschließlich analoge Signale ohne jede Digitalisierung",
+        "Es benötigt grundsätzlich keine Verkabelung",
+        "Es ist ausschließlich für die Bürokommunikation, nicht aber für Maschinen geeignet"
+      ],
+      "correct": 0,
+      "explanation": "Industrial-Ethernet-Verfahren erweitern das Standard-Ethernet um Mechanismen, die deterministische, garantiert kurze Übertragungszeiten sicherstellen, was für zeitkritische Steuerungs- und Regelungsaufgaben in der Automatisierungstechnik erforderlich ist.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Industrial Ethernet"
+    },
+    {
+      "id": "tec-187",
+      "text": "Wofür wird RFID-Technologie (Radio Frequency Identification) typischerweise in automatisierten Produktionsprozessen eingesetzt?",
+      "options": [
+        "Ausschließlich zur Messung der Umgebungstemperatur",
+        "Ausschließlich zur drahtlosen Stromversorgung von Maschinen",
+        "Zur berührungslosen, eindeutigen Identifikation und Verfolgung von Werkstücken, Behältern oder Werkzeugen mittels Funkchips",
+        "Ausschließlich zur optischen Qualitätsprüfung von Bauteilen"
+      ],
+      "correct": 2,
+      "explanation": "RFID-Systeme ermöglichen die berührungslose, eindeutige Identifikation von Werkstücken, Ladungsträgern oder Werkzeugen über Funkchips (Transponder), wodurch sich Materialfluss und Produktionsprozesse lückenlos nachverfolgen lassen.",
+      "difficulty": 1,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Identifikationstechnik"
+    },
+    {
+      "id": "tec-188",
+      "text": "Worin unterscheidet sich Edge Computing grundsätzlich von klassischem Cloud Computing in industriellen Anwendungen?",
+      "options": [
+        "Beide Konzepte sind technisch identisch und unterscheiden sich nur im Namen",
+        "Edge Computing findet ausschließlich in zentralen Rechenzentren statt",
+        "Cloud Computing benötigt grundsätzlich keine Internetverbindung",
+        "Beim Edge Computing werden Daten bereits nahe am Entstehungsort, direkt in oder an der Maschine, vorverarbeitet, während Cloud Computing die Datenverarbeitung zentral in entfernten Rechenzentren durchführt"
+      ],
+      "correct": 3,
+      "explanation": "Edge Computing verlagert Datenverarbeitung und Vorauswertung direkt an den Ort der Datenentstehung, etwa in die Maschine oder Steuerung, um Reaktionszeiten zu verkürzen und Datenmengen zu reduzieren; Cloud Computing verarbeitet Daten dagegen zentral in entfernten Rechenzentren.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Edge und Cloud Computing"
+    },
+    {
+      "id": "tec-189",
+      "text": "Welche Funktion erfüllt ein IoT-Gateway in einer vernetzten Produktionsanlage?",
+      "options": [
+        "Es kann ausschließlich innerhalb eines einzigen Feldbussystems eingesetzt werden",
+        "Es ersetzt vollständig die speicherprogrammierbare Steuerung der Anlage",
+        "Es dient ausschließlich der Stromversorgung angeschlossener Sensoren",
+        "Es bündelt und übersetzt Daten unterschiedlicher Sensoren, Aktoren oder Feldbussysteme und stellt sie in einem einheitlichen Format für übergeordnete Systeme oder die Cloud bereit"
+      ],
+      "correct": 3,
+      "explanation": "Ein IoT-Gateway sammelt Daten aus unterschiedlichen Quellen wie Sensoren, Aktoren oder Feldbussen, wandelt sie in ein einheitliches Protokoll beziehungsweise Format um und leitet sie an übergeordnete Systeme, etwa eine Cloud-Plattform oder ein MES, weiter.",
+      "difficulty": 1,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "IoT-Technik"
+    },
+    {
+      "id": "tec-190",
+      "text": "Wofür wird Machine Learning beziehungsweise künstliche Intelligenz häufig im Rahmen der industriellen Bildverarbeitung (Machine Vision) eingesetzt?",
+      "options": [
+        "Ausschließlich zur Steuerung der Raumbeleuchtung in der Produktionshalle",
+        "Zur automatisierten Erkennung von Bauteilfehlern, Oberflächenmängeln oder Abweichungen anhand trainierter Bildmuster in der Qualitätskontrolle",
+        "Ausschließlich zur manuellen Dateneingabe durch das Bedienpersonal",
+        "Ausschließlich zur Berechnung der Netzfrequenz"
+      ],
+      "correct": 1,
+      "explanation": "Machine-Learning-Verfahren werden in der industriellen Bildverarbeitung eingesetzt, um anhand trainierter Bildmuster automatisiert Bauteilfehler, Oberflächenmängel oder sonstige Abweichungen in der Qualitätskontrolle zuverlässig zu erkennen.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Maschinelles Lernen"
+    },
+    {
+      "id": "tec-191",
+      "text": "Was versteht man unter dem Freiheitsgrad eines Industrieroboters, zum Beispiel bei einem sechsachsigen Knickarmroboter?",
+      "options": [
+        "Die maximale Traglast, die der Roboter am Endeffektor bewegen kann",
+        "Die maximale Verfahrgeschwindigkeit des Roboterarms",
+        "Die Anzahl unabhängig voneinander ansteuerbarer Bewegungsachsen, die die Beweglichkeit und Positioniermöglichkeiten des Roboters im Raum bestimmen",
+        "Die elektrische Anschlussleistung des Robotersteuerungssystems"
+      ],
+      "correct": 2,
+      "explanation": "Der Freiheitsgrad beschreibt die Anzahl unabhängig ansteuerbarer Achsen eines Roboters; ein sechsachsiger Knickarmroboter besitzt sechs Freiheitsgrade, wodurch Position und Orientierung des Endeffektors im Raum vollständig festgelegt werden können.",
+      "difficulty": 1,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Robotik"
+    },
+    {
+      "id": "tec-192",
+      "text": "Welches sicherheitstechnische Grundprinzip kennzeichnet einen kollaborierenden Roboter (Cobot) im Unterschied zu einem klassisch eingehausten Industrieroboter?",
+      "options": [
+        "Der Cobot ist grundsätzlich schneller und kräftiger als klassische Industrieroboter und benötigt daher keinerlei Schutzeinrichtung",
+        "Der Cobot ist so konstruiert und abgesichert, zum Beispiel durch Kraft- und Leistungsbegrenzung oder Sensorik, dass eine direkte Zusammenarbeit mit dem Menschen ohne trennende Schutzzäune möglich ist",
+        "Ein Cobot darf ausschließlich innerhalb eines vollständig eingehausten Bereichs betrieben werden",
+        "Cobots benötigen grundsätzlich keine Risikobeurteilung vor der Inbetriebnahme"
+      ],
+      "correct": 1,
+      "explanation": "Kollaborierende Roboter sind so ausgelegt, etwa durch Kraft- und Leistungsbegrenzung, Sensorik oder abgerundete Bauteile, dass unter bestimmten Bedingungen eine direkte Zusammenarbeit mit dem Menschen ohne trennende Schutzeinrichtungen möglich ist; dennoch bleibt eine anwendungsspezifische Risikobeurteilung erforderlich.",
+      "difficulty": 3,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Robotik"
+    },
+    {
+      "id": "tec-193",
+      "text": "Welche Aufgabe hat ein Bildverarbeitungssystem (Machine Vision) in der automatisierten Qualitätskontrolle einer Produktionslinie?",
+      "options": [
+        "Es dient ausschließlich der Beleuchtung des Arbeitsplatzes",
+        "Es erfasst mittels Kamera und Bildauswertung geometrische Merkmale, Vorhandensein von Bauteilen oder Oberflächenfehler und vergleicht diese automatisiert mit vorgegebenen Toleranzen",
+        "Es ersetzt vollständig die mechanische Messtechnik in jeder Anwendung",
+        "Es kann ausschließlich Farben, aber keine Formen oder Maße erkennen"
+      ],
+      "correct": 1,
+      "explanation": "Ein Machine-Vision-System nimmt mit einer oder mehreren Kameras Bilder auf und wertet sie automatisiert aus, um zum Beispiel Bauteilvorhandensein, Positionierung, Maße oder Oberflächenfehler mit hinterlegten Toleranzen zu vergleichen und daraus eine Gut-/Schlecht-Entscheidung abzuleiten.",
+      "difficulty": 1,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Bildverarbeitung"
+    },
+    {
+      "id": "tec-194",
+      "text": "Welche Aufgabe erfüllt eine Firewall beziehungsweise eine demilitarisierte Zone (DMZ) an der Schnittstelle zwischen Office-IT und industrieller Automatisierungstechnik (OT)?",
+      "options": [
+        "Sie trennt und überwacht den Datenverkehr zwischen Büronetzwerk und Produktionsnetzwerk kontrolliert, um unautorisierte Zugriffe und die Ausbreitung von Schadsoftware in die Produktionsanlagen zu verhindern",
+        "Sie beschleunigt ausschließlich die Datenübertragung zwischen beiden Netzwerken",
+        "Sie ersetzt vollständig die physische Verkabelung der Anlage",
+        "Sie dient ausschließlich der Datensicherung, nicht aber der Zugriffskontrolle"
+      ],
+      "correct": 0,
+      "explanation": "Firewalls und demilitarisierte Zonen kontrollieren und beschränken den Datenverkehr zwischen dem Office-Netzwerk und dem Produktionsnetzwerk gezielt, um zu verhindern, dass unautorisierte Zugriffe oder Schadsoftware aus der Office-IT in sicherheitskritische Produktionsanlagen gelangen.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "IT/OT-Sicherheit"
+    },
+    {
+      "id": "tec-195",
+      "text": "Was versteht man unter einem Retrofit im Kontext der Automatisierung bestehender, älterer Produktionsanlagen?",
+      "options": [
+        "Den vollständigen Neubau der Anlage an einem neuen Standort",
+        "Die ausschließlich kosmetische Erneuerung des Anlagengehäuses",
+        "Den ersatzlosen Rückbau einer nicht mehr benötigten Anlage",
+        "Die Nachrüstung einer bestehenden Anlage mit moderner Sensorik, Steuerungstechnik oder Vernetzung, um sie mit vertretbarem Aufwand funktional und digital auf einen aktuellen Stand zu bringen"
+      ],
+      "correct": 3,
+      "explanation": "Beim Retrofit wird eine bestehende, oft ältere Anlage mit moderner Sensorik, Steuerungstechnik oder Kommunikationsschnittstellen nachgerüstet, um sie funktional zu verbessern und in vernetzte, digitale Produktionsumgebungen einzubinden, ohne die gesamte Anlage neu zu beschaffen.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Retrofit"
+    },
+    {
+      "id": "tec-196",
+      "text": "Welche Entwicklungsstufe kennzeichnet historisch den Übergang von Industrie 2.0 zu Industrie 3.0 in der gängigen Einteilung der industriellen Revolutionen?",
+      "options": [
+        "Die Einführung der Dampfmaschine und mechanischer Produktionsanlagen",
+        "Die Einführung arbeitsteiliger Massenproduktion mithilfe elektrischer Energie, zum Beispiel am Fließband",
+        "Die durchgängige Vernetzung von Maschinen, Produkten und IT-Systemen zu cyber-physischen Systemen",
+        "Die zunehmende Automatisierung der Produktion durch Elektronik, speicherprogrammierbare Steuerungen und Informationstechnik"
+      ],
+      "correct": 3,
+      "explanation": "Industrie 3.0 kennzeichnet den Übergang von rein elektrisch angetriebener Massenproduktion (Industrie 2.0) hin zu einer zunehmend elektronisch und informationstechnisch automatisierten Produktion, unter anderem durch den Einsatz speicherprogrammierbarer Steuerungen; Industrie 4.0 baut darauf mit durchgängiger Vernetzung auf.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Industrielle Revolutionen"
+    },
+    {
+      "id": "tec-197",
+      "text": "Wofür wird der einfache Sensor-Aktor-Bus AS-Interface (AS-i) in der Automatisierungstechnik typischerweise eingesetzt?",
+      "options": [
+        "Zur hochauflösenden Videoübertragung zwischen Leitständen",
+        "Ausschließlich zur Übertragung von Video- und Audiosignalen in der Fertigung",
+        "Zur kostengünstigen Verbindung einfacher binärer Sensoren und Aktoren auf Feldebene über ein einziges, ungeschirmtes Zweidraht-Buskabel",
+        "Ausschließlich zur Programmierung von Prozessleitsystemen"
+      ],
+      "correct": 2,
+      "explanation": "AS-Interface ist ein einfaches, kostengünstiges Bussystem zur Anbindung binärer Sensoren und Aktoren auf unterster Feldebene, bei dem Daten und Versorgungsspannung über ein einziges, ungeschirmtes Zweidraht-Flachbandkabel übertragen werden.",
+      "difficulty": 1,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Feldbussysteme"
+    },
+    {
+      "id": "tec-198",
+      "text": "Was kennzeichnet ein isochrones Echtzeit-Ethernet-Verfahren wie Profinet IRT (Isochronous Real Time) gegenüber Standard-Profinet?",
+      "options": [
+        "Es ist ausschließlich für die Bürokommunikation vorgesehen",
+        "Es überträgt ausschließlich analoge Signale ohne digitale Datenpakete",
+        "Es benötigt grundsätzlich keine Netzwerkinfrastruktur",
+        "Es garantiert durch ein streng getaktetes, deterministisches Zeitschema besonders kurze und synchronisierte Zykluszeiten für hochdynamische Bewegungsabläufe, etwa in der Antriebssynchronisation"
+      ],
+      "correct": 3,
+      "explanation": "Profinet IRT nutzt ein streng getaktetes, deterministisches Zeitschema, das besonders kurze und exakt synchronisierte Zykluszeiten ermöglicht, wie sie für hochdynamische, synchronisierte Bewegungsabläufe etwa in der Antriebstechnik benötigt werden.",
+      "difficulty": 3,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Echtzeitkommunikation"
+    },
+    {
+      "id": "tec-199",
+      "text": "Was versteht man unter vertikaler Integration im Sinne von Industrie 4.0 innerhalb eines Unternehmens?",
+      "options": [
+        "Die räumliche Anordnung von Maschinen in einer Fertigungshalle",
+        "Die ausschließliche Vernetzung von Unternehmen mit ihren externen Zulieferern und Kunden",
+        "Die durchgängige, digitale Verknüpfung der Datenflüsse von der Feldebene über die Steuerungs- und Leitebene bis hinauf zur Unternehmensplanungsebene (ERP)",
+        "Die Verwendung ausschließlich mechanischer Übertragungselemente in einer Anlage"
+      ],
+      "correct": 2,
+      "explanation": "Vertikale Integration bezeichnet die durchgängige digitale Verknüpfung der verschiedenen Ebenen innerhalb eines Unternehmens, von der Feld- und Steuerungsebene über Leitsysteme und MES bis zur betriebswirtschaftlichen ERP-Ebene, sodass Daten konsistent und ohne Medienbrüche ausgetauscht werden.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Vertikale Integration"
+    },
+    {
+      "id": "tec-200",
+      "text": "Was versteht man unter horizontaler Integration im Kontext von Industrie 4.0?",
+      "options": [
+        "Die Verknüpfung der Datenflüsse ausschließlich innerhalb eines einzelnen Unternehmens von der Feld- bis zur ERP-Ebene",
+        "Die Vernetzung und den Datenaustausch entlang der gesamten Wertschöpfungskette, also zum Beispiel zwischen Zulieferern, Produktionsstandorten und Kunden über Unternehmensgrenzen hinweg",
+        "Die räumliche Anordnung von Maschinen entlang einer Fertigungslinie",
+        "Ausschließlich die Vernetzung von Sensoren mit der zugehörigen Steuerung an einer einzelnen Maschine"
+      ],
+      "correct": 1,
+      "explanation": "Horizontale Integration beschreibt die Vernetzung und den durchgängigen Datenaustausch entlang der gesamten Wertschöpfungskette über Unternehmensgrenzen hinweg, etwa zwischen Zulieferern, Produktionsstandorten, Logistik und Kunden, im Unterschied zur unternehmensinternen vertikalen Integration.",
+      "difficulty": 2,
+      "topic": "Automatisierungstechnik & Digitalisierung",
+      "subtopic": "Horizontale Integration"
+    }
+  ]
+}

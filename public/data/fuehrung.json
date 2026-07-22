@@ -1,0 +1,3004 @@
+{
+  "questions": [
+    {
+      "id": "fue-001",
+      "text": "Welche Aussage beschreibt den kooperativen Führungsstil zutreffend?",
+      "options": [
+        "Mitarbeiter werden in Entscheidungsprozesse einbezogen und tragen Mitverantwortung.",
+        "Die Führungskraft überlässt der Gruppe alle Entscheidungen ohne Eingriff.",
+        "Die Führungskraft trifft alle Entscheidungen allein und ohne Rücksprache.",
+        "Anweisungen werden ausschließlich schriftlich fixiert."
+      ],
+      "correct": 0,
+      "explanation": "Beim kooperativen (demokratischen) Führungsstil werden Mitarbeiter aktiv an Entscheidungen beteiligt und übernehmen Mitverantwortung für die Ergebnisse.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Kooperativer Führungsstil"
+    },
+    {
+      "id": "fue-002",
+      "text": "Welches Merkmal ist typisch für den autoritären Führungsstil?",
+      "options": [
+        "Völlige Handlungsfreiheit der Mitarbeiter",
+        "Alleinige Entscheidungsbefugnis der Führungskraft ohne Mitwirkung der Mitarbeiter",
+        "Delegation der Gesamtverantwortung an die Mitarbeiter",
+        "Gruppenentscheidungen im Konsens"
+      ],
+      "correct": 1,
+      "explanation": "Der autoritäre Führungsstil ist dadurch gekennzeichnet, dass die Führungskraft Entscheidungen allein trifft und Anweisungen erteilt.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Autoritärer Führungsstil"
+    },
+    {
+      "id": "fue-003",
+      "text": "Wonach richtet sich die Wahl des Führungsverhaltens im situativen Führungsstil nach Hersey und Blanchard?",
+      "options": [
+        "Nach der Tageszeit",
+        "Nach der Anzahl der Mitarbeiter im Unternehmen",
+        "Nach dem Reifegrad (Kompetenz und Motivation) der Mitarbeiter",
+        "Ausschließlich nach der Unternehmensgröße"
+      ],
+      "correct": 2,
+      "explanation": "Im situativen Führungsmodell passt die Führungskraft ihr Verhalten an den jeweiligen Reifegrad des Mitarbeiters hinsichtlich Fähigkeit und Motivation an.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Situativer Führungsstil (Hersey/Blanchard)"
+    },
+    {
+      "id": "fue-004",
+      "text": "Welches Risiko ist mit dem Laissez-faire-Führungsstil besonders verbunden?",
+      "options": [
+        "Zu enge, kleinteilige Zielvorgaben",
+        "Zu hohe Fehlerquote durch strenge Vorgaben",
+        "Übermäßige Kontrolle der Mitarbeiter",
+        "Mangelnde Orientierung und Koordination durch fehlende Führung"
+      ],
+      "correct": 3,
+      "explanation": "Da die Führungskraft sich beim Laissez-faire-Stil weitgehend zurückzieht, fehlt es häufig an Orientierung, Koordination und Zielklarheit.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Laissez-faire-Führungsstil"
+    },
+    {
+      "id": "fue-005",
+      "text": "Welche beiden Dimensionen bilden die Grundlage des Verhaltensgitters (Managerial Grid) von Blake und Mouton?",
+      "options": [
+        "Mitarbeiterorientierung und Aufgabenorientierung (Sachorientierung)",
+        "Qualität und Quantität der Produktion",
+        "Zeit und Kosten",
+        "Risiko und Ertrag einer Entscheidung"
+      ],
+      "correct": 0,
+      "explanation": "Das Verhaltensgitter ordnet Führungsverhalten anhand der zwei Dimensionen Mitarbeiterorientierung und Aufgabenorientierung ein.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Verhaltensgitter Blake/Mouton"
+    },
+    {
+      "id": "fue-006",
+      "text": "Was kennzeichnet das Führungskonzept 'Management by Objectives' (Führen durch Zielvereinbarung)?",
+      "options": [
+        "Der Vorgesetzte kontrolliert ausschließlich den Weg, nicht das Ergebnis.",
+        "Ziele werden zwischen Führungskraft und Mitarbeiter vereinbart, der Weg zur Zielerreichung bleibt weitgehend dem Mitarbeiter überlassen.",
+        "Zielverfehlung wird ausschließlich mit Bestrafung sanktioniert.",
+        "Jeder Arbeitsschritt wird täglich einzeln kontrolliert."
+      ],
+      "correct": 1,
+      "explanation": "Beim Management by Objectives werden Ergebnisziele vereinbart, während der Mitarbeiter über den Weg zur Zielerreichung selbst entscheidet.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Management by Objectives"
+    },
+    {
+      "id": "fue-007",
+      "text": "Was versteht man unter 'Management by Exception'?",
+      "options": [
+        "Mitarbeiter werden vollständig von allen Aufgaben ausgenommen.",
+        "Nur besonders leistungsstarke Mitarbeiter werden überhaupt geführt.",
+        "Die Führungskraft greift nur bei Abweichungen von der Norm oder in Ausnahmefällen ein.",
+        "Die Führungskraft trifft grundsätzlich jede Entscheidung selbst."
+      ],
+      "correct": 2,
+      "explanation": "Bei Management by Exception delegiert die Führungskraft den Regelbetrieb und greift nur bei außergewöhnlichen Abweichungen ein.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Management by Exception"
+    },
+    {
+      "id": "fue-008",
+      "text": "Was muss bei einer echten Delegation zusammen mit der Aufgabe übertragen werden?",
+      "options": [
+        "Ausschließlich die Verantwortung, ohne Entscheidungskompetenz.",
+        "Ausschließlich die Kompetenz, ohne konkrete Aufgabe.",
+        "Nur die Aufgabe, nicht mehr.",
+        "Aufgabe, Kompetenz und Verantwortung müssen im Gleichgewicht übertragen werden."
+      ],
+      "correct": 3,
+      "explanation": "Eine funktionierende Delegation setzt voraus, dass Aufgabe, Kompetenz und Handlungsverantwortung im Kongruenzprinzip übereinstimmen.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Delegation"
+    },
+    {
+      "id": "fue-009",
+      "text": "Welche Verantwortung verbleibt bei der Führungskraft, auch wenn eine Aufgabe delegiert wurde?",
+      "options": [
+        "Die Führungsverantwortung, z. B. Auswahl-, Kontroll- und Überwachungsverantwortung",
+        "Die komplette Ausführungsverantwortung für jeden Arbeitsschritt",
+        "Ausschließlich die Verantwortung gegenüber Kunden",
+        "Keinerlei Verantwortung mehr"
+      ],
+      "correct": 0,
+      "explanation": "Auch bei Delegation trägt die Führungskraft weiterhin die Führungsverantwortung, etwa für die richtige Auswahl des Mitarbeiters und die Überwachung des Ergebnisses.",
+      "difficulty": 3,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Führungsverantwortung bei Delegation"
+    },
+    {
+      "id": "fue-010",
+      "text": "Was beschreibt der Begriff 'Führungsspanne' (Kontrollspanne)?",
+      "options": [
+        "Die Entfernung zwischen verschiedenen Unternehmensstandorten",
+        "Die Anzahl der einer Führungskraft direkt unterstellten Mitarbeiter",
+        "Den Zeitraum der Amtszeit einer Führungskraft",
+        "Die Anzahl der Führungsebenen im Unternehmen"
+      ],
+      "correct": 1,
+      "explanation": "Die Führungsspanne gibt an, wie viele Mitarbeiter einer Führungskraft direkt unterstellt sind.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Führungsspanne"
+    },
+    {
+      "id": "fue-011",
+      "text": "Worin unterscheiden sich disziplinarischer und fachlicher Vorgesetzter?",
+      "options": [
+        "Es besteht kein inhaltlicher Unterschied zwischen beiden Rollen.",
+        "Der fachliche Vorgesetzte ist immer ranghöher als der disziplinarische.",
+        "Der disziplinarische Vorgesetzte entscheidet über personelle Angelegenheiten wie Urlaub oder Beurteilung, der fachliche über die inhaltliche Arbeit.",
+        "Nur der disziplinarische Vorgesetzte darf überhaupt Anweisungen erteilen."
+      ],
+      "correct": 2,
+      "explanation": "Der disziplinarische Vorgesetzte trägt Personalverantwortung, während der fachliche Vorgesetzte die inhaltliche Arbeit steuert; beide Rollen können auf verschiedene Personen verteilt sein.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Disziplinarische und fachliche Führung"
+    },
+    {
+      "id": "fue-012",
+      "text": "Worauf bezieht sich die Vorbildfunktion einer Führungskraft?",
+      "options": [
+        "Sie hat keinerlei Bedeutung für die Mitarbeitermotivation",
+        "Ausschließlich auf den Umgang mit externen Kunden",
+        "Ausschließlich auf die Kleiderordnung im Betrieb",
+        "Die Führungskraft soll Werte und Normen wie Pünktlichkeit und Zuverlässigkeit durch eigenes Verhalten vorleben."
+      ],
+      "correct": 3,
+      "explanation": "Führungskräfte prägen durch ihr eigenes Verhalten die Unternehmenskultur und die Erwartungen an die Mitarbeiter.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Vorbildfunktion"
+    },
+    {
+      "id": "fue-013",
+      "text": "Wodurch zeichnet sich transformationale Führung besonders aus?",
+      "options": [
+        "Durch Inspiration, Vision und Förderung der intrinsischen Motivation der Mitarbeiter",
+        "Durch reine Belohnung erbrachter Leistung im Sinne eines Tauschgeschäfts",
+        "Durch ausschließliche Bestrafung bei Fehlverhalten",
+        "Durch vollständigen Verzicht auf persönlichen Kontakt zu den Mitarbeitern"
+      ],
+      "correct": 0,
+      "explanation": "Transformationale Führung motiviert Mitarbeiter durch eine gemeinsame Vision und stärkt deren intrinsische Motivation über das übliche Maß hinaus.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Transformationale Führung"
+    },
+    {
+      "id": "fue-014",
+      "text": "Worauf beruht transaktionale Führung im Kern?",
+      "options": [
+        "Ausschließlich auf dem Laissez-faire-Prinzip",
+        "Auf einer Austauschbeziehung: Leistung gegen Belohnung bzw. Gegenleistung",
+        "Ausschließlich auf Gruppenentscheidungen ohne Zielvorgaben",
+        "Auf einer reinen Vision ohne konkrete Zielvorgaben"
+      ],
+      "correct": 1,
+      "explanation": "Transaktionale Führung basiert auf klar definierten Zielen und einem Austausch von Leistung gegen vereinbarte Belohnung.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Transaktionale Führung"
+    },
+    {
+      "id": "fue-015",
+      "text": "Wofür steht das 'M' in den SMART-Kriterien zur Zielformulierung?",
+      "options": [
+        "Motivierend",
+        "Modern",
+        "Messbar",
+        "Machtvoll"
+      ],
+      "correct": 2,
+      "explanation": "SMART steht für Spezifisch, Messbar, Akzeptiert/Attraktiv, Realistisch und Terminiert; das 'M' bezeichnet die Messbarkeit eines Ziels.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "SMART-Kriterien"
+    },
+    {
+      "id": "fue-016",
+      "text": "Wozu dienen schriftlich fixierte Führungsgrundsätze in einem Unternehmen vor allem?",
+      "options": [
+        "Sie besitzen dieselbe rechtliche Bindungswirkung wie ein Gesetz.",
+        "Sie dienen ausschließlich der Außendarstellung gegenüber Kunden.",
+        "Sie ersetzen den Abschluss individueller Arbeitsverträge.",
+        "Sie schaffen eine einheitliche Orientierung für das Führungsverhalten im gesamten Unternehmen."
+      ],
+      "correct": 3,
+      "explanation": "Führungsgrundsätze sind interne Leitlinien, die ein einheitliches Führungsverständnis und -verhalten im Unternehmen fördern sollen.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Führungsgrundsätze"
+    },
+    {
+      "id": "fue-017",
+      "text": "Was beschreibt die sogenannte 'Sandwich-Position' einer Führungskraft?",
+      "options": [
+        "Den Konflikt durch gleichzeitige, teils widersprüchliche Anforderungen von Vorgesetzten und eigenen Mitarbeitern",
+        "Einen Konflikt ausschließlich um die Höhe des eigenen Gehalts",
+        "Einen Konflikt zwischen zwei konkurrierenden Unternehmen",
+        "Einen Konflikt zwischen zwei externen Kunden des Unternehmens"
+      ],
+      "correct": 0,
+      "explanation": "Führungskräfte der mittleren Ebene stehen häufig zwischen den Erwartungen der oberen Leitung und denen ihrer Mitarbeiter, was zu Rollenkonflikten führen kann.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Rollenkonflikt / Sandwich-Position"
+    },
+    {
+      "id": "fue-018",
+      "text": "Was besagt das Sender-Empfänger-Modell im Kern über Kommunikation?",
+      "options": [
+        "Der Empfänger hat keinerlei Einfluss auf den Kommunikationsprozess.",
+        "Eine Nachricht kann durch Störungen zwischen Sender und Empfänger verzerrt oder falsch verstanden werden.",
+        "Der Sender ist immer allein für das korrekte Verständnis beim Empfänger verantwortlich.",
+        "Kommunikation funktioniert ausschließlich schriftlich."
+      ],
+      "correct": 1,
+      "explanation": "Das Sender-Empfänger-Modell zeigt, dass Kommunikation durch Störungen (Codierung, Kanal, Decodierung) beeinträchtigt und missverstanden werden kann.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Sender-Empfänger-Modell"
+    },
+    {
+      "id": "fue-019",
+      "text": "Welche vier Ebenen enthält eine Nachricht nach dem Vier-Ohren-Modell von Schulz von Thun?",
+      "options": [
+        "Ziel, Weg, Mittel und Kontrolle",
+        "Sender, Kanal, Empfänger und Feedback",
+        "Sachinhalt, Selbstoffenbarung, Beziehung und Appell",
+        "Lautstärke, Tonfall, Mimik und Gestik"
+      ],
+      "correct": 2,
+      "explanation": "Nach Schulz von Thun enthält jede Nachricht die vier Ebenen Sachinhalt, Selbstoffenbarung, Beziehung und Appell.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Vier-Ohren-Modell"
+    },
+    {
+      "id": "fue-020",
+      "text": "Was ist ein kennzeichnendes Merkmal des aktiven Zuhörens?",
+      "options": [
+        "Der Zuhörer schweigt nur und gibt keinerlei Rückmeldung.",
+        "Der Zuhörer bewertet die Aussage sofort und ungefragt.",
+        "Der Zuhörer unterbricht möglichst häufig, um eigene Meinungen einzubringen.",
+        "Der Zuhörer fasst das Gehörte in eigenen Worten zusammen und stellt Rückfragen."
+      ],
+      "correct": 3,
+      "explanation": "Aktives Zuhören zeigt sich durch Paraphrasieren, Rückfragen und Signale des Verständnisses gegenüber dem Sprechenden.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Aktives Zuhören"
+    },
+    {
+      "id": "fue-021",
+      "text": "Wozu dient eine Ich-Botschaft in einem Kritikgespräch vor allem?",
+      "options": [
+        "Um eigene Wahrnehmungen und Gefühle auszudrücken, ohne den Gesprächspartner anzugreifen",
+        "Um dem Gesprächspartner unmittelbar die Schuld zuzuweisen",
+        "Um Kritik durch Schweigen zu vermeiden",
+        "Um Anweisungen möglichst autoritär zu formulieren"
+      ],
+      "correct": 0,
+      "explanation": "Ich-Botschaften formulieren die eigene Wahrnehmung und Wirkung eines Verhaltens, ohne den anderen pauschal zu beschuldigen, und wirken dadurch deeskalierend.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Ich-Botschaften"
+    },
+    {
+      "id": "fue-022",
+      "text": "Welche Aussage zu wirksamen Feedbackregeln ist zutreffend?",
+      "options": [
+        "Feedback sollte erst Wochen nach dem Vorfall gegeben werden.",
+        "Feedback sollte konkret, zeitnah und verhaltensbezogen formuliert werden.",
+        "Feedback sollte sich immer auf die Persönlichkeit und nicht auf das Verhalten beziehen.",
+        "Feedback sollte möglichst allgemein gehalten werden, um niemanden zu verletzen."
+      ],
+      "correct": 1,
+      "explanation": "Wirksames Feedback ist konkret, bezieht sich auf beobachtbares Verhalten und wird zeitnah zum Ereignis gegeben.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Feedbackregeln"
+    },
+    {
+      "id": "fue-023",
+      "text": "Was bezeichnet der 'blinde Fleck' im Johari-Fenster?",
+      "options": [
+        "Informationen, die man bewusst vor anderen verbirgt",
+        "Bereiche, die weder einem selbst noch anderen bekannt sind",
+        "Verhaltensweisen, die anderen bekannt, der eigenen Person aber nicht bewusst sind",
+        "Den öffentlichen, allen bekannten Bereich der Persönlichkeit"
+      ],
+      "correct": 2,
+      "explanation": "Der blinde Fleck umfasst Aspekte der eigenen Person, die anderen auffallen, einem selbst jedoch nicht bewusst sind, z. B. durch Feedback erkennbar.",
+      "difficulty": 3,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Johari-Fenster"
+    },
+    {
+      "id": "fue-024",
+      "text": "Wodurch entsteht typischerweise ein Sachkonflikt?",
+      "options": [
+        "Durch Konkurrenz um knappe Ressourcen",
+        "Durch persönliche Antipathie zwischen zwei Mitarbeitern",
+        "Durch unterschiedliche Grundwerte und Weltanschauungen",
+        "Durch unterschiedliche Auffassungen über Fakten, Ziele oder Vorgehensweisen"
+      ],
+      "correct": 3,
+      "explanation": "Ein Sachkonflikt beruht auf unterschiedlichen Meinungen zu objektiven Fragestellungen wie Zielen, Fakten oder dem richtigen Vorgehen.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Konfliktarten"
+    },
+    {
+      "id": "fue-025",
+      "text": "Was ist kennzeichnend für die erste Eskalationsstufe 'Verhärtung' nach Glasl?",
+      "options": [
+        "Standpunkte verhärten sich, es kommt gelegentlich zu Spannungen, Kooperation ist aber noch möglich.",
+        "Es kommt bereits zu offener Gewaltandrohung zwischen den Parteien.",
+        "Die Konfliktparteien suchen keinerlei Kontakt mehr zueinander.",
+        "Eine dritte Partei wird zwangsweise zur Konfliktlösung eingeschaltet."
+      ],
+      "correct": 0,
+      "explanation": "Auf der ersten Eskalationsstufe nach Glasl treten erste Spannungen auf, eine sachliche Zusammenarbeit ist jedoch grundsätzlich noch möglich.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Eskalationsstufen nach Glasl"
+    },
+    {
+      "id": "fue-026",
+      "text": "Was umfasst nonverbale Kommunikation vor allem?",
+      "options": [
+        "Ausschließlich das gesprochene Wort",
+        "Körpersprache, Mimik, Gestik und Tonfall",
+        "Ausschließlich schriftliche E-Mails",
+        "Ausschließlich die Wahl der Fachbegriffe"
+      ],
+      "correct": 1,
+      "explanation": "Nonverbale Kommunikation transportiert Informationen über Körperhaltung, Gestik, Mimik und Stimmklang, unabhängig vom gesprochenen Inhalt.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Nonverbale Kommunikation"
+    },
+    {
+      "id": "fue-027",
+      "text": "Wie wirken sich sogenannte 'Killerphrasen' in Besprechungen aus?",
+      "options": [
+        "Sie gelten als anerkannte Moderationstechnik.",
+        "Sie fördern konstruktive Diskussionen und neue Ideen.",
+        "Sie blockieren Kreativität und ersticken neue Ideen im Keim, z. B. 'Das haben wir noch nie so gemacht'.",
+        "Sie dienen der sachlichen Konfliktlösung."
+      ],
+      "correct": 2,
+      "explanation": "Killerphrasen sind pauschale Killer-Argumente, die neue Ideen abwürgen, ohne sich inhaltlich mit ihnen auseinanderzusetzen.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Killerphrasen"
+    },
+    {
+      "id": "fue-028",
+      "text": "Was bedeutet Konfliktlösung durch einen Kompromiss?",
+      "options": [
+        "Der Konflikt wird ignoriert, bis er sich von selbst löst.",
+        "Eine Partei setzt sich vollständig gegen die andere durch.",
+        "Eine unbeteiligte Instanz entscheidet ohne Beteiligung der Konfliktparteien.",
+        "Beide Parteien geben etwas nach, sodass keine Seite ihre ursprüngliche Position vollständig durchsetzt."
+      ],
+      "correct": 3,
+      "explanation": "Ein Kompromiss bedeutet, dass beide Seiten Zugeständnisse machen, um zu einer für beide akzeptablen Lösung zu kommen.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Konfliktlösungsstrategien"
+    },
+    {
+      "id": "fue-029",
+      "text": "Worin unterscheidet sich ein Konsens von einem Kompromiss bei der Konfliktlösung?",
+      "options": [
+        "Beim Konsens tragen alle Parteien die Lösung inhaltlich mit, beim Kompromiss wird lediglich ein für beide Seiten akzeptabler Mittelweg gefunden.",
+        "Ein Konsens wird stets per Mehrheitsbeschluss erzwungen.",
+        "Ein Kompromiss erfordert immer eine dritte Vermittlungsperson.",
+        "Beide Begriffe sind vollständig gleichbedeutend."
+      ],
+      "correct": 0,
+      "explanation": "Beim Konsens stimmen alle Beteiligten der Lösung inhaltlich zu, während ein Kompromiss lediglich einen Mittelweg mit gegenseitigen Zugeständnissen darstellt.",
+      "difficulty": 3,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Konsens vs. Kompromiss"
+    },
+    {
+      "id": "fue-030",
+      "text": "Wie sollte ein Kritikgespräch mit einem Mitarbeiter grundsätzlich geführt werden?",
+      "options": [
+        "Ausschließlich schriftlich per Rundmail",
+        "Unter vier Augen, sachlich und zeitnah nach dem Vorfall",
+        "Vor der versammelten Belegschaft",
+        "Möglichst lange hinausgezögert"
+      ],
+      "correct": 1,
+      "explanation": "Kritikgespräche sollten vertraulich, sachlich und möglichst zeitnah zum Vorfall geführt werden, um Wirkung zu entfalten und Vertrauen zu wahren.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Mitarbeitergespräche"
+    },
+    {
+      "id": "fue-031",
+      "text": "Was ist das vorrangige Ziel der Deeskalation in einem Konfliktgespräch?",
+      "options": [
+        "Eine der Konfliktparteien bloßzustellen",
+        "Das Thema des Konflikts endgültig zu ignorieren",
+        "Die emotionale Anspannung zu reduzieren, um eine sachliche Lösung zu ermöglichen",
+        "Den Konflikt schnellstmöglich weiter zu verschärfen"
+      ],
+      "correct": 2,
+      "explanation": "Deeskalation zielt darauf ab, emotionale Spannungen abzubauen, damit die Beteiligten wieder sachlich miteinander sprechen können.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Deeskalation"
+    },
+    {
+      "id": "fue-032",
+      "text": "Aus welchen vier Schritten besteht die Gewaltfreie Kommunikation nach Rosenberg?",
+      "options": [
+        "Befehl, Kontrolle, Sanktion, Belohnung",
+        "Angriff, Verteidigung, Rückzug, Versöhnung",
+        "Analyse, Planung, Durchführung, Kontrolle",
+        "Beobachtung, Gefühl, Bedürfnis, Bitte"
+      ],
+      "correct": 3,
+      "explanation": "Die Gewaltfreie Kommunikation nach Rosenberg gliedert sich in die Schritte Beobachtung, Gefühl, Bedürfnis und Bitte.",
+      "difficulty": 3,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Gewaltfreie Kommunikation"
+    },
+    {
+      "id": "fue-033",
+      "text": "Was bedeutet Metakommunikation?",
+      "options": [
+        "Kommunikation über die Art und Weise, wie miteinander kommuniziert wird",
+        "Kommunikation ausschließlich über digitale Medien",
+        "Kommunikation zwischen mehr als zwei Personen gleichzeitig",
+        "Kommunikation vollständig ohne Worte"
+      ],
+      "correct": 0,
+      "explanation": "Metakommunikation bedeutet, den Kommunikationsprozess selbst zum Gesprächsthema zu machen, etwa um Missverständnisse zu klären.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Metakommunikation"
+    },
+    {
+      "id": "fue-034",
+      "text": "Wodurch entsteht insbesondere ein Wertekonflikt?",
+      "options": [
+        "Durch technische Störungen im Kommunikationskanal",
+        "Durch unterschiedliche grundlegende Überzeugungen, Normen oder Weltanschauungen der Beteiligten",
+        "Durch unklare Zuständigkeiten im Team",
+        "Durch Streit um die Verteilung knapper Ressourcen"
+      ],
+      "correct": 1,
+      "explanation": "Wertekonflikte entstehen, wenn grundlegende Überzeugungen, Normen oder Weltanschauungen der Beteiligten aufeinanderprallen.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Konfliktarten"
+    },
+    {
+      "id": "fue-035",
+      "text": "Welche Bedürfnisstufe bildet nach Maslow die unterste Ebene der Bedürfnispyramide?",
+      "options": [
+        "Sicherheitsbedürfnisse",
+        "Selbstverwirklichung",
+        "Physiologische Grundbedürfnisse wie Nahrung und Schlaf",
+        "Soziale Bedürfnisse"
+      ],
+      "correct": 2,
+      "explanation": "Die Basis der Maslowschen Bedürfnispyramide bilden physiologische Grundbedürfnisse wie Nahrung, Schlaf und Atmung.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Maslowsche Bedürfnispyramide"
+    },
+    {
+      "id": "fue-036",
+      "text": "Wie müssen Bedürfnisse einer Stufe nach Maslow grundsätzlich erfüllt sein, damit die nächsthöhere Stufe handlungsleitend wird?",
+      "options": [
+        "Vollständig ignoriert",
+        "In beliebiger Reihenfolge, unabhängig vom Erfüllungsgrad",
+        "Nur die höchste Stufe zählt für die Motivation",
+        "Weitgehend befriedigt, bevor die nächsthöhere Bedürfnisstufe wirksam wird"
+      ],
+      "correct": 3,
+      "explanation": "Nach Maslow werden höhere Bedürfnisstufen erst dann handlungsleitend, wenn die darunterliegenden Stufen weitgehend befriedigt sind.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Maslowsche Bedürfnispyramide"
+    },
+    {
+      "id": "fue-037",
+      "text": "Wie unterscheidet Herzbergs Zwei-Faktoren-Theorie zwischen Einflussfaktoren auf die Arbeitszufriedenheit?",
+      "options": [
+        "In Motivatoren (z. B. Anerkennung, Verantwortung) und Hygienefaktoren (z. B. Gehalt, Arbeitsbedingungen)",
+        "In Führungskräfte und Mitarbeiter",
+        "In interne und externe Kunden",
+        "In kurzfristige und langfristige Unternehmensziele"
+      ],
+      "correct": 0,
+      "explanation": "Herzberg unterscheidet Motivatoren, die echte Zufriedenheit erzeugen, von Hygienefaktoren, deren Fehlen Unzufriedenheit auslöst.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Zwei-Faktoren-Theorie (Herzberg)"
+    },
+    {
+      "id": "fue-038",
+      "text": "Zu welchem Effekt führt nach Herzberg die alleinige Verbesserung von Hygienefaktoren?",
+      "options": [
+        "Zu geringerer Produktivität im Betrieb",
+        "Zur Vermeidung von Unzufriedenheit, jedoch nicht zwangsläufig zu echter Motivation",
+        "Automatisch zu maximaler Motivation der Mitarbeiter",
+        "Zu höherer Fluktuation der Mitarbeiter"
+      ],
+      "correct": 1,
+      "explanation": "Hygienefaktoren können Unzufriedenheit verhindern, erzeugen laut Herzberg aber allein noch keine positive Motivation.",
+      "difficulty": 3,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Zwei-Faktoren-Theorie (Herzberg)"
+    },
+    {
+      "id": "fue-039",
+      "text": "Was bedeutet intrinsische Motivation?",
+      "options": [
+        "Das Handeln wird durch Druck des Vorgesetzten erzwungen.",
+        "Das Handeln erfolgt ausschließlich wegen einer Belohnung von außen.",
+        "Das Handeln erfolgt aus innerem Antrieb bzw. aus Freude an der Tätigkeit selbst.",
+        "Das Handeln ist gesetzlich vorgeschrieben."
+      ],
+      "correct": 2,
+      "explanation": "Intrinsische Motivation entsteht aus dem inneren Interesse und der Freude an der Tätigkeit selbst, unabhängig von äußeren Anreizen.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Intrinsische Motivation"
+    },
+    {
+      "id": "fue-040",
+      "text": "Wodurch wird extrinsische Motivation typischerweise ausgelöst?",
+      "options": [
+        "Durch innere Überzeugung ohne jeglichen äußeren Anreiz",
+        "Durch das Bedürfnis nach Selbstverwirklichung",
+        "Durch reine Neugier und persönliches Interesse",
+        "Durch äußere Anreize wie Gehalt, Prämien oder Beförderung"
+      ],
+      "correct": 3,
+      "explanation": "Extrinsische Motivation wird durch von außen kommende Anreize wie Gehalt, Prämien oder Aufstiegschancen ausgelöst.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Extrinsische Motivation"
+    },
+    {
+      "id": "fue-041",
+      "text": "Von welcher Grundannahme über Mitarbeiter geht McGregors Theorie X aus?",
+      "options": [
+        "Mitarbeiter sind von Natur aus arbeitsscheu und müssen kontrolliert werden.",
+        "Mitarbeiter übernehmen von sich aus gerne Verantwortung.",
+        "Mitarbeiter benötigen keinerlei Führung.",
+        "Mitarbeiter sind grundsätzlich kreativ und selbstmotiviert."
+      ],
+      "correct": 0,
+      "explanation": "Theorie X unterstellt Mitarbeitern eine grundsätzliche Abneigung gegen Arbeit, weshalb enge Kontrolle für notwendig gehalten wird.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "McGregor Theorie X/Y"
+    },
+    {
+      "id": "fue-042",
+      "text": "Was unterstellt McGregors Theorie Y den Mitarbeitern?",
+      "options": [
+        "Die Notwendigkeit ständiger, engmaschiger Kontrolle",
+        "Eigenmotivation, Verantwortungsbereitschaft und Freude an der Arbeit unter geeigneten Bedingungen",
+        "Grundsätzliche Faulheit und Passivität",
+        "Ausschließliches Interesse am Gehalt"
+      ],
+      "correct": 1,
+      "explanation": "Theorie Y geht davon aus, dass Menschen unter geeigneten Rahmenbedingungen von sich aus motiviert sind und Verantwortung übernehmen wollen.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "McGregor Theorie X/Y"
+    },
+    {
+      "id": "fue-043",
+      "text": "Wovon hängt Motivation nach der Vroom'schen Erwartungstheorie (VIE-Theorie) ab?",
+      "options": [
+        "Ausschließlich vom Gehalt",
+        "Ausschließlich von der Betriebszugehörigkeit",
+        "Von Erwartung, Instrumentalität und Valenz (dem subjektiven Wert des Ergebnisses)",
+        "Ausschließlich vom Alter des Mitarbeiters"
+      ],
+      "correct": 2,
+      "explanation": "Die VIE-Theorie erklärt Motivation über die subjektive Erfolgserwartung, die Instrumentalität für ein Ergebnis und dessen persönlichen Wert (Valenz).",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Erwartungstheorie (Vroom)"
+    },
+    {
+      "id": "fue-044",
+      "text": "In welcher Phase des Tuckman-Modells treten in einem Team häufig Konflikte und Machtkämpfe auf?",
+      "options": [
+        "Norming",
+        "Performing",
+        "Forming",
+        "Storming"
+      ],
+      "correct": 3,
+      "explanation": "In der Storming-Phase treten typischerweise Konflikte um Rollen, Kompetenzen und Führung innerhalb des Teams auf.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Teamphasen nach Tuckman"
+    },
+    {
+      "id": "fue-045",
+      "text": "Was ist typisch für die 'Forming'-Phase eines Teams nach Tuckman?",
+      "options": [
+        "Ein vorsichtiges, höfliches Kennenlernen der Teammitglieder bei noch unklaren Rollen",
+        "Die endgültige Auflösung des Teams",
+        "Eine hocheffiziente, eingespielte Zusammenarbeit",
+        "Offene Konflikte um Rollen und Führung"
+      ],
+      "correct": 0,
+      "explanation": "In der Forming-Phase orientieren sich die Teammitglieder zunächst vorsichtig, Rollen und Regeln sind noch nicht geklärt.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Teamphasen nach Tuckman"
+    },
+    {
+      "id": "fue-046",
+      "text": "Was kennzeichnet die 'Norming'-Phase nach Tuckman?",
+      "options": [
+        "Ein erstes Kennenlernen ohne jegliche Regeln",
+        "Die Entwicklung gemeinsamer Regeln und Normen, während Konflikte abklingen",
+        "Eine maximale Eskalation der Konflikte",
+        "Die endgültige Auflösung des Teams"
+      ],
+      "correct": 1,
+      "explanation": "In der Norming-Phase einigt sich das Team auf gemeinsame Regeln und Arbeitsweisen, wodurch sich frühere Spannungen legen.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Teamphasen nach Tuckman"
+    },
+    {
+      "id": "fue-047",
+      "text": "Was beschreibt der Begriff 'Social Loafing' (soziales Faulenzen)?",
+      "options": [
+        "Das gemeinsame Zusammenlegen von Pausenzeiten",
+        "Eine Form der finanziellen Teambelohnung",
+        "Die Tendenz Einzelner, sich in der Gruppe weniger anzustrengen als bei alleiniger Aufgabenbearbeitung",
+        "Die erhöhte Leistung durch Gruppenarbeit gegenüber Einzelarbeit"
+      ],
+      "correct": 2,
+      "explanation": "Social Loafing bezeichnet den Effekt, dass Einzelpersonen in Gruppen ihre individuelle Anstrengung reduzieren, weil der eigene Beitrag weniger sichtbar ist.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Gruppendynamik"
+    },
+    {
+      "id": "fue-048",
+      "text": "Was bezeichnet der Begriff Gruppenkohäsion?",
+      "options": [
+        "Die reine Anzahl der Gruppenmitglieder",
+        "Die formale Hierarchie innerhalb einer Gruppe",
+        "Die Fluktuationsrate eines Teams",
+        "Den Zusammenhalt und das Wir-Gefühl innerhalb einer Gruppe"
+      ],
+      "correct": 3,
+      "explanation": "Gruppenkohäsion beschreibt den inneren Zusammenhalt und das gemeinsame Zugehörigkeitsgefühl der Gruppenmitglieder.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Gruppendynamik"
+    },
+    {
+      "id": "fue-049",
+      "text": "Welches nicht-monetäre Anreizinstrument wirkt in der Mitarbeiterführung besonders wirksam?",
+      "options": [
+        "Ehrlich ausgesprochenes Lob und Anerkennung für gute Leistungen",
+        "Das Ignorieren von Leistungsunterschieden",
+        "Ständige, engmaschige Überwachung",
+        "Gehaltskürzung bei kleineren Fehlern"
+      ],
+      "correct": 0,
+      "explanation": "Ehrliches Lob und Anerkennung sind wirksame nicht-monetäre Anreize, die die Motivation und Bindung von Mitarbeitern stärken.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Anreizsysteme"
+    },
+    {
+      "id": "fue-050",
+      "text": "Warum kann ausschließlich monetäre Motivation langfristig an Wirkung verlieren?",
+      "options": [
+        "Weil Geld grundsätzlich keinerlei motivierende Wirkung besitzt",
+        "Weil Gewöhnungseffekte auftreten und intrinsische Faktoren wie Sinn und Anerkennung fehlen",
+        "Weil Mitarbeiter Geld als Anreiz generell ablehnen",
+        "Weil monetäre Anreize gesetzlich verboten sind"
+      ],
+      "correct": 1,
+      "explanation": "Rein monetäre Anreize unterliegen Gewöhnungseffekten und ersetzen keine intrinsischen Motivationsfaktoren wie Sinn, Wertschätzung oder Gestaltungsspielraum.",
+      "difficulty": 3,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Anreizsysteme"
+    },
+    {
+      "id": "fue-051",
+      "text": "Was kennzeichnet die 'Performing'-Phase nach Tuckman?",
+      "options": [
+        "Das Team löst sich endgültig auf.",
+        "Es herrschen ungeklärte Machtkämpfe um die Führung.",
+        "Das Team arbeitet eingespielt, effizient und weitgehend selbstständig auf gemeinsame Ziele hin.",
+        "Die Gruppe befindet sich noch in der frühen Findungsphase."
+      ],
+      "correct": 2,
+      "explanation": "In der Performing-Phase hat das Team seine Zusammenarbeit gefunden und erbringt effizient gemeinsame Leistungen.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Teamphasen nach Tuckman"
+    },
+    {
+      "id": "fue-052",
+      "text": "Wie lange darf die Probezeit einer Berufsausbildung nach dem BBiG höchstens dauern?",
+      "options": [
+        "Sechs Monate",
+        "Zwölf Monate",
+        "Ein Monat",
+        "Vier Monate"
+      ],
+      "correct": 3,
+      "explanation": "Nach dem Berufsbildungsgesetz muss die Probezeit mindestens einen und darf höchstens vier Monate betragen.",
+      "difficulty": 1,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "BBiG – Probezeit"
+    },
+    {
+      "id": "fue-053",
+      "text": "Wie kann das Ausbildungsverhältnis während der Probezeit grundsätzlich beendet werden?",
+      "options": [
+        "Von beiden Seiten jederzeit ohne Angabe von Gründen und ohne Einhaltung einer Frist",
+        "Nur vom Ausbildungsbetrieb",
+        "Während der Probezeit gar nicht",
+        "Nur mit vorheriger Zustimmung der zuständigen IHK"
+      ],
+      "correct": 0,
+      "explanation": "Während der Probezeit kann das Ausbildungsverhältnis von beiden Vertragsparteien jederzeit fristlos gekündigt werden.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "BBiG – Probezeit"
+    },
+    {
+      "id": "fue-054",
+      "text": "Wie kann der Ausbildende einem Auszubildenden nach Ablauf der Probezeit kündigen?",
+      "options": [
+        "Jederzeit mit einer vierwöchigen Frist",
+        "Grundsätzlich nur noch außerordentlich, aus einem wichtigen Grund",
+        "Nur zum Quartalsende",
+        "Nur mit ausdrücklicher Zustimmung des Auszubildenden"
+      ],
+      "correct": 1,
+      "explanation": "Nach der Probezeit ist eine ordentliche Kündigung durch den Ausbildenden nach BBiG ausgeschlossen; es bleibt nur die außerordentliche Kündigung aus wichtigem Grund.",
+      "difficulty": 3,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "BBiG – Kündigung des Ausbildungsverhältnisses"
+    },
+    {
+      "id": "fue-055",
+      "text": "Wozu dient der Ausbildungsnachweis (früher 'Berichtsheft') vor allem?",
+      "options": [
+        "Zur Erfassung der Arbeitszeit des Ausbilders",
+        "Als Ersatz für den Ausbildungsvertrag",
+        "Zur Dokumentation von Verlauf und Inhalt der Ausbildung",
+        "Zur Erstellung der Gehaltsabrechnung"
+      ],
+      "correct": 2,
+      "explanation": "Der Ausbildungsnachweis dokumentiert, welche Inhalte während der Ausbildung vermittelt wurden, und ist Zulassungsvoraussetzung zur Abschlussprüfung.",
+      "difficulty": 1,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Ausbildungsnachweis"
+    },
+    {
+      "id": "fue-056",
+      "text": "Wer trägt nach dem BBiG die Hauptverantwortung dafür, dass die im Ausbildungsrahmenplan vorgesehenen Inhalte vermittelt werden?",
+      "options": [
+        "Ausschließlich der Auszubildende selbst",
+        "Ausschließlich die Berufsschule",
+        "Ausschließlich die zuständige IHK",
+        "Der Ausbildende (Betrieb) über die bestellte Ausbilderin bzw. den bestellten Ausbilder"
+      ],
+      "correct": 3,
+      "explanation": "Der Ausbildungsbetrieb ist über den bestellten Ausbilder für die vollständige Vermittlung der im Ausbildungsrahmenplan festgelegten Inhalte verantwortlich.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Verantwortung im Ausbildungsverhältnis"
+    },
+    {
+      "id": "fue-057",
+      "text": "Wann ist die persönliche Eignung zur Ausbildung nach dem BBiG typischerweise nicht gegeben?",
+      "options": [
+        "Wenn die Person wiederholt gegen Vorschriften zum Schutz von Jugendlichen verstoßen hat",
+        "Wenn die Person erst kurz im Unternehmen beschäftigt ist",
+        "Wenn die Person in Teilzeit arbeitet",
+        "Wenn die Person über 50 Jahre alt ist"
+      ],
+      "correct": 0,
+      "explanation": "Die persönliche Eignung fehlt insbesondere bei wiederholten oder schwerwiegenden Verstößen gegen Jugendschutzvorschriften oder das BBiG.",
+      "difficulty": 1,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Eignung zur Ausbildung (AEVO)"
+    },
+    {
+      "id": "fue-058",
+      "text": "Was setzt die fachliche Eignung einer Ausbilderin oder eines Ausbilders in der Regel voraus?",
+      "options": [
+        "Ausschließlich eine besonders lange Betriebszugehörigkeit",
+        "Berufliche Fachkenntnisse sowie berufs- und arbeitspädagogische Eignung, z. B. durch einen AEVO-Nachweis",
+        "Keinerlei formale Qualifikation",
+        "Ausschließlich ein abgeschlossenes Hochschulstudium"
+      ],
+      "correct": 1,
+      "explanation": "Die fachliche Eignung umfasst sowohl berufliche Fachkenntnisse als auch berufs- und arbeitspädagogische Kompetenzen, die üblicherweise über die Ausbildereignungsprüfung nachgewiesen werden.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Eignung zur Ausbildung (AEVO)"
+    },
+    {
+      "id": "fue-059",
+      "text": "Wo finden 'On-the-job'-Personalentwicklungsmaßnahmen statt?",
+      "options": [
+        "Ausschließlich nach Feierabend zu Hause",
+        "Ausschließlich in Form von Fernstudien",
+        "Direkt am Arbeitsplatz im Rahmen der laufenden Tätigkeit",
+        "Ausschließlich in externen Seminarräumen"
+      ],
+      "correct": 2,
+      "explanation": "On-the-job-Maßnahmen finden unmittelbar am Arbeitsplatz statt, z. B. durch Unterweisung oder Übernahme neuer Aufgaben im laufenden Betrieb.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Personalentwicklungsmaßnahmen"
+    },
+    {
+      "id": "fue-060",
+      "text": "Wodurch zeichnen sich 'Off-the-job'-Maßnahmen der Personalentwicklung aus?",
+      "options": [
+        "Durch vollständigen Verzicht auf jegliche Qualifizierung",
+        "Durch Lernen ausschließlich während der laufenden Arbeitsausführung",
+        "Durch ausschließliche Zuständigkeit der Berufsschule",
+        "Durch Lernen losgelöst vom Arbeitsplatz, z. B. in externen Seminaren oder Schulungen"
+      ],
+      "correct": 3,
+      "explanation": "Off-the-job-Maßnahmen finden räumlich und organisatorisch getrennt vom eigentlichen Arbeitsplatz statt, etwa in Seminaren oder Workshops.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Personalentwicklungsmaßnahmen"
+    },
+    {
+      "id": "fue-061",
+      "text": "Was bedeutet Jobrotation als Personalentwicklungsmaßnahme?",
+      "options": [
+        "Der planmäßige, zeitweise Wechsel von Mitarbeitern zwischen verschiedenen Arbeitsplätzen oder Aufgabenbereichen",
+        "Eine dauerhafte Versetzung ohne Rückkehrmöglichkeit",
+        "Die Kündigung und anschließende Neueinstellung eines Mitarbeiters",
+        "Die Reduzierung der wöchentlichen Arbeitszeit"
+      ],
+      "correct": 0,
+      "explanation": "Jobrotation bezeichnet den geplanten, zeitlich begrenzten Wechsel zwischen unterschiedlichen Aufgabenbereichen zur Erweiterung der Erfahrung.",
+      "difficulty": 1,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Jobrotation"
+    },
+    {
+      "id": "fue-062",
+      "text": "Worin unterscheidet sich Job Enrichment von Job Enlargement?",
+      "options": [
+        "Job Enlargement ist stets zwingend mit einer Gehaltserhöhung verbunden.",
+        "Job Enrichment reichert Aufgaben qualitativ an (mehr Verantwortung/Entscheidungsspielraum), während Job Enlargement lediglich die Aufgabenvielfalt auf gleichem Anforderungsniveau erweitert.",
+        "Beide Begriffe bezeichnen exakt denselben Sachverhalt.",
+        "Job Enrichment gilt ausschließlich für Führungskräfte."
+      ],
+      "correct": 1,
+      "explanation": "Job Enrichment erweitert Aufgaben qualitativ um Entscheidungs- und Verantwortungsspielräume, Job Enlargement erweitert lediglich quantitativ auf gleichbleibendem Niveau.",
+      "difficulty": 3,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Job Enrichment / Job Enlargement"
+    },
+    {
+      "id": "fue-063",
+      "text": "Was ist das vorrangige Ziel eines strukturierten Einarbeitungsplans (Onboarding) für neue Mitarbeiter?",
+      "options": [
+        "Die Probezeit möglichst ohne jede Einarbeitung zu verkürzen",
+        "Administrative Kosten der Einarbeitung vollständig zu vermeiden",
+        "Eine schnelle, systematische Integration in Aufgaben, Team und Unternehmenskultur zu ermöglichen",
+        "Den neuen Mitarbeiter sofort ohne jegliche Anleitung produktiv einzusetzen"
+      ],
+      "correct": 2,
+      "explanation": "Ein strukturierter Einarbeitungsplan soll neue Mitarbeiter zügig und systematisch in Aufgaben, Team und Unternehmenskultur einführen.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Einarbeitung neuer Mitarbeiter"
+    },
+    {
+      "id": "fue-064",
+      "text": "Was bedeutet ein Patensystem (Mentoring) für neue Mitarbeiter?",
+      "options": [
+        "Der neue Mitarbeiter wird komplett ohne Ansprechpartner eingearbeitet.",
+        "Ausschließlich die Personalabteilung betreut den neuen Mitarbeiter.",
+        "Der neue Mitarbeiter übernimmt sofort selbst Führungsaufgaben.",
+        "Ein erfahrener Mitarbeiter begleitet und unterstützt den neuen Kollegen in der Einarbeitungsphase."
+      ],
+      "correct": 3,
+      "explanation": "Ein Patensystem stellt dem neuen Mitarbeiter eine erfahrene Ansprechperson zur Seite, die Orientierung und Unterstützung bietet.",
+      "difficulty": 1,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Mentoring / Patensystem"
+    },
+    {
+      "id": "fue-065",
+      "text": "Wie erfolgt typischerweise die Ermittlung des Personalentwicklungsbedarfs?",
+      "options": [
+        "Durch einen Abgleich zwischen dem Anforderungsprofil der Stelle und dem tatsächlichen Qualifikationsprofil (Ist-Zustand) des Mitarbeiters",
+        "Durch eine zufällige Auswahl von Schulungsthemen",
+        "Ausschließlich anhand persönlicher Wunschangaben der Mitarbeiter",
+        "Ausschließlich anhand der Betriebszugehörigkeit"
+      ],
+      "correct": 0,
+      "explanation": "Der Personalentwicklungsbedarf ergibt sich aus dem Vergleich zwischen Soll-Anforderungen der Stelle und dem Ist-Profil der Qualifikationen des Mitarbeiters.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Bedarfsermittlung"
+    },
+    {
+      "id": "fue-066",
+      "text": "Worauf zielt Coaching als Personalentwicklungsinstrument vor allem ab?",
+      "options": [
+        "Auf den Ersatz disziplinarischer Maßnahmen",
+        "Auf die Förderung individueller Selbstreflexion und Problemlösekompetenz durch begleitende, prozessorientierte Unterstützung",
+        "Auf die ausschließlich frontale Vermittlung von Fachwissen",
+        "Auf die rechtliche Absicherung von Leistungsbeurteilungen"
+      ],
+      "correct": 1,
+      "explanation": "Coaching unterstützt Personen dabei, eigene Lösungen für berufliche Herausforderungen zu entwickeln, statt fertige Antworten vorzugeben.",
+      "difficulty": 3,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Coaching"
+    },
+    {
+      "id": "fue-067",
+      "text": "Was bedeutet die Berufsschulpflicht während der Ausbildung für den Ausbildungsbetrieb?",
+      "options": [
+        "Der Betrieb kann den Berufsschulbesuch nach eigenem Ermessen verweigern.",
+        "Der Berufsschulunterricht findet ausschließlich am Wochenende statt und betrifft den Betrieb nicht.",
+        "Der Auszubildende muss für den Berufsschulunterricht freigestellt werden.",
+        "Der Auszubildende muss den Unterricht durch unbezahlten Urlaub nachholen."
+      ],
+      "correct": 2,
+      "explanation": "Der Ausbildungsbetrieb ist verpflichtet, Auszubildende für den Besuch der Berufsschule freizustellen und die Ausbildungsvergütung fortzuzahlen.",
+      "difficulty": 1,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Berufsschulpflicht"
+    },
+    {
+      "id": "fue-068",
+      "text": "Welche Funktion erfüllt eine Abmahnung im Arbeitsverhältnis insbesondere?",
+      "options": [
+        "Sie beendet automatisch das Arbeitsverhältnis.",
+        "Sie ersetzt vollständig eine Kündigung.",
+        "Sie hat ausschließlich symbolischen Charakter ohne rechtliche Bedeutung.",
+        "Eine Hinweis-, Warn- und Dokumentationsfunktion bei einem konkreten Fehlverhalten"
+      ],
+      "correct": 3,
+      "explanation": "Eine Abmahnung weist auf ein konkretes Fehlverhalten hin, warnt vor arbeitsrechtlichen Konsequenzen und dokumentiert den Vorgang.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Abmahnung"
+    },
+    {
+      "id": "fue-069",
+      "text": "Was ist in der Regel Voraussetzung dafür, dass eine verhaltensbedingte Kündigung wirksam ist?",
+      "options": [
+        "Eine einschlägige, wirksame Abmahnung wegen desselben oder eines vergleichbaren Fehlverhaltens",
+        "Eine Zustimmung des Betriebsrats in jedem denkbaren Fall",
+        "Eine vorherige gerichtliche Genehmigung",
+        "Eine Ankündigung mindestens ein Jahr im Voraus"
+      ],
+      "correct": 0,
+      "explanation": "Vor einer verhaltensbedingten Kündigung ist grundsätzlich eine vorherige einschlägige Abmahnung erforderlich, damit der Mitarbeiter die Möglichkeit zur Verhaltensänderung hatte.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Kündigung"
+    },
+    {
+      "id": "fue-070",
+      "text": "Wie lang ist die gesetzliche Grundkündigungsfrist des Arbeitgebers nach § 622 BGB während der Probezeit, sofern keine abweichende Regelung besteht?",
+      "options": [
+        "Sechs Monate",
+        "Zwei Wochen",
+        "Drei Monate",
+        "Ein Tag"
+      ],
+      "correct": 1,
+      "explanation": "Während einer vereinbarten Probezeit von bis zu sechs Monaten beträgt die gesetzliche Kündigungsfrist nach § 622 BGB zwei Wochen.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Kündigungsfristen (§ 622 BGB)"
+    },
+    {
+      "id": "fue-071",
+      "text": "Unter welcher Voraussetzung findet das Kündigungsschutzgesetz (KSchG) grundsätzlich Anwendung?",
+      "options": [
+        "Es gilt ausnahmslos für jeden Betrieb unabhängig von dessen Größe",
+        "Wenn das Unternehmen mindestens 500 Mitarbeiter beschäftigt",
+        "Wenn der Betrieb in der Regel mehr als zehn Arbeitnehmer beschäftigt und das Arbeitsverhältnis länger als sechs Monate besteht",
+        "Wenn der Arbeitnehmer mindestens zehn Jahre im Betrieb beschäftigt ist"
+      ],
+      "correct": 2,
+      "explanation": "Das KSchG greift regelmäßig ab einer Betriebsgröße von mehr als zehn Arbeitnehmern und nach einer Wartezeit von sechs Monaten Betriebszugehörigkeit.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Kündigungsschutzgesetz"
+    },
+    {
+      "id": "fue-072",
+      "text": "Was setzt eine betriebsbedingte Kündigung insbesondere voraus?",
+      "options": [
+        "Eine vorherige Abmahnung des Arbeitnehmers",
+        "Ein individuelles Fehlverhalten des Arbeitnehmers",
+        "Gesundheitliche Einschränkungen des Arbeitnehmers",
+        "Dringende betriebliche Erfordernisse, z. B. den Wegfall des Arbeitsplatzes, sowie eine ordnungsgemäße Sozialauswahl"
+      ],
+      "correct": 3,
+      "explanation": "Eine betriebsbedingte Kündigung erfordert dringende betriebliche Gründe sowie eine korrekt durchgeführte Sozialauswahl unter vergleichbaren Arbeitnehmern.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Betriebsbedingte Kündigung"
+    },
+    {
+      "id": "fue-073",
+      "text": "Welche Kriterien sind bei der Sozialauswahl im Rahmen einer betriebsbedingten Kündigung insbesondere zu berücksichtigen?",
+      "options": [
+        "Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten und ggf. eine Schwerbehinderung",
+        "Ausschließlich die fachliche Qualifikation",
+        "Ausschließlich das Geschlecht des Arbeitnehmers",
+        "Ausschließlich die politische Ausrichtung des Arbeitnehmers"
+      ],
+      "correct": 0,
+      "explanation": "Bei der Sozialauswahl sind gesetzlich die Kriterien Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten und Schwerbehinderung zu berücksichtigen.",
+      "difficulty": 3,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Sozialauswahl"
+    },
+    {
+      "id": "fue-074",
+      "text": "Was erfordert eine außerordentliche (fristlose) Kündigung?",
+      "options": [
+        "Die vorherige Zustimmung des betroffenen Arbeitnehmers",
+        "Einen wichtigen Grund, der die Fortsetzung des Arbeitsverhältnisses bis zum Ablauf der Kündigungsfrist unzumutbar macht",
+        "Keinerlei besonderen Grund",
+        "Immer eine vorherige Abmahnung, ohne jede Ausnahme"
+      ],
+      "correct": 1,
+      "explanation": "Eine außerordentliche Kündigung setzt einen wichtigen Grund voraus, der die Fortsetzung des Arbeitsverhältnisses bis zum regulären Fristablauf unzumutbar macht.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Außerordentliche Kündigung"
+    },
+    {
+      "id": "fue-075",
+      "text": "Bei welchen Angelegenheiten hat der Betriebsrat nach § 87 BetrVG unter anderem ein Mitbestimmungsrecht?",
+      "options": [
+        "Bei der Wahl des Vorstands",
+        "Bei der Festlegung des Unternehmensgewinns",
+        "Bei Fragen der betrieblichen Ordnung und der Lage der Arbeitszeit",
+        "Bei strategischen Investitionsentscheidungen des Unternehmens"
+      ],
+      "correct": 2,
+      "explanation": "§ 87 BetrVG räumt dem Betriebsrat ein Mitbestimmungsrecht bei sozialen Angelegenheiten wie der betrieblichen Ordnung und der Arbeitszeitgestaltung ein.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Mitbestimmung nach BetrVG"
+    },
+    {
+      "id": "fue-076",
+      "text": "Was gilt nach § 102 BetrVG, bevor ein Arbeitnehmer gekündigt wird, sofern ein Betriebsrat besteht?",
+      "options": [
+        "Der Betriebsrat ist nur auf ausdrücklichen Wunsch des Arbeitnehmers einzubeziehen.",
+        "Der Betriebsrat ist grundsätzlich nicht zu beteiligen.",
+        "Der Betriebsrat ist lediglich nachträglich zu informieren, ohne dass dies Folgen hat.",
+        "Der Betriebsrat ist zwingend anzuhören, andernfalls ist die Kündigung unwirksam."
+      ],
+      "correct": 3,
+      "explanation": "Nach § 102 BetrVG muss der Betriebsrat vor jeder Kündigung angehört werden; eine ohne Anhörung ausgesprochene Kündigung ist unwirksam.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Anhörung des Betriebsrats"
+    },
+    {
+      "id": "fue-077",
+      "text": "Welches Recht hat der Betriebsrat nach § 99 BetrVG bei Einstellungen oder Versetzungen in Betrieben mit in der Regel mehr als 20 wahlberechtigten Arbeitnehmern?",
+      "options": [
+        "Ein Mitbestimmungsrecht, wobei er vorab zustimmen muss bzw. angehört wird",
+        "Nur ein Vetorecht gegenüber der Geschäftsleitung insgesamt",
+        "Kein Mitwirkungsrecht",
+        "Ein alleiniges Entscheidungsrecht ohne Beteiligung des Arbeitgebers"
+      ],
+      "correct": 0,
+      "explanation": "Bei Einstellungen und Versetzungen hat der Betriebsrat nach § 99 BetrVG ein Mitbestimmungsrecht und muss vorab beteiligt werden.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Mitbestimmung bei Einstellung/Versetzung"
+    },
+    {
+      "id": "fue-078",
+      "text": "Wovor schützt das Allgemeine Gleichbehandlungsgesetz (AGG) Beschäftigte insbesondere?",
+      "options": [
+        "Vor Benachteiligung aufgrund der Mitgliedschaft in einem Sportverein",
+        "Vor Benachteiligung wegen Merkmalen wie Geschlecht, Alter, ethnischer Herkunft, Religion, Behinderung oder sexueller Identität",
+        "Vor Benachteiligung aufgrund der Wahl des Verkehrsmittels zur Arbeit",
+        "Vor Benachteiligung aufgrund der Betriebszugehörigkeit"
+      ],
+      "correct": 1,
+      "explanation": "Das AGG schützt vor Benachteiligungen aufgrund der im Gesetz genannten Merkmale wie Geschlecht, Alter, ethnische Herkunft, Religion, Behinderung oder sexuelle Identität.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "AGG-Grundzüge"
+    },
+    {
+      "id": "fue-079",
+      "text": "Was muss eine Führungskraft im Rahmen des AGG bei Personalentscheidungen insbesondere sicherstellen?",
+      "options": [
+        "Dass Bewerbungen von Menschen mit Behinderung aussortiert werden",
+        "Dass Gehaltsunterschiede allein nach dem Geschlecht zulässig sind",
+        "Dass Entscheidungen wie Einstellung, Beförderung oder Kündigung diskriminierungsfrei getroffen werden",
+        "Dass ausschließlich jüngere Bewerber eingestellt werden"
+      ],
+      "correct": 2,
+      "explanation": "Führungskräfte müssen sicherstellen, dass Personalentscheidungen sachlich begründet sind und keine Diskriminierung nach den AGG-Merkmalen erfolgt.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "AGG in der Führungspraxis"
+    },
+    {
+      "id": "fue-080",
+      "text": "Verstößt eine Stellenausschreibung, in der explizit nur 'junge, dynamische' Bewerber gesucht werden, gegen das AGG?",
+      "options": [
+        "Nein, Altersangaben in Stellenanzeigen sind grundsätzlich immer zulässig.",
+        "Nein, das AGG gilt nicht für Stellenausschreibungen.",
+        "Ja, aber nur wenn der betroffene Bewerber über 60 Jahre alt ist.",
+        "Ja, da dies eine unzulässige Altersdiskriminierung darstellen kann."
+      ],
+      "correct": 3,
+      "explanation": "Formulierungen wie 'jung und dynamisch' können eine mittelbare Altersdiskriminierung darstellen und verstoßen damit gegen das AGG.",
+      "difficulty": 3,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "AGG-Grundzüge"
+    },
+    {
+      "id": "fue-081",
+      "text": "Wozu verpflichtet der arbeitsrechtliche Gleichbehandlungsgrundsatz den Arbeitgeber?",
+      "options": [
+        "Vergleichbare Arbeitnehmer in vergleichbaren Situationen ohne sachlichen Grund nicht unterschiedlich zu behandeln",
+        "Auf jegliche Differenzierung bei Zulagen zu verzichten",
+        "Alle Mitarbeiter unabhängig von der Leistung identisch zu bezahlen",
+        "Beförderungen ausschließlich nach dem Dienstalter vorzunehmen"
+      ],
+      "correct": 0,
+      "explanation": "Der Gleichbehandlungsgrundsatz verbietet eine sachlich nicht gerechtfertigte Ungleichbehandlung vergleichbarer Arbeitnehmer, lässt aber leistungsbezogene Unterschiede zu.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Gleichbehandlungsgrundsatz"
+    },
+    {
+      "id": "fue-082",
+      "text": "Wodurch kann eine personenbedingte Kündigung gerechtfertigt sein?",
+      "options": [
+        "Durch die Inanspruchnahme von Elternzeit",
+        "Durch eine dauerhafte krankheitsbedingte Leistungsunfähigkeit, die den Arbeitsplatz betrifft und eine erhebliche betriebliche Beeinträchtigung darstellt",
+        "Durch die Teilnahme des Arbeitnehmers an einer Betriebsratswahl",
+        "Durch eine kurzfristige Erkältung des Arbeitnehmers"
+      ],
+      "correct": 1,
+      "explanation": "Eine personenbedingte Kündigung kommt insbesondere bei dauerhafter, den Arbeitsplatz betreffender Leistungsunfähigkeit mit erheblicher betrieblicher Beeinträchtigung in Betracht.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Personenbedingte Kündigung"
+    },
+    {
+      "id": "fue-083",
+      "text": "Womit verlängern sich die gesetzlichen Kündigungsfristen des Arbeitgebers nach § 622 BGB grundsätzlich?",
+      "options": [
+        "Mit der Anzahl vorheriger Abmahnungen",
+        "Mit steigendem Lebensalter des Arbeitgebers",
+        "Mit zunehmender Dauer der Betriebszugehörigkeit des Arbeitnehmers",
+        "Ausschließlich mit der Betriebsgröße"
+      ],
+      "correct": 2,
+      "explanation": "Nach § 622 BGB verlängern sich die Kündigungsfristen des Arbeitgebers stufenweise mit zunehmender Dauer der Betriebszugehörigkeit des Arbeitnehmers.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Kündigungsfristen (§ 622 BGB)"
+    },
+    {
+      "id": "fue-084",
+      "text": "Wozu verpflichtet das Arbeitsschutzgesetz (ArbSchG) den Arbeitgeber grundsätzlich?",
+      "options": [
+        "Nur im Falle eines bereits eingetretenen Unfalls tätig zu werden",
+        "Die Verantwortung für den Arbeitsschutz vollständig an die Beschäftigten zu delegieren",
+        "Ausschließlich die gesetzliche Unfallversicherung über Betriebsabläufe zu informieren",
+        "Die erforderlichen Maßnahmen zu treffen, um Sicherheit und Gesundheit der Beschäftigten bei der Arbeit zu gewährleisten"
+      ],
+      "correct": 3,
+      "explanation": "Das ArbSchG verpflichtet den Arbeitgeber grundlegend dazu, durch geeignete Maßnahmen Sicherheit und Gesundheitsschutz der Beschäftigten sicherzustellen.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Grundpflichten nach ArbSchG"
+    },
+    {
+      "id": "fue-085",
+      "text": "Was muss eine Gefährdungsbeurteilung nach § 5 ArbSchG unter anderem berücksichtigen?",
+      "options": [
+        "Auch psychische Belastungen am Arbeitsplatz",
+        "Ausschließlich die Anzahl der Mitarbeiter",
+        "Ausschließlich die Raumtemperatur",
+        "Ausschließlich die Betriebskosten"
+      ],
+      "correct": 0,
+      "explanation": "Die Gefährdungsbeurteilung nach § 5 ArbSchG umfasst ausdrücklich auch psychische Belastungsfaktoren am Arbeitsplatz.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Gefährdungsbeurteilung"
+    },
+    {
+      "id": "fue-086",
+      "text": "Wer trägt die primäre Verantwortung dafür, dass im Betrieb eine Gefährdungsbeurteilung durchgeführt wird?",
+      "options": [
+        "Ausschließlich der Betriebsarzt",
+        "Der Arbeitgeber bzw. die von ihm beauftragte Führungskraft",
+        "Ausschließlich der einzelne Beschäftigte",
+        "Ausschließlich die Berufsgenossenschaft"
+      ],
+      "correct": 1,
+      "explanation": "Die Durchführung der Gefährdungsbeurteilung liegt in der originären Verantwortung des Arbeitgebers, der diese Aufgabe an Führungskräfte delegieren kann.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Gefährdungsbeurteilung"
+    },
+    {
+      "id": "fue-087",
+      "text": "Was bedeutet die Unterweisungspflicht nach dem ArbSchG für Führungskräfte?",
+      "options": [
+        "Erfahrene Beschäftigte benötigen keine Unterweisung mehr.",
+        "Die Unterweisung müssen die Beschäftigten selbst organisieren.",
+        "Beschäftigte müssen regelmäßig und arbeitsplatzbezogen über Sicherheit und Gesundheitsschutz unterrichtet werden.",
+        "Beschäftigte müssen nur einmalig bei Eintritt ins Unternehmen informiert werden."
+      ],
+      "correct": 2,
+      "explanation": "Die Unterweisungspflicht verlangt eine regelmäßige, arbeitsplatzbezogene Information und Anleitung der Beschäftigten zu Sicherheit und Gesundheitsschutz.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Unterweisungspflicht"
+    },
+    {
+      "id": "fue-088",
+      "text": "Wie muss persönliche Schutzausrüstung (PSA) durch den Arbeitgeber bereitgestellt werden?",
+      "options": [
+        "Durch private Anschaffung der Beschäftigten",
+        "Nur auf ausdrücklichen Wunsch der Beschäftigten",
+        "Gegen Kostenerstattung durch die Beschäftigten",
+        "Kostenlos, wenn Gefährdungen nicht anders vermieden werden können"
+      ],
+      "correct": 3,
+      "explanation": "Ist eine Gefährdung technisch oder organisatorisch nicht anders vermeidbar, muss der Arbeitgeber geeignete PSA kostenlos zur Verfügung stellen.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Persönliche Schutzausrüstung"
+    },
+    {
+      "id": "fue-089",
+      "text": "Wann ist ein betriebliches Eingliederungsmanagement (BEM) nach § 167 Abs. 2 SGB IX anzubieten?",
+      "options": [
+        "Wenn ein Beschäftigter innerhalb eines Jahres länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig war",
+        "Wenn ein Beschäftigter die Probezeit noch nicht abgeschlossen hat",
+        "Wenn ein Beschäftigter einmalig für drei Tage krankgeschrieben war",
+        "Wenn ein Beschäftigter sich in Elternzeit befindet"
+      ],
+      "correct": 0,
+      "explanation": "Das BEM ist anzubieten, sobald ein Beschäftigter innerhalb von zwölf Monaten länger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig war.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Betriebliches Eingliederungsmanagement (BEM)"
+    },
+    {
+      "id": "fue-090",
+      "text": "Worin unterscheidet sich das betriebliche Eingliederungsmanagement (BEM) vom betrieblichen Gesundheitsmanagement (BGM)?",
+      "options": [
+        "Beide Begriffe sind identisch und werden synonym verwendet.",
+        "BEM ist ein gesetzlich vorgeschriebenes, einzelfallbezogenes Verfahren nach längerer Erkrankung, während BGM ein umfassendes, präventives Konzept zur Gesundheitsförderung im gesamten Betrieb darstellt.",
+        "BEM wird ausschließlich vom Betriebsarzt ohne jede Beteiligung der Führungskraft durchgeführt.",
+        "BGM ist gesetzlich verpflichtend, BEM hingegen vollständig freiwillig."
+      ],
+      "correct": 1,
+      "explanation": "BEM ist ein gesetzlich vorgeschriebenes Einzelfallverfahren, BGM hingegen ein freiwilliges, ganzheitliches Präventionskonzept für die gesamte Belegschaft.",
+      "difficulty": 3,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "BEM vs. BGM"
+    },
+    {
+      "id": "fue-091",
+      "text": "Welches Ziel verfolgt Fehlzeitenmanagement als Führungsaufgabe vor allem?",
+      "options": [
+        "Fehlzeiten grundsätzlich zu ignorieren",
+        "Ausschließlich Abmahnungen wegen Krankheit auszusprechen",
+        "Ursachen von Abwesenheiten zu erkennen und krankheitsbedingte Ausfälle durch geeignete Maßnahmen zu reduzieren",
+        "Kranke Mitarbeiter zur Arbeit zu zwingen"
+      ],
+      "correct": 2,
+      "explanation": "Fehlzeitenmanagement zielt darauf ab, Ursachen von Abwesenheiten systematisch zu analysieren und durch geeignete Maßnahmen zu reduzieren.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Fehlzeitenmanagement"
+    },
+    {
+      "id": "fue-092",
+      "text": "Wozu dient ein Rückkehrgespräch nach längerer Krankheit in erster Linie?",
+      "options": [
+        "Den Mitarbeiter wegen der Fehlzeit zu maßregeln",
+        "Eine Kündigung des Arbeitnehmers vorzubereiten",
+        "Die genaue Krankheitsdiagnose im Detail zu erfragen",
+        "Unterstützungsbedarf zu klären und eine erfolgreiche Wiedereingliederung zu fördern"
+      ],
+      "correct": 3,
+      "explanation": "Ein Rückkehrgespräch dient dazu, Unterstützungsbedarf zu erkennen und die Wiedereingliederung zu erleichtern; die Diagnose selbst darf die Führungskraft nicht erfragen.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Fehlzeitenmanagement"
+    },
+    {
+      "id": "fue-093",
+      "text": "Wozu werden Sicherheitsbeauftragte im Betrieb bestellt?",
+      "options": [
+        "Um Führungskräfte und Unternehmer bei der Umsetzung des Arbeitsschutzes zu unterstützen und auf sicheres Arbeiten zu achten",
+        "Um die alleinige rechtliche Verantwortung für den Arbeitsschutz vom Arbeitgeber zu übernehmen",
+        "Um den Betriebsrat in dessen Aufgaben zu ersetzen",
+        "Um ausschließlich Unfälle nachträglich zu dokumentieren"
+      ],
+      "correct": 0,
+      "explanation": "Sicherheitsbeauftragte unterstützen Führungskräfte und Unternehmer beratend bei der praktischen Umsetzung des Arbeitsschutzes, ohne dessen rechtliche Verantwortung zu übernehmen.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Sicherheitsbeauftragte"
+    },
+    {
+      "id": "fue-094",
+      "text": "Befreit die Bestellung von Sicherheitsbeauftragten den Arbeitgeber von seiner grundlegenden Arbeitsschutzverantwortung?",
+      "options": [
+        "Ja, vollständig.",
+        "Nein, die Gesamtverantwortung für den Arbeitsschutz verbleibt beim Arbeitgeber.",
+        "Ja, sobald ein Arbeitsschutzausschuss eingerichtet wurde.",
+        "Ja, aber nur gegenüber Führungskräften."
+      ],
+      "correct": 1,
+      "explanation": "Sicherheitsbeauftragte unterstützen den Arbeitsschutz lediglich beratend; die rechtliche Gesamtverantwortung verbleibt stets beim Arbeitgeber.",
+      "difficulty": 3,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Sicherheitsbeauftragte"
+    },
+    {
+      "id": "fue-095",
+      "text": "Aus wem setzt sich der Arbeitsschutzausschuss (ASA) typischerweise zusammen?",
+      "options": [
+        "Ausschließlich aus der Geschäftsleitung",
+        "Ausschließlich aus Kunden des Unternehmens",
+        "Aus Arbeitgebervertretern, Betriebsrat, Betriebsarzt, Fachkraft für Arbeitssicherheit und Sicherheitsbeauftragten",
+        "Ausschließlich aus externen Gutachtern"
+      ],
+      "correct": 2,
+      "explanation": "Der Arbeitsschutzausschuss vereint Vertreter des Arbeitgebers, des Betriebsrats, des Betriebsarztes, der Fachkraft für Arbeitssicherheit und der Sicherheitsbeauftragten.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Arbeitsschutzausschuss (ASA)"
+    },
+    {
+      "id": "fue-096",
+      "text": "Durch welche Führungsmaßnahme kann psychische Belastung am Arbeitsplatz reduziert werden?",
+      "options": [
+        "Durch das Ignorieren von Überlastungssignalen der Mitarbeiter",
+        "Durch permanente Erreichbarkeitserwartung auch außerhalb der Arbeitszeit",
+        "Durch ständig wechselnde, widersprüchliche Anweisungen ohne Erklärung",
+        "Durch klare Aufgaben- und Rollenverteilung, realistische Zielvorgaben und offene Kommunikation"
+      ],
+      "correct": 3,
+      "explanation": "Klare Rollen, realistische Ziele und offene Kommunikation gehören zu den wirksamsten Führungsmaßnahmen zur Reduktion psychischer Belastung.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Psychische Belastung"
+    },
+    {
+      "id": "fue-097",
+      "text": "Welche Anzeichen können auf ein erhöhtes Burnout-Risiko bei Mitarbeitenden hinweisen?",
+      "options": [
+        "Anhaltende Erschöpfung, sinkende Leistungsfähigkeit und zunehmender Rückzug trotz hohem Einsatz",
+        "Zunehmende Gelassenheit im Arbeitsalltag",
+        "Regelmäßiger, erholsamer Urlaub",
+        "Steigende Arbeitszufriedenheit"
+      ],
+      "correct": 0,
+      "explanation": "Anhaltende Erschöpfung, Leistungseinbußen und sozialer Rückzug trotz hohem Engagement gelten als typische Warnsignale für ein Burnout-Risiko.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Burnout-Prävention"
+    },
+    {
+      "id": "fue-098",
+      "text": "Was muss der Arbeitgeber bei einem Arbeitsunfall mit mehr als drei Tagen Arbeitsunfähigkeit tun?",
+      "options": [
+        "Den Unfall nur intern dokumentieren, aber nicht extern melden",
+        "Den Unfall der zuständigen Berufsgenossenschaft (Unfallversicherungsträger) melden",
+        "Den Unfall bei Zustimmung des Mitarbeiters nicht melden",
+        "Den Unfall erst nach einem Monat melden"
+      ],
+      "correct": 1,
+      "explanation": "Arbeitsunfälle mit mehr als drei Tagen Arbeitsunfähigkeit sind vom Arbeitgeber der zuständigen Berufsgenossenschaft zu melden.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Meldepflicht bei Arbeitsunfällen"
+    },
+    {
+      "id": "fue-099",
+      "text": "Worin unterscheidet sich die betriebliche Gesundheitsförderung als Teil des BGM vom klassischen Arbeitsschutz?",
+      "options": [
+        "Sie dient ausschließlich der Unfallverhütung.",
+        "Sie ist ebenso gesetzlich zwingend vorgeschrieben wie der Arbeitsschutz.",
+        "Sie geht freiwillig über die gesetzlichen Mindestanforderungen hinaus und stärkt die Gesundheitsressourcen der Beschäftigten.",
+        "Sie gilt ausschließlich für Führungskräfte."
+      ],
+      "correct": 2,
+      "explanation": "Betriebliche Gesundheitsförderung ist ein freiwilliges Angebot, das über die gesetzlichen Mindestpflichten des Arbeitsschutzes hinausgeht und die Gesundheitsressourcen stärkt.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Betriebliches Gesundheitsmanagement"
+    },
+    {
+      "id": "fue-100",
+      "text": "Warum ist die Berücksichtigung psychischer Belastungen in der Gefährdungsbeurteilung für Führungskräfte besonders relevant?",
+      "options": [
+        "Weil dies nur für Beschäftigte im Homeoffice gilt",
+        "Weil eine Berücksichtigung psychischer Faktoren gesetzlich ausdrücklich verboten ist",
+        "Weil psychische Belastungen ausschließlich privat verursacht werden und den Betrieb nicht betreffen",
+        "Weil Führungskräfte durch die Gestaltung von Arbeitsorganisation, Arbeitsmenge und Kommunikation direkten Einfluss auf psychische Belastungsfaktoren haben"
+      ],
+      "correct": 3,
+      "explanation": "Führungskräfte gestalten durch Arbeitsorganisation, Arbeitsmenge und Kommunikationsverhalten maßgeblich die psychischen Belastungsfaktoren ihrer Mitarbeiter mit und tragen daher hierfür besondere Verantwortung.",
+      "difficulty": 3,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Psychische Belastung / Gefährdungsbeurteilung"
+    },
+    {
+      "id": "fue-101",
+      "text": "Was ist das zentrale Grundprinzip des 'Servant Leadership' (dienende Führung)?",
+      "options": [
+        "Die Führungskraft ordnet alle Entscheidungen dem Unternehmensgewinn unter.",
+        "Die Führungskraft delegiert ausschließlich unangenehme Aufgaben an die Mitarbeiter.",
+        "Die Führungskraft stellt sich in den Dienst der Mitarbeiter und unterstützt sie darin, ihre Aufgaben bestmöglich zu erfüllen.",
+        "Die Führungskraft verzichtet vollständig auf Kontrolle und Zielvorgaben."
+      ],
+      "correct": 2,
+      "explanation": "Servant Leadership versteht Führung als Dienstleistung: Die Führungskraft schafft Rahmenbedingungen, fördert und unterstützt die Mitarbeiter, damit diese ihre Aufgaben eigenverantwortlich und erfolgreich erledigen können.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Servant Leadership"
+    },
+    {
+      "id": "fue-102",
+      "text": "Welche Machtquelle beschreiben French und Raven mit dem Begriff 'Expertenmacht'?",
+      "options": [
+        "Macht, die aus der Fähigkeit resultiert, Belohnungen zu vergeben.",
+        "Macht, die auf persönlicher Sympathie und Identifikation beruht.",
+        "Macht, die sich aus der formalen Position in der Hierarchie ergibt.",
+        "Macht, die auf besonderem Fachwissen und Können einer Person beruht."
+      ],
+      "correct": 3,
+      "explanation": "Expertenmacht basiert nach French und Raven auf herausragendem Fachwissen oder besonderer Kompetenz, das andere anerkennen und dem sie deshalb folgen.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Machtquellen"
+    },
+    {
+      "id": "fue-103",
+      "text": "Auf wessen klassische Feldstudien aus den 1930er-Jahren geht die Unterscheidung in autoritären, kooperativen (demokratischen) und Laissez-faire-Führungsstil ursprünglich zurück?",
+      "options": [
+        "Frederick Herzberg",
+        "Douglas McGregor",
+        "Rensis Likert",
+        "Kurt Lewin"
+      ],
+      "correct": 3,
+      "explanation": "Kurt Lewin untersuchte in Experimenten mit Jugendgruppen die Auswirkungen unterschiedlicher Führungsstile und prägte damit die klassische Dreiteilung in autoritär, kooperativ/demokratisch und Laissez-faire.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Führungsstilforschung"
+    },
+    {
+      "id": "fue-104",
+      "text": "Welches Führungsverhalten empfiehlt das Reifegradmodell nach Hersey und Blanchard ('Situatives Führen') bei Mitarbeitenden mit geringem Reifegrad (wenig Können und wenig Wollen)?",
+      "options": [
+        "Rein partizipatives Verhalten ohne Vorgaben",
+        "Vollständigen Rückzug der Führungskraft aus der Aufgabe",
+        "Delegierendes Verhalten mit weitgehender Entscheidungsfreiheit",
+        "Stark anweisendes Verhalten ('Telling') mit klaren, konkreten Vorgaben"
+      ],
+      "correct": 3,
+      "explanation": "Bei geringem Reifegrad empfiehlt das Modell einen stark anweisenden, aufgabenorientierten Führungsstil ('Telling'), da die Mitarbeitenden noch klare Anleitung benötigen.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Situatives Führen"
+    },
+    {
+      "id": "fue-105",
+      "text": "Welches Führungsverhalten sieht das Reifegradmodell nach Hersey und Blanchard bei Mitarbeitenden mit hohem Reifegrad (hohes Können und hohe Motivation) vor?",
+      "options": [
+        "Stark anweisendes Verhalten mit engmaschiger Kontrolle",
+        "Delegierendes Verhalten mit hoher Entscheidungs- und Handlungsfreiheit",
+        "Überredendes Verhalten mit ausführlicher Begründung jeder Anweisung",
+        "Ausschließlich aufgabenorientiertes Verhalten ohne Beziehungsanteil"
+      ],
+      "correct": 1,
+      "explanation": "Bei hohem Reifegrad ist delegierendes Verhalten angemessen: Die Führungskraft überträgt Aufgaben und Verantwortung weitgehend selbstständig arbeitenden Mitarbeitenden.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Situatives Führen"
+    },
+    {
+      "id": "fue-106",
+      "text": "Worin besteht ein typischer Rollenkonflikt einer Führungskraft, die aus dem eigenen Team heraus befördert wurde?",
+      "options": [
+        "Sie verliert automatisch ihre fachliche Weisungsbefugnis.",
+        "Sie muss zwingend die Abteilung wechseln, um Akzeptanz zu erhalten.",
+        "Sie muss die frühere kollegiale Beziehung zu ehemaligen Teammitgliedern mit der neuen Vorgesetztenrolle und deren Anforderungen vereinbaren.",
+        "Sie darf keine Entscheidungen mehr gegenüber ihren früheren Kollegen treffen."
+      ],
+      "correct": 2,
+      "explanation": "Beim Aufstieg aus dem eigenen Team entsteht häufig ein Rollenkonflikt zwischen der bisherigen kollegialen Ebene und der neuen Führungsrolle mit Weisungs- und Beurteilungsbefugnis.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Rollenkonflikte der Führungskraft"
+    },
+    {
+      "id": "fue-107",
+      "text": "Was ist eine zentrale Herausforderung der Führung auf Distanz (virtuelle Führung)?",
+      "options": [
+        "Die Notwendigkeit täglicher persönlicher Vor-Ort-Kontrolle.",
+        "Der erhöhte Bedarf an klarer Kommunikation, Vertrauen und verbindlichen Absprachen, da informelle persönliche Kontakte fehlen.",
+        "Der vollständige Wegfall jeglicher Zielvereinbarungen.",
+        "Die grundsätzliche Unmöglichkeit, Feedback zu geben."
+      ],
+      "correct": 1,
+      "explanation": "Da bei räumlicher Distanz informelle Beobachtung und spontaner persönlicher Austausch entfallen, gewinnen klare Kommunikation, verbindliche Absprachen und Vertrauen als Führungsinstrumente besonders an Bedeutung.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Führung auf Distanz"
+    },
+    {
+      "id": "fue-108",
+      "text": "Welche Aussage zur Bedeutung von Vertrauen als Führungsinstrument trifft zu?",
+      "options": [
+        "Vertrauen macht Kontrolle in jedem Fall vollständig überflüssig.",
+        "Vertrauen entsteht ausschließlich durch formale Regeln und Verträge.",
+        "Vertrauen fördert Eigeninitiative und Verantwortungsübernahme, muss sich aber im Führungsalltag durch Verlässlichkeit und Konsequenz erst bewähren.",
+        "Vertrauen ist für die Mitarbeiterführung von untergeordneter Bedeutung."
+      ],
+      "correct": 2,
+      "explanation": "Vertrauen schafft die Basis für Eigenverantwortung und Motivation, muss von der Führungskraft aber durch nachvollziehbares, verlässliches Verhalten aufgebaut und erhalten werden.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Vertrauen als Führungsinstrument"
+    },
+    {
+      "id": "fue-109",
+      "text": "Was ist charakteristisch für ein Zielvereinbarungsgespräch im Rahmen von Management by Objectives?",
+      "options": [
+        "Die Ziele werden ausschließlich von der Führungskraft festgelegt und dem Mitarbeiter mitgeteilt.",
+        "Es findet nur einmal während der gesamten Beschäftigungsdauer statt.",
+        "Es dient allein der Leistungsbeurteilung ohne Bezug zu zukünftigen Zielen.",
+        "Führungskraft und Mitarbeiter erarbeiten gemeinsam konkrete, überprüfbare Ziele für eine festgelegte Periode."
+      ],
+      "correct": 3,
+      "explanation": "Im Zielvereinbarungsgespräch werden Ziele idealerweise partnerschaftlich zwischen Führungskraft und Mitarbeiter für einen definierten Zeitraum vereinbart, nicht einseitig vorgegeben.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Zielvereinbarungsgespräch"
+    },
+    {
+      "id": "fue-110",
+      "text": "Was kennzeichnet ein 360-Grad-Feedback als Führungsinstrument?",
+      "options": [
+        "Es beruht ausschließlich auf der Selbsteinschätzung der Führungskraft.",
+        "Es wird ausschließlich vom direkten Vorgesetzten der Führungskraft erhoben.",
+        "Rückmeldungen zu einer Person werden aus mehreren Perspektiven eingeholt, z. B. von Vorgesetzten, Kollegen, Mitarbeitenden und ggf. Kunden.",
+        "Es ersetzt vollständig das jährliche Mitarbeitergespräch."
+      ],
+      "correct": 2,
+      "explanation": "Beim 360-Grad-Feedback werden Einschätzungen aus verschiedenen Blickwinkeln zusammengeführt, um ein umfassenderes Bild des Führungsverhaltens zu erhalten.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "360-Grad-Feedback"
+    },
+    {
+      "id": "fue-111",
+      "text": "Was versteht man unter 'Empowerment' in der Mitarbeiterführung?",
+      "options": [
+        "Die vollständige Übertragung der Ergebnisverantwortung auf das Unternehmen als Ganzes.",
+        "Die gezielte Übertragung von Entscheidungsspielräumen und Befugnissen an Mitarbeiter, um deren Eigenverantwortung und Handlungsfähigkeit zu stärken.",
+        "Die Reduzierung von Gehaltsanpassungen zugunsten von Weiterbildung.",
+        "Die Einführung zusätzlicher Kontrollinstanzen zur Absicherung von Entscheidungen."
+      ],
+      "correct": 1,
+      "explanation": "Empowerment bedeutet, Mitarbeitern bewusst mehr Entscheidungsspielraum und Verantwortung zu geben, damit sie selbstständiger und handlungsfähiger agieren können.",
+      "difficulty": 3,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Empowerment"
+    },
+    {
+      "id": "fue-112",
+      "text": "Was ist das zentrale Anliegen von Diversity Management als Führungsaufgabe?",
+      "options": [
+        "Die Angleichung aller Mitarbeiter an ein einheitliches Verhaltensprofil.",
+        "Die bevorzugte Einstellung einer bestimmten Bewerbergruppe.",
+        "Die bewusste Nutzung und Wertschätzung der Vielfalt von Mitarbeitenden (z. B. Alter, Geschlecht, Herkunft) als Potenzial für das Unternehmen.",
+        "Die Vermeidung jeglicher Zusammenarbeit zwischen unterschiedlichen Altersgruppen."
+      ],
+      "correct": 2,
+      "explanation": "Diversity Management zielt darauf ab, die Vielfalt der Belegschaft als Ressource zu erkennen, wertzuschätzen und gezielt für den Unternehmenserfolg zu nutzen.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Diversity Management"
+    },
+    {
+      "id": "fue-113",
+      "text": "Welches Prinzip ist typisch für agile Führung im Kontext von 'New Work'?",
+      "options": [
+        "Detaillierte Vorgaben von oben ersetzen jede Selbstorganisation der Teams.",
+        "Entscheidungen werden ausschließlich hierarchisch top-down getroffen.",
+        "Kontrolle ersetzt Vertrauen als zentrales Steuerungsinstrument.",
+        "Teams erhalten mehr Selbstorganisation, die Führungskraft agiert stärker als Coach und Rahmengeber statt als reiner Anweisungsgeber."
+      ],
+      "correct": 3,
+      "explanation": "Agile Führung setzt auf mehr Selbstorganisation der Teams; die Führungskraft übernimmt verstärkt eine coachende, unterstützende Rolle statt kleinteiliger Anweisungen.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Agile Führung / New Work"
+    },
+    {
+      "id": "fue-114",
+      "text": "Was bezeichnet man als 'geteilte' bzw. 'kollegiale Führung' (Shared Leadership)?",
+      "options": [
+        "Die Geschäftsleitung trifft alle operativen Entscheidungen selbst.",
+        "Führungsaufgaben werden vollständig outgesourct.",
+        "Führungsverantwortung wird auf mehrere Personen oder das Team verteilt, statt bei einer einzelnen Führungskraft zu liegen.",
+        "Ein einzelner Mitarbeiter übernimmt zusätzlich zur Fachaufgabe die vollständige disziplinarische Führung."
+      ],
+      "correct": 2,
+      "explanation": "Bei geteilter bzw. kollegialer Führung wird Führungsverantwortung auf mehrere Personen oder das Team verteilt, anstatt sie bei einer einzigen hierarchischen Spitze zu bündeln.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Geteilte Führung"
+    },
+    {
+      "id": "fue-115",
+      "text": "Welches Vorgehen ist im Umgang mit sogenannten 'Low-Performern' (dauerhaft leistungsschwachen Mitarbeitern) als Führungsmaßnahme zunächst angemessen?",
+      "options": [
+        "Ignorieren der Minderleistung, um Konflikte zu vermeiden.",
+        "Versetzung in ein anderes Team ohne Ursachenklärung.",
+        "Ein klärendes Gespräch zur Ursachenanalyse und Vereinbarung konkreter, überprüfbarer Verbesserungsschritte.",
+        "Sofortige Kündigung ohne vorheriges Gespräch."
+      ],
+      "correct": 2,
+      "explanation": "Vor arbeitsrechtlichen Konsequenzen sollte die Führungskraft zunächst die Ursachen der Minderleistung klären und gemeinsam mit dem Mitarbeiter realistische, überprüfbare Verbesserungsschritte vereinbaren.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Umgang mit Minderleistung"
+    },
+    {
+      "id": "fue-116",
+      "text": "Was bedeutet 'ethisch verantwortungsvolle Führung' insbesondere?",
+      "options": [
+        "Ausschließliche Orientierung an kurzfristigen wirtschaftlichen Kennzahlen.",
+        "Führungsentscheidungen berücksichtigen neben wirtschaftlichen auch soziale und moralische Aspekte gegenüber Mitarbeitenden und Umfeld.",
+        "Verzicht auf jegliche unternehmerische Zielverfolgung.",
+        "Gleichbehandlung aller Mitarbeiter unabhängig von deren Leistungsbeiträgen."
+      ],
+      "correct": 1,
+      "explanation": "Ethisch verantwortungsvolle Führung bezieht neben wirtschaftlichen Zielen auch soziale und moralische Gesichtspunkte in Entscheidungen ein, etwa Fairness und Rücksichtnahme gegenüber Mitarbeitenden.",
+      "difficulty": 1,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Führungsethik"
+    },
+    {
+      "id": "fue-117",
+      "text": "Welche Funktion erfüllt ein regelmäßiges, strukturiertes Mitarbeitergespräch als Führungsinstrument vor allem?",
+      "options": [
+        "Es ersetzt die betriebliche Interessenvertretung.",
+        "Es findet nur bei disziplinarischen Problemen statt.",
+        "Es bietet einen verbindlichen Rahmen für Feedback, Zielabgleich und Entwicklungsperspektiven abseits des Tagesgeschäfts.",
+        "Es dient ausschließlich der Kontrolle der Arbeitszeiterfassung."
+      ],
+      "correct": 2,
+      "explanation": "Regelmäßige Mitarbeitergespräche bieten einen strukturierten Rahmen für Feedback, Zielabgleich und Entwicklungsperspektiven, losgelöst vom operativen Tagesgeschäft.",
+      "difficulty": 2,
+      "topic": "Führungsstile & Personalführung",
+      "subtopic": "Mitarbeitergespräch"
+    },
+    {
+      "id": "fue-118",
+      "text": "Welche Eskalationsstufe beschreibt Friedrich Glasl als eine der letzten Stufen eines eskalierenden Konflikts, in der die Parteien bereit sind, auch eigene Nachteile in Kauf zu nehmen, um dem Gegner zu schaden?",
+      "options": [
+        "Debatte/Polemik",
+        "Kooperative Problemlösung",
+        "Gemeinsam in den Abgrund",
+        "Verhärtung"
+      ],
+      "correct": 2,
+      "explanation": "Die Stufe 'Gemeinsam in den Abgrund' gehört zu den letzten, am stärksten eskalierten Stufen im Modell von Glasl, in der eigene Verluste billigend in Kauf genommen werden, solange der Gegner ebenfalls Schaden nimmt.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Eskalationsstufen nach Glasl"
+    },
+    {
+      "id": "fue-119",
+      "text": "Wodurch entsteht typischerweise ein Verteilungskonflikt?",
+      "options": [
+        "Durch unterschiedliche persönliche Antipathien zwischen zwei Personen.",
+        "Durch unklare Zuständigkeiten in der Aufbauorganisation.",
+        "Durch unterschiedliche Grundüberzeugungen zu ethischen Fragen.",
+        "Durch Uneinigkeit über die Aufteilung knapper Ressourcen wie Budget, Personal oder Arbeitszeit."
+      ],
+      "correct": 3,
+      "explanation": "Ein Verteilungskonflikt entsteht, wenn mehrere Parteien um begrenzte Ressourcen wie Budget, Personal, Arbeitszeit oder Ausstattung konkurrieren.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Konfliktarten"
+    },
+    {
+      "id": "fue-120",
+      "text": "Was kennzeichnet einen Beziehungskonflikt im Unterschied zu einem Sachkonflikt?",
+      "options": [
+        "Er entsteht ausschließlich durch unterschiedliche fachliche Meinungen zu einem Projekt.",
+        "Er ist von persönlichen Antipathien, Emotionen oder gestörter zwischenmenschlicher Kommunikation geprägt, unabhängig von der eigentlichen Sachfrage.",
+        "Er lässt sich stets durch reine Fakten und Daten auflösen.",
+        "Er tritt nur zwischen Vorgesetzten und externen Kunden auf."
+      ],
+      "correct": 1,
+      "explanation": "Beziehungskonflikte sind emotional geprägt und beruhen auf persönlichen Spannungen oder gestörter Kommunikation, unabhängig von der sachlichen Streitfrage.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Konfliktarten"
+    },
+    {
+      "id": "fue-121",
+      "text": "Welche Konfliktart liegt vor, wenn widersprüchliche Erwartungen an eine Person aus unterschiedlichen Positionen (z. B. als Vorgesetzter und gleichzeitig als Kollege) aufeinandertreffen?",
+      "options": [
+        "Verteilungskonflikt",
+        "Wertekonflikt",
+        "Rollenkonflikt",
+        "Beurteilungskonflikt"
+      ],
+      "correct": 2,
+      "explanation": "Ein Rollenkonflikt entsteht, wenn an eine Person aus unterschiedlichen Rollen widersprüchliche Erwartungen gestellt werden.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Konfliktarten"
+    },
+    {
+      "id": "fue-122",
+      "text": "Was ist ein zentrales Prinzip des Harvard-Konzepts zur Verhandlung und Konfliktlösung?",
+      "options": [
+        "Beide Seiten sollen möglichst hart an ihren Anfangspositionen festhalten.",
+        "Es soll zwischen Personen und Sachproblem getrennt und nach Lösungen gesucht werden, die den zugrunde liegenden Interessen beider Seiten gerecht werden.",
+        "Konflikte sollen ausschließlich durch eine übergeordnete Instanz per Anweisung entschieden werden.",
+        "Nur eine Seite darf ihre Interessen offenlegen."
+      ],
+      "correct": 1,
+      "explanation": "Das Harvard-Konzept trennt Menschen von Sachproblemen, konzentriert sich auf zugrunde liegende Interessen statt starrer Positionen und sucht nach Optionen, die beiden Seiten Nutzen bringen.",
+      "difficulty": 3,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Verhandlungstechnik"
+    },
+    {
+      "id": "fue-123",
+      "text": "Welches Grundprinzip zeichnet die Rolle eines Mediators in einem Konfliktlösungsverfahren aus?",
+      "options": [
+        "Parteinahme für die aus seiner Sicht im Recht befindliche Partei.",
+        "Bindende Entscheidungsbefugnis über den Ausgang des Konflikts.",
+        "Ausschließliche Vertretung der Interessen des Arbeitgebers.",
+        "Allparteilichkeit und Neutralität gegenüber allen Konfliktparteien."
+      ],
+      "correct": 3,
+      "explanation": "Ein Mediator handelt allparteilich und neutral; er trifft keine Entscheidung, sondern unterstützt die Parteien dabei, selbst eine einvernehmliche Lösung zu finden.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Mediation"
+    },
+    {
+      "id": "fue-124",
+      "text": "Wie ist die sogenannte 'Sandwich-Methode' beim Feedbackgeben aufgebaut?",
+      "options": [
+        "Ausschließlich Kritikpunkte ohne jede positive Rückmeldung.",
+        "Zunächst Kritik, dann weitere Kritik, abschließend eine Drohung.",
+        "Nur allgemeine Aussagen ohne konkreten Bezug zum Verhalten.",
+        "Positive Rückmeldung, anschließend Kritikpunkt, abschließend erneut eine positive Aussage."
+      ],
+      "correct": 3,
+      "explanation": "Bei der Sandwich-Methode wird ein Kritikpunkt zwischen zwei positive Aussagen eingebettet, um die Aufnahmebereitschaft für die Kritik zu erhöhen.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Feedbacktechniken"
+    },
+    {
+      "id": "fue-125",
+      "text": "Wodurch zeichnen sich offene Fragen in einem Mitarbeitergespräch aus?",
+      "options": [
+        "Sie regen den Gesprächspartner an, ausführlich zu antworten und eigene Gedanken zu entwickeln, da sie nicht mit einem einfachen Ja oder Nein zu beantworten sind.",
+        "Sie lassen sich ausschließlich mit Ja oder Nein beantworten.",
+        "Sie schränken die Antwortmöglichkeiten auf zwei Alternativen ein.",
+        "Sie sind grundsätzlich in Kritikgesprächen ungeeignet."
+      ],
+      "correct": 0,
+      "explanation": "Offene Fragen (z. B. 'Wie', 'Was', 'Warum') fordern eine ausführliche Antwort und fördern damit den Gesprächsfluss und das gegenseitige Verständnis.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Fragetechniken"
+    },
+    {
+      "id": "fue-126",
+      "text": "Welche drei Ich-Zustände unterscheidet die Transaktionsanalyse nach Eric Berne als Grundlage zwischenmenschlicher Kommunikation?",
+      "options": [
+        "Sender-Ich, Empfänger-Ich, Kanal-Ich",
+        "Eltern-Ich, Erwachsenen-Ich, Kind-Ich",
+        "Chef-Ich, Kollegen-Ich, Kunden-Ich",
+        "Sach-Ich, Beziehungs-Ich, Appell-Ich"
+      ],
+      "correct": 1,
+      "explanation": "Die Transaktionsanalyse nach Eric Berne unterscheidet Eltern-Ich, Erwachsenen-Ich und Kind-Ich als innere Zustände, aus denen heraus kommuniziert wird.",
+      "difficulty": 3,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Transaktionsanalyse"
+    },
+    {
+      "id": "fue-127",
+      "text": "Welches kommunikationstheoretische Axiom stammt von Paul Watzlawick?",
+      "options": [
+        "Jede Nachricht enthält vier Seiten: Sachinhalt, Selbstoffenbarung, Beziehung und Appell.",
+        "Kommunikation erfolgt stets verlustfrei zwischen Sender und Empfänger.",
+        "Nonverbale Signale sind für die Kommunikation bedeutungslos.",
+        "Man kann nicht nicht kommunizieren."
+      ],
+      "correct": 3,
+      "explanation": "Watzlawick formulierte das Axiom 'Man kann nicht nicht kommunizieren' – auch Schweigen oder Nichthandeln vermittelt eine Botschaft.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Kommunikationsaxiome"
+    },
+    {
+      "id": "fue-128",
+      "text": "Was besagt das Eisbergmodell der Kommunikation?",
+      "options": [
+        "Kommunikation findet ausschließlich auf der Sachebene statt.",
+        "Der Beziehungsanteil einer Nachricht ist stets größer als der Sachanteil.",
+        "Ein sichtbarer, bewusster Sachanteil (Spitze des Eisbergs) und ein größerer, meist unbewusster Beziehungs- und Gefühlsanteil (unter der Wasseroberfläche) prägen jede Kommunikation.",
+        "Nur schriftliche Kommunikation folgt dem Eisbergprinzip."
+      ],
+      "correct": 2,
+      "explanation": "Das Eisbergmodell veranschaulicht, dass der sichtbare Sachanteil einer Nachricht nur einen kleinen Teil ausmacht, während der größere, meist unbewusste Teil aus Beziehungs- und Gefühlsaspekten besteht.",
+      "difficulty": 3,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Kommunikationsmodelle"
+    },
+    {
+      "id": "fue-129",
+      "text": "Was kennzeichnet eine Win-Win-Strategie in der Konfliktlösung?",
+      "options": [
+        "Eine Partei setzt sich vollständig auf Kosten der anderen durch.",
+        "Der Konflikt wird durch Vermeidung beider Parteien einfach ausgesessen.",
+        "Eine neutrale dritte Partei trifft eine für beide bindende Entscheidung.",
+        "Es wird eine Lösung angestrebt, die die Interessen beider Parteien möglichst weitgehend berücksichtigt, sodass beide Seiten als Gewinner hervorgehen."
+      ],
+      "correct": 3,
+      "explanation": "Bei einer Win-Win-Strategie wird eine Lösung gesucht, die für beide Konfliktparteien einen Nutzen bringt, anstatt dass eine Seite auf Kosten der anderen gewinnt.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Konfliktlösungsstrategien"
+    },
+    {
+      "id": "fue-130",
+      "text": "Welche Aufgabe hat eine Führungskraft primär, wenn sie ein Konfliktgespräch zwischen zwei Mitarbeitern moderiert?",
+      "options": [
+        "Sie soll möglichst schnell eine eigene inhaltliche Lösung vorgeben.",
+        "Sie strukturiert das Gespräch, sorgt für Redezeit beider Seiten und unterstützt dabei, gemeinsam eine Lösung zu erarbeiten.",
+        "Sie ergreift offen Partei für den dienstälteren Mitarbeiter.",
+        "Sie beendet das Gespräch, sobald eine Seite emotional reagiert."
+      ],
+      "correct": 1,
+      "explanation": "Als Moderator strukturiert die Führungskraft das Gespräch, achtet auf gleichberechtigte Redezeit und unterstützt die Parteien dabei, selbst eine tragfähige Lösung zu entwickeln.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Konfliktmoderation"
+    },
+    {
+      "id": "fue-131",
+      "text": "Was sollte eine Führungskraft vor einem schwierigen Personalgespräch insbesondere klären?",
+      "options": [
+        "Konkrete Fakten und Beispiele zum Sachverhalt, das gewünschte Gesprächsziel sowie einen ungestörten Rahmen für das Gespräch.",
+        "Ausschließlich die rechtlichen Konsequenzen bei Nichteinlenken des Mitarbeiters.",
+        "Wie das Gespräch möglichst öffentlich vor dem gesamten Team geführt werden kann.",
+        "Dass keinerlei Vorbereitung notwendig ist, da Spontaneität überzeugender wirkt."
+      ],
+      "correct": 0,
+      "explanation": "Eine gute Vorbereitung umfasst konkrete, überprüfbare Fakten, ein klares Gesprächsziel und einen angemessenen, störungsfreien Rahmen für das Gespräch.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Gesprächsvorbereitung"
+    },
+    {
+      "id": "fue-132",
+      "text": "Was versteht man unter 'Paraphrasieren' als Technik des aktiven Zuhörens?",
+      "options": [
+        "Das Gesagte des Gesprächspartners möglichst schnell zu unterbrechen.",
+        "Ausschließlich Verständnisfragen zu vermeiden.",
+        "Dem Gesprächspartner die eigene Meinung sofort entgegenzusetzen.",
+        "Das Gehörte in eigenen Worten zusammenzufassen und dem Gesprächspartner zurückzuspiegeln, um Verständnis sicherzustellen."
+      ],
+      "correct": 3,
+      "explanation": "Paraphrasieren bedeutet, die Aussage des Gesprächspartners mit eigenen Worten wiederzugeben, um Missverständnisse zu vermeiden und Verständnis zu signalisieren.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Aktives Zuhören"
+    },
+    {
+      "id": "fue-133",
+      "text": "Welches Merkmal ist typisch für eine Streitschlichtung durch eine neutrale dritte Person im betrieblichen Kontext?",
+      "options": [
+        "Die dritte Person trifft stets eine für beide Seiten bindende Entscheidung.",
+        "Die dritte Person übernimmt automatisch die disziplinarische Führung über beide Streitparteien.",
+        "Die dritte Person darf nur schriftlich, nie mündlich vermitteln.",
+        "Die dritte Person unterstützt die Parteien als vermittelnde Instanz dabei, eine eigenverantwortliche, einvernehmliche Lösung zu finden."
+      ],
+      "correct": 3,
+      "explanation": "Bei der Streitschlichtung durch Dritte begleitet die vermittelnde Person den Prozess, ohne selbst eine bindende Entscheidung zu treffen; Ziel ist eine von den Parteien selbst getragene Lösung.",
+      "difficulty": 2,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Streitschlichtung"
+    },
+    {
+      "id": "fue-134",
+      "text": "Wodurch entsteht ein sogenannter Beurteilungskonflikt zwischen Führungskraft und Mitarbeiter?",
+      "options": [
+        "Durch unterschiedliche Auffassungen über die Verteilung von Urlaubstagen.",
+        "Durch räumliche Distanz zwischen Führungskraft und Mitarbeiter.",
+        "Durch fehlende technische Ausstattung am Arbeitsplatz.",
+        "Durch unterschiedliche Einschätzungen darüber, wie eine Leistung oder ein Verhalten zu bewerten ist, z. B. bei der Leistungsbeurteilung."
+      ],
+      "correct": 3,
+      "explanation": "Ein Beurteilungskonflikt entsteht, wenn Führungskraft und Mitarbeiter eine Leistung, ein Verhalten oder ein Ergebnis unterschiedlich bewerten.",
+      "difficulty": 1,
+      "topic": "Kommunikation & Konfliktmanagement",
+      "subtopic": "Konfliktarten"
+    },
+    {
+      "id": "fue-135",
+      "text": "Welche fünfte Phase ergänzte Bruce Tuckman später sein ursprüngliches Vier-Phasen-Modell der Teamentwicklung?",
+      "options": [
+        "Forming",
+        "Storming",
+        "Adjourning",
+        "Norming"
+      ],
+      "correct": 2,
+      "explanation": "Tuckman ergänzte sein Modell um die Phase 'Adjourning', in der sich das Team nach Erreichen des Ziels auflöst und die Zusammenarbeit beendet wird.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Teamentwicklung nach Tuckman"
+    },
+    {
+      "id": "fue-136",
+      "text": "Welche Bedürfnisstufe bildet nach Maslow die oberste Ebene der Bedürfnispyramide?",
+      "options": [
+        "Selbstverwirklichung",
+        "Sicherheitsbedürfnisse",
+        "Physiologische Bedürfnisse",
+        "Soziale Bedürfnisse"
+      ],
+      "correct": 0,
+      "explanation": "Die oberste Stufe der Maslowschen Bedürfnispyramide bildet das Bedürfnis nach Selbstverwirklichung, also die Entfaltung der eigenen Potenziale und Fähigkeiten.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Bedürfnispyramide nach Maslow"
+    },
+    {
+      "id": "fue-137",
+      "text": "Welches Beispiel zählt nach Herzberg zu den sogenannten Motivatoren?",
+      "options": [
+        "Angemessenes Gehalt",
+        "Gutes Verhältnis zu Kollegen",
+        "Übertragung von Verantwortung und Anerkennung erbrachter Leistung",
+        "Sichere Arbeitsplatzbedingungen"
+      ],
+      "correct": 2,
+      "explanation": "Motivatoren nach Herzberg beziehen sich auf den Arbeitsinhalt selbst, etwa Verantwortung, Anerkennung, Erfolgserlebnisse und Entwicklungsmöglichkeiten.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Zwei-Faktoren-Theorie"
+    },
+    {
+      "id": "fue-138",
+      "text": "Welcher Kritikpunkt wird an der Zwei-Faktoren-Theorie von Herzberg häufig geäußert?",
+      "options": [
+        "Die strikte Trennung zwischen Hygienefaktoren und Motivatoren lässt sich empirisch nicht immer eindeutig nachweisen, da ein Faktor je nach Person unterschiedlich wirken kann.",
+        "Die Theorie berücksichtigt ausschließlich monetäre Anreize.",
+        "Die Theorie wurde nie in der Praxis angewendet.",
+        "Die Theorie unterscheidet nicht zwischen Zufriedenheit und Unzufriedenheit."
+      ],
+      "correct": 0,
+      "explanation": "Ein häufiger Kritikpunkt ist, dass die klare Zweiteilung in Hygienefaktoren und Motivatoren empirisch nicht durchgängig bestätigt werden konnte, da manche Faktoren je nach Individuum unterschiedlich wirken.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Zwei-Faktoren-Theorie"
+    },
+    {
+      "id": "fue-139",
+      "text": "Was untersucht das Teamrollenmodell nach Meredith Belbin?",
+      "options": [
+        "Die formale Hierarchie innerhalb eines Projektteams.",
+        "Welche charakteristischen Verhaltensrollen (z. B. Koordinator, Umsetzer, Teamarbeiter) Personen typischerweise in einem Team einnehmen und wie sich ein ausgewogenes Team zusammensetzt.",
+        "Ausschließlich die fachliche Qualifikation der Teammitglieder.",
+        "Die Reihenfolge, in der Teammitglieder eingestellt werden sollten."
+      ],
+      "correct": 1,
+      "explanation": "Belbins Modell beschreibt typische Verhaltensrollen innerhalb eines Teams (z. B. Koordinator, Umsetzer, Teamarbeiter) und betont, dass ein ausgewogenes Rollenprofil die Teamleistung fördert.",
+      "difficulty": 3,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Teamrollen nach Belbin"
+    },
+    {
+      "id": "fue-140",
+      "text": "Was beschreibt das Phänomen 'Groupthink' (Gruppendenken)?",
+      "options": [
+        "Die Tendenz einer stark zusammengeschweißten Gruppe, aus Harmoniestreben kritische Einwände zu unterdrücken und vorschnell unkritische Entscheidungen zu treffen.",
+        "Die systematische Förderung unterschiedlicher Meinungen innerhalb eines Teams.",
+        "Die Aufteilung einer Gruppe in mehrere unabhängige Untergruppen.",
+        "Den bewussten Verzicht auf gemeinsame Entscheidungsfindung."
+      ],
+      "correct": 0,
+      "explanation": "Groupthink beschreibt die Tendenz stark harmoniebedürftiger Gruppen, abweichende Meinungen zu unterdrücken, was zu unkritischen und riskanten Entscheidungen führen kann.",
+      "difficulty": 3,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Gruppendynamik"
+    },
+    {
+      "id": "fue-141",
+      "text": "Wie lassen sich betriebliche Anreizsysteme grundsätzlich unterscheiden?",
+      "options": [
+        "In materielle Anreize (z. B. Gehalt, Prämien) und immaterielle Anreize (z. B. Anerkennung, Entwicklungsmöglichkeiten).",
+        "Ausschließlich in kurzfristige und langfristige Gehaltsbestandteile.",
+        "Nur in Anreize für Führungskräfte, da Mitarbeiter keine Anreizsysteme benötigen.",
+        "In Anreize, die nur einmalig zu Beginn eines Arbeitsverhältnisses wirken."
+      ],
+      "correct": 0,
+      "explanation": "Anreizsysteme umfassen sowohl materielle Komponenten wie Gehalt und Prämien als auch immaterielle Komponenten wie Anerkennung, Status oder Entwicklungsperspektiven.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Anreizsysteme"
+    },
+    {
+      "id": "fue-142",
+      "text": "Was ist ein typisches Kennzeichen variabler, leistungsorientierter Vergütungsbestandteile?",
+      "options": [
+        "Sie sind gesetzlich für alle Arbeitsverhältnisse verpflichtend vorgeschrieben.",
+        "Sie werden unabhängig von Leistung oder Zielerreichung in gleicher Höhe gezahlt.",
+        "Sie ersetzen vollständig das Grundgehalt.",
+        "Ihre Höhe hängt von der individuellen oder teambezogenen Zielerreichung bzw. Leistung ab und soll zusätzliche Leistungsanreize setzen."
+      ],
+      "correct": 3,
+      "explanation": "Variable Vergütungsbestandteile knüpfen an die erreichte Leistung oder Zielerreichung an und sollen zusätzliche Motivation für überdurchschnittliche Leistung schaffen.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Anreizsysteme"
+    },
+    {
+      "id": "fue-143",
+      "text": "Warum können klar formulierte, herausfordernde, aber erreichbare Ziele motivierend wirken?",
+      "options": [
+        "Weil sie jegliche Eigenverantwortung der Mitarbeitenden überflüssig machen.",
+        "Weil sie ausschließlich der Kontrolle durch die Führungskraft dienen.",
+        "Weil unklare Ziele grundsätzlich stärker motivieren als konkrete Ziele.",
+        "Weil sie Orientierung geben, Erfolgserlebnisse ermöglichen und das Gefühl von Kompetenz und Fortschritt fördern."
+      ],
+      "correct": 3,
+      "explanation": "Klare, herausfordernde und erreichbare Ziele geben Orientierung, ermöglichen Erfolgserlebnisse und stärken das Gefühl von Kompetenz und Fortschritt, was sich positiv auf die Motivation auswirkt.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Zielsetzung und Motivation"
+    },
+    {
+      "id": "fue-144",
+      "text": "Warum gilt Wertschätzung als wirksames Führungsinstrument zur Mitarbeitermotivation?",
+      "options": [
+        "Weil sie das Bedürfnis nach Anerkennung befriedigt und damit langfristig zur intrinsischen Motivation und Bindung an das Unternehmen beiträgt, oft wirksamer als kurzfristige monetäre Anreize.",
+        "Weil sie ausschließlich in Form einer Gehaltserhöhung ausgedrückt werden kann.",
+        "Weil sie disziplinarische Maßnahmen vollständig ersetzt.",
+        "Weil sie nur bei neuen Mitarbeitenden während der Probezeit wirkt."
+      ],
+      "correct": 0,
+      "explanation": "Wertschätzung befriedigt das grundlegende Bedürfnis nach Anerkennung und wirkt sich oft nachhaltiger auf Motivation und Bindung aus als rein monetäre Anreize.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Wertschätzung"
+    },
+    {
+      "id": "fue-145",
+      "text": "Was beschreibt die 'Flow-Theorie' nach Mihaly Csikszentmihalyi im Zusammenhang mit Motivation?",
+      "options": [
+        "Den Zustand permanenter Unterforderung am Arbeitsplatz.",
+        "Die reine Abfolge von Arbeitsschritten in einem Produktionsprozess.",
+        "Einen Zustand völligen Aufgehens in einer Tätigkeit, der entsteht, wenn Anforderungen und individuelle Fähigkeiten optimal im Gleichgewicht stehen.",
+        "Die Notwendigkeit ständiger externer Kontrolle zur Aufrechterhaltung der Leistung."
+      ],
+      "correct": 2,
+      "explanation": "Die Flow-Theorie beschreibt einen Zustand hoher Konzentration und intrinsischer Motivation, der entsteht, wenn die Anforderungen einer Aufgabe den individuellen Fähigkeiten entsprechen.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Flow-Theorie"
+    },
+    {
+      "id": "fue-146",
+      "text": "Worauf stellt die Equity-Theorie (Gerechtigkeitstheorie) nach J. Stacy Adams für die Motivation ab?",
+      "options": [
+        "Auf die absolute Höhe des Gehalts unabhängig vom Vergleich mit anderen.",
+        "Auf die Anzahl der Arbeitsstunden pro Woche.",
+        "Auf den subjektiv empfundenen Vergleich zwischen eigenem Einsatz und Ertrag im Verhältnis zu Einsatz und Ertrag anderer Personen.",
+        "Auf die Reihenfolge, in der Ziele vereinbart werden."
+      ],
+      "correct": 2,
+      "explanation": "Die Equity-Theorie geht davon aus, dass Motivation stark davon abhängt, ob das Verhältnis von eigenem Einsatz und erhaltener Belohnung im Vergleich zu anderen als gerecht empfunden wird.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Equity-Theorie"
+    },
+    {
+      "id": "fue-147",
+      "text": "Welchen Vorteil kann heterogene Teamzusammensetzung (z. B. unterschiedliche Erfahrungen, Fachrichtungen, Altersgruppen) für die Teamleistung bieten?",
+      "options": [
+        "Sie garantiert automatisch schnellere Entscheidungen ohne Diskussionsbedarf.",
+        "Sie kann zu vielfältigeren Perspektiven, kreativeren Lösungsansätzen und geringerer Gefahr von Groupthink führen, erfordert aber aktives Konfliktmanagement.",
+        "Sie schließt Konflikte im Team grundsätzlich aus.",
+        "Sie macht eine klare Rollenverteilung überflüssig."
+      ],
+      "correct": 1,
+      "explanation": "Heterogene Teams bringen unterschiedliche Perspektiven und Erfahrungen ein, was Kreativität fördern und Groupthink reduzieren kann, erfordert aber gleichzeitig gezieltes Konfliktmanagement durch die Führungskraft.",
+      "difficulty": 3,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Team-Diversität"
+    },
+    {
+      "id": "fue-148",
+      "text": "Was versteht man unter 'psychologischer Sicherheit' in einem Team?",
+      "options": [
+        "Die geteilte Überzeugung im Team, dass man Risiken eingehen, Fehler ansprechen und eigene Meinungen äußern kann, ohne negative Konsequenzen befürchten zu müssen.",
+        "Die physische Absicherung des Arbeitsplatzes durch Zugangskontrollen.",
+        "Die vertragliche Absicherung der Arbeitsplätze aller Teammitglieder.",
+        "Die Vermeidung jeglicher Rückmeldung, um Konflikte zu verhindern."
+      ],
+      "correct": 0,
+      "explanation": "Psychologische Sicherheit beschreibt die geteilte Überzeugung im Team, offen Fehler, Bedenken oder Ideen ansprechen zu können, ohne Angst vor negativen Konsequenzen haben zu müssen.",
+      "difficulty": 3,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Psychologische Sicherheit"
+    },
+    {
+      "id": "fue-149",
+      "text": "Welche Aussage zum Zusammenhang zwischen Gruppenkohäsion und Teamleistung trifft am ehesten zu?",
+      "options": [
+        "Hohe Kohäsion führt immer automatisch zu höherer Leistung.",
+        "Kohäsion hat grundsätzlich keinen Einfluss auf die Teamleistung.",
+        "Niedrige Kohäsion garantiert stets bessere Entscheidungen.",
+        "Eine hohe Kohäsion kann die Leistung fördern, birgt bei übersteigerter Ausprägung aber auch das Risiko von Groupthink und mangelnder kritischer Auseinandersetzung."
+      ],
+      "correct": 3,
+      "explanation": "Hohe Kohäsion wirkt sich häufig positiv auf Zusammenarbeit und Motivation aus, kann aber bei übermäßiger Ausprägung dazu führen, dass kritische Stimmen unterdrückt werden (Groupthink).",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Gruppenkohäsion"
+    },
+    {
+      "id": "fue-150",
+      "text": "Warum ist Rollenklarheit für die Leistungsfähigkeit eines Teams wichtig?",
+      "options": [
+        "Weil dadurch jegliche Kommunikation zwischen den Mitgliedern überflüssig wird.",
+        "Weil sie ausschließlich für die Entlohnung relevant ist.",
+        "Weil klare Zuständigkeiten und Erwartungen Missverständnisse, Doppelarbeit und Reibungsverluste reduzieren.",
+        "Weil sie eine formale Hierarchie zwingend ausschließt."
+      ],
+      "correct": 2,
+      "explanation": "Klare Rollen und Zuständigkeiten im Team vermeiden Missverständnisse, Doppelarbeit und Konflikte, die durch unklare Erwartungen entstehen können.",
+      "difficulty": 1,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Rollenklarheit"
+    },
+    {
+      "id": "fue-151",
+      "text": "Welche Kernmerkmale der Arbeitsaufgabe nennt das Job-Characteristics-Modell nach Hackman und Oldham als besonders motivationsrelevant?",
+      "options": [
+        "Ausschließlich die Höhe des Gehalts",
+        "Nur die Anzahl der Arbeitsstunden",
+        "Die Lage des Arbeitsplatzes",
+        "Unter anderem Anforderungsvielfalt, Ganzheitlichkeit der Aufgabe, Bedeutsamkeit, Autonomie und Rückmeldung"
+      ],
+      "correct": 3,
+      "explanation": "Das Modell von Hackman und Oldham identifiziert u. a. Anforderungsvielfalt, Ganzheitlichkeit, Bedeutsamkeit der Aufgabe, Autonomie und Feedback als zentrale motivationsfördernde Merkmale einer Arbeitsaufgabe.",
+      "difficulty": 2,
+      "topic": "Mitarbeitermotivation & Teamentwicklung",
+      "subtopic": "Job Characteristics Model"
+    },
+    {
+      "id": "fue-152",
+      "text": "Wozu dient die Ausbildereignungsverordnung (AEVO)?",
+      "options": [
+        "Sie regelt ausschließlich die Höhe der Ausbildungsvergütung.",
+        "Sie legt fest, welche berufs- und arbeitspädagogischen Kenntnisse und Fähigkeiten Ausbilderinnen und Ausbilder nachweisen müssen.",
+        "Sie bestimmt die Dauer der Probezeit im Ausbildungsverhältnis.",
+        "Sie regelt die Zusammensetzung des Betriebsrats."
+      ],
+      "correct": 1,
+      "explanation": "Die AEVO definiert die berufs- und arbeitspädagogischen Anforderungen, die Ausbilderinnen und Ausbilder erfüllen und in der Regel durch eine Prüfung nachweisen müssen.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Ausbildereignungsverordnung"
+    },
+    {
+      "id": "fue-153",
+      "text": "Welcher Inhalt muss nach dem BBiG mindestens im schriftlichen Berufsausbildungsvertrag festgehalten werden?",
+      "options": [
+        "Die private Wohnanschrift der Eltern des Auszubildenden",
+        "Beginn und Dauer der Ausbildung, Ausbildungsberuf, Ausbildungsvergütung und Dauer der Probezeit",
+        "Der Name der später übernehmenden Führungskraft",
+        "Die konkrete Bank, bei der das Gehaltskonto geführt wird"
+      ],
+      "correct": 1,
+      "explanation": "Der Berufsausbildungsvertrag muss nach dem BBiG wesentliche Angaben wie Ausbildungsberuf, Beginn und Dauer der Ausbildung, Dauer der Probezeit und Ausbildungsvergütung enthalten.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Ausbildungsvertrag"
+    },
+    {
+      "id": "fue-154",
+      "text": "Wie lang muss die Probezeit einer Berufsausbildung nach dem BBiG mindestens betragen?",
+      "options": [
+        "Sechs Monate",
+        "Drei Monate",
+        "Zwei Wochen",
+        "Ein Monat"
+      ],
+      "correct": 3,
+      "explanation": "Nach dem BBiG muss die Probezeit mindestens einen Monat betragen, sie darf jedoch höchstens vier Monate dauern.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Probezeit"
+    },
+    {
+      "id": "fue-155",
+      "text": "Welchem Zweck dient die Zwischenprüfung während der Berufsausbildung?",
+      "options": [
+        "Sie stellt den Ausbildungsstand fest und dient als Lernstandskontrolle, ohne bereits über das Bestehen der Ausbildung zu entscheiden.",
+        "Sie ersetzt die Abschlussprüfung vollständig.",
+        "Sie entscheidet endgültig über die Übernahme nach der Ausbildung.",
+        "Sie wird nur bei schulischen Problemen des Auszubildenden angesetzt."
+      ],
+      "correct": 0,
+      "explanation": "Die Zwischenprüfung dient als Lernstandskontrolle während der Ausbildung und zeigt Auszubildenden und Ausbildungsbetrieb den bisherigen Ausbildungsstand, ersetzt aber nicht die Abschlussprüfung.",
+      "difficulty": 1,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Zwischenprüfung"
+    },
+    {
+      "id": "fue-156",
+      "text": "Was kennzeichnet die 'gestreckte Abschlussprüfung' in vielen industriellen Ausbildungsberufen?",
+      "options": [
+        "Die gesamte Prüfung findet ausschließlich am Ende der Ausbildung in einem einzigen Termin statt.",
+        "Es gibt keine schriftliche Prüfung mehr.",
+        "Die Abschlussprüfung wird in Teil 1 und Teil 2 aufgeteilt, wobei Teil 1 bereits während der Ausbildung abgelegt wird und in die Gesamtnote einfließt.",
+        "Sie betrifft ausschließlich die Berufsschulnoten."
+      ],
+      "correct": 2,
+      "explanation": "Bei der gestreckten Abschlussprüfung wird die Prüfung in Teil 1 (während der Ausbildung) und Teil 2 (gegen Ende der Ausbildung) aufgeteilt; beide Teile fließen in die Gesamtbewertung ein.",
+      "difficulty": 3,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Gestreckte Abschlussprüfung"
+    },
+    {
+      "id": "fue-157",
+      "text": "Wie muss sich die Ausbildungsvergütung nach dem BBiG im Verlauf der Ausbildung grundsätzlich entwickeln?",
+      "options": [
+        "Sie darf im Ausbildungsverlauf niemals angepasst werden.",
+        "Sie muss mit fortschreitender Ausbildung, mindestens jährlich, ansteigen.",
+        "Sie ist ausschließlich vom persönlichen Verhandlungsgeschick des Auszubildenden abhängig.",
+        "Sie sinkt in der Regel mit zunehmender Ausbildungsdauer."
+      ],
+      "correct": 1,
+      "explanation": "Die Ausbildungsvergütung muss nach dem BBiG mit fortschreitender Berufsausbildung ansteigen, üblicherweise gestaffelt nach Ausbildungsjahren.",
+      "difficulty": 1,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Ausbildungsvergütung"
+    },
+    {
+      "id": "fue-158",
+      "text": "Wozu ist der Ausbildungsbetrieb in Bezug auf den Berufsschulunterricht und Prüfungen verpflichtet?",
+      "options": [
+        "Den Auszubildenden für den Berufsschulunterricht und für Prüfungen unter Fortzahlung der Vergütung freizustellen.",
+        "Den Berufsschulunterricht durch betriebsinterne Schulungen vollständig zu ersetzen.",
+        "Die Teilnahme am Berufsschulunterricht als unbezahlten Urlaub zu behandeln.",
+        "Den Auszubildenden nur bei guten Leistungen freizustellen."
+      ],
+      "correct": 0,
+      "explanation": "Der Ausbildungsbetrieb muss Auszubildende für den Berufsschulunterricht sowie für Prüfungen unter Fortzahlung der Ausbildungsvergütung freistellen.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Berufsschulpflicht"
+    },
+    {
+      "id": "fue-159",
+      "text": "Was regelt das Jugendarbeitsschutzgesetz (JArbSchG) unter anderem für jugendliche Auszubildende?",
+      "options": [
+        "Es untersagt jegliche Ausbildung von Personen unter 18 Jahren.",
+        "Es überlässt die Arbeitszeitgestaltung vollständig dem Ausbildungsbetrieb.",
+        "Es begrenzt die tägliche und wöchentliche Arbeitszeit sowie Pausen- und Ruhezeiten für Jugendliche.",
+        "Es gilt ausschließlich für volljährige Auszubildende."
+      ],
+      "correct": 2,
+      "explanation": "Das Jugendarbeitsschutzgesetz begrenzt u. a. die zulässige tägliche und wöchentliche Arbeitszeit sowie Pausen- und Ruhezeiten für Jugendliche, um deren Entwicklung zu schützen.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Jugendarbeitsschutz"
+    },
+    {
+      "id": "fue-160",
+      "text": "Was sieht das Jugendarbeitsschutzgesetz grundsätzlich in Bezug auf Nachtarbeit für Jugendliche vor?",
+      "options": [
+        "Jugendliche dürfen uneingeschränkt zu jeder Nachtzeit eingesetzt werden.",
+        "Nachtarbeit ist für Jugendliche grundsätzlich untersagt, mit branchenspezifischen Ausnahmeregelungen.",
+        "Nachtarbeit ist nur an Wochenenden erlaubt.",
+        "Nachtarbeit wird ausschließlich durch den Betriebsrat geregelt."
+      ],
+      "correct": 1,
+      "explanation": "Das Jugendarbeitsschutzgesetz untersagt grundsätzlich die Beschäftigung Jugendlicher in der Nacht, lässt jedoch für bestimmte Branchen begrenzte Ausnahmen zu.",
+      "difficulty": 1,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Jugendarbeitsschutz"
+    },
+    {
+      "id": "fue-161",
+      "text": "Besteht nach dem BBiG ein automatischer gesetzlicher Anspruch auf unbefristete Übernahme nach bestandener Abschlussprüfung?",
+      "options": [
+        "Nein, ein genereller gesetzlicher Übernahmeanspruch besteht nicht; abweichende Regelungen können sich aber aus Tarifverträgen oder Betriebsvereinbarungen ergeben.",
+        "Ja, jeder Ausbildungsbetrieb muss jeden Auszubildenden automatisch unbefristet übernehmen.",
+        "Ja, aber nur bei Auszubildenden mit der Abschlussnote 'sehr gut'.",
+        "Nein, eine Übernahme ist gesetzlich generell ausgeschlossen."
+      ],
+      "correct": 0,
+      "explanation": "Das BBiG sieht keinen automatischen gesetzlichen Übernahmeanspruch vor; Tarifverträge oder Betriebsvereinbarungen können jedoch abweichende Übernahmeregelungen enthalten.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Übernahme nach Ausbildung"
+    },
+    {
+      "id": "fue-162",
+      "text": "Unter welcher Voraussetzung kann ein Auszubildender das Ausbildungsverhältnis nach Ablauf der Probezeit vorzeitig kündigen, um den Beruf ganz aufzugeben oder eine andere Ausbildung zu beginnen?",
+      "options": [
+        "Er kann fristlos ohne jede Frist kündigen.",
+        "Er muss eine Kündigungsfrist von vier Wochen einhalten.",
+        "Er benötigt zwingend die Zustimmung der IHK.",
+        "Eine Kündigung durch den Auszubildenden ist nach der Probezeit generell ausgeschlossen."
+      ],
+      "correct": 1,
+      "explanation": "Nach Ablauf der Probezeit kann der Auszubildende bei Aufgabe der Berufsausbildung oder Wechsel in eine andere Ausbildung mit einer Kündigungsfrist von vier Wochen kündigen.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Kündigung durch Auszubildende"
+    },
+    {
+      "id": "fue-163",
+      "text": "Was beschreibt der betriebliche Ausbildungsplan (sachliche und zeitliche Gliederung)?",
+      "options": [
+        "Er listet ausschließlich die Fehlzeiten des Auszubildenden auf.",
+        "Er regelt die Höhe der Ausbildungsvergütung im Zeitverlauf.",
+        "Er konkretisiert den bundeseinheitlichen Ausbildungsrahmenplan für den jeweiligen Betrieb und legt fest, wann welche Ausbildungsinhalte vermittelt werden.",
+        "Er ersetzt den Ausbildungsvertrag."
+      ],
+      "correct": 2,
+      "explanation": "Der betriebliche Ausbildungsplan überträgt den bundeseinheitlichen Ausbildungsrahmenplan auf die konkreten betrieblichen Gegebenheiten und legt fest, in welcher zeitlichen Reihenfolge die Ausbildungsinhalte vermittelt werden.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Ausbildungsplan"
+    },
+    {
+      "id": "fue-164",
+      "text": "Wie ist ein Prüfungsausschuss der zuständigen Stelle (z. B. IHK) für Abschlussprüfungen typischerweise besetzt?",
+      "options": [
+        "Ausschließlich aus Vertretern der Arbeitgeberseite.",
+        "Ausschließlich aus Berufsschullehrern.",
+        "Nur aus einer Einzelperson, die allein über das Bestehen entscheidet.",
+        "Paritätisch mit Beauftragten der Arbeitgeber- und der Arbeitnehmerseite sowie mindestens einer Lehrkraft einer berufsbildenden Schule."
+      ],
+      "correct": 3,
+      "explanation": "Der Prüfungsausschuss ist in der Regel paritätisch mit Vertretern der Arbeitgeber- und Arbeitnehmerseite sowie mindestens einer Lehrkraft einer berufsbildenden Schule besetzt.",
+      "difficulty": 1,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Prüfungsausschuss"
+    },
+    {
+      "id": "fue-165",
+      "text": "Wie oft kann eine nicht bestandene Abschlussprüfung nach dem BBiG in der Regel wiederholt werden?",
+      "options": [
+        "Beliebig oft ohne zeitliche Begrenzung.",
+        "Gar nicht, ein einmaliges Nichtbestehen beendet die Ausbildung endgültig.",
+        "Zweimal, wobei auf Verlangen des Prüflings die Ausbildungszeit bis zur nächsten Prüfung verlängert werden kann.",
+        "Nur innerhalb der ursprünglichen Ausbildungszeit."
+      ],
+      "correct": 2,
+      "explanation": "Eine nicht bestandene Abschlussprüfung kann in der Regel zweimal wiederholt werden; auf Verlangen des Auszubildenden verlängert sich das Ausbildungsverhältnis bis zur nächstmöglichen Wiederholungsprüfung.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Wiederholungsprüfung"
+    },
+    {
+      "id": "fue-166",
+      "text": "Wozu dient eine Qualifizierungsmatrix (Skill-Matrix) als Personalentwicklungsinstrument?",
+      "options": [
+        "Sie dokumentiert Gehaltsstrukturen im Unternehmen.",
+        "Sie regelt ausschließlich die Urlaubsplanung.",
+        "Sie ersetzt die Gefährdungsbeurteilung.",
+        "Sie stellt vorhandene Qualifikationen der Mitarbeitenden den benötigten Anforderungen gegenüber und macht Qualifizierungsbedarf sichtbar."
+      ],
+      "correct": 3,
+      "explanation": "Eine Qualifizierungsmatrix visualisiert, welche Qualifikationen im Team vorhanden sind und wo im Abgleich mit den Anforderungen noch Entwicklungsbedarf besteht.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Qualifizierungsmatrix"
+    },
+    {
+      "id": "fue-167",
+      "text": "Was ist das Ziel von Talentmanagement und Nachfolgeplanung als Personalentwicklungsmaßnahme?",
+      "options": [
+        "Ausschließlich die kurzfristige Deckung akuten Personalmangels durch Zeitarbeit.",
+        "Die systematische Identifikation und gezielte Entwicklung von Mitarbeitenden für zukünftige Schlüsselpositionen im Unternehmen.",
+        "Die automatische Beförderung aller Mitarbeitenden nach einer festen Anzahl von Betriebsjahren.",
+        "Der vollständige Verzicht auf interne Stellenbesetzung zugunsten externer Rekrutierung."
+      ],
+      "correct": 1,
+      "explanation": "Talentmanagement und Nachfolgeplanung zielen darauf ab, geeignete Mitarbeitende frühzeitig zu identifizieren und gezielt für künftige Schlüssel- und Führungspositionen zu entwickeln.",
+      "difficulty": 2,
+      "topic": "Personalentwicklung & Ausbildung",
+      "subtopic": "Talentmanagement"
+    },
+    {
+      "id": "fue-168",
+      "text": "Welche werktägliche Höchstarbeitszeit sieht das Arbeitszeitgesetz als Grundregel vor, sofern kein Ausgleich erfolgt?",
+      "options": [
+        "Zehn Stunden",
+        "Zwölf Stunden",
+        "Sechs Stunden",
+        "Acht Stunden"
+      ],
+      "correct": 3,
+      "explanation": "Nach dem Arbeitszeitgesetz beträgt die werktägliche Regelarbeitszeit grundsätzlich acht Stunden; eine Verlängerung auf bis zu zehn Stunden ist nur zulässig, wenn innerhalb von sechs Kalendermonaten im Durchschnitt acht Stunden nicht überschritten werden.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Arbeitszeitgesetz"
+    },
+    {
+      "id": "fue-169",
+      "text": "Welche ununterbrochene Mindestruhezeit muss Arbeitnehmern nach dem Arbeitszeitgesetz zwischen zwei Arbeitstagen grundsätzlich gewährt werden?",
+      "options": [
+        "Mindestens 8 Stunden",
+        "Mindestens 6 Stunden",
+        "Mindestens 11 Stunden",
+        "Mindestens 24 Stunden"
+      ],
+      "correct": 2,
+      "explanation": "Das Arbeitszeitgesetz schreibt zwischen Beendigung und Wiederaufnahme der Arbeit grundsätzlich eine ununterbrochene Ruhezeit von mindestens 11 Stunden vor.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Ruhezeiten"
+    },
+    {
+      "id": "fue-170",
+      "text": "Was ist bei der Anordnung von Überstunden durch die Führungskraft insbesondere zu beachten?",
+      "options": [
+        "Sofern ein Betriebsrat besteht, unterliegt die Anordnung von Überstunden nach § 87 BetrVG grundsätzlich dessen Mitbestimmungsrecht.",
+        "Überstunden dürfen ohne jede Ankündigung und ohne Rücksicht auf gesetzliche Höchstarbeitszeiten angeordnet werden.",
+        "Überstunden müssen niemals vergütet oder in Freizeit ausgeglichen werden.",
+        "Ein Betriebsrat hat bei Überstunden grundsätzlich kein Mitspracherecht."
+      ],
+      "correct": 0,
+      "explanation": "Die Anordnung von Überstunden unterliegt bei Bestehen eines Betriebsrats regelmäßig dessen Mitbestimmungsrecht nach § 87 BetrVG, zusätzlich sind die gesetzlichen Höchstarbeitszeiten zu beachten.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Überstunden"
+    },
+    {
+      "id": "fue-171",
+      "text": "Wie viele Werktage gesetzlichen Mindesturlaub sieht das Bundesurlaubsgesetz bei einer 6-Tage-Woche vor?",
+      "options": [
+        "24 Werktage",
+        "20 Werktage",
+        "30 Werktage",
+        "18 Werktage"
+      ],
+      "correct": 0,
+      "explanation": "Das Bundesurlaubsgesetz sieht bei einer 6-Tage-Woche einen gesetzlichen Mindesturlaub von 24 Werktagen vor, was bei einer 5-Tage-Woche 20 Arbeitstagen entspricht.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Urlaubsanspruch"
+    },
+    {
+      "id": "fue-172",
+      "text": "Für welchen Zeitraum muss der Arbeitgeber bei krankheitsbedingter Arbeitsunfähigkeit grundsätzlich das Entgelt fortzahlen, bevor die Krankenkasse Krankengeld zahlt?",
+      "options": [
+        "Für zwei Wochen",
+        "Für vier Wochen",
+        "Für zwölf Wochen",
+        "Für sechs Wochen"
+      ],
+      "correct": 3,
+      "explanation": "Nach dem Entgeltfortzahlungsgesetz zahlt der Arbeitgeber im Krankheitsfall grundsätzlich für sechs Wochen das Entgelt fort; danach kann Krankengeld durch die Krankenkasse gezahlt werden.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Entgeltfortzahlung"
+    },
+    {
+      "id": "fue-173",
+      "text": "Was gilt nach dem Mutterschutzgesetz grundsätzlich für den Kündigungsschutz während Schwangerschaft und nach der Entbindung?",
+      "options": [
+        "Eine Kündigung ist während der Schwangerschaft und bis vier Monate nach der Entbindung grundsätzlich unzulässig.",
+        "Eine Kündigung ist jederzeit ohne besondere Voraussetzungen möglich.",
+        "Der Kündigungsschutz gilt nur bei Kleinbetrieben mit weniger als fünf Beschäftigten.",
+        "Der Kündigungsschutz endet automatisch mit Bekanntwerden der Schwangerschaft beim Arbeitgeber."
+      ],
+      "correct": 0,
+      "explanation": "Nach dem Mutterschutzgesetz ist eine Kündigung während der Schwangerschaft und bis vier Monate nach der Entbindung grundsätzlich unzulässig, von behördlich zugelassenen Ausnahmefällen abgesehen.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Mutterschutz"
+    },
+    {
+      "id": "fue-174",
+      "text": "Welchen grundsätzlichen Anspruch haben Arbeitnehmer nach dem Bundeselterngeld- und Elternzeitgesetz (BEEG)?",
+      "options": [
+        "Einen Anspruch auf unbezahlte Freistellung zur Kinderbetreuung von grundsätzlich bis zu drei Jahren je Kind mit Rückkehrrecht auf den Arbeitsplatz.",
+        "Einen Anspruch auf vollständige Fortzahlung des vollen Gehalts während der gesamten Elternzeit.",
+        "Einen Anspruch auf Elternzeit nur für Mütter, nicht für Väter.",
+        "Einen Anspruch auf Elternzeit von maximal zwei Wochen."
+      ],
+      "correct": 0,
+      "explanation": "Arbeitnehmer haben nach dem BEEG Anspruch auf Elternzeit von grundsätzlich bis zu drei Jahren je Kind, während der das Arbeitsverhältnis ruht und ein Rückkehrrecht auf den Arbeitsplatz besteht.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Elternzeit"
+    },
+    {
+      "id": "fue-175",
+      "text": "Unter welcher Voraussetzung besteht nach dem Teilzeit- und Befristungsgesetz (TzBfG) grundsätzlich ein Anspruch auf Verringerung der Arbeitszeit?",
+      "options": [
+        "Das Arbeitsverhältnis muss in der Regel länger als sechs Monate bestehen, und der Betrieb muss in der Regel mehr als 15 Arbeitnehmer beschäftigen.",
+        "Ein Anspruch besteht unabhängig von Betriebsgröße und Beschäftigungsdauer sofort ab Vertragsbeginn.",
+        "Ein Anspruch besteht nur für Arbeitnehmer über 50 Jahre.",
+        "Ein Anspruch besteht ausschließlich für leitende Angestellte."
+      ],
+      "correct": 0,
+      "explanation": "Der Teilzeitanspruch nach dem TzBfG setzt in der Regel voraus, dass das Arbeitsverhältnis bereits länger als sechs Monate besteht und der Arbeitgeber in der Regel mehr als 15 Arbeitnehmer beschäftigt.",
+      "difficulty": 3,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Teilzeitanspruch"
+    },
+    {
+      "id": "fue-176",
+      "text": "Wie lange ist eine sachgrundlose Befristung eines Arbeitsvertrags nach dem TzBfG grundsätzlich höchstens zulässig?",
+      "options": [
+        "Bis zu zwei Jahre, wobei innerhalb dieser Zeit höchstens dreimal verlängert werden darf.",
+        "Bis zu fünf Jahre ohne Beschränkung der Verlängerungen.",
+        "Unbegrenzt, sofern der Arbeitnehmer zustimmt.",
+        "Nur für maximal drei Monate."
+      ],
+      "correct": 0,
+      "explanation": "Nach dem TzBfG ist eine sachgrundlose Befristung grundsätzlich bis zu einer Gesamtdauer von zwei Jahren zulässig, wobei innerhalb dieser Zeit höchstens dreimal verlängert werden darf.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Befristung"
+    },
+    {
+      "id": "fue-177",
+      "text": "Welche Zeugnisarten kann ein Arbeitnehmer bei Beendigung des Arbeitsverhältnisses grundsätzlich verlangen?",
+      "options": [
+        "Nur ein einfaches Zeugnis mit Angaben zu Art und Dauer der Tätigkeit.",
+        "Wahlweise ein einfaches Zeugnis (Angaben zu Art und Dauer der Tätigkeit) oder ein qualifiziertes Zeugnis (zusätzlich mit Leistungs- und Verhaltensbeurteilung).",
+        "Nur ein qualifiziertes Zeugnis, ein einfaches Zeugnis ist gesetzlich nicht vorgesehen.",
+        "Ein Zeugnis kann nur bei außerordentlicher Kündigung verlangt werden."
+      ],
+      "correct": 1,
+      "explanation": "Arbeitnehmer haben Anspruch auf ein einfaches Zeugnis mit Angaben zu Art und Dauer der Beschäftigung oder, auf Verlangen, ein qualifiziertes Zeugnis mit zusätzlicher Leistungs- und Verhaltensbeurteilung.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Arbeitszeugnis"
+    },
+    {
+      "id": "fue-178",
+      "text": "Was bezeichnet das arbeitsrechtliche 'Direktionsrecht' (Weisungsrecht) des Arbeitgebers?",
+      "options": [
+        "Das Recht, den Arbeitslohn einseitig zu kürzen.",
+        "Das Recht, Kündigungen ohne Angabe von Gründen auszusprechen.",
+        "Das Recht, den Betriebsrat aufzulösen.",
+        "Das Recht, Inhalt, Ort und Zeit der Arbeitsleistung im Rahmen des Arbeitsvertrags, der Gesetze und Betriebsvereinbarungen näher zu bestimmen."
+      ],
+      "correct": 3,
+      "explanation": "Das Direktionsrecht ermöglicht es dem Arbeitgeber, die Arbeitsleistung hinsichtlich Inhalt, Ort und Zeit näher zu konkretisieren, soweit dies nicht durch Arbeitsvertrag, Gesetz, Tarifvertrag oder Betriebsvereinbarung anderweitig festgelegt ist.",
+      "difficulty": 1,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Direktionsrecht"
+    },
+    {
+      "id": "fue-179",
+      "text": "Was umfasst die arbeitsvertragliche Treuepflicht (Nebenpflicht) des Arbeitnehmers gegenüber dem Arbeitgeber?",
+      "options": [
+        "Unter anderem die Rücksichtnahme auf berechtigte Interessen des Arbeitgebers, etwa durch Verschwiegenheit über Betriebsgeheimnisse.",
+        "Die Pflicht, private Angelegenheiten vollständig gegenüber dem Arbeitgeber offenzulegen.",
+        "Die Pflicht, Überstunden unbegrenzt und unentgeltlich zu leisten.",
+        "Die Pflicht, ausschließlich Anweisungen der Geschäftsleitung, nicht aber des direkten Vorgesetzten zu befolgen."
+      ],
+      "correct": 0,
+      "explanation": "Die Treuepflicht verlangt vom Arbeitnehmer, auf berechtigte Interessen des Arbeitgebers Rücksicht zu nehmen, wozu z. B. die Wahrung von Betriebs- und Geschäftsgeheimnissen zählt.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Nebenpflichten"
+    },
+    {
+      "id": "fue-180",
+      "text": "Was umfasst die arbeitsvertragliche Fürsorgepflicht des Arbeitgebers gegenüber seinen Beschäftigten?",
+      "options": [
+        "Die Verpflichtung, ausschließlich das vereinbarte Gehalt pünktlich zu zahlen.",
+        "Den Schutz von Gesundheit, Leben und Persönlichkeitsrechten der Beschäftigten sowie eine angemessene Rücksichtnahme auf deren berechtigte Interessen.",
+        "Die Pflicht, private Probleme der Mitarbeitenden zu lösen.",
+        "Die Pflicht, jedem Mitarbeitenden eine Gehaltserhöhung pro Jahr zu gewähren."
+      ],
+      "correct": 1,
+      "explanation": "Die Fürsorgepflicht verpflichtet den Arbeitgeber, Gesundheit, Leben und Persönlichkeitsrechte der Beschäftigten zu schützen und deren berechtigte Interessen angemessen zu berücksichtigen.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Fürsorgepflicht"
+    },
+    {
+      "id": "fue-181",
+      "text": "Was kennzeichnet einen arbeitsrechtlichen Aufhebungsvertrag im Unterschied zu einer Kündigung?",
+      "options": [
+        "Er beendet das Arbeitsverhältnis einvernehmlich durch übereinstimmende Willenserklärung beider Parteien, ohne dass Kündigungsfristen oder Kündigungsschutzrecht zwingend beachtet werden müssen.",
+        "Er kann nur von einer Behörde ausgesprochen werden.",
+        "Er bedarf keiner Unterschrift beider Parteien.",
+        "Er unterliegt in jedem Fall denselben Fristen wie eine ordentliche Kündigung."
+      ],
+      "correct": 0,
+      "explanation": "Ein Aufhebungsvertrag beendet das Arbeitsverhältnis durch beiderseitige Willenserklärung; da er einvernehmlich erfolgt, müssen gesetzliche Kündigungsfristen und Kündigungsschutzvorschriften nicht zwingend eingehalten werden.",
+      "difficulty": 3,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Aufhebungsvertrag"
+    },
+    {
+      "id": "fue-182",
+      "text": "Was regelt § 613a BGB im Fall eines Betriebsübergangs?",
+      "options": [
+        "Dass alle Arbeitsverhältnisse mit dem Betriebsübergang automatisch enden.",
+        "Dass der neue Betriebsinhaber grundsätzlich in die bestehenden Arbeitsverhältnisse mit allen Rechten und Pflichten eintritt.",
+        "Dass ausschließlich neue Arbeitsverträge zu schlechteren Bedingungen abgeschlossen werden dürfen.",
+        "Dass der Betriebsrat bei einem Betriebsübergang automatisch aufgelöst wird."
+      ],
+      "correct": 1,
+      "explanation": "Nach § 613a BGB tritt der Erwerber eines Betriebs grundsätzlich in die bestehenden Arbeitsverhältnisse mit allen Rechten und Pflichten ein; eine Kündigung wegen des Betriebsübergangs ist unzulässig.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Betriebsübergang"
+    },
+    {
+      "id": "fue-183",
+      "text": "Was ist vor einer ordentlichen Kündigung eines schwerbehinderten Menschen zusätzlich zu beachten?",
+      "options": [
+        "Es ist keinerlei zusätzliches Verfahren notwendig.",
+        "Nur der Betriebsrat muss zustimmen, weitere Stellen sind nicht zu beteiligen.",
+        "Der Arbeitgeber benötigt vorab die Zustimmung des Integrationsamts.",
+        "Die Kündigung darf ausschließlich mündlich erfolgen."
+      ],
+      "correct": 2,
+      "explanation": "Vor der Kündigung eines schwerbehinderten Menschen muss der Arbeitgeber grundsätzlich vorab die Zustimmung des Integrationsamts einholen.",
+      "difficulty": 2,
+      "topic": "Arbeitsrecht in der Führungspraxis",
+      "subtopic": "Schwerbehindertenschutz"
+    },
+    {
+      "id": "fue-184",
+      "text": "Welche Aufgabe hat der Betriebsarzt nach dem Arbeitssicherheitsgesetz (ASiG) insbesondere?",
+      "options": [
+        "Er berät Arbeitgeber und Beschäftigte in Fragen des Gesundheitsschutzes und der Unfallverhütung und unterstützt bei der Gestaltung gesundheitsgerechter Arbeitsbedingungen.",
+        "Er trifft anstelle des Arbeitgebers alle unternehmerischen Entscheidungen zum Arbeitsschutz.",
+        "Er ist ausschließlich für die Behandlung akuter Erkrankungen außerhalb des Betriebs zuständig.",
+        "Er ersetzt die gesetzliche Unfallversicherung."
+      ],
+      "correct": 0,
+      "explanation": "Der Betriebsarzt berät nach dem ASiG Arbeitgeber und Beschäftigte in Fragen des Arbeits- und Gesundheitsschutzes sowie der Unfallverhütung, die Entscheidung über Maßnahmen trifft weiterhin der Arbeitgeber.",
+      "difficulty": 3,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Betriebsarzt"
+    },
+    {
+      "id": "fue-185",
+      "text": "Welche Aufgabe hat die Fachkraft für Arbeitssicherheit (Sicherheitsfachkraft) nach dem ASiG?",
+      "options": [
+        "Sie trägt die alleinige strafrechtliche Verantwortung für alle Arbeitsunfälle.",
+        "Sie berät den Arbeitgeber in Fragen der Arbeitssicherheit, z. B. bei der Gestaltung von Arbeitsplätzen und der Beschaffung von Arbeitsmitteln, und unterstützt bei der Unfallverhütung.",
+        "Sie ist ausschließlich für die Lohnabrechnung der Beschäftigten zuständig.",
+        "Sie ersetzt die Aufgaben des Betriebsrats vollständig."
+      ],
+      "correct": 1,
+      "explanation": "Die Fachkraft für Arbeitssicherheit unterstützt und berät den Arbeitgeber in allen Fragen der Arbeitssicherheit und des betrieblichen Unfallschutzes.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Fachkraft für Arbeitssicherheit"
+    },
+    {
+      "id": "fue-186",
+      "text": "Welche Rolle nimmt die Berufsgenossenschaft als gesetzlicher Unfallversicherungsträger im Betrieb ein?",
+      "options": [
+        "Sie überwacht den Arbeitsschutz, berät Betriebe, erlässt Unfallverhütungsvorschriften und übernimmt Leistungen bei Arbeitsunfällen und Berufskrankheiten.",
+        "Sie ist ausschließlich für die Rentenversicherung der Beschäftigten zuständig.",
+        "Sie ersetzt vollständig die betriebliche Gefährdungsbeurteilung.",
+        "Sie darf keine Vorschriften erlassen, sondern nur Empfehlungen aussprechen."
+      ],
+      "correct": 0,
+      "explanation": "Die Berufsgenossenschaft überwacht als Träger der gesetzlichen Unfallversicherung den Arbeitsschutz, erlässt Unfallverhütungsvorschriften (DGUV-Vorschriften), berät Betriebe und erbringt Leistungen bei Arbeitsunfällen und Berufskrankheiten.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Berufsgenossenschaft"
+    },
+    {
+      "id": "fue-187",
+      "text": "Was schreiben die Vorschriften zur Ersten Hilfe im Betrieb hinsichtlich Ersthelfern grundsätzlich vor?",
+      "options": [
+        "Ersthelfer sind gesetzlich nicht vorgeschrieben und liegen im freien Ermessen des Arbeitgebers.",
+        "Es muss in Abhängigkeit von der Beschäftigtenzahl eine ausreichende Anzahl ausgebildeter Ersthelfer im Betrieb vorhanden und benannt sein.",
+        "Nur die Geschäftsführung selbst darf als Ersthelfer fungieren.",
+        "Ersthelfer müssen ausschließlich extern über den Rettungsdienst gestellt werden."
+      ],
+      "correct": 1,
+      "explanation": "Abhängig von der Beschäftigtenzahl muss der Arbeitgeber eine ausreichende Anzahl ausgebildeter Ersthelfer benennen und deren Ausbildung sicherstellen, um im Notfall Erste Hilfe leisten zu können.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Erste Hilfe im Betrieb"
+    },
+    {
+      "id": "fue-188",
+      "text": "Welche Aufgabe hat ein Brandschutzbeauftragter im Betrieb typischerweise?",
+      "options": [
+        "Er unterstützt den Arbeitgeber bei der Umsetzung des betrieblichen Brandschutzes, z. B. bei Gefährdungsbeurteilung, Räumungsübungen und Unterweisungen.",
+        "Er übernimmt die vollständige rechtliche Verantwortung des Arbeitgebers für den Brandschutz.",
+        "Er ist ausschließlich für die Instandhaltung der Maschinen zuständig.",
+        "Er ersetzt die örtliche Feuerwehr im Ernstfall."
+      ],
+      "correct": 0,
+      "explanation": "Der Brandschutzbeauftragte unterstützt und berät den Arbeitgeber bei der Organisation des betrieblichen Brandschutzes, etwa bei Gefährdungsbeurteilungen, Räumungsübungen und Unterweisungen, ohne die grundsätzliche Verantwortung des Arbeitgebers zu übernehmen.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Brandschutz"
+    },
+    {
+      "id": "fue-189",
+      "text": "Worin unterscheidet sich eine Betriebsanweisung von einer Unterweisung?",
+      "options": [
+        "Die Betriebsanweisung ist ein schriftliches Dokument mit verbindlichen Verhaltensregeln zu einem Arbeitsmittel oder Arbeitsverfahren, die Unterweisung ist die mündliche bzw. praktische Vermittlung dieser Regeln an die Beschäftigten.",
+        "Beide Begriffe bezeichnen exakt dasselbe und werden beliebig synonym verwendet.",
+        "Die Unterweisung ist ein schriftliches Dokument, die Betriebsanweisung eine mündliche Erklärung.",
+        "Eine Betriebsanweisung ist gesetzlich nicht vorgeschrieben und rein freiwillig."
+      ],
+      "correct": 0,
+      "explanation": "Die Betriebsanweisung ist das schriftliche Dokument mit verbindlichen Regeln, die Unterweisung die praktische, mündliche Vermittlung dieser Regeln an die Beschäftigten, die regelmäßig zu wiederholen ist.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Betriebsanweisung und Unterweisung"
+    },
+    {
+      "id": "fue-190",
+      "text": "Was verlangt die Gefahrstoffverordnung unter anderem vom Arbeitgeber im Umgang mit gefährlichen Stoffen?",
+      "options": [
+        "Er hat keinerlei Dokumentationspflichten.",
+        "Kennzeichnung von Gefahrstoffen und Bereitstellung von Sicherheitsdatenblättern sowie die Berücksichtigung im Rahmen der Gefährdungsbeurteilung.",
+        "Er darf Gefahrstoffe ohne jede Kennzeichnung verwenden, solange keine Unfälle passieren.",
+        "Sicherheitsdatenblätter sind ausschließlich für den Export relevant."
+      ],
+      "correct": 1,
+      "explanation": "Die Gefahrstoffverordnung verpflichtet den Arbeitgeber unter anderem zur Kennzeichnung von Gefahrstoffen, zur Bereitstellung von Sicherheitsdatenblättern und zur Berücksichtigung der Gefahrstoffe in der Gefährdungsbeurteilung.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Gefahrstoffverordnung"
+    },
+    {
+      "id": "fue-191",
+      "text": "Welche Bedeutung haben DGUV-Vorschriften für Betriebe?",
+      "options": [
+        "Sie sind unverbindliche Empfehlungen ohne rechtliche Bedeutung.",
+        "Sie gelten nur für öffentliche Verwaltungen, nicht für private Unternehmen.",
+        "Als autonomes Recht der Unfallversicherungsträger sind sie für die Mitgliedsbetriebe verbindliche Vorschriften zur Unfallverhütung.",
+        "Sie regeln ausschließlich die Höhe der Unfallversicherungsbeiträge."
+      ],
+      "correct": 2,
+      "explanation": "DGUV-Vorschriften sind autonomes Recht der Unfallversicherungsträger und für die zugehörigen Mitgliedsbetriebe verbindliche Regelungen zur Unfallverhütung.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "DGUV-Vorschriften"
+    },
+    {
+      "id": "fue-192",
+      "text": "Was muss der Arbeitgeber nach dem Mutterschutzgesetz tun, sobald eine Mitarbeiterin ihre Schwangerschaft mitteilt?",
+      "options": [
+        "Er kann die Meldung ignorieren, bis die Mitarbeiterin eine ärztliche Bescheinigung nach der Entbindung vorlegt.",
+        "Er muss die Arbeitsbedingungen im Rahmen einer Gefährdungsbeurteilung überprüfen und erforderliche Schutzmaßnahmen für die schwangere Mitarbeiterin ergreifen.",
+        "Er muss die Mitarbeiterin unverzüglich freistellen, ganz unabhängig von der Art der Tätigkeit.",
+        "Er informiert ausschließlich den Betriebsrat, weitere Maßnahmen sind nicht erforderlich."
+      ],
+      "correct": 1,
+      "explanation": "Der Arbeitgeber muss nach Mitteilung der Schwangerschaft die konkreten Arbeitsbedingungen im Rahmen einer Gefährdungsbeurteilung prüfen und notwendige Schutzmaßnahmen für die schwangere Beschäftigte festlegen.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Mutterschutz und Gefährdungsbeurteilung"
+    },
+    {
+      "id": "fue-193",
+      "text": "Was ist bei der Gefährdungsbeurteilung für den Einsatz von Jugendlichen im Betrieb besonders zu berücksichtigen?",
+      "options": [
+        "Jugendliche unterliegen keinen besonderen Schutzanforderungen mehr, sobald sie eine Berufsausbildung begonnen haben.",
+        "Der besondere Entwicklungsstand und die mangelnde Erfahrung Jugendlicher erfordern eine spezifische Beurteilung möglicher Gefährdungen sowie ggf. zusätzliche Schutzmaßnahmen.",
+        "Jugendliche dürfen grundsätzlich an keiner Maschine im Betrieb eingesetzt werden.",
+        "Eine gesonderte Gefährdungsbeurteilung für Jugendliche ist gesetzlich nicht vorgesehen."
+      ],
+      "correct": 1,
+      "explanation": "Aufgrund des Entwicklungsstands und der geringeren Erfahrung Jugendlicher sind mögliche Gefährdungen für sie im Rahmen der Gefährdungsbeurteilung besonders zu berücksichtigen, gegebenenfalls mit zusätzlichen Schutzmaßnahmen.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Jugendarbeitsschutz und Gefährdungsbeurteilung"
+    },
+    {
+      "id": "fue-194",
+      "text": "Welche Bedeutung hat die Vorbildfunktion der Führungskraft im betrieblichen Arbeitsschutz?",
+      "options": [
+        "Wenn Führungskräfte selbst konsequent Schutzausrüstung tragen und Sicherheitsregeln einhalten, fördert dies die Akzeptanz und Einhaltung dieser Regeln bei den Mitarbeitenden.",
+        "Die Vorbildfunktion ist im Arbeitsschutz ohne jede praktische Relevanz.",
+        "Führungskräfte sind von Arbeitsschutzvorschriften grundsätzlich ausgenommen.",
+        "Vorbildverhalten kann formale Unterweisungen vollständig ersetzen."
+      ],
+      "correct": 0,
+      "explanation": "Wenn Führungskräfte Schutzmaßnahmen und Regeln selbst konsequent vorleben, erhöht dies erfahrungsgemäß die Akzeptanz und Einhaltung dieser Regeln durch die Beschäftigten.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Vorbildfunktion im Arbeitsschutz"
+    },
+    {
+      "id": "fue-195",
+      "text": "Welche Rangfolge legt das STOP-Prinzip für Maßnahmen des Arbeitsschutzes fest?",
+      "options": [
+        "Personenbezogene Maßnahmen vor organisatorischen, technischen und substitutionellen Maßnahmen.",
+        "Organisatorische Maßnahmen vor Substitution, technischen und personenbezogenen Maßnahmen.",
+        "Technische Maßnahmen vor Substitution, organisatorischen und personenbezogenen Maßnahmen.",
+        "Substitution vor technischen, organisatorischen und zuletzt personenbezogenen Maßnahmen."
+      ],
+      "correct": 3,
+      "explanation": "Das STOP-Prinzip legt eine Rangfolge fest: zuerst Substitution (Ersetzen der Gefahr), dann technische, danach organisatorische und erst zuletzt personenbezogene Schutzmaßnahmen (z. B. PSA).",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "STOP-Prinzip"
+    },
+    {
+      "id": "fue-196",
+      "text": "Was ist ein 'Gesundheitszirkel' im Rahmen des betrieblichen Gesundheitsmanagements?",
+      "options": [
+        "Eine gesetzlich vorgeschriebene Institution zur Lohnabrechnung.",
+        "Ein Gremium, das ausschließlich über Kündigungen entscheidet.",
+        "Ein reines Sportangebot für Führungskräfte.",
+        "Eine regelmäßig tagende Arbeitsgruppe aus Beschäftigten, Führungskräften und ggf. Experten, die betriebliche Belastungen analysiert und Verbesserungsvorschläge für die Gesundheit am Arbeitsplatz erarbeitet."
+      ],
+      "correct": 3,
+      "explanation": "Ein Gesundheitszirkel ist eine Arbeitsgruppe, die gesundheitliche Belastungsfaktoren am Arbeitsplatz analysiert und gemeinsam Verbesserungsvorschläge entwickelt, oft unter Beteiligung von Beschäftigten, Führungskräften und Fachexperten.",
+      "difficulty": 3,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Gesundheitszirkel"
+    },
+    {
+      "id": "fue-197",
+      "text": "Welche Rolle hat die Führungskraft, wenn sie Anzeichen für ein Suchtproblem bei einem Mitarbeiter wahrnimmt?",
+      "options": [
+        "Sie ignoriert das Thema grundsätzlich, da es reine Privatsache ist.",
+        "Sie kündigt dem Mitarbeiter sofort ohne vorheriges Gespräch.",
+        "Sie sucht das klärende Gespräch, weist auf Unterstützungsangebote (z. B. Suchtberatung) hin und dokumentiert Auffälligkeiten sachlich, statt das Thema zu übergehen.",
+        "Sie informiert ohne Rücksprache mit dem Mitarbeiter die gesamte Belegschaft."
+      ],
+      "correct": 2,
+      "explanation": "Führungskräfte sollten bei Anzeichen einer Suchtproblematik das klärende Gespräch suchen, auf Hilfsangebote wie eine betriebliche Suchtberatung hinweisen und Auffälligkeiten sachlich dokumentieren, statt das Thema zu ignorieren oder vorschnell zu sanktionieren.",
+      "difficulty": 3,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Sucht am Arbeitsplatz"
+    },
+    {
+      "id": "fue-198",
+      "text": "Wie läuft ein betriebliches Eingliederungsmanagement (BEM) grundsätzlich ab?",
+      "options": [
+        "Der Arbeitgeber entscheidet allein und ohne Beteiligung des Beschäftigten über alle Maßnahmen.",
+        "Es beginnt mit einem Angebot des Arbeitgebers an den Beschäftigten; bei Zustimmung werden gemeinsam mit dem Beschäftigten, ggf. unter Einbeziehung von Interessenvertretung und weiteren Stellen, Maßnahmen zur Überwindung der Arbeitsunfähigkeit und Vorbeugung erneuter Ausfälle erarbeitet.",
+        "Es ist ausschließlich ein einmaliges Gespräch ohne weitere Schritte.",
+        "Es darf nur vom Betriebsarzt allein durchgeführt werden."
+      ],
+      "correct": 1,
+      "explanation": "Das BEM beginnt mit einem Angebot des Arbeitgebers; stimmt der Beschäftigte zu, werden gemeinsam mit ihm - ggf. unter Beteiligung von Interessenvertretung, Betriebsarzt oder weiteren Stellen - individuelle Maßnahmen zur Wiedereingliederung und Vermeidung künftiger Fehlzeiten erarbeitet.",
+      "difficulty": 3,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Betriebliches Eingliederungsmanagement"
+    },
+    {
+      "id": "fue-199",
+      "text": "Mit welchen Methoden kann die psychische Gefährdungsbeurteilung im Betrieb praktisch durchgeführt werden?",
+      "options": [
+        "Ausschließlich durch anonyme externe Gutachten ohne Beteiligung der Beschäftigten.",
+        "Nur durch die einmalige Auswertung von Krankheitsstatistiken.",
+        "Unter anderem durch Mitarbeiterbefragungen, moderierte Workshops oder Analyseworkshops mit Beschäftigten und Führungskräften.",
+        "Ausschließlich durch technische Messungen von Lärm und Beleuchtung."
+      ],
+      "correct": 2,
+      "explanation": "Zur Erhebung psychischer Belastungen kommen u. a. Mitarbeiterbefragungen, moderierte Workshops oder Analysegespräche mit Beschäftigten und Führungskräften zum Einsatz, um Belastungsfaktoren systematisch zu erfassen.",
+      "difficulty": 2,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Psychische Gefährdungsbeurteilung"
+    },
+    {
+      "id": "fue-200",
+      "text": "Warum gehört die Berücksichtigung ergonomischer Aspekte am Arbeitsplatz zu den Führungsaufgaben im Arbeitsschutz?",
+      "options": [
+        "Weil ergonomisch ungünstig gestaltete Arbeitsplätze das Risiko körperlicher Beschwerden erhöhen und die Führungskraft für die Gestaltung sicherer und gesundheitsgerechter Arbeitsbedingungen mitverantwortlich ist.",
+        "Weil Ergonomie ausschließlich Aufgabe der Beschäftigten selbst ist.",
+        "Weil ergonomische Fragestellungen gesetzlich nicht geregelt sind.",
+        "Weil ergonomische Maßnahmen ausschließlich bei Bürotätigkeiten relevant sind."
+      ],
+      "correct": 0,
+      "explanation": "Ergonomisch ungünstige Arbeitsbedingungen erhöhen das Risiko körperlicher Beschwerden; Führungskräfte tragen im Rahmen ihrer Fürsorge- und Organisationsverantwortung dazu bei, Arbeitsplätze gesundheitsgerecht zu gestalten.",
+      "difficulty": 1,
+      "topic": "Gesundheits- und Arbeitsschutzmanagement",
+      "subtopic": "Ergonomie am Arbeitsplatz"
+    }
+  ]
+}

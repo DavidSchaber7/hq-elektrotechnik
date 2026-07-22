@@ -1,0 +1,3004 @@
+{
+  "questions": [
+    {
+      "id": "org-001",
+      "text": "Was regelt die Aufbauorganisation eines Unternehmens?",
+      "options": [
+        "Die zeitliche und räumliche Abfolge von Arbeitsprozessen",
+        "Die hierarchische Gliederung in Stellen, Abteilungen und deren Beziehungen",
+        "Die Kalkulation von Herstellkosten",
+        "Die Lagerhaltung von Roh- und Hilfsstoffen"
+      ],
+      "correct": 1,
+      "explanation": "Die Aufbauorganisation legt die Struktur aus Stellen, Instanzen und Abteilungen sowie deren Weisungs- und Kommunikationsbeziehungen fest; der Ablauf wird durch die Ablauforganisation geregelt.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Aufbauorganisation"
+    },
+    {
+      "id": "org-002",
+      "text": "Was ist Gegenstand der Ablauforganisation?",
+      "options": [
+        "Die Verteilung von Weisungsbefugnissen",
+        "Die Definition von Stellenbeschreibungen",
+        "Die räumliche und zeitliche Strukturierung von Arbeitsprozessen",
+        "Die Festlegung des Organigramms"
+      ],
+      "correct": 2,
+      "explanation": "Die Ablauforganisation regelt, in welcher zeitlichen Reihenfolge und an welchem Ort Arbeitsprozesse durchgeführt werden.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Ablauforganisation"
+    },
+    {
+      "id": "org-003",
+      "text": "Welches Element wird in einem Organigramm durch ein Rechteck (Kästchen) dargestellt?",
+      "options": [
+        "Eine Stelle bzw. Instanz",
+        "Ein Kommunikationsweg",
+        "Ein Arbeitsablauf",
+        "Eine Kennzahl"
+      ],
+      "correct": 0,
+      "explanation": "Kästchen im Organigramm symbolisieren Stellen bzw. Instanzen, verbindende Linien stellen die Weisungs- und Unterstellungsverhältnisse dar.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Organigramme"
+    },
+    {
+      "id": "org-004",
+      "text": "Wodurch ist das Einliniensystem gekennzeichnet?",
+      "options": [
+        "Jede Stelle erhält Anweisungen von mehreren übergeordneten Stellen",
+        "Es gibt keine Instanzen im System",
+        "Stabsstellen besitzen Entscheidungsbefugnis",
+        "Jede Stelle hat genau eine übergeordnete Instanz, von der sie Weisungen erhält"
+      ],
+      "correct": 3,
+      "explanation": "Kennzeichen des Einliniensystems ist der Grundsatz der Einheit der Auftragserteilung: Jede Stelle untersteht genau einer Instanz.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Einliniensystem"
+    },
+    {
+      "id": "org-005",
+      "text": "Was ist ein typischer Nachteil des Mehrliniensystems (Funktionsmeistersystem nach Taylor) gegenüber dem Einliniensystem?",
+      "options": [
+        "Gefahr von Kompetenzüberschneidungen und widersprüchlichen Anweisungen durch mehrere Vorgesetzte",
+        "Zu lange Kommunikationswege durch strikte Hierarchieebenen",
+        "Fehlende fachliche Spezialisierung der Instanzen",
+        "Zu geringe Anzahl an Weisungsbefugnissen"
+      ],
+      "correct": 0,
+      "explanation": "Da im Mehrliniensystem mehrere Instanzen einer Stelle Weisungen erteilen können, besteht die Gefahr sich widersprechender Anweisungen und unklarer Zuständigkeiten.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Mehrliniensystem"
+    },
+    {
+      "id": "org-006",
+      "text": "Welche Aussage zur Stabsstelle in der Stab-Linien-Organisation trifft zu?",
+      "options": [
+        "Stabsstellen besitzen Entscheidungs- und Weisungsbefugnis gegenüber Linienstellen",
+        "Stabsstellen ersetzen die Instanzen der Linie",
+        "Stabsstellen beraten und unterstützen die Linieninstanz fachlich, ohne eigene Weisungsbefugnis",
+        "Stabsstellen sind ausschließlich in der Fertigung anzutreffen"
+      ],
+      "correct": 2,
+      "explanation": "Stabsstellen (z. B. Rechtsabteilung, Controlling) haben eine beratende Funktion und unterstützen die Entscheidungsträger der Linie, verfügen aber über keine eigene Weisungsbefugnis gegenüber der Linie.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Stab-Linien-Organisation"
+    },
+    {
+      "id": "org-007",
+      "text": "Was kennzeichnet die Matrixorganisation?",
+      "options": [
+        "Eine Stelle untersteht immer genau einer Instanz",
+        "Der vollständige Verzicht auf Hierarchieebenen",
+        "Die ausschließliche Gliederung nach Verrichtung",
+        "Die Überlagerung von zwei Weisungslinien, z. B. Fachbereich und Projekt, mit Mehrfachunterstellung"
+      ],
+      "correct": 3,
+      "explanation": "In der Matrixorganisation werden Stellen sowohl fachlich (z. B. durch den Bereichsleiter) als auch objektbezogen (z. B. durch den Projektleiter) geführt, wodurch eine Mehrfachunterstellung entsteht.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Matrixorganisation"
+    },
+    {
+      "id": "org-008",
+      "text": "Wie wird die kleinste organisatorische Einheit bezeichnet, die einer Person zur dauerhaften Erfüllung von Aufgaben zugeordnet wird?",
+      "options": [
+        "Abteilung",
+        "Stelle",
+        "Instanz",
+        "Gremium"
+      ],
+      "correct": 1,
+      "explanation": "Die Stelle ist die kleinste Einheit der Aufbauorganisation; erhält sie zusätzlich Weisungsbefugnis gegenüber nachgeordneten Stellen, spricht man von einer Instanz.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Stelle und Instanz"
+    },
+    {
+      "id": "org-009",
+      "text": "Welcher organisatorische Grundsatz besagt, dass Aufgabe, Kompetenz und Verantwortung einer Stelle übereinstimmen sollen?",
+      "options": [
+        "Direktionsprinzip",
+        "Delegationsverbot",
+        "Kongruenzprinzip",
+        "Instanzenweg"
+      ],
+      "correct": 2,
+      "explanation": "Das Kongruenzprinzip fordert, dass einer Stelle genau die Entscheidungsbefugnisse (Kompetenzen) übertragen werden, die zur Erfüllung der Aufgabe und zur Übernahme der Verantwortung erforderlich sind.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Kompetenz und Verantwortung"
+    },
+    {
+      "id": "org-010",
+      "text": "Was unterscheidet die Prozessorganisation grundsätzlich von der klassischen funktionalen Aufbauorganisation?",
+      "options": [
+        "Sie kennt keine Hierarchie mehr",
+        "Sie wird ausschließlich in der Verwaltung eingesetzt",
+        "Sie ersetzt die Stellenbeschreibung durch Arbeitsanweisungen",
+        "Sie orientiert sich an durchgängigen, abteilungsübergreifenden Wertschöpfungsketten statt an Verrichtungsfunktionen"
+      ],
+      "correct": 3,
+      "explanation": "Die Prozessorganisation strukturiert das Unternehmen entlang durchgängiger Geschäftsprozesse (End-to-End), während die funktionale Organisation nach gleichartigen Verrichtungen gliedert.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Prozessorganisation"
+    },
+    {
+      "id": "org-011",
+      "text": "Nach welchem Kriterium erfolgt die Gliederung bei einer funktionalen (verrichtungsorientierten) Organisation?",
+      "options": [
+        "Nach gleichartigen Tätigkeiten bzw. Verrichtungen, z. B. Einkauf, Fertigung, Vertrieb",
+        "Nach Produktgruppen",
+        "Nach Kundenregionen",
+        "Nach Projekten"
+      ],
+      "correct": 0,
+      "explanation": "Bei der funktionalen Organisation werden gleichartige Tätigkeiten in Abteilungen wie Einkauf, Fertigung oder Vertrieb zusammengefasst.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Funktionale Organisation"
+    },
+    {
+      "id": "org-012",
+      "text": "Wie wird eine Organisationsform bezeichnet, bei der die Gliederung nach Produktgruppen, Regionen oder Kunden erfolgt und jede Sparte weitgehend eigenverantwortlich agiert?",
+      "options": [
+        "Funktionale Organisation",
+        "Divisional- bzw. Spartenorganisation",
+        "Matrixorganisation",
+        "Tensororganisation"
+      ],
+      "correct": 1,
+      "explanation": "Die Divisional- oder Spartenorganisation gliedert das Unternehmen nach Objekten wie Produkten, Regionen oder Kunden und überträgt den Sparten weitgehende Ergebnisverantwortung.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Divisionalorganisation"
+    },
+    {
+      "id": "org-013",
+      "text": "In einem Elektrobetrieb erhält ein Facharbeiter Weisungen sowohl vom Fachvorgesetzten Elektrotechnik als auch vom Projektleiter einer Baustelle. Welche Organisationsform liegt vor?",
+      "options": [
+        "Einliniensystem",
+        "Stab-Linien-Organisation",
+        "Matrixorganisation",
+        "Funktionale Organisation"
+      ],
+      "correct": 2,
+      "explanation": "Die gleichzeitige Weisung durch die Fachlinie und die Projektlinie ist das charakteristische Merkmal der Matrixorganisation.",
+      "difficulty": 3,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Matrixorganisation"
+    },
+    {
+      "id": "org-014",
+      "text": "Was versteht man unter dem Instanzenweg (Dienstweg) in einer Linienorganisation?",
+      "options": [
+        "Den Weg, den Informationen und Anweisungen entlang der Hierarchieebenen nehmen müssen",
+        "Den direkten informellen Kontakt zwischen beliebigen Mitarbeitern",
+        "Die Route eines Werkstücks durch die Fertigung",
+        "Die Reihenfolge der Kostenstellen in der Kalkulation"
+      ],
+      "correct": 0,
+      "explanation": "Der Instanzenweg beschreibt den formalen Weg, den Anweisungen und Berichte über die einzelnen Hierarchieebenen nehmen.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Kommunikationswege"
+    },
+    {
+      "id": "org-015",
+      "text": "Was bedeutet Delegation im organisatorischen Sinn?",
+      "options": [
+        "Die vollständige Abgabe der Verantwortung an eine untergeordnete Stelle",
+        "Der Verzicht auf jegliche Kontrolle der übertragenen Aufgabe",
+        "Die Übertragung von Aufgaben ohne zugehörige Kompetenzen",
+        "Die Übertragung von Aufgaben und der zugehörigen Entscheidungskompetenz auf eine nachgeordnete Stelle, wobei die Gesamtverantwortung beim Delegierenden verbleibt"
+      ],
+      "correct": 3,
+      "explanation": "Bei der Delegation werden Aufgaben und Kompetenzen übertragen; die Führungsverantwortung für das Ergebnis verbleibt jedoch weiterhin beim Delegierenden.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Delegation"
+    },
+    {
+      "id": "org-016",
+      "text": "Ein Betrieb analysiert mithilfe von REFA-Methoden den Materialfluss vom Wareneingang bis zur Montage, um Wartezeiten zu reduzieren. Welchem Organisationsbereich ist diese Betrachtung zuzuordnen?",
+      "options": [
+        "Aufbauorganisation",
+        "Ablauforganisation",
+        "Finanzorganisation",
+        "Personalorganisation"
+      ],
+      "correct": 1,
+      "explanation": "Die Untersuchung von Arbeitsabläufen, Wegen und Zeiten im Materialfluss ist Gegenstand der Ablauforganisation.",
+      "difficulty": 3,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Prozessanalyse"
+    },
+    {
+      "id": "org-017",
+      "text": "Welches Problem entsteht häufig an Schnittstellen zwischen Abteilungen einer stark funktional gegliederten Organisation?",
+      "options": [
+        "Zu kurze Durchlaufzeiten",
+        "Übermäßige Prozessorientierung",
+        "Informationsverluste und Reibungsverluste beim Übergang von Aufgaben zwischen Abteilungen",
+        "Zu hohe Kundenorientierung"
+      ],
+      "correct": 2,
+      "explanation": "An Abteilungsschnittstellen entstehen in funktional gegliederten Organisationen häufig Informations- und Reibungsverluste, da Verantwortlichkeiten für den Gesamtprozess unklar sind.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Schnittstellenmanagement"
+    },
+    {
+      "id": "org-018",
+      "text": "Was versteht man unter dem kritischen Pfad in der Netzplantechnik?",
+      "options": [
+        "Die Abfolge von Vorgängen, deren Verzögerung unmittelbar zu einer Verzögerung des Gesamtprojekts führt (Pufferzeit gleich null)",
+        "Die Abfolge von Vorgängen mit der größten Pufferzeit",
+        "Der Weg mit den geringsten Kosten im Projekt",
+        "Die Reihenfolge der am wenigsten kritischen Tätigkeiten"
+      ],
+      "correct": 0,
+      "explanation": "Der kritische Pfad umfasst die Vorgangsfolge mit der Pufferzeit null; jede Verzögerung eines Vorgangs auf diesem Pfad verzögert den gesamten Projektendtermin.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "org-019",
+      "text": "Wofür steht die Abkürzung CPM in der Netzplantechnik?",
+      "options": [
+        "Cost Performance Method",
+        "Critical Path Method",
+        "Continuous Process Monitoring",
+        "Capacity Planning Model"
+      ],
+      "correct": 1,
+      "explanation": "CPM steht für Critical Path Method, ein Verfahren der Netzplantechnik zur Ermittlung des kritischen Pfades eines Projekts.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "org-020",
+      "text": "Was zeigt ein Balkendiagramm (Gantt-Diagramm) im Gegensatz zu einem Netzplan primär?",
+      "options": [
+        "Die logischen Abhängigkeiten zwischen Vorgängen in Knotenform",
+        "Ausschließlich die Kostenverteilung eines Projekts",
+        "Den zeitlichen Verlauf von Vorgängen als Balken auf einer Zeitachse, meist ohne explizite Abhängigkeitsdarstellung",
+        "Die Kapazitätsauslastung der Maschinen"
+      ],
+      "correct": 2,
+      "explanation": "Das Gantt-Diagramm stellt Vorgänge als Balken über der Zeit dar und dient vor allem der anschaulichen Terminübersicht, während der Netzplan die logischen Abhängigkeiten abbildet.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Balkendiagramm"
+    },
+    {
+      "id": "org-021",
+      "text": "Was bezeichnet der Gesamtpuffer eines Vorgangs im Netzplan?",
+      "options": [
+        "Die Zeitspanne bis zum nächsten Meilenstein",
+        "Die Differenz zwischen frühestem und spätestem Anfangszeitpunkt zweier verschiedener Vorgänge",
+        "Die Dauer eines Vorgangs zuzüglich Rüstzeit",
+        "Die Zeitspanne, um die sich ein Vorgang verschieben lässt, ohne dass sich der Projektendtermin verschiebt"
+      ],
+      "correct": 3,
+      "explanation": "Der Gesamtpuffer gibt an, um wie viele Zeiteinheiten sich ein Vorgang maximal verschieben oder verlängern kann, ohne den Projektendtermin zu gefährden.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Pufferzeiten"
+    },
+    {
+      "id": "org-022",
+      "text": "Ein Vorgang hat einen frühesten Endzeitpunkt (FEZ) von 12 Tagen und einen spätesten Endzeitpunkt (SEZ) von 15 Tagen. Wie groß ist der Gesamtpuffer dieses Vorgangs?",
+      "options": [
+        "3 Tage",
+        "27 Tage",
+        "12 Tage",
+        "15 Tage"
+      ],
+      "correct": 0,
+      "explanation": "Der Gesamtpuffer errechnet sich aus SEZ minus FEZ: 15 Tage minus 12 Tage ergibt einen Gesamtpuffer von 3 Tagen.",
+      "difficulty": 3,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Pufferzeiten"
+    },
+    {
+      "id": "org-023",
+      "text": "Was ist ein Meilenstein im Projektmanagement?",
+      "options": [
+        "Der kritische Pfad eines Netzplans",
+        "Ein Ereignis mit besonderer Bedeutung ohne eigene Dauer, das den Abschluss eines wichtigen Projektabschnitts markiert",
+        "Die Gesamtdauer eines Projekts",
+        "Ein Vorgang mit maximaler Pufferzeit"
+      ],
+      "correct": 1,
+      "explanation": "Meilensteine sind Ereignisse ohne Zeitdauer, die wichtige Zwischenergebnisse oder Entscheidungspunkte im Projektverlauf markieren.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Meilensteine"
+    },
+    {
+      "id": "org-024",
+      "text": "In welcher Reihenfolge laufen die klassischen Phasen der Auftragsabwicklung typischerweise ab?",
+      "options": [
+        "Auftragserteilung – Anfrage – Angebot – Ausführung",
+        "Angebot – Anfrage – Ausführung – Rechnung",
+        "Anfrage – Angebot – Auftragserteilung – Auftragsausführung – Rechnungsstellung",
+        "Ausführung – Angebot – Anfrage – Abrechnung"
+      ],
+      "correct": 2,
+      "explanation": "Der klassische Ablauf der Auftragsabwicklung folgt der Reihenfolge Anfrage, Angebot, Auftragserteilung, Auftragsausführung und Rechnungsstellung.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Auftragsabwicklung"
+    },
+    {
+      "id": "org-025",
+      "text": "Was ist das Ziel der Ressourcenplanung in einem Projekt?",
+      "options": [
+        "Ausschließlich die Minimierung der Materialkosten",
+        "Die Festlegung des Verkaufspreises",
+        "Die Erstellung des Organigramms",
+        "Die bedarfsgerechte, zeitliche Zuordnung von Personal, Betriebsmitteln und Material zu den einzelnen Projektvorgängen"
+      ],
+      "correct": 3,
+      "explanation": "Die Ressourcenplanung stellt sicher, dass Personal, Maschinen und Material zum jeweils benötigten Zeitpunkt in ausreichendem Umfang zur Verfügung stehen.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Ressourcenplanung"
+    },
+    {
+      "id": "org-026",
+      "text": "Wie werden im Vorgangsknotennetzplan (MPM-Netzplan) die Vorgänge dargestellt?",
+      "options": [
+        "Als Knoten (Kästchen), die durch Pfeile (Anordnungsbeziehungen) verbunden sind",
+        "Als Pfeile zwischen Ereignissen",
+        "Als Balken auf einer Zeitachse",
+        "Als Kreise ohne Verbindung"
+      ],
+      "correct": 0,
+      "explanation": "Im Vorgangsknotennetzplan (MPM) repräsentieren Knoten die Vorgänge, während Pfeile die Anordnungsbeziehungen zwischen ihnen darstellen.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "org-027",
+      "text": "Im Vorgangspfeilnetzplan werden Vorgänge durch Pfeile dargestellt. Wodurch werden dabei die Ereignisse symbolisiert?",
+      "options": [
+        "Durch Balken",
+        "Durch Knoten (Kreise)",
+        "Durch gestrichelte Linien",
+        "Durch Rauten"
+      ],
+      "correct": 1,
+      "explanation": "Im Vorgangspfeilnetzplan stehen die Pfeile für die Vorgänge, während Knoten (Kreise) die Ereignisse als Start- bzw. Endpunkte darstellen.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "org-028",
+      "text": "Ein Projekt besteht aus den Vorgängen A (5 Tage) sowie den parallel nach A startenden Vorgängen B (3 Tage) und C (4 Tage). Vorgang D (2 Tage) kann erst starten, wenn B und C abgeschlossen sind. Wie lang ist die Projektgesamtdauer über den kritischen Pfad?",
+      "options": [
+        "9 Tage",
+        "10 Tage",
+        "11 Tage",
+        "14 Tage"
+      ],
+      "correct": 2,
+      "explanation": "Der Pfad A-C-D dauert 5+4+2=11 Tage und ist damit länger als A-B-D mit 5+3+2=10 Tagen; die Projektdauer entspricht dem längsten Weg mit 11 Tagen.",
+      "difficulty": 3,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Kritischer Pfad"
+    },
+    {
+      "id": "org-029",
+      "text": "Welche Phase steht am Anfang eines klassischen Projektlebenszyklus?",
+      "options": [
+        "Projektabschluss",
+        "Projektdurchführung",
+        "Projektsteuerung",
+        "Projektdefinition beziehungsweise Projektinitiierung"
+      ],
+      "correct": 3,
+      "explanation": "Am Beginn eines Projekts steht die Projektdefinition bzw. -initiierung, in der Ziele, Rahmenbedingungen und der Projektauftrag festgelegt werden.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Projektphasen"
+    },
+    {
+      "id": "org-030",
+      "text": "Was versteht man unter der Vorwärtsrechnung in der Netzplantechnik?",
+      "options": [
+        "Die Ermittlung der frühesten Anfangs- und Endzeitpunkte der Vorgänge ausgehend vom Projektstart",
+        "Die Ermittlung der spätesten Zeitpunkte ausgehend vom Projektende",
+        "Die Berechnung der Projektkosten",
+        "Die Ermittlung der Kapazitätsauslastung"
+      ],
+      "correct": 0,
+      "explanation": "Die Vorwärtsrechnung ermittelt ausgehend vom Projektstart die frühestmöglichen Anfangs- und Endzeitpunkte aller Vorgänge.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Terminplanung"
+    },
+    {
+      "id": "org-031",
+      "text": "Was wird durch die Rückwärtsrechnung im Netzplan ermittelt?",
+      "options": [
+        "Die frühesten Zeitpunkte der Vorgänge",
+        "Die spätesten zulässigen Anfangs- und Endzeitpunkte der Vorgänge, ausgehend vom geplanten Projektende",
+        "Die Vorgangsdauer",
+        "Die Kapazitätsbedarfe"
+      ],
+      "correct": 1,
+      "explanation": "Die Rückwärtsrechnung berechnet ausgehend vom geplanten Projektendtermin die spätesten zulässigen Zeitpunkte, zu denen Vorgänge enden bzw. beginnen dürfen, ohne den Endtermin zu gefährden.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Terminplanung"
+    },
+    {
+      "id": "org-032",
+      "text": "Was bezeichnet man als Kapazitätsausgleich bei der Ressourcenplanung eines Projekts?",
+      "options": [
+        "Die Erhöhung der Projektkosten",
+        "Das Streichen von Meilensteinen",
+        "Den Abgleich von Kapazitätsbedarf und Kapazitätsangebot durch Verschieben nicht kritischer Vorgänge innerhalb ihrer Pufferzeiten",
+        "Den Verzicht auf Pufferzeiten"
+      ],
+      "correct": 2,
+      "explanation": "Beim Kapazitätsausgleich werden nicht kritische Vorgänge innerhalb ihrer Pufferzeiten so verschoben, dass Kapazitätsspitzen und -engpässe ausgeglichen werden.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Kapazitätsplanung"
+    },
+    {
+      "id": "org-033",
+      "text": "Welches Dokument bildet in der Regel die rechtliche Grundlage eines Kundenauftrags in der Auftragsabwicklung?",
+      "options": [
+        "Das Angebot",
+        "Der Lieferschein",
+        "Die Rechnung",
+        "Die Auftragsbestätigung"
+      ],
+      "correct": 3,
+      "explanation": "Mit der Auftragsbestätigung akzeptiert der Auftragnehmer die Bestellung des Kunden verbindlich, wodurch der Vertrag rechtlich zustande kommt.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Auftragsmanagement"
+    },
+    {
+      "id": "org-034",
+      "text": "Welche Aufgabe hat der Projektleiter primär im Rahmen der Projektorganisation?",
+      "options": [
+        "Die Planung, Steuerung und Koordination des Projekts hinsichtlich Termin, Kosten und Qualität",
+        "Die alleinige Durchführung aller Fachtätigkeiten",
+        "Die Buchhaltung des gesamten Unternehmens",
+        "Die Personalauswahl für alle Abteilungen des Unternehmens"
+      ],
+      "correct": 0,
+      "explanation": "Der Projektleiter verantwortet die Planung, Steuerung und Koordination des Projekts in Bezug auf Termine, Kosten, Qualität und Ressourcen.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Projektorganisation"
+    },
+    {
+      "id": "org-035",
+      "text": "Wofür stehen die vier Buchstaben des PDCA-Zyklus?",
+      "options": [
+        "Plan – Design – Check – Adjust",
+        "Plan – Do – Check – Act",
+        "Prepare – Do – Control – Assess",
+        "Process – Do – Check – Analyse"
+      ],
+      "correct": 1,
+      "explanation": "PDCA steht für Plan, Do, Check, Act und beschreibt den Regelkreis der kontinuierlichen Verbesserung.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "PDCA-Zyklus"
+    },
+    {
+      "id": "org-036",
+      "text": "Was ist das Ziel des Kontinuierlichen Verbesserungsprozesses (KVP)?",
+      "options": [
+        "Eine einmalige radikale Reorganisation aller Geschäftsprozesse",
+        "Ausschließlich die Kostenreduktion durch Personalabbau",
+        "Die schrittweise, kontinuierliche Verbesserung von Prozessen, Produkten und Qualität unter Einbeziehung der Mitarbeiter",
+        "Die Standardisierung von Arbeitsabläufen ohne Beteiligung der Mitarbeiter"
+      ],
+      "correct": 2,
+      "explanation": "Der KVP (Kaizen-Gedanke) zielt auf kleine, stetige Verbesserungsschritte ab, an denen die Mitarbeiter aktiv beteiligt werden.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "KVP"
+    },
+    {
+      "id": "org-037",
+      "text": "Welche Kernaussage trifft auf die DIN EN ISO 9001 zu?",
+      "options": [
+        "Sie ist eine Umweltmanagementnorm für Unternehmen",
+        "Sie regelt ausschließlich Vorgaben des Arbeitsschutzes",
+        "Sie schreibt konkrete Produktmaße und Toleranzen vor",
+        "Sie legt Anforderungen an ein Qualitätsmanagementsystem fest, die eine Organisation nachweislich erfüllen muss, um Kunden- und gesetzliche Anforderungen zu erfüllen"
+      ],
+      "correct": 3,
+      "explanation": "Die DIN EN ISO 9001 definiert normative Anforderungen an ein Qualitätsmanagementsystem, unter anderem auf Basis des prozessorientierten Ansatzes und des PDCA-Zyklus.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "DIN EN ISO 9001"
+    },
+    {
+      "id": "org-038",
+      "text": "Was versteht man unter einem internen Audit im Rahmen eines Qualitätsmanagementsystems nach ISO 9001?",
+      "options": [
+        "Eine systematische, unabhängige Untersuchung durch eigene, dafür qualifizierte Mitarbeiter, um die Wirksamkeit des QM-Systems festzustellen",
+        "Eine Kontrolle des Betriebs durch die Kunden vor Ort",
+        "Eine Zertifizierung durch eine staatliche Behörde",
+        "Eine reine Prüfung der Finanzbuchhaltung durch den Steuerberater"
+      ],
+      "correct": 0,
+      "explanation": "Interne Audits werden von geschulten Mitarbeitern des eigenen Unternehmens durchgeführt, um zu prüfen, ob das QM-System den Anforderungen entspricht und wirksam angewendet wird.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Audits"
+    },
+    {
+      "id": "org-039",
+      "text": "Wofür wird das Ishikawa-Diagramm (Ursache-Wirkungs-Diagramm) eingesetzt?",
+      "options": [
+        "Zur Berechnung der optimalen Bestellmenge",
+        "Zur systematischen Erfassung und Visualisierung möglicher Ursachen eines Qualitätsproblems, z. B. gegliedert nach Mensch, Maschine, Material, Methode, Mitwelt und Management",
+        "Zur Terminplanung von Projekten mittels Netzplan",
+        "Zur Kalkulation der Herstellkosten eines Produkts"
+      ],
+      "correct": 1,
+      "explanation": "Das Ishikawa- bzw. Fischgrätendiagramm ordnet mögliche Fehlerursachen systematisch Hauptkategorien zu und unterstützt so die Ursachenanalyse.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Ursache-Wirkungs-Diagramm"
+    },
+    {
+      "id": "org-040",
+      "text": "Wie lautet die richtige Reihenfolge der vier Phasen des PDCA-Zyklus?",
+      "options": [
+        "Do – Plan – Act – Check",
+        "Check – Act – Plan – Do",
+        "Plan – Do – Check – Act",
+        "Act – Check – Do – Plan"
+      ],
+      "correct": 2,
+      "explanation": "Der PDCA-Zyklus durchläuft in dieser Reihenfolge die Phasen Planen, Umsetzen, Überprüfen und Handeln (Standardisieren bzw. Anpassen).",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "PDCA-Zyklus"
+    },
+    {
+      "id": "org-041",
+      "text": "In einem Monat wurden 5.000 gefertigte Baugruppen geprüft, davon waren 125 fehlerhaft. Wie hoch ist die Ausschussquote?",
+      "options": [
+        "1,25 %",
+        "12,5 %",
+        "25 %",
+        "2,5 %"
+      ],
+      "correct": 3,
+      "explanation": "Die Ausschussquote errechnet sich aus 125 fehlerhaften Teilen geteilt durch 5.000 geprüfte Teile, multipliziert mit 100, was 2,5 % ergibt.",
+      "difficulty": 3,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Kennzahlen"
+    },
+    {
+      "id": "org-042",
+      "text": "Welche Kennzahl beschreibt den Anteil fehlerfrei produzierter Einheiten im ersten Fertigungsdurchlauf ohne Nacharbeit?",
+      "options": [
+        "First Pass Yield (Erstausbeute)",
+        "Der Deckungsbeitrag je Stück",
+        "Die Break-even-Menge eines Produkts",
+        "Der Kapitalumschlag im Lager"
+      ],
+      "correct": 0,
+      "explanation": "Der First Pass Yield gibt an, welcher Anteil der produzierten Einheiten beim ersten Durchlauf ohne Nacharbeit oder Ausschuss die Qualitätsanforderungen erfüllt.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Kennzahlen"
+    },
+    {
+      "id": "org-043",
+      "text": "Wofür steht die Abkürzung TQM?",
+      "options": [
+        "Technical Quality Manual",
+        "Total Quality Management – ein umfassendes, alle Mitarbeiter und Prozesse einbeziehendes Qualitätsmanagement",
+        "Total Quantity Management",
+        "Technical Quota Monitoring"
+      ],
+      "correct": 1,
+      "explanation": "TQM (Total Quality Management) beschreibt einen ganzheitlichen Qualitätsmanagementansatz, der alle Mitarbeiter, Prozesse und Unternehmensbereiche einbezieht.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "TQM"
+    },
+    {
+      "id": "org-044",
+      "text": "Wozu dient eine Qualitätsregelkarte (Kontrollkarte) in der statistischen Prozesslenkung?",
+      "options": [
+        "Zur Erfassung der Lagerbestände im Ersatzteillager",
+        "Zur Terminüberwachung von Projekten",
+        "Zur fortlaufenden Überwachung eines Fertigungsprozesses anhand von Stichproben, um Abweichungen frühzeitig zu erkennen",
+        "Zur Berechnung der optimalen Bestellmenge"
+      ],
+      "correct": 2,
+      "explanation": "Qualitätsregelkarten visualisieren Messwerte aus Stichproben über die Zeit und zeigen anhand von Eingriffsgrenzen, wenn ein Prozess aus dem Regelzustand läuft.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Statistische Prozesslenkung"
+    },
+    {
+      "id": "org-045",
+      "text": "Wie werden Kosten bezeichnet, die durch vorbeugende Maßnahmen wie Schulungen oder Prozessplanung entstehen?",
+      "options": [
+        "Fehlerfolgekosten",
+        "Prüfkosten",
+        "Externe Fehlerkosten",
+        "Fehlerverhütungskosten (Präventionskosten)"
+      ],
+      "correct": 3,
+      "explanation": "Fehlerverhütungskosten fallen für vorbeugende Maßnahmen an, die von vornherein die Entstehung von Fehlern vermeiden sollen, etwa Schulungen und Prozessplanung.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Qualitätskosten"
+    },
+    {
+      "id": "org-046",
+      "text": "Wie wird der Begriff Qualität nach DIN EN ISO 9000 definiert?",
+      "options": [
+        "Grad, in dem ein Satz inhärenter Merkmale eines Objekts Anforderungen erfüllt",
+        "Die vollständige Abwesenheit jeglicher Fehler",
+        "Die höchste technisch erreichbare Perfektion eines Produkts",
+        "Die Einhaltung der günstigsten Herstellkosten"
+      ],
+      "correct": 0,
+      "explanation": "Die Norm definiert Qualität als den Grad, in dem inhärente Merkmale eines Objekts festgelegte Anforderungen erfüllen, nicht als absolute Fehlerfreiheit.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Qualitätsbegriff"
+    },
+    {
+      "id": "org-047",
+      "text": "Welches Werkzeug wird häufig im Rahmen des KVP zur Standardisierung und Ordnung von Arbeitsplätzen eingesetzt?",
+      "options": [
+        "Die Netzplantechnik",
+        "Die 5S-Methode (Sortieren, Systematisieren, Sauberkeit, Standardisieren, Selbstdisziplin)",
+        "Die ABC-Analyse",
+        "Die Break-even-Analyse"
+      ],
+      "correct": 1,
+      "explanation": "Die 5S-Methode dient der systematischen Ordnung, Sauberkeit und Standardisierung von Arbeitsplätzen und ist ein klassisches Werkzeug des KVP.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "KVP-Werkzeuge"
+    },
+    {
+      "id": "org-048",
+      "text": "In einem Betrieb häufen sich Reklamationen wegen fehlerhafter Verkabelung. Welches Vorgehen entspricht dem PDCA-Gedanken zur nachhaltigen Fehlerbehebung?",
+      "options": [
+        "Sofortige Entlassung des verantwortlichen Mitarbeiters ohne Ursachenanalyse",
+        "Erhöhung der Verkaufspreise zur Kompensation der Reklamationskosten",
+        "Ursachenanalyse durchführen (Plan), Gegenmaßnahme testweise umsetzen (Do), Wirkung überprüfen (Check) und bei Erfolg als neuen Standard festschreiben (Act)",
+        "Einstellung der betroffenen Produktlinie ohne weitere Analyse"
+      ],
+      "correct": 2,
+      "explanation": "Der PDCA-Zyklus verlangt eine systematische Ursachenanalyse, eine testweise Umsetzung von Gegenmaßnahmen, deren Erfolgskontrolle und bei Bewährung die dauerhafte Verankerung als Standard.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "PDCA in der Praxis"
+    },
+    {
+      "id": "org-049",
+      "text": "Wer stellt das Zertifikat für ein Qualitätsmanagementsystem nach DIN EN ISO 9001 aus?",
+      "options": [
+        "Die zuständige Industrie- und Handelskammer",
+        "Das Unternehmen selbst im Rahmen einer Selbsterklärung",
+        "Der Kunde des Unternehmens",
+        "Eine akkreditierte, unabhängige Zertifizierungsgesellschaft"
+      ],
+      "correct": 3,
+      "explanation": "Die Zertifizierung eines QM-Systems erfolgt durch eine unabhängige, akkreditierte Zertifizierungsgesellschaft nach einem externen Audit.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Zertifizierung"
+    },
+    {
+      "id": "org-050",
+      "text": "Was unterscheidet ein externes Audit von einem internen Audit?",
+      "options": [
+        "Es wird von einer unabhängigen dritten Partei, z. B. einer Zertifizierungsgesellschaft oder einem Kunden, durchgeführt",
+        "Es prüft ausschließlich die Finanzbuchhaltung des Unternehmens",
+        "Es wird grundsätzlich nur alle zehn Jahre durchgeführt",
+        "Es hat keinerlei Konsequenzen für eine bestehende Zertifizierung"
+      ],
+      "correct": 0,
+      "explanation": "Externe Audits werden im Gegensatz zu internen Audits von einer unabhängigen dritten Partei, etwa einer Zertifizierungsgesellschaft oder einem Kunden, durchgeführt.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Audits"
+    },
+    {
+      "id": "org-051",
+      "text": "Welche Aussage zum Zusammenhang zwischen KVP und PDCA-Zyklus trifft zu?",
+      "options": [
+        "KVP und PDCA-Zyklus schließen sich gegenseitig aus",
+        "Der PDCA-Zyklus bildet die methodische Grundlage, mit der der KVP systematisch und wiederkehrend durchlaufen wird",
+        "Der PDCA-Zyklus wird nur einmalig am Projektende angewendet",
+        "KVP ersetzt die Notwendigkeit von Audits vollständig"
+      ],
+      "correct": 1,
+      "explanation": "Der PDCA-Zyklus liefert die methodische Struktur, mit der der Kontinuierliche Verbesserungsprozess in wiederkehrenden Schleifen betrieben wird.",
+      "difficulty": 3,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "KVP und PDCA"
+    },
+    {
+      "id": "org-052",
+      "text": "Wodurch unterscheiden sich fixe Kosten von variablen Kosten?",
+      "options": [
+        "Fixe Kosten fallen unabhängig von der Ausbringungsmenge in gleicher Höhe an, variable Kosten verändern sich mit der Ausbringungsmenge",
+        "Variable Kosten bleiben stets konstant, fixe Kosten steigen mit der Menge",
+        "Fixe Kosten entstehen nur im Verwaltungsbereich, variable Kosten nur in der Fertigung",
+        "Beide Kostenarten verändern sich proportional zur Ausbringungsmenge"
+      ],
+      "correct": 0,
+      "explanation": "Fixe Kosten (z. B. Miete) sind beschäftigungsunabhängig, während variable Kosten (z. B. Fertigungsmaterial) mit der Ausbringungsmenge steigen oder sinken.",
+      "difficulty": 1,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Kostenarten"
+    },
+    {
+      "id": "org-053",
+      "text": "Was versteht man unter einer Kostenstelle?",
+      "options": [
+        "Das Produkt, dem die Kosten zugerechnet werden",
+        "Ein betrieblicher Teilbereich, in dem Kosten erfasst und verursachungsgerecht zugeordnet werden, z. B. Fertigung oder Verwaltung",
+        "Ein Kunde, der Kosten verursacht",
+        "Ein Lieferant von Roh- und Hilfsstoffen"
+      ],
+      "correct": 1,
+      "explanation": "Eine Kostenstelle ist der Ort der Kostenentstehung im Betrieb, an dem Gemeinkosten erfasst und den Kostenträgern zugeordnet werden.",
+      "difficulty": 1,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Kostenstellen"
+    },
+    {
+      "id": "org-054",
+      "text": "Was versteht man unter einem Kostenträger?",
+      "options": [
+        "Den Ort der Kostenentstehung im Betrieb",
+        "Die Art der entstandenen Kosten",
+        "Das Produkt oder die Leistung, dem bzw. der die Kosten letztlich zugerechnet werden",
+        "Den Kostenverursacher im Sinne einer Abteilung"
+      ],
+      "correct": 2,
+      "explanation": "Kostenträger sind die Produkte oder Dienstleistungen, für die letztlich die Herstellkosten kalkuliert und denen die Kosten zugerechnet werden.",
+      "difficulty": 1,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Kostenträger"
+    },
+    {
+      "id": "org-055",
+      "text": "Was ist der Deckungsbeitrag eines Produkts?",
+      "options": [
+        "Die Differenz zwischen Verkaufspreis und Gesamtkosten je Stück",
+        "Die Summe aller Fixkosten eines Zeitraums",
+        "Der Bruttogewinn nach Abzug der Steuern",
+        "Die Differenz zwischen dem Verkaufserlös und den variablen Kosten je Stück, die zur Deckung der Fixkosten und zur Gewinnerzielung dient"
+      ],
+      "correct": 3,
+      "explanation": "Der Deckungsbeitrag ergibt sich aus Erlös minus variablen Kosten je Stück und trägt zur Deckung der Fixkosten sowie zum Gewinn bei.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Deckungsbeitragsrechnung"
+    },
+    {
+      "id": "org-056",
+      "text": "Ein Produkt wird für 80 Euro verkauft, die variablen Stückkosten betragen 55 Euro. Wie hoch ist der Deckungsbeitrag je Stück?",
+      "options": [
+        "25 Euro",
+        "35 Euro",
+        "135 Euro",
+        "55 Euro"
+      ],
+      "correct": 0,
+      "explanation": "Der Deckungsbeitrag je Stück ergibt sich aus Verkaufspreis minus variablen Stückkosten: 80 Euro minus 55 Euro gleich 25 Euro.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Deckungsbeitragsrechnung"
+    },
+    {
+      "id": "org-057",
+      "text": "Was gibt die Break-even-Menge an?",
+      "options": [
+        "Die maximale produzierbare Menge einer Anlage",
+        "Die Absatzmenge, bei der die Erlöse genau die Gesamtkosten decken und der Gewinn null beträgt",
+        "Die Menge, bei der der Deckungsbeitrag je Stück maximal ist",
+        "Die Menge mit den geringsten variablen Stückkosten"
+      ],
+      "correct": 1,
+      "explanation": "Am Break-even-Punkt entsprechen die Gesamterlöse genau den Gesamtkosten, sodass weder Gewinn noch Verlust entsteht.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Break-even-Analyse"
+    },
+    {
+      "id": "org-058",
+      "text": "Ein Unternehmen hat Fixkosten von 60.000 Euro pro Jahr. Der Verkaufspreis je Stück beträgt 100 Euro, die variablen Kosten je Stück 60 Euro. Wie hoch ist die Break-even-Menge?",
+      "options": [
+        "600 Stück",
+        "1.000 Stück",
+        "1.500 Stück",
+        "6.000 Stück"
+      ],
+      "correct": 2,
+      "explanation": "Der Deckungsbeitrag je Stück beträgt 100 minus 60 gleich 40 Euro. Die Break-even-Menge ergibt sich aus 60.000 Euro geteilt durch 40 Euro, also 1.500 Stück.",
+      "difficulty": 3,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Break-even-Analyse"
+    },
+    {
+      "id": "org-059",
+      "text": "Was versteht man unter der Zuschlagskalkulation?",
+      "options": [
+        "Ein Verfahren, bei dem ausschließlich variable Kosten berücksichtigt werden",
+        "Ein Verfahren zur Ermittlung der Amortisationsdauer einer Investition",
+        "Ein Verfahren zur Bestimmung der optimalen Bestellmenge",
+        "Ein Kalkulationsverfahren, bei dem Gemeinkosten den Einzelkosten mittels prozentualer Zuschlagssätze zugerechnet werden"
+      ],
+      "correct": 3,
+      "explanation": "Bei der Zuschlagskalkulation werden die Gemeinkosten über im Betriebsabrechnungsbogen ermittelte Zuschlagssätze auf die Einzelkosten der Kostenträger verrechnet.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Kalkulation"
+    },
+    {
+      "id": "org-060",
+      "text": "Was zeigt der Betriebsabrechnungsbogen (BAB)?",
+      "options": [
+        "Die Verteilung der Gemeinkosten auf die Kostenstellen sowie die Ermittlung von Zuschlagssätzen",
+        "Die Bilanz des Unternehmens zum Geschäftsjahresende",
+        "Die Gewinn- und Verlustrechnung des Unternehmens",
+        "Die Kapitalflussrechnung des Unternehmens"
+      ],
+      "correct": 0,
+      "explanation": "Der BAB verteilt die im Unternehmen angefallenen Gemeinkosten auf die einzelnen Kostenstellen und ermittelt daraus die Zuschlagssätze für die Kalkulation.",
+      "difficulty": 1,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Betriebsabrechnungsbogen"
+    },
+    {
+      "id": "org-061",
+      "text": "Welche Methode der statischen Investitionsrechnung ermittelt, nach welcher Zeit das eingesetzte Kapital durch die Rückflüsse wieder hereingeholt wird?",
+      "options": [
+        "Die Kapitalwertmethode",
+        "Die Amortisationsrechnung (Payback-Methode)",
+        "Die Methode des internen Zinsfußes",
+        "Die Kostenvergleichsrechnung"
+      ],
+      "correct": 1,
+      "explanation": "Die Amortisationsrechnung ermittelt die Zeitspanne, nach der die kumulierten Kapitalrückflüsse einer Investition die ursprünglichen Anschaffungskosten decken.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Investitionsrechnung"
+    },
+    {
+      "id": "org-062",
+      "text": "Was wird bei der Kapitalwertmethode als dynamischem Investitionsverfahren berücksichtigt, was bei statischen Verfahren fehlt?",
+      "options": [
+        "Nur die Anschaffungskosten der Investition",
+        "Ausschließlich die Nutzungsdauer der Anlage",
+        "Der zeitliche Anfall von Zahlungen wird durch Abzinsung (Diskontierung) auf den Bewertungszeitpunkt berücksichtigt",
+        "Nur die jährlichen Fixkosten"
+      ],
+      "correct": 2,
+      "explanation": "Dynamische Verfahren wie die Kapitalwertmethode berücksichtigen den Zeitwert des Geldes, indem künftige Zahlungen mit einem Kalkulationszinssatz abgezinst werden.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Investitionsrechnung"
+    },
+    {
+      "id": "org-063",
+      "text": "Eine neue Anlage kostet 40.000 Euro und erwirtschaftet jährlich einen Kapitalrückfluss von 8.000 Euro. Wie hoch ist die statische Amortisationsdauer?",
+      "options": [
+        "3 Jahre",
+        "8 Jahre",
+        "10 Jahre",
+        "5 Jahre"
+      ],
+      "correct": 3,
+      "explanation": "Die Amortisationsdauer ergibt sich aus 40.000 Euro geteilt durch 8.000 Euro jährlichem Rückfluss, also 5 Jahre.",
+      "difficulty": 3,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Investitionsrechnung"
+    },
+    {
+      "id": "org-064",
+      "text": "Womit vergleicht die Kostenvergleichsrechnung als statisches Investitionsverfahren zwei Investitionsalternativen?",
+      "options": [
+        "Anhand der durchschnittlichen jährlichen Gesamtkosten je Alternative, einschließlich kalkulatorischer Abschreibung und Zinsen",
+        "Anhand des Kapitalwerts der Investition",
+        "Anhand des internen Zinsfußes",
+        "Ausschließlich anhand der Liquiditätslage des Unternehmens"
+      ],
+      "correct": 0,
+      "explanation": "Die Kostenvergleichsrechnung stellt die durchschnittlichen jährlichen Gesamtkosten mehrerer Alternativen gegenüber, um die kostengünstigste Investition zu bestimmen.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Investitionsrechnung"
+    },
+    {
+      "id": "org-065",
+      "text": "Wie werden Kosten bezeichnet, die einem Kostenträger direkt und eindeutig zugerechnet werden können, z. B. Fertigungsmaterial?",
+      "options": [
+        "Gemeinkosten",
+        "Einzelkosten",
+        "Fixkosten",
+        "Kalkulatorische Kosten"
+      ],
+      "correct": 1,
+      "explanation": "Einzelkosten lassen sich einem bestimmten Kostenträger unmittelbar zurechnen, ohne dass ein Verteilungsschlüssel notwendig ist.",
+      "difficulty": 1,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Kostenarten"
+    },
+    {
+      "id": "org-066",
+      "text": "Wie werden Kosten bezeichnet, die mehreren Kostenträgern gemeinsam zuzurechnen sind und daher nur über Verteilungsschlüssel zugeordnet werden können?",
+      "options": [
+        "Einzelkosten",
+        "Variable Kosten",
+        "Gemeinkosten",
+        "Grenzkosten"
+      ],
+      "correct": 2,
+      "explanation": "Gemeinkosten fallen für mehrere Kostenträger gemeinsam an, z. B. Miete oder Energiekosten, und werden über Verteilungsschlüssel bzw. Zuschlagssätze zugeordnet.",
+      "difficulty": 1,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Kostenarten"
+    },
+    {
+      "id": "org-067",
+      "text": "Ein Betrieb prüft die Anschaffung einer neuen Kabelkonfektioniermaschine auf Wirtschaftlichkeit. Welche Kennzahl beschreibt allgemein das Verhältnis von Ertrag zu eingesetztem Aufwand?",
+      "options": [
+        "Die Liquidität 1. Grades",
+        "Die Eigenkapitalquote",
+        "Der Cashflow des Geschäftsjahres",
+        "Die Wirtschaftlichkeit als Verhältnis von Ertrag (Leistung) zu Aufwand (Kosten)"
+      ],
+      "correct": 3,
+      "explanation": "Die Wirtschaftlichkeit ist definiert als das Verhältnis von Ertrag bzw. Leistung zu eingesetztem Aufwand bzw. Kosten und ist damit eine zentrale Größe zur Beurteilung von Investitionen.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Wirtschaftlichkeit"
+    },
+    {
+      "id": "org-068",
+      "text": "Was ist das Ziel der ABC-Analyse in der Materialwirtschaft?",
+      "options": [
+        "Materialien nach ihrem wertmäßigen Anteil am Gesamtverbrauch zu klassifizieren, um den Steuerungsaufwand auf die wichtigsten Teile zu konzentrieren",
+        "Materialien alphabetisch im Lagerverwaltungssystem zu ordnen",
+        "Die Lagerplätze räumlich neu zu organisieren",
+        "Die Lieferanten nach ihrer Zahlungsfrist zu sortieren"
+      ],
+      "correct": 0,
+      "explanation": "Die ABC-Analyse klassifiziert Materialien nach ihrem Wertanteil am Gesamtverbrauch, damit die Beschaffungs- und Lagersteuerung auf die wertmäßig bedeutsamen A-Teile konzentriert werden kann.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "ABC-Analyse"
+    },
+    {
+      "id": "org-069",
+      "text": "Welche Materialgruppe kennzeichnet die ABC-Analyse typischerweise als A-Teile?",
+      "options": [
+        "Teile mit geringem Wertanteil, aber hohem Mengenanteil am Gesamtverbrauch",
+        "Teile mit hohem Wertanteil am Gesamtverbrauch, aber meist geringem Mengenanteil",
+        "Teile ohne jegliche Bedeutung für die Produktion",
+        "Ausschließlich importierte Teile"
+      ],
+      "correct": 1,
+      "explanation": "A-Teile machen typischerweise nur einen geringen Mengenanteil, aber einen hohen Wertanteil am Gesamtverbrauch aus und erfordern daher eine besonders sorgfältige Steuerung.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "ABC-Analyse"
+    },
+    {
+      "id": "org-070",
+      "text": "Wofür steht die XYZ-Analyse in der Materialwirtschaft?",
+      "options": [
+        "Für die Klassifizierung von Materialien nach dem Beschaffungspreis",
+        "Für die Klassifizierung von Materialien nach der Lagerdauer",
+        "Für die Klassifizierung von Materialien nach der Vorhersagegenauigkeit bzw. Regelmäßigkeit ihres Verbrauchs",
+        "Für die Klassifizierung von Materialien nach dem Gewicht der Teile"
+      ],
+      "correct": 2,
+      "explanation": "Die XYZ-Analyse teilt Materialien nach der Regelmäßigkeit und Vorhersagegenauigkeit ihres Verbrauchs ein: X regelmäßig, Y schwankend, Z unregelmäßig.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "XYZ-Analyse"
+    },
+    {
+      "id": "org-071",
+      "text": "Was versteht man unter der optimalen Bestellmenge?",
+      "options": [
+        "Die größtmögliche Bestellmenge, um Mengenrabatte zu maximieren",
+        "Die kleinstmögliche Bestellmenge zur Vermeidung von Kapitalbindung",
+        "Die Bestellmenge, die exakt dem Jahresbedarf entspricht",
+        "Die Bestellmenge, bei der die Summe aus Bestell- und Lagerhaltungskosten je Periode minimal ist"
+      ],
+      "correct": 3,
+      "explanation": "Die optimale Bestellmenge minimiert die Summe aus bestellfixen Kosten und mengenabhängigen Lagerhaltungskosten und wird häufig näherungsweise mit der Andler-Formel ermittelt.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Bestellmengenplanung"
+    },
+    {
+      "id": "org-072",
+      "text": "Der Jahresbedarf eines Bauteils beträgt 8.000 Stück, die Bestellkosten je Bestellung liegen bei 40 Euro, der Einstandspreis je Stück beträgt 20 Euro und der Lagerkostensatz 20 Prozent pro Jahr. Wie hoch ist die optimale Bestellmenge nach der Andler-Formel?",
+      "options": [
+        "400 Stück",
+        "200 Stück",
+        "800 Stück",
+        "1.600 Stück"
+      ],
+      "correct": 0,
+      "explanation": "Nach der Andler-Formel ergibt sich die optimale Bestellmenge aus der Wurzel von (2 mal Jahresbedarf mal Bestellkosten) geteilt durch (Lagerkostensatz mal Preis): Wurzel aus (2·8000·40)/(0,2·20) = Wurzel aus 160.000 = 400 Stück.",
+      "difficulty": 3,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Optimale Bestellmenge"
+    },
+    {
+      "id": "org-073",
+      "text": "Was versteht man unter dem Meldebestand (Bestellpunkt)?",
+      "options": [
+        "Die maximale Lagerkapazität eines Lagers",
+        "Die Lagerbestandsmenge, bei deren Erreichen eine neue Bestellung ausgelöst werden muss, damit der Bestand während der Beschaffungszeit nicht unter den Sicherheitsbestand fällt",
+        "Den durchschnittlichen Lagerbestand über das Jahr",
+        "Die Menge, die am Jahresende noch vorrätig sein muss"
+      ],
+      "correct": 1,
+      "explanation": "Der Meldebestand markiert den Lagerbestand, bei dessen Erreichen die Beschaffung angestoßen werden muss, damit während der Wiederbeschaffungszeit der Sicherheitsbestand nicht unterschritten wird.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Bestellpunktverfahren"
+    },
+    {
+      "id": "org-074",
+      "text": "Welchem Zweck dient der Sicherheitsbestand (eiserner Bestand) im Lager?",
+      "options": [
+        "Er dient ausschließlich der Erfüllung gesetzlicher Vorschriften",
+        "Er maximiert bewusst die Kapitalbindung im Lager",
+        "Er soll Lieferengpässe, Bedarfsschwankungen oder Lieferverzögerungen abpuffern, um die Lieferbereitschaft aufrechtzuerhalten",
+        "Er ersetzt vollständig die Bedarfsplanung"
+      ],
+      "correct": 2,
+      "explanation": "Der Sicherheitsbestand federt Schwankungen im Verbrauch sowie Lieferverzögerungen ab und sichert damit die Lieferbereitschaft des Betriebs.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Sicherheitsbestand"
+    },
+    {
+      "id": "org-075",
+      "text": "Was bedeutet das Just-in-Time-Prinzip (JIT) in der Materialwirtschaft?",
+      "options": [
+        "Es werden möglichst große Mengen auf Vorrat beschafft",
+        "Es beschreibt ausschließlich die Einlagerung nach dem FIFO-Prinzip",
+        "Es bezeichnet eine Methode der Qualitätsprüfung im Wareneingang",
+        "Materialien werden erst dann angeliefert, wenn sie unmittelbar für die Produktion benötigt werden, um Lagerbestände und Kapitalbindung zu minimieren"
+      ],
+      "correct": 3,
+      "explanation": "Just-in-Time zielt darauf ab, Materialien bedarfssynchron und ohne größere Zwischenlagerung anzuliefern, um Lagerbestände und Kapitalbindung zu reduzieren.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Just-in-Time"
+    },
+    {
+      "id": "org-076",
+      "text": "Welches Risiko ist mit einer konsequenten Just-in-Time-Beschaffung typischerweise verbunden?",
+      "options": [
+        "Eine hohe Abhängigkeit von der Liefertreue der Zulieferer und erhöhte Störanfälligkeit bei Lieferausfällen",
+        "Zu hohe Lagerbestände im eigenen Werk",
+        "Steigende Kapitalbindungskosten im Lager",
+        "Sinkende Flexibilität durch große Sicherheitsbestände"
+      ],
+      "correct": 0,
+      "explanation": "Da bei Just-in-Time kaum Pufferbestände vorgehalten werden, führen Lieferstörungen beim Zulieferer schnell zu Produktionsunterbrechungen.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Just-in-Time"
+    },
+    {
+      "id": "org-077",
+      "text": "Was gibt der Lagerumschlag (Umschlagshäufigkeit) als Kennzahl an?",
+      "options": [
+        "Die Anzahl der Lagerplätze im Lager",
+        "Wie oft sich der durchschnittliche Lagerbestand innerhalb einer Periode durch Verbrauch erneuert",
+        "Die Höhe der Lagerkosten in Euro",
+        "Die Anzahl der Lieferanten pro Artikel"
+      ],
+      "correct": 1,
+      "explanation": "Der Lagerumschlag zeigt an, wie häufig sich der durchschnittliche Lagerbestand innerhalb eines Zeitraums durch Verbrauch bzw. Absatz erneuert.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Lagerkennzahlen"
+    },
+    {
+      "id": "org-078",
+      "text": "Der Jahresverbrauch eines Artikels beträgt 12.000 Stück, der durchschnittliche Lagerbestand liegt bei 1.500 Stück. Wie hoch ist die Umschlagshäufigkeit?",
+      "options": [
+        "6",
+        "10",
+        "8",
+        "12"
+      ],
+      "correct": 2,
+      "explanation": "Die Umschlagshäufigkeit errechnet sich aus Jahresverbrauch geteilt durch durchschnittlichen Lagerbestand: 12.000 Stück geteilt durch 1.500 Stück ergibt 8.",
+      "difficulty": 3,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Lagerkennzahlen"
+    },
+    {
+      "id": "org-079",
+      "text": "Was beschreibt die durchschnittliche Lagerdauer (Lagerreichweite)?",
+      "options": [
+        "Die Zeit, die eine Bestellung vom Lieferanten bis zum Wareneingang benötigt",
+        "Die Nutzungsdauer der Lagerregale",
+        "Die Frist für die jährliche Inventur",
+        "Die Zeitspanne, für die der durchschnittliche Lagerbestand bei gegebenem Verbrauch ausreicht, bevor er aufgebraucht ist"
+      ],
+      "correct": 3,
+      "explanation": "Die Lagerreichweite gibt an, wie lange der aktuelle beziehungsweise durchschnittliche Lagerbestand bei gleichbleibendem Verbrauch rechnerisch ausreicht.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Lagerkennzahlen"
+    },
+    {
+      "id": "org-080",
+      "text": "Welche Aufgabe hat das Ersatzteilmanagement in einem Elektrobetrieb primär?",
+      "options": [
+        "Die Sicherstellung der Verfügbarkeit benötigter Ersatzteile zur schnellen Störungsbehebung und Minimierung von Stillstandszeiten",
+        "Ausschließlich die Reduzierung des Einkaufspreises von Ersatzteilen",
+        "Die Schulung neuer Mitarbeiter im Ersatzteillager",
+        "Die Erstellung der Jahresbilanz des Unternehmens"
+      ],
+      "correct": 0,
+      "explanation": "Das Ersatzteilmanagement soll sicherstellen, dass kritische Bauteile wie Sicherungen, Schütze oder Motoren im Störungsfall schnell verfügbar sind, um Anlagenstillstände zu minimieren.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Ersatzteilmanagement"
+    },
+    {
+      "id": "org-081",
+      "text": "Warum werden kritische Ersatzteile mit langer Wiederbeschaffungszeit, z. B. Spezialantriebe, häufig dauerhaft auf Lager gehalten, obwohl dies Kapitalbindung verursacht?",
+      "options": [
+        "Weil sie besonders günstig in der Beschaffung sind",
+        "Weil ein Ausfall ohne verfügbares Ersatzteil zu unverhältnismäßig hohen Produktionsausfallkosten führen würde, die die Lagerhaltungskosten übersteigen",
+        "Weil sie keinerlei Lagerhaltungskosten verursachen",
+        "Weil sie gesetzlich vorgeschrieben sind"
+      ],
+      "correct": 1,
+      "explanation": "Bei kritischen Ersatzteilen mit langer Beschaffungszeit übersteigen die potenziellen Produktionsausfallkosten meist deutlich die Kosten der Kapitalbindung, sodass eine Bevorratung wirtschaftlich sinnvoll ist.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Ersatzteilmanagement"
+    },
+    {
+      "id": "org-082",
+      "text": "Welche Lagerstrategie beschreibt das Prinzip First In – First Out (FIFO)?",
+      "options": [
+        "Die zuletzt eingelagerten Güter werden zuerst entnommen",
+        "Die Entnahme erfolgt nach dem Zufallsprinzip",
+        "Die zuerst eingelagerten Güter werden auch zuerst wieder entnommen",
+        "Die Entnahme erfolgt nach dem höchsten Warenwert zuerst"
+      ],
+      "correct": 2,
+      "explanation": "FIFO bedeutet, dass die zuerst eingelagerte Ware auch zuerst wieder aus dem Lager entnommen wird, was insbesondere bei alterungsempfindlichen Gütern wichtig ist.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Lagerhaltung"
+    },
+    {
+      "id": "org-083",
+      "text": "Welche Aussage zur Konsignationslagerung trifft zu?",
+      "options": [
+        "Der Kunde muss die gesamte Ware sofort bei Anlieferung bezahlen",
+        "Das Material verbleibt bereits ab Anlieferung im Eigentum des Kunden",
+        "Es handelt sich um ein reines Just-in-Time-Konzept ohne jeglichen Lagerbestand",
+        "Der Lieferant lagert Material beim Kunden ein, bleibt aber bis zur Entnahme Eigentümer der Ware; die Bezahlung erfolgt erst bei tatsächlichem Verbrauch"
+      ],
+      "correct": 3,
+      "explanation": "Beim Konsignationslager bleibt das eingelagerte Material bis zur Entnahme im Eigentum des Lieferanten; der Kunde zahlt erst bei tatsächlicher Entnahme aus dem Lager.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Lagerhaltung"
+    },
+    {
+      "id": "org-084",
+      "text": "Welchen Vorteil bietet die Anwendung der ABC-Analyse in Kombination mit der XYZ-Analyse in der Materialwirtschaft?",
+      "options": [
+        "Sie ermöglicht eine differenzierte Beschaffungs- und Lagerstrategie, indem sowohl der Wertanteil als auch die Vorhersagbarkeit des Bedarfs eines Artikels berücksichtigt werden",
+        "Sie ersetzt vollständig die Bestandsführung im Lager",
+        "Sie dient ausschließlich der Berechnung der Break-even-Menge",
+        "Sie ist nur für importierte Waren anwendbar"
+      ],
+      "correct": 0,
+      "explanation": "Die Kombination beider Analysen erlaubt eine differenzierte Materialstrategie, da sowohl der Wertanteil (ABC) als auch die Vorhersagbarkeit des Verbrauchs (XYZ) berücksichtigt werden.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "ABC-XYZ-Analyse"
+    },
+    {
+      "id": "org-085",
+      "text": "Welches Gesetz bildet die zentrale rechtliche Grundlage für den betrieblichen Arbeitsschutz in Deutschland?",
+      "options": [
+        "Arbeitsschutzgesetz (ArbSchG)",
+        "Betriebsverfassungsgesetz",
+        "Gewerbeordnung",
+        "Bundes-Immissionsschutzgesetz"
+      ],
+      "correct": 0,
+      "explanation": "Das Arbeitsschutzgesetz (ArbSchG) verpflichtet Arbeitgeber grundsätzlich zur Sicherstellung von Sicherheit und Gesundheitsschutz der Beschäftigten und bildet die zentrale Grundlage des betrieblichen Arbeitsschutzes.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Arbeitsschutzgesetz"
+    },
+    {
+      "id": "org-086",
+      "text": "Wozu ist der Arbeitgeber nach § 5 Arbeitsschutzgesetz verpflichtet?",
+      "options": [
+        "Zur jährlichen Gehaltsanpassung aller Mitarbeiter",
+        "Zur Durchführung einer Gefährdungsbeurteilung der Arbeitsbedingungen, um erforderliche Arbeitsschutzmaßnahmen zu ermitteln",
+        "Zur Erstellung der Jahresbilanz des Unternehmens",
+        "Zur Durchführung einer Kundenzufriedenheitsanalyse"
+      ],
+      "correct": 1,
+      "explanation": "§ 5 ArbSchG verpflichtet den Arbeitgeber, durch eine Beurteilung der Arbeitsbedingungen zu ermitteln, welche Maßnahmen des Arbeitsschutzes erforderlich sind.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Gefährdungsbeurteilung"
+    },
+    {
+      "id": "org-087",
+      "text": "Welche Aufgabe hat die Fachkraft für Arbeitssicherheit (SiFa) nach dem Arbeitssicherheitsgesetz (ASiG) im Betrieb?",
+      "options": [
+        "Die alleinige Entscheidungsgewalt über Investitionen zu treffen",
+        "Die Buchhaltung des Unternehmens zu führen",
+        "Den Arbeitgeber in allen Fragen der Arbeitssicherheit und des Gesundheitsschutzes zu beraten und bei der Umsetzung von Schutzmaßnahmen zu unterstützen",
+        "Ausschließlich die Personalabteilung zu leiten"
+      ],
+      "correct": 2,
+      "explanation": "Die Fachkraft für Arbeitssicherheit berät und unterstützt den Arbeitgeber gemäß ASiG in allen Fragen der Arbeitssicherheit, besitzt jedoch keine eigene Entscheidungs- oder Weisungsbefugnis.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Fachkraft für Arbeitssicherheit"
+    },
+    {
+      "id": "org-088",
+      "text": "Welche Rolle nimmt der Sicherheitsbeauftragte gemäß § 22 SGB VII im Betrieb ein?",
+      "options": [
+        "Er ersetzt die Fachkraft für Arbeitssicherheit vollständig",
+        "Er trägt die alleinige Verantwortung für alle Arbeitsunfälle im Betrieb",
+        "Er ist ausschließlich für die Lohnabrechnung zuständig",
+        "Er unterstützt den Unternehmer ehrenamtlich bei der Durchführung des Arbeitsschutzes und macht auf Gefahren aufmerksam, ohne eigene Weisungsbefugnis"
+      ],
+      "correct": 3,
+      "explanation": "Der Sicherheitsbeauftragte unterstützt gemäß § 22 SGB VII den Unternehmer ehrenamtlich, insbesondere durch Beratung der Kollegen und Hinweise auf Gefahren, besitzt aber keine eigene Weisungsbefugnis.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Sicherheitsbeauftragter"
+    },
+    {
+      "id": "org-089",
+      "text": "Was ist eine Betriebsanweisung im Sinne des Arbeits- und Gefahrstoffschutzes?",
+      "options": [
+        "Eine verbindliche, arbeitsplatz- bzw. tätigkeitsbezogene schriftliche Anweisung des Arbeitgebers zu Gefahren und Schutzmaßnahmen",
+        "Ein freiwilliger Verhaltenskodex ohne rechtliche Bindungswirkung",
+        "Eine Stellenbeschreibung für neu eingestellte Mitarbeiter",
+        "Ein Angebot an den Kunden zur Auftragsvergabe"
+      ],
+      "correct": 0,
+      "explanation": "Betriebsanweisungen sind vom Arbeitgeber erlassene, verbindliche Regelungen zu Gefahren und Schutzmaßnahmen bei einer bestimmten Tätigkeit oder einem bestimmten Gefahrstoff.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Betriebsanweisungen"
+    },
+    {
+      "id": "org-090",
+      "text": "In welchem zeitlichen Abstand müssen Beschäftigte nach § 12 Arbeitsschutzgesetz mindestens unterwiesen werden?",
+      "options": [
+        "Nur einmalig bei der Einstellung des Beschäftigten",
+        "Mindestens einmal jährlich sowie zusätzlich bei Veränderungen im Aufgabenbereich, neuen Arbeitsmitteln oder nach Unfällen",
+        "Nur alle fünf Jahre",
+        "Nur auf ausdrücklichen Wunsch des Mitarbeiters"
+      ],
+      "correct": 1,
+      "explanation": "Nach § 12 ArbSchG müssen Beschäftigte mindestens einmal jährlich sowie anlassbezogen, etwa bei neuen Arbeitsmitteln oder nach Unfällen, unterwiesen werden.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Unterweisung"
+    },
+    {
+      "id": "org-091",
+      "text": "Bei einer Gefährdungsbeurteilung in der Elektrowerkstatt wird festgestellt, dass Mitarbeiter beim Löten ohne Absaugung Lötdämpfen ausgesetzt sind. Welche Maßnahme ist nach der Rangfolge der Schutzmaßnahmen (STOP-Prinzip) vorrangig zu prüfen?",
+      "options": [
+        "Die sofortige Ausgabe von Atemschutzmasken als alleinige Maßnahme",
+        "Eine Verkürzung der Pausenzeiten",
+        "Eine Substitutions- bzw. technische Maßnahme, z. B. der Einbau einer Lötrauchabsaugung, vorrangig vor persönlicher Schutzausrüstung",
+        "Eine Erhöhung des Erschwerniszuschlags ohne technische Maßnahme"
+      ],
+      "correct": 2,
+      "explanation": "Nach dem STOP-Prinzip haben Substitution und technische Maßnahmen Vorrang vor organisatorischen und personenbezogenen Maßnahmen wie persönlicher Schutzausrüstung.",
+      "difficulty": 3,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Gefährdungsbeurteilung"
+    },
+    {
+      "id": "org-092",
+      "text": "Wofür steht die Abkürzung PSA im Arbeitsschutz?",
+      "options": [
+        "Prozess-Sicherheits-Audit",
+        "Produktions-Steuerungs-Anweisung",
+        "Prüf- und Servicevereinbarung",
+        "Persönliche Schutzausrüstung"
+      ],
+      "correct": 3,
+      "explanation": "PSA steht für Persönliche Schutzausrüstung, die eingesetzt wird, wenn technische und organisatorische Schutzmaßnahmen die Gefährdung nicht ausreichend reduzieren können.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Persönliche Schutzausrüstung"
+    },
+    {
+      "id": "org-093",
+      "text": "Welche grundlegende Anforderung stellt die DIN EN ISO 14001 an ein Unternehmen?",
+      "options": [
+        "Sie definiert Anforderungen an ein Umweltmanagementsystem, mit dem Unternehmen ihre Umweltleistung systematisch verbessern und Umweltauswirkungen steuern",
+        "Sie schreibt konkrete gesetzliche Grenzwerte für Schadstoffemissionen vor",
+        "Sie ist inhaltlich identisch mit der DIN EN ISO 9001 für Qualitätsmanagement",
+        "Sie regelt ausschließlich die Entsorgung von Elektro-Altgeräten"
+      ],
+      "correct": 0,
+      "explanation": "Die DIN EN ISO 14001 legt Anforderungen an ein Umweltmanagementsystem fest, mit dem Unternehmen ihre Umweltleistung kontinuierlich verbessern und Umweltauswirkungen systematisch steuern sollen.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Umweltmanagement"
+    },
+    {
+      "id": "org-094",
+      "text": "Wofür steht die Abkürzung ElektroG?",
+      "options": [
+        "Elektrofachkräftegesetz",
+        "Elektro- und Elektronikgerätegesetz, das u. a. Rücknahme und umweltverträgliche Entsorgung von Elektro- und Elektronikaltgeräten regelt",
+        "Elektroinstallationsgesetz",
+        "Elektronikprüfgesetz für Maschinen"
+      ],
+      "correct": 1,
+      "explanation": "Das ElektroG (Elektro- und Elektronikgerätegesetz) regelt in Deutschland unter anderem die Rücknahme und umweltgerechte Entsorgung von Elektro- und Elektronikaltgeräten.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Elektroschrottentsorgung"
+    },
+    {
+      "id": "org-095",
+      "text": "Was ist unter dem europäischen Rechtsrahmen WEEE zu verstehen, der national durch das ElektroG umgesetzt wird?",
+      "options": [
+        "Eine Norm zur elektrischen Sicherheit von Maschinen",
+        "Ein Umweltmanagementstandard analog zur ISO 14001",
+        "Die EU-Richtlinie über Elektro- und Elektronik-Altgeräte (Waste Electrical and Electronic Equipment) mit Vorgaben zu Rücknahme, Recycling und Entsorgung",
+        "Eine Vorschrift zur Kennzeichnung von Gefahrstoffen"
+      ],
+      "correct": 2,
+      "explanation": "WEEE (Waste Electrical and Electronic Equipment) ist die EU-Richtlinie über Elektro- und Elektronik-Altgeräte, deren Vorgaben zu Rücknahme und Recycling in Deutschland durch das ElektroG umgesetzt werden.",
+      "difficulty": 3,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Elektroschrottentsorgung"
+    },
+    {
+      "id": "org-096",
+      "text": "Ein Elektrobetrieb entsorgt ausgebaute Leiterplatten und Elektronikschrott. Welche rechtliche Einordnung trifft in Deutschland grundsätzlich zu?",
+      "options": [
+        "Sie dürfen wie normaler Hausmüll entsorgt werden",
+        "Sie unterliegen keinerlei Dokumentationspflicht bei der Entsorgung",
+        "Sie dürfen ohne jede Einschränkung ins außereuropäische Ausland exportiert werden",
+        "Elektro- und Elektronikaltgeräte bzw. entsprechender Schrott unterliegen besonderen Entsorgungspflichten nach ElektroG und Kreislaufwirtschaftsgesetz und dürfen nicht über den Hausmüll entsorgt werden"
+      ],
+      "correct": 3,
+      "explanation": "Elektro- und Elektronikschrott unterliegt in Deutschland besonderen Entsorgungs- und Dokumentationspflichten nach ElektroG und Kreislaufwirtschaftsgesetz und darf nicht über den Hausmüll entsorgt werden.",
+      "difficulty": 3,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Elektroschrottentsorgung"
+    },
+    {
+      "id": "org-097",
+      "text": "Was versteht man unter dem Begriff Gefährdungsbeurteilung?",
+      "options": [
+        "Die systematische Ermittlung und Bewertung der mit einer Tätigkeit verbundenen Gefährdungen der Beschäftigten sowie die Ableitung geeigneter Schutzmaßnahmen",
+        "Die jährliche Leistungsbeurteilung eines Mitarbeiters durch den Vorgesetzten",
+        "Die Bewertung der Kreditwürdigkeit eines Kunden",
+        "Die Prüfung der Auslastung von Maschinen"
+      ],
+      "correct": 0,
+      "explanation": "Die Gefährdungsbeurteilung dient der systematischen Ermittlung und Bewertung arbeitsbedingter Gefährdungen sowie der Ableitung notwendiger Schutzmaßnahmen.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Gefährdungsbeurteilung"
+    },
+    {
+      "id": "org-098",
+      "text": "Welche Institution ist in Deutschland unter anderem für die Erstellung berufsgenossenschaftlicher Vorschriften (DGUV-Vorschriften) im Bereich Arbeitsschutz zuständig?",
+      "options": [
+        "Die Industrie- und Handelskammer (IHK)",
+        "Die Deutsche Gesetzliche Unfallversicherung (DGUV) bzw. die jeweilige Berufsgenossenschaft",
+        "Das Bundesministerium der Finanzen",
+        "Die Gewerkschaft ver.di"
+      ],
+      "correct": 1,
+      "explanation": "Die Deutsche Gesetzliche Unfallversicherung (DGUV) und die einzelnen Berufsgenossenschaften erlassen die berufsgenossenschaftlichen Vorschriften (DGUV-Vorschriften) zum Arbeitsschutz.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Berufsgenossenschaft"
+    },
+    {
+      "id": "org-099",
+      "text": "Welchen Zweck verfolgt die regelmäßige Prüfung ortsveränderlicher elektrischer Betriebsmittel nach DGUV Vorschrift 3?",
+      "options": [
+        "Ausschließlich die Feststellung des Wiederverkaufswerts der Geräte",
+        "Die Ermittlung der Energieeffizienzklasse der Geräte",
+        "Das frühzeitige Erkennen von Mängeln und Schäden an elektrischen Geräten, um elektrische Gefährdungen wie Stromschlag oder Brand zu vermeiden",
+        "Die Erfüllung steuerlicher Abschreibungsvorgaben"
+      ],
+      "correct": 2,
+      "explanation": "Die wiederkehrende Prüfung ortsveränderlicher elektrischer Betriebsmittel nach DGUV Vorschrift 3 dient dazu, Mängel frühzeitig zu erkennen und dadurch elektrische Gefährdungen zu vermeiden.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Elektrische Sicherheit"
+    },
+    {
+      "id": "org-100",
+      "text": "In einem Betrieb häufen sich Beinaheunfälle an einer Fertigungsanlage. Welches Vorgehen entspricht der systematischen Vorgehensweise nach dem Arbeitsschutzgesetz zur nachhaltigen Verbesserung?",
+      "options": [
+        "Ignorieren der Beinaheunfälle, solange kein Personenschaden eingetreten ist",
+        "Eine ausschließliche Erhöhung der Prämienzahlungen an die Berufsgenossenschaft",
+        "Eine alleinige Disziplinierung der beteiligten Mitarbeiter ohne technische Prüfung",
+        "Die Überprüfung und Aktualisierung der bestehenden Gefährdungsbeurteilung, die Ableitung zusätzlicher Schutzmaßnahmen nach dem STOP-Prinzip und die Unterweisung der Beschäftigten über die Änderungen"
+      ],
+      "correct": 3,
+      "explanation": "Beinaheunfälle müssen zum Anlass genommen werden, die Gefährdungsbeurteilung zu aktualisieren, zusätzliche Schutzmaßnahmen nach dem STOP-Prinzip abzuleiten und die Beschäftigten entsprechend zu unterweisen.",
+      "difficulty": 3,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Kontinuierliche Verbesserung im Arbeitsschutz"
+    },
+    {
+      "id": "org-101",
+      "text": "Was versteht man unter der Leitungsspanne (Kontrollspanne) in der Aufbauorganisation?",
+      "options": [
+        "Die Anzahl der einer Führungskraft direkt unterstellten Mitarbeiter",
+        "Die Anzahl der Hierarchieebenen im Unternehmen",
+        "Die Zeitspanne zwischen zwei Führungsentscheidungen",
+        "Die räumliche Entfernung zwischen Zentrale und Filialen"
+      ],
+      "correct": 0,
+      "explanation": "Die Leitungsspanne (Kontrollspanne) gibt an, wie viele Mitarbeiter einer Instanz direkt unterstellt sind.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Leitungsspanne"
+    },
+    {
+      "id": "org-102",
+      "text": "Was beschreibt der Begriff Tiefenorganisation (Hierarchietiefe) eines Unternehmens?",
+      "options": [
+        "Die Anzahl der Abteilungen auf einer Hierarchieebene",
+        "Die Anzahl der übereinander angeordneten Hierarchieebenen",
+        "Die Anzahl der Mitarbeiter im gesamten Unternehmen",
+        "Die Anzahl der Produktsparten"
+      ],
+      "correct": 1,
+      "explanation": "Die Hierarchietiefe beschreibt die Anzahl der Führungsebenen vom Vorstand bis zur ausführenden Ebene.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Hierarchietiefe"
+    },
+    {
+      "id": "org-103",
+      "text": "Welche Aussage zum Zusammenhang zwischen Leitungsspanne und Hierarchietiefe trifft grundsätzlich zu?",
+      "options": [
+        "Leitungsspanne und Hierarchietiefe stehen in keinerlei Zusammenhang",
+        "Eine größere Leitungsspanne erhöht automatisch die Anzahl der Hierarchieebenen",
+        "Eine größere Leitungsspanne führt bei gleicher Mitarbeiterzahl tendenziell zu weniger Hierarchieebenen",
+        "Die Hierarchietiefe bestimmt ausschließlich die Anzahl der Stabsstellen"
+      ],
+      "correct": 2,
+      "explanation": "Je größer die Leitungsspanne je Instanz, desto weniger Ebenen sind bei gleicher Mitarbeiterzahl nötig (flachere Hierarchie).",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Leitungsspanne"
+    },
+    {
+      "id": "org-104",
+      "text": "Was ist ein Gremium (Kollegialorgan) im organisatorischen Sinn?",
+      "options": [
+        "Eine Stelle mit Einzelweisungsbefugnis",
+        "Ein rein beratendes Einzelorgan ohne Entscheidungsbefugnis",
+        "Eine Kurzbezeichnung für Stabsstellen",
+        "Eine aus mehreren Personen bestehende Instanz, die Entscheidungen gemeinsam trifft"
+      ],
+      "correct": 3,
+      "explanation": "Ein Gremium ist ein Kollegialorgan, in dem mehrere Personen gemeinsam Entscheidungen treffen, z. B. ein Vorstand.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Kollegialorgane"
+    },
+    {
+      "id": "org-105",
+      "text": "Was versteht man unter der 'Fayolschen Brücke'?",
+      "options": [
+        "Eine Regelung, die eine direkte Abstimmung zwischen zwei Stellen auf gleicher Ebene ermöglicht, ohne den vollen Instanzenweg einzuhalten",
+        "Die Verbindung zwischen Stabsstelle und Linieninstanz",
+        "Eine Methode zur Kapazitätsplanung im Netzplan",
+        "Die Zusammenfassung mehrerer Kostenstellen zu einer Sparte"
+      ],
+      "correct": 0,
+      "explanation": "Die Fayolsche Brücke erlaubt bei gleichrangigen Stellen direkte Abstimmung ohne den vollständigen Dienstweg über die Instanzen.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Kommunikationswege"
+    },
+    {
+      "id": "org-106",
+      "text": "Wodurch unterscheidet sich das Verrichtungsprinzip vom Objektprinzip bei der Aufgabengliederung?",
+      "options": [
+        "Beide Prinzipien sind inhaltlich identisch",
+        "Das Verrichtungsprinzip gliedert nach Tätigkeitsarten, das Objektprinzip nach Produkten, Regionen oder Kunden",
+        "Das Objektprinzip gliedert ausschließlich nach Hierarchieebenen",
+        "Das Verrichtungsprinzip wird nur in der Ablauforganisation angewendet"
+      ],
+      "correct": 1,
+      "explanation": "Das Verrichtungsprinzip orientiert sich an Funktionen/Tätigkeiten, das Objektprinzip an Objekten wie Produkten, Kunden oder Regionen.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Aufgabengliederung"
+    },
+    {
+      "id": "org-107",
+      "text": "Was versteht man unter Zentralisation als organisatorisches Gestaltungsprinzip?",
+      "options": [
+        "Die Verteilung gleichartiger Aufgaben und Entscheidungsbefugnisse auf viele dezentrale Stellen",
+        "Die Auflösung sämtlicher Hierarchieebenen",
+        "Die Zusammenfassung gleichartiger Aufgaben und Entscheidungsbefugnisse an einer Stelle bzw. Ebene",
+        "Die ausschließliche Zuordnung von Aufgaben nach dem Zufallsprinzip"
+      ],
+      "correct": 2,
+      "explanation": "Zentralisation bündelt gleichartige Aufgaben und Kompetenzen an einer zentralen Stelle.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Zentralisation"
+    },
+    {
+      "id": "org-108",
+      "text": "Welcher Vorteil wird der Dezentralisation von Entscheidungsbefugnissen typischerweise zugeschrieben?",
+      "options": [
+        "Geringere Flexibilität bei lokalen Entscheidungen",
+        "Zwingend geringere Personalkosten in jedem Fall",
+        "Vollständiger Wegfall der Notwendigkeit von Führungskräften",
+        "Größere Nähe der Entscheidung zum jeweiligen Sachverhalt und schnellere Reaktionsfähigkeit"
+      ],
+      "correct": 3,
+      "explanation": "Dezentrale Entscheidungsbefugnisse ermöglichen schnellere, sachnähere Entscheidungen vor Ort.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Dezentralisation"
+    },
+    {
+      "id": "org-109",
+      "text": "Was ist eine Projektgruppe im Sinne einer temporären Organisationsform?",
+      "options": [
+        "Eine für eine begrenzte Zeit gebildete, bereichsübergreifende Arbeitsgruppe zur Bearbeitung einer definierten Aufgabe",
+        "Eine dauerhaft eingerichtete Stabsstelle der Geschäftsleitung",
+        "Eine Bezeichnung für die unterste Stelle im Einliniensystem",
+        "Ein permanenter Bestandteil des Organigramms mit disziplinarischer Weisungsbefugnis"
+      ],
+      "correct": 0,
+      "explanation": "Projektgruppen sind zeitlich befristete, meist interdisziplinäre Organisationseinheiten für ein konkretes Vorhaben.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Projektgruppe"
+    },
+    {
+      "id": "org-110",
+      "text": "Welche Norm regelt in Deutschland unter anderem die Symbole für Ablaufdiagramme (Flussdiagramme) zur Darstellung von Arbeitsabläufen?",
+      "options": [
+        "DIN EN ISO 9001",
+        "DIN 66001",
+        "DIN EN 50110",
+        "DIN VDE 0100"
+      ],
+      "correct": 1,
+      "explanation": "DIN 66001 legt Sinnbilder für Datenfluss- und Programmablaufpläne bzw. Flussdiagramme fest.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Ablaufdiagramme"
+    },
+    {
+      "id": "org-111",
+      "text": "Was zeigt eine Prozesslandkarte in einem Unternehmen?",
+      "options": [
+        "Ausschließlich die räumliche Anordnung der Maschinen in der Fertigung",
+        "Nur die Kostenstellenstruktur des Betriebs",
+        "Die grafische Übersicht über Kern-, Führungs- und Unterstützungsprozesse und deren Zusammenspiel",
+        "Die Netzplantechnik eines einzelnen Projekts"
+      ],
+      "correct": 2,
+      "explanation": "Die Prozesslandkarte visualisiert alle wesentlichen Prozesse eines Unternehmens und deren Zusammenhänge.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Prozesslandkarte"
+    },
+    {
+      "id": "org-112",
+      "text": "Was wird in der Ablauforganisation unter Kernprozessen verstanden?",
+      "options": [
+        "Prozesse ohne jeglichen Kundennutzen",
+        "Ausschließlich administrative Prozesse wie Buchhaltung",
+        "Prozesse, die nur einmalig im Rahmen eines Projekts durchgeführt werden",
+        "Wertschöpfende Prozesse, die direkt zur Erstellung der Kernleistung des Unternehmens beitragen"
+      ],
+      "correct": 3,
+      "explanation": "Kernprozesse tragen unmittelbar zur Wertschöpfung und zur Erstellung der Kernleistung bei.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Kernprozesse"
+    },
+    {
+      "id": "org-113",
+      "text": "Was versteht man unter einem Funktionendiagramm (Aufgabenverteilungsplan)?",
+      "options": [
+        "Eine Darstellung, die zeigt, welche Stelle bei welcher Aufgabe welche Funktion (z. B. Entscheidung, Ausführung, Mitwirkung) wahrnimmt",
+        "Eine grafische Darstellung ausschließlich der Maschinenbelegung",
+        "Ein Diagramm zur Darstellung von Materialflüssen im Lager",
+        "Eine Kennzahl zur Bewertung der Produktqualität"
+      ],
+      "correct": 0,
+      "explanation": "Das Funktionendiagramm ordnet Aufgaben und Stellen einander zu und zeigt die jeweilige Funktion (z. B. E=Entscheidung, A=Ausführung).",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Funktionendiagramm"
+    },
+    {
+      "id": "org-114",
+      "text": "Wozu dient ein Organisationshandbuch in einem Betrieb?",
+      "options": [
+        "Es ersetzt den Arbeitsvertrag jedes Mitarbeiters",
+        "Es dokumentiert verbindlich Aufbau- und Ablauforganisation, Zuständigkeiten und Verfahrensanweisungen",
+        "Es dient ausschließlich der Lohnabrechnung",
+        "Es ist identisch mit dem Netzplan eines Projekts"
+      ],
+      "correct": 1,
+      "explanation": "Das Organisationshandbuch fasst die geltenden organisatorischen Regelungen eines Betriebs verbindlich zusammen.",
+      "difficulty": 1,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Organisationshandbuch"
+    },
+    {
+      "id": "org-115",
+      "text": "Was bedeutet der Grundsatz der generellen Regelung im Gegensatz zur fallweisen Regelung in der Organisation?",
+      "options": [
+        "Jeder Vorgang wird individuell und ohne jede Vorgabe entschieden",
+        "Nur die Geschäftsleitung darf Regelungen treffen",
+        "Wiederkehrende Sachverhalte werden durch allgemeingültige Vorschriften geregelt, statt jeden Einzelfall neu zu entscheiden",
+        "Regelungen gelten ausschließlich für Führungskräfte"
+      ],
+      "correct": 2,
+      "explanation": "Generelle Regelungen gelten für wiederkehrende, gleichartige Fälle und entlasten so die Entscheidungsträger.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Regelungsprinzip"
+    },
+    {
+      "id": "org-116",
+      "text": "Welche Aussage zur Holding-Struktur als Organisationsform eines Konzerns trifft zu?",
+      "options": [
+        "Alle Tochtergesellschaften sind rechtlich unselbstständige Abteilungen der Muttergesellschaft",
+        "Eine Holding kennt keine Konzernleitung",
+        "Die Holding-Struktur ist mit dem Einliniensystem einer einzelnen Abteilung identisch",
+        "Eine Führungsgesellschaft (Muttergesellschaft) hält Beteiligungen an rechtlich selbstständigen Tochtergesellschaften und steuert diese"
+      ],
+      "correct": 3,
+      "explanation": "In einer Holding hält eine Muttergesellschaft Anteile an rechtlich selbstständigen Tochtergesellschaften und steuert diese strategisch.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Holding"
+    },
+    {
+      "id": "org-117",
+      "text": "In einem Betrieb wird zur Beschleunigung der Kommunikation vereinbart, dass sich zwei Sachbearbeiter unterschiedlicher Abteilungen bei Routinefragen direkt abstimmen dürfen, statt jeweils den vollständigen Dienstweg über ihre Vorgesetzten einzuhalten. Wie nennt man eine solche Regelung?",
+      "options": [
+        "Fayolsche Brücke",
+        "Matrixorganisation",
+        "Spartenorganisation",
+        "Holding-Struktur"
+      ],
+      "correct": 0,
+      "explanation": "Diese direkte, den Dienstweg verkürzende Abstimmung zwischen gleichrangigen Stellen wird als Fayolsche Brücke bezeichnet.",
+      "difficulty": 2,
+      "topic": "Betriebs- und Ablauforganisation",
+      "subtopic": "Kommunikationswege"
+    },
+    {
+      "id": "org-118",
+      "text": "Was versteht man unter dem freien Puffer (freie Pufferzeit) eines Vorgangs im Netzplan?",
+      "options": [
+        "Die Zeitspanne, um die sich das Gesamtprojekt verzögern darf",
+        "Die Zeitspanne, um die ein Vorgang verschoben werden kann, ohne den frühesten Start des unmittelbar folgenden Vorgangs zu beeinflussen",
+        "Die Differenz zwischen frühestem und spätestem Anfang aller Vorgänge auf dem kritischen Pfad",
+        "Die Pufferzeit, die ausschließlich am Projektende anfällt"
+      ],
+      "correct": 1,
+      "explanation": "Der freie Puffer ist der Spielraum eines Vorgangs, ohne dass sich der früheste Start des Nachfolgers verschiebt.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "org-119",
+      "text": "Welche Aussage zum Unterschied zwischen Lastenheft und Pflichtenheft trifft zu?",
+      "options": [
+        "Lastenheft und Pflichtenheft sind rechtlich identisch und austauschbar",
+        "Das Pflichtenheft wird ausschließlich vom Auftraggeber vor Angebotsabgabe erstellt",
+        "Das Lastenheft beschreibt die Anforderungen des Auftraggebers (\"Was\" und \"Wofür\"), das Pflichtenheft die Realisierungsvorgaben des Auftragnehmers (\"Wie\")",
+        "Das Lastenheft beschreibt nur die Nachkalkulation eines Projekts"
+      ],
+      "correct": 2,
+      "explanation": "Das Lastenheft kommt vom Auftraggeber (Anforderungen), das Pflichtenheft vom Auftragnehmer (Umsetzung).",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Anforderungsdokumente"
+    },
+    {
+      "id": "org-120",
+      "text": "Was ist ein Projektstrukturplan (PSP)?",
+      "options": [
+        "Eine tabellarische Auflistung aller Projektmitarbeiter nach Gehaltsstufe",
+        "Eine ausschließlich grafische Darstellung des kritischen Pfads",
+        "Eine Kurzbezeichnung für den Netzplan",
+        "Eine hierarchische, vollständige Gliederung des Gesamtprojekts in Teilaufgaben und Arbeitspakete"
+      ],
+      "correct": 3,
+      "explanation": "Der PSP gliedert das Gesamtprojekt vollständig und hierarchisch in Teilaufgaben und Arbeitspakete.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Projektstrukturplan"
+    },
+    {
+      "id": "org-121",
+      "text": "Was versteht man unter einem Arbeitspaket im Projektmanagement?",
+      "options": [
+        "Die kleinste, nicht weiter unterteilte Einheit eines Projektstrukturplans mit eindeutig zugeordneter Verantwortung",
+        "Die Gesamtheit aller Vorgänge eines Projekts",
+        "Ein Synonym für Meilenstein",
+        "Eine Sammlung aller Projektrisiken"
+      ],
+      "correct": 0,
+      "explanation": "Arbeitspakete sind die kleinsten, klar abgegrenzten und verantworteten Einheiten eines Projektstrukturplans.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Arbeitspaket"
+    },
+    {
+      "id": "org-122",
+      "text": "Ein Vorgang hat einen frühesten Anfangszeitpunkt (FAZ) von 8 Tagen und eine Dauer von 4 Tagen. Der unmittelbar folgende Vorgang hat einen frühesten Anfangszeitpunkt von 14 Tagen. Wie groß ist der freie Puffer des ersten Vorgangs?",
+      "options": [
+        "4 Tage",
+        "2 Tage",
+        "6 Tage",
+        "14 Tage"
+      ],
+      "correct": 1,
+      "explanation": "FEZ = 8 + 4 = 12 Tage; freier Puffer = FAZ des Nachfolgers (14) minus FEZ (12) = 2 Tage.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "org-123",
+      "text": "Welche Phase steht typischerweise am Anfang eines Projekts und dient der Klärung von Zielen, Rahmenbedingungen und Wirtschaftlichkeit, bevor die eigentliche Planung beginnt?",
+      "options": [
+        "Projektabschluss",
+        "Projektdurchführung",
+        "Projektdefinition (Projektinitiierung)",
+        "Projektcontrolling"
+      ],
+      "correct": 2,
+      "explanation": "In der Projektdefinition werden Ziele, Rahmenbedingungen und Wirtschaftlichkeit vor Planungsbeginn geklärt.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Projektphasen"
+    },
+    {
+      "id": "org-124",
+      "text": "Was zeigt eine Meilensteintrendanalyse im Projektcontrolling?",
+      "options": [
+        "Ausschließlich die Materialkosten eines Projekts",
+        "Die Anzahl der am Projekt beteiligten externen Firmen",
+        "Die räumliche Lage der Baustelle",
+        "Die Entwicklung der voraussichtlichen Meilenstein-Termine im Zeitverlauf, um Terminverschiebungen frühzeitig zu erkennen"
+      ],
+      "correct": 3,
+      "explanation": "Die Meilensteintrendanalyse verfolgt die Terminprognosen für Meilensteine über die Zeit und macht Trends sichtbar.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Projektcontrolling"
+    },
+    {
+      "id": "org-125",
+      "text": "Welche Anordnungsbeziehung liegt vor, wenn ein Vorgang erst beginnen darf, nachdem der vorhergehende Vorgang vollständig beendet ist (Normalfolge)?",
+      "options": [
+        "Ende-Anfang-Beziehung (Normalfolge)",
+        "Anfang-Anfang-Beziehung",
+        "Ende-Ende-Beziehung",
+        "Anfang-Ende-Beziehung"
+      ],
+      "correct": 0,
+      "explanation": "Die Normalfolge (Ende-Anfang-Beziehung) ist die häufigste Anordnungsbeziehung: der Nachfolger startet erst nach Ende des Vorgängers.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "org-126",
+      "text": "Was wird bei der Dreipunktschätzung (PERT-Methode) zur Ermittlung der Vorgangsdauer berücksichtigt?",
+      "options": [
+        "Ausschließlich die optimistische Dauer",
+        "Optimistische, wahrscheinlichste und pessimistische Dauer eines Vorgangs",
+        "Nur historische Durchschnittswerte vergangener Projekte",
+        "Ausschließlich die vom Kunden vorgegebene Dauer"
+      ],
+      "correct": 1,
+      "explanation": "Die PERT-Dreipunktschätzung kombiniert optimistische, wahrscheinlichste und pessimistische Schätzwerte.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Terminschätzung"
+    },
+    {
+      "id": "org-127",
+      "text": "Welche Aufgabe hat die Nachkalkulation im Rahmen der Auftragsabwicklung?",
+      "options": [
+        "Vor Angebotsabgabe die voraussichtlichen Kosten zu schätzen",
+        "Die Lagerbestände am Jahresende zu bewerten",
+        "Nach Abschluss des Auftrags die tatsächlich angefallenen Kosten mit der Vorkalkulation zu vergleichen",
+        "Die Gefährdungsbeurteilung eines Projekts zu erstellen"
+      ],
+      "correct": 2,
+      "explanation": "Die Nachkalkulation vergleicht nach Auftragsabschluss die Ist-Kosten mit der ursprünglichen Vorkalkulation.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Auftragsabwicklung"
+    },
+    {
+      "id": "org-128",
+      "text": "Was ist das Ziel des Projektcontrollings während der Projektdurchführung?",
+      "options": [
+        "Ausschließlich die nachträgliche Dokumentation nach Projektende",
+        "Die einmalige Erstellung des Angebots",
+        "Die Auswahl der Projektmitarbeiter vor Projektbeginn",
+        "Der laufende Soll-Ist-Vergleich von Terminen, Kosten und Qualität mit Einleitung von Steuerungsmaßnahmen bei Abweichungen"
+      ],
+      "correct": 3,
+      "explanation": "Projektcontrolling überwacht laufend Termine, Kosten und Qualität und leitet bei Abweichungen Gegenmaßnahmen ein.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Projektcontrolling"
+    },
+    {
+      "id": "org-129",
+      "text": "Was versteht man unter einem Ressourcenkonflikt im Mehrprojektmanagement?",
+      "options": [
+        "Wenn mehrere gleichzeitig laufende Projekte um dieselben begrenzten Mitarbeiter oder Betriebsmittel konkurrieren",
+        "Wenn ein Projekt keinerlei Ressourcen benötigt",
+        "Ausschließlich ein Konflikt zwischen zwei Kunden",
+        "Eine Bezeichnung für den kritischen Pfad"
+      ],
+      "correct": 0,
+      "explanation": "Ressourcenkonflikte entstehen, wenn parallele Projekte auf dieselben knappen Ressourcen zugreifen wollen.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Mehrprojektmanagement"
+    },
+    {
+      "id": "org-130",
+      "text": "Welches Dokument bestätigt üblicherweise die Ausführung einer Lieferung oder Leistung und dient als Grundlage für die Rechnungsstellung?",
+      "options": [
+        "Das Lastenheft",
+        "Der Lieferschein bzw. Leistungsnachweis",
+        "Der Netzplan",
+        "Die Gefährdungsbeurteilung"
+      ],
+      "correct": 1,
+      "explanation": "Der Lieferschein bzw. Leistungsnachweis belegt die erfolgte Lieferung/Leistung und ist Basis der Rechnung.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Auftragsabwicklung"
+    },
+    {
+      "id": "org-131",
+      "text": "Wozu dient eine Verantwortungsmatrix (z. B. RACI-Matrix) in der Projektorganisation?",
+      "options": [
+        "Zur Berechnung des kritischen Pfads",
+        "Zur Ermittlung der Break-even-Menge",
+        "Zur Darstellung, wer bei welcher Aufgabe verantwortlich, ausführend, zu konsultieren oder zu informieren ist",
+        "Zur Klassifizierung von Lagerartikeln nach Wert"
+      ],
+      "correct": 2,
+      "explanation": "Die RACI-Matrix ordnet jeder Aufgabe die Rollen Responsible, Accountable, Consulted und Informed zu.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Projektorganisation"
+    },
+    {
+      "id": "org-132",
+      "text": "Welche Aufgabe umfasst die Nachbetreuung (Reklamationsbearbeitung) als letzte Phase der Auftragsabwicklung?",
+      "options": [
+        "Die Erstellung des ersten Kundenangebots",
+        "Die Materialbeschaffung zu Projektbeginn",
+        "Die Erstellung des Projektstrukturplans",
+        "Die Bearbeitung von Mängelrügen und Serviceanfragen nach Auslieferung bzw. Fertigstellung"
+      ],
+      "correct": 3,
+      "explanation": "Die Nachbetreuung umfasst Service- und Reklamationsbearbeitung nach Abschluss der Lieferung/Leistung.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Auftragsabwicklung"
+    },
+    {
+      "id": "org-133",
+      "text": "Was kennzeichnet agiles Projektmanagement (z. B. nach Scrum) im Unterschied zum klassischen, phasenorientierten Projektmanagement?",
+      "options": [
+        "Iteratives Vorgehen in kurzen Arbeitszyklen (Sprints) mit regelmäßiger Anpassung der Anforderungen",
+        "Vollständig fixierte Anforderungen zu Projektbeginn ohne jede Änderungsmöglichkeit",
+        "Verzicht auf jegliche Terminplanung",
+        "Ausschließliche Anwendung der Netzplantechnik"
+      ],
+      "correct": 0,
+      "explanation": "Agile Ansätze wie Scrum arbeiten iterativ in Sprints und passen Anforderungen laufend an.",
+      "difficulty": 2,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Agiles Projektmanagement"
+    },
+    {
+      "id": "org-134",
+      "text": "Ein Kunde reklamiert nach Fertigstellung einer Elektroinstallation einen Mangel. In welcher Phase der Auftragsabwicklung wird dieser Vorgang bearbeitet?",
+      "options": [
+        "Auftragsklärung",
+        "Nachbetreuung/Kundendienst",
+        "Angebotserstellung",
+        "Ressourcenplanung"
+      ],
+      "correct": 1,
+      "explanation": "Mängelbearbeitung nach Fertigstellung fällt in die Phase der Nachbetreuung/des Kundendienstes.",
+      "difficulty": 1,
+      "topic": "Projekt- und Auftragsmanagement",
+      "subtopic": "Auftragsabwicklung"
+    },
+    {
+      "id": "org-135",
+      "text": "Wie werden Kosten bezeichnet, die für die Prüfung von Produkten und Prozessen anfallen, z. B. Mess- und Prüfmittel sowie Personal für Endkontrollen?",
+      "options": [
+        "Fehlerverhütungskosten",
+        "Interne Fehlerkosten",
+        "Prüfkosten",
+        "Externe Fehlerkosten"
+      ],
+      "correct": 2,
+      "explanation": "Prüfkosten entstehen durch Kontroll- und Prüftätigkeiten, um Fehler zu entdecken.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Fehlerkosten"
+    },
+    {
+      "id": "org-136",
+      "text": "Wie werden Kosten bezeichnet, die entstehen, wenn ein fehlerhaftes Produkt erst beim Kunden entdeckt wird, z. B. durch Gewährleistung, Rückruf oder Imageschaden?",
+      "options": [
+        "Prüfkosten",
+        "Fehlerverhütungskosten",
+        "Interne Fehlerkosten",
+        "Externe Fehlerkosten"
+      ],
+      "correct": 3,
+      "explanation": "Externe Fehlerkosten entstehen, wenn Fehler erst nach Auslieferung beim Kunden auftreten.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Fehlerkosten"
+    },
+    {
+      "id": "org-137",
+      "text": "Wie werden Kosten bezeichnet, die durch im Betrieb selbst entdeckte Fehler entstehen, z. B. Ausschuss oder Nacharbeit vor Auslieferung?",
+      "options": [
+        "Interne Fehlerkosten",
+        "Externe Fehlerkosten",
+        "Prüfkosten",
+        "Fehlerverhütungskosten"
+      ],
+      "correct": 0,
+      "explanation": "Interne Fehlerkosten entstehen durch Fehler, die noch vor Auslieferung im eigenen Betrieb entdeckt werden.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Fehlerkosten"
+    },
+    {
+      "id": "org-138",
+      "text": "Was besagt das Pareto-Prinzip (80/20-Regel) im Qualitätsmanagement?",
+      "options": [
+        "Alle Fehlerursachen sind grundsätzlich gleich bedeutsam",
+        "Ein Großteil der Fehler bzw. Kosten (ca. 80 %) geht häufig auf einen kleinen Teil der Ursachen (ca. 20 %) zurück",
+        "80 % aller Produkte sind grundsätzlich fehlerhaft",
+        "Nur 20 % der Mitarbeiter sind für Qualität verantwortlich"
+      ],
+      "correct": 1,
+      "explanation": "Das Pareto-Prinzip besagt, dass wenige Hauptursachen den Großteil der Fehler/Kosten verursachen.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Pareto-Prinzip"
+    },
+    {
+      "id": "org-139",
+      "text": "Wozu dient ein Histogramm als Qualitätswerkzeug?",
+      "options": [
+        "Zur zeitlichen Ablaufplanung eines Projekts",
+        "Zur Darstellung von Ursache-Wirkungs-Beziehungen",
+        "Zur grafischen Darstellung der Häufigkeitsverteilung von Messwerten",
+        "Zur Berechnung des Deckungsbeitrags"
+      ],
+      "correct": 2,
+      "explanation": "Ein Histogramm stellt die Häufigkeitsverteilung von Messwerten grafisch dar.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Qualitätswerkzeuge"
+    },
+    {
+      "id": "org-140",
+      "text": "Was ist das grundlegende Ziel des Six-Sigma-Ansatzes im Qualitätsmanagement?",
+      "options": [
+        "Ausschließliche Senkung der Personalkosten",
+        "Verzicht auf jegliche statistische Auswertung",
+        "Erhöhung der Lagerbestände zur Sicherheit",
+        "Reduzierung der Prozessstreuung zur drastischen Senkung der Fehlerquote"
+      ],
+      "correct": 3,
+      "explanation": "Six Sigma zielt auf die Reduzierung der Prozessstreuung und damit eine sehr niedrige Fehlerquote ab.",
+      "difficulty": 3,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Six Sigma"
+    },
+    {
+      "id": "org-141",
+      "text": "Wofür wird die FMEA (Fehlermöglichkeits- und Einflussanalyse) in der Produktentwicklung bzw. Fertigung eingesetzt?",
+      "options": [
+        "Zur systematischen, vorbeugenden Identifikation und Bewertung potenzieller Fehler und ihrer Auswirkungen",
+        "Zur Berechnung der Break-even-Menge",
+        "Zur Ermittlung der optimalen Bestellmenge",
+        "Zur Erstellung des Organigramms"
+      ],
+      "correct": 0,
+      "explanation": "Die FMEA identifiziert und bewertet vorbeugend mögliche Fehler und deren Auswirkungen.",
+      "difficulty": 3,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "FMEA"
+    },
+    {
+      "id": "org-142",
+      "text": "In einem Monat gingen 2.000 Aufträge aus, davon führten 30 zu einer Kundenreklamation. Wie hoch ist die Reklamationsquote?",
+      "options": [
+        "1,0 %",
+        "1,5 %",
+        "3,0 %",
+        "0,3 %"
+      ],
+      "correct": 1,
+      "explanation": "Reklamationsquote = 30 / 2.000 = 1,5 %.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Kennzahlen"
+    },
+    {
+      "id": "org-143",
+      "text": "Welche vier Kernelemente umfasst ein Qualitätsmanagementsystem nach dem Grundverständnis der ISO 9000-Normenfamilie?",
+      "options": [
+        "Werbung, Vertrieb, Produktion und Logistik",
+        "Beschaffung, Lagerung, Transport und Entsorgung",
+        "Qualitätsplanung, Qualitätslenkung, Qualitätssicherung und Qualitätsverbesserung",
+        "Personalplanung, Zeiterfassung, Entlohnung und Kündigung"
+      ],
+      "correct": 2,
+      "explanation": "Ein QM-System umfasst nach ISO 9000 die Elemente Planung, Lenkung, Sicherung und Verbesserung der Qualität.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "QM-Grundlagen"
+    },
+    {
+      "id": "org-144",
+      "text": "Was unterscheidet die 100-%-Prüfung von der Stichprobenprüfung im Rahmen der Wareneingangskontrolle?",
+      "options": [
+        "Beide Verfahren prüfen ausschließlich die Verpackung",
+        "Die Stichprobenprüfung prüft immer mehr Teile als die 100-%-Prüfung",
+        "Die 100-%-Prüfung wird nur bei C-Teilen angewendet",
+        "Bei der 100-%-Prüfung wird jedes einzelne Teil geprüft, bei der Stichprobenprüfung nur ein repräsentativer Teil der Lieferung"
+      ],
+      "correct": 3,
+      "explanation": "Die 100-%-Prüfung kontrolliert jedes Teil, die Stichprobenprüfung nur eine repräsentative Teilmenge.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Prüfverfahren"
+    },
+    {
+      "id": "org-145",
+      "text": "Was ist ein Überwachungsaudit im Rahmen einer ISO-9001-Zertifizierung?",
+      "options": [
+        "Eine regelmäßige, meist jährliche Prüfung durch die Zertifizierungsstelle, um die fortlaufende Erfüllung der Normanforderungen zu bestätigen",
+        "Die erstmalige Erteilung des Zertifikats",
+        "Ein rein internes Audit ohne externe Beteiligung",
+        "Die endgültige Aberkennung eines Zertifikats"
+      ],
+      "correct": 0,
+      "explanation": "Überwachungsaudits finden nach der Erstzertifizierung regelmäßig statt, um die fortlaufende Konformität zu prüfen.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Zertifizierung"
+    },
+    {
+      "id": "org-146",
+      "text": "Was versteht man unter einem Qualitätszirkel?",
+      "options": [
+        "Eine grafische Darstellung im Netzplan",
+        "Eine regelmäßige, freiwillige Gruppe von Mitarbeitern, die eigenständig Probleme im eigenen Arbeitsbereich analysiert und Verbesserungsvorschläge erarbeitet",
+        "Eine gesetzliche Vorschrift zur Arbeitssicherheit",
+        "Eine Kennzahl der Kostenrechnung"
+      ],
+      "correct": 1,
+      "explanation": "Qualitätszirkel sind freiwillige Mitarbeitergruppen, die Probleme im eigenen Arbeitsbereich eigenständig bearbeiten.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Qualitätszirkel"
+    },
+    {
+      "id": "org-147",
+      "text": "Was zeigen die Eingriffsgrenzen (Regelgrenzen) einer Qualitätsregelkarte an?",
+      "options": [
+        "Die vertraglich vereinbarten Liefertermine",
+        "Die maximale Lagerkapazität",
+        "Den Bereich, innerhalb dessen der Prozess als beherrscht gilt; Überschreitungen deuten auf besondere Einflüsse hin, die eine Eingriffsentscheidung erfordern",
+        "Die Anzahl der zulässigen Reklamationen pro Jahr"
+      ],
+      "correct": 2,
+      "explanation": "Eingriffsgrenzen markieren den Bereich der normalen Prozessstreuung; Überschreitungen signalisieren Handlungsbedarf.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Qualitätsregelkarte"
+    },
+    {
+      "id": "org-148",
+      "text": "In einer Fertigungsserie von 800 Baugruppen mussten 40 Stück nachgearbeitet werden, waren aber nicht als Ausschuss zu verbuchen. Wie hoch ist die Nacharbeitsquote?",
+      "options": [
+        "4,0 %",
+        "8,0 %",
+        "2,5 %",
+        "5,0 %"
+      ],
+      "correct": 3,
+      "explanation": "Nacharbeitsquote = 40 / 800 = 5,0 %.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Kennzahlen"
+    },
+    {
+      "id": "org-149",
+      "text": "Welche Bedeutung hat die Kundenzufriedenheit im Rahmen eines Qualitätsmanagementsystems nach ISO 9001?",
+      "options": [
+        "Sie ist ein zentrales Bewertungskriterium; die Organisation muss die Kundenwahrnehmung zur Erfüllung der Anforderungen überwachen",
+        "Sie spielt für die Normanforderungen keine Rolle",
+        "Sie wird ausschließlich durch den Preis bestimmt",
+        "Sie wird nur einmalig bei Vertragsabschluss erhoben"
+      ],
+      "correct": 0,
+      "explanation": "ISO 9001 fordert die laufende Überwachung der Kundenwahrnehmung als Bewertungskriterium für die Zielerreichung.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Kundenzufriedenheit"
+    },
+    {
+      "id": "org-150",
+      "text": "Welche Funktion erfüllt das Qualitätsmanagement-Handbuch (QM-Handbuch) in einem zertifizierten Betrieb?",
+      "options": [
+        "Es ersetzt die technische Dokumentation der Produkte vollständig",
+        "Es dokumentiert Aufbau, Prozesse, Verantwortlichkeiten und Verfahren des Qualitätsmanagementsystems",
+        "Es dient nur der internen Urlaubsplanung",
+        "Es ist gesetzlich für jeden Betrieb unabhängig von einer Zertifizierung verpflichtend vorgeschrieben"
+      ],
+      "correct": 1,
+      "explanation": "Das QM-Handbuch beschreibt verbindlich Struktur, Prozesse und Zuständigkeiten des Qualitätsmanagementsystems.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "QM-Handbuch"
+    },
+    {
+      "id": "org-151",
+      "text": "Was beschreibt der AQL-Wert (Acceptable Quality Level) bei der Stichprobenprüfung?",
+      "options": [
+        "Die Anzahl der Prüfmittel im Betrieb",
+        "Den Verkaufspreis eines Produkts",
+        "Die maximal zulässige Anzahl fehlerhafter Einheiten in einer Stichprobe, ab der die Lieferung noch als akzeptabel gilt",
+        "Die Lagerkapazität eines Wareneingangslagers"
+      ],
+      "correct": 2,
+      "explanation": "Der AQL-Wert legt den akzeptierten Grenzwert an Fehlern in einer Stichprobe fest.",
+      "difficulty": 3,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Stichprobenprüfung"
+    },
+    {
+      "id": "org-152",
+      "text": "Was gibt die Rentabilität (Rentabilitätsrechnung) als statisches Investitionsverfahren an?",
+      "options": [
+        "Die reine Amortisationsdauer einer Investition in Jahren",
+        "Ausschließlich die Höhe der Anschaffungskosten",
+        "Die Anzahl der produzierten Stückzahlen pro Jahr",
+        "Das Verhältnis von Gewinn (bzw. Kapitalrückfluss) zum eingesetzten Kapital in Prozent"
+      ],
+      "correct": 3,
+      "explanation": "Die Rentabilität setzt den erzielten Gewinn ins Verhältnis zum eingesetzten Kapital.",
+      "difficulty": 1,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Rentabilität"
+    },
+    {
+      "id": "org-153",
+      "text": "Eine Investition erfordert einen Kapitaleinsatz von 50.000 Euro und erzielt einen durchschnittlichen Jahresgewinn von 5.000 Euro. Wie hoch ist die Rentabilität?",
+      "options": [
+        "10 %",
+        "5 %",
+        "15 %",
+        "25 %"
+      ],
+      "correct": 0,
+      "explanation": "Rentabilität = 5.000 / 50.000 = 10 %.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Rentabilität"
+    },
+    {
+      "id": "org-154",
+      "text": "Was wird beim internen Zinsfuß als dynamischem Investitionsverfahren ermittelt?",
+      "options": [
+        "Der gesetzlich vorgeschriebene Zinssatz für Bankkredite",
+        "Derjenige Kalkulationszinssatz, bei dem der Kapitalwert einer Investition genau null wird",
+        "Die Höhe der Fixkosten eines Betriebs",
+        "Der Zinssatz, mit dem Lagerbestände verzinst werden"
+      ],
+      "correct": 1,
+      "explanation": "Der interne Zinsfuß ist der Zinssatz, bei dem der Kapitalwert der Investition genau null ergibt.",
+      "difficulty": 3,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Interner Zinsfuß"
+    },
+    {
+      "id": "org-155",
+      "text": "Ein Unternehmen hat Fixkosten von 45.000 Euro, der Verkaufspreis je Stück beträgt 150 Euro und die variablen Kosten je Stück 90 Euro. Bei welchem Umsatz (in Euro) liegt die Gewinnschwelle?",
+      "options": [
+        "67.500 Euro",
+        "90.000 Euro",
+        "112.500 Euro",
+        "45.000 Euro"
+      ],
+      "correct": 2,
+      "explanation": "Break-even-Menge = 45.000 / (150-90) = 750 Stück; Umsatz = 750 x 150 = 112.500 Euro.",
+      "difficulty": 3,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Break-even"
+    },
+    {
+      "id": "org-156",
+      "text": "Was versteht man unter der mehrstufigen Deckungsbeitragsrechnung?",
+      "options": [
+        "Eine Kalkulation, die ausschließlich variable Kosten ignoriert",
+        "Eine Methode zur Berechnung des Netzplan-Puffers",
+        "Eine Form der Lagerbewertung nach dem Fifo-Prinzip",
+        "Die Aufspaltung der Fixkosten in verschiedene Stufen (z. B. Produkt-, Bereichs-, Unternehmensfixkosten), denen jeweils passende Deckungsbeiträge zugeordnet werden"
+      ],
+      "correct": 3,
+      "explanation": "Die mehrstufige DB-Rechnung ordnet Fixkosten unterschiedlichen Stufen (Produkt, Bereich, Unternehmen) zu.",
+      "difficulty": 3,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Deckungsbeitragsrechnung"
+    },
+    {
+      "id": "org-157",
+      "text": "Was unterscheidet die kalkulatorische Abschreibung von der bilanziellen (handelsrechtlichen) Abschreibung?",
+      "options": [
+        "Die kalkulatorische Abschreibung orientiert sich an der tatsächlichen Nutzungsdauer und dem Wiederbeschaffungswert und dient der Kostenrechnung, unabhängig von steuerlichen Vorschriften",
+        "Beide Abschreibungsarten sind gesetzlich exakt gleich geregelt",
+        "Die kalkulatorische Abschreibung wird nur für Gebäude verwendet",
+        "Die bilanzielle Abschreibung dient ausschließlich der internen Kostenkontrolle"
+      ],
+      "correct": 0,
+      "explanation": "Kalkulatorische Abschreibungen dienen der internen Kostenrechnung und orientieren sich an Wiederbeschaffungswert und realer Nutzungsdauer.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Abschreibung"
+    },
+    {
+      "id": "org-158",
+      "text": "Was sind kalkulatorische Zinsen in der Kostenrechnung?",
+      "options": [
+        "Zinsen, die tatsächlich an eine Bank gezahlt werden",
+        "Ein rechnerischer Kostenansatz für die Verzinsung des im Betrieb gebundenen Kapitals, unabhängig von tatsächlichen Zinszahlungen",
+        "Die Kreditzinsen eines Investitionskredits laut Darlehensvertrag",
+        "Ein Bestandteil ausschließlich der Materialgemeinkosten"
+      ],
+      "correct": 1,
+      "explanation": "Kalkulatorische Zinsen bewerten das gebundene Kapital unabhängig von tatsächlich gezahlten Bankzinsen.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Kalkulatorische Kosten"
+    },
+    {
+      "id": "org-159",
+      "text": "Bei der Zuschlagskalkulation betragen die Materialeinzelkosten 2.000 Euro und der Materialgemeinkostenzuschlag 10 %. Wie hoch sind die Materialgemeinkosten?",
+      "options": [
+        "2.000 Euro",
+        "20 Euro",
+        "200 Euro",
+        "2.200 Euro"
+      ],
+      "correct": 2,
+      "explanation": "Materialgemeinkosten = 2.000 Euro x 10 % = 200 Euro.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Zuschlagskalkulation"
+    },
+    {
+      "id": "org-160",
+      "text": "Was bezeichnet man als Selbstkosten eines Produkts in der Kostenrechnung?",
+      "options": [
+        "Ausschließlich die Materialeinzelkosten",
+        "Ausschließlich die Fertigungslöhne",
+        "Den vom Kunden gezahlten Verkaufspreis",
+        "Die Summe aus Herstellkosten sowie Verwaltungs- und Vertriebsgemeinkosten"
+      ],
+      "correct": 3,
+      "explanation": "Die Selbstkosten ergeben sich aus den Herstellkosten zuzüglich Verwaltungs- und Vertriebsgemeinkosten.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Selbstkosten"
+    },
+    {
+      "id": "org-161",
+      "text": "Was versteht man unter der Rückwärtskalkulation, ausgehend vom vorgegebenen Marktpreis?",
+      "options": [
+        "Ausgehend vom am Markt erzielbaren Verkaufspreis werden Rabatt, Skonto, Gewinn und Vertriebskosten abgezogen, um die maximal zulässigen Selbstkosten zu ermitteln",
+        "Ausgehend von den Selbstkosten wird der Verkaufspreis frei aufgeschlagen, ohne Marktbezug",
+        "Es werden ausschließlich die Fixkosten verdoppelt",
+        "Der Verkaufspreis wird durch die Lagerdauer geteilt"
+      ],
+      "correct": 0,
+      "explanation": "Bei der Rückwärtskalkulation wird vom Marktpreis rückwärts gerechnet, um die zulässigen Selbstkosten zu bestimmen.",
+      "difficulty": 3,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Rückwärtskalkulation"
+    },
+    {
+      "id": "org-162",
+      "text": "Was versteht man unter der Fixkostendegression bei steigender Produktionsmenge?",
+      "options": [
+        "Die Gesamtfixkosten steigen proportional mit der Stückzahl",
+        "Die Fixkosten je Stück sinken mit zunehmender Ausbringungsmenge, da sich die Gesamtfixkosten auf mehr Einheiten verteilen",
+        "Die variablen Kosten je Stück sinken auf null",
+        "Die Fixkosten sind unabhängig von der Stückzahl stets identisch hoch"
+      ],
+      "correct": 1,
+      "explanation": "Durch die Verteilung der Fixkosten auf eine größere Stückzahl sinken die Fixkosten je Stück (Fixkostendegression).",
+      "difficulty": 3,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Fixkosten"
+    },
+    {
+      "id": "org-163",
+      "text": "Welche Kosten werden als Opportunitätskosten bezeichnet?",
+      "options": [
+        "Tatsächlich gezahlte Kosten für Rohstoffe",
+        "Ausschließlich Kosten für Marketingmaßnahmen",
+        "Der entgangene Nutzen (Ertrag) einer nicht gewählten Handlungsalternative",
+        "Kosten, die durch Maschinenausfall entstehen"
+      ],
+      "correct": 2,
+      "explanation": "Opportunitätskosten sind der entgangene Nutzen der besten nicht gewählten Alternative.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Opportunitätskosten"
+    },
+    {
+      "id": "org-164",
+      "text": "Was zeigt die Sicherheitsspanne (Margin of Safety) in der Break-even-Analyse an?",
+      "options": [
+        "Die Höhe der Fixkosten im Verhältnis zu den variablen Kosten",
+        "Ausschließlich die Lagerkapazität",
+        "Den kalkulatorischen Zinssatz einer Investition",
+        "Den Abstand zwischen tatsächlichem bzw. geplantem Absatz und der Gewinnschwelle"
+      ],
+      "correct": 3,
+      "explanation": "Die Sicherheitsspanne zeigt, wie weit der geplante Absatz oberhalb der Gewinnschwelle liegt.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Break-even"
+    },
+    {
+      "id": "org-165",
+      "text": "Ein Betrieb erwartet einen Absatz von 1.200 Stück, die Break-even-Menge liegt bei 900 Stück. Wie hoch ist die Sicherheitsspanne in Stück?",
+      "options": [
+        "300 Stück",
+        "900 Stück",
+        "1.200 Stück",
+        "2.100 Stück"
+      ],
+      "correct": 0,
+      "explanation": "Sicherheitsspanne = 1.200 - 900 = 300 Stück.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Break-even"
+    },
+    {
+      "id": "org-166",
+      "text": "Was unterscheidet das Gesamtkostenverfahren vom Umsatzkostenverfahren in der kurzfristigen Erfolgsrechnung?",
+      "options": [
+        "Beide Verfahren liefern grundsätzlich unterschiedliche Betriebsergebnisse bei identischer Datenbasis",
+        "Das Gesamtkostenverfahren stellt Gesamtleistung und Gesamtkosten der Periode gegenüber, das Umsatzkostenverfahren nur die Kosten der tatsächlich abgesetzten Menge den Umsatzerlösen gegenüber",
+        "Das Umsatzkostenverfahren berücksichtigt keine Erlöse",
+        "Das Gesamtkostenverfahren wird nur in der Investitionsrechnung verwendet"
+      ],
+      "correct": 1,
+      "explanation": "Gesamtkostenverfahren vergleicht Gesamtleistung/-kosten der Periode, Umsatzkostenverfahren stellt nur die auf den Umsatz entfallenden Kosten den Erlösen gegenüber.",
+      "difficulty": 3,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Erfolgsrechnung"
+    },
+    {
+      "id": "org-167",
+      "text": "Welche Aussage zur Amortisationsrechnung als statischem Verfahren trifft zu?",
+      "options": [
+        "Sie berücksichtigt den Zeitwert des Geldes durch Abzinsung sämtlicher Rückflüsse",
+        "Sie ist ausschließlich für Investitionen ohne Anschaffungskosten anwendbar",
+        "Sie zeigt, wie schnell sich eine Investition durch die Rückflüsse amortisiert, vernachlässigt dabei aber Zinseffekte und Rückflüsse nach Ablauf der Amortisationszeit",
+        "Sie ersetzt vollständig die Kostenvergleichsrechnung"
+      ],
+      "correct": 2,
+      "explanation": "Die statische Amortisationsrechnung ignoriert Zinseffekte und Rückflüsse nach der Amortisationszeit.",
+      "difficulty": 2,
+      "topic": "Kosten- und Wirtschaftlichkeitsrechnung",
+      "subtopic": "Amortisationsrechnung"
+    },
+    {
+      "id": "org-168",
+      "text": "Was kennzeichnet das Lagerprinzip LIFO (Last In – First Out)?",
+      "options": [
+        "Die zuerst eingelagerte Ware wird zuerst entnommen",
+        "Es wird immer die Ware mit dem geringsten Wert zuerst entnommen",
+        "Es handelt sich um ein Verfahren der Bestellmengenoptimierung",
+        "Die zuletzt eingelagerte Ware wird zuerst wieder entnommen"
+      ],
+      "correct": 3,
+      "explanation": "LIFO bedeutet, dass die zuletzt eingelagerte Ware zuerst entnommen wird.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Lagerprinzipien"
+    },
+    {
+      "id": "org-169",
+      "text": "Was ist das Grundprinzip des Kanban-Systems in der Materialwirtschaft?",
+      "options": [
+        "Selbststeuernde, verbrauchsorientierte Nachschubauslösung durch Karten oder Signale zwischen verbrauchender und liefernder Stelle",
+        "Zentrale Planung sämtlicher Bestellungen für ein Jahr im Voraus ohne Anpassung",
+        "Ausschließliche Beschaffung über Auktionsplattformen",
+        "Eine Methode zur Berechnung der Break-even-Menge"
+      ],
+      "correct": 0,
+      "explanation": "Kanban steuert den Nachschub selbststeuernd über Signale/Karten entsprechend dem tatsächlichen Verbrauch.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Kanban"
+    },
+    {
+      "id": "org-170",
+      "text": "Was unterscheidet das Bestellpunktverfahren vom Bestellrhythmusverfahren?",
+      "options": [
+        "Beide Verfahren bestellen ausschließlich zu festen Kalenderterminen",
+        "Beim Bestellpunktverfahren wird bei Erreichen eines Meldebestands bestellt, beim Bestellrhythmusverfahren wird in festen Zeitabständen bestellt",
+        "Das Bestellrhythmusverfahren kennt keinen Sicherheitsbestand",
+        "Das Bestellpunktverfahren wird nur bei C-Teilen angewendet"
+      ],
+      "correct": 1,
+      "explanation": "Das Bestellpunktverfahren löst bei Erreichen des Meldebestands aus, das Bestellrhythmusverfahren bestellt in festen Zeitabständen.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Bestellverfahren"
+    },
+    {
+      "id": "org-171",
+      "text": "Wodurch unterscheidet sich die deterministische von der stochastischen (verbrauchsgesteuerten) Bedarfsermittlung?",
+      "options": [
+        "Beide Verfahren liefern immer identische Ergebnisse",
+        "Die stochastische Bedarfsermittlung basiert ausschließlich auf Stücklisten",
+        "Die deterministische Bedarfsermittlung leitet den Bedarf exakt aus Stücklisten und Produktionsplänen ab, die stochastische schätzt ihn anhand von Vergangenheitswerten mittels statistischer Verfahren",
+        "Die deterministische Bedarfsermittlung wird nur für C-Teile eingesetzt"
+      ],
+      "correct": 2,
+      "explanation": "Deterministisch: exakte Ableitung aus Stücklisten/Produktionsplänen; stochastisch: Schätzung anhand von Verbrauchswerten.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Bedarfsermittlung"
+    },
+    {
+      "id": "org-172",
+      "text": "Was bedeutet das Prinzip Just-in-Sequence (JIS) in der Beschaffungslogistik?",
+      "options": [
+        "Es handelt sich um ein Synonym für die ABC-Analyse",
+        "Material wird ausschließlich auf Vorrat für ein ganzes Jahr eingelagert",
+        "Es beschreibt eine Methode der Investitionsrechnung",
+        "Die Anlieferung erfolgt nicht nur zeitgenau, sondern zusätzlich in der exakten Reihenfolge, in der die Teile im Fertigungsprozess benötigt werden"
+      ],
+      "correct": 3,
+      "explanation": "Just-in-Sequence liefert Teile zeit- und reihenfolgengenau passend zum Fertigungsablauf.",
+      "difficulty": 3,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Just-in-Sequence"
+    },
+    {
+      "id": "org-173",
+      "text": "Was versteht man unter Kommissionierung in der Lagerlogistik?",
+      "options": [
+        "Die Zusammenstellung von Artikeln aus dem Lager entsprechend einem konkreten Auftrag",
+        "Die Berechnung der optimalen Bestellmenge",
+        "Die Bewertung von Lagerbeständen zum Jahresabschluss",
+        "Die Klassifizierung von Lieferanten nach Bonität"
+      ],
+      "correct": 0,
+      "explanation": "Kommissionierung ist das auftragsbezogene Zusammenstellen von Artikeln aus dem Lager.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Kommissionierung"
+    },
+    {
+      "id": "org-174",
+      "text": "Was versteht man unter Cross-Docking in der Logistik?",
+      "options": [
+        "Waren werden dauerhaft mindestens ein Jahr eingelagert",
+        "Waren werden im Wareneingang direkt umgeschlagen und ohne oder mit nur kurzer Zwischenlagerung sofort für den Warenausgang kommissioniert",
+        "Es handelt sich um ein Verfahren zur Kapitalwertermittlung",
+        "Es beschreibt die Instandhaltung von Lagerregalen"
+      ],
+      "correct": 1,
+      "explanation": "Beim Cross-Docking werden Waren ohne bzw. mit sehr kurzer Zwischenlagerung direkt weitergeleitet.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Cross-Docking"
+    },
+    {
+      "id": "org-175",
+      "text": "Was ist die Aufgabe der Beschaffungsmarktforschung?",
+      "options": [
+        "Die Analyse der Absatzmärkte für Fertigprodukte",
+        "Die Kalkulation von Verkaufspreisen",
+        "Systematische Beobachtung und Analyse der Beschaffungsmärkte hinsichtlich Preisen, Lieferanten, Qualität und Verfügbarkeit von Materialien",
+        "Die Erstellung von Organigrammen"
+      ],
+      "correct": 2,
+      "explanation": "Beschaffungsmarktforschung analysiert systematisch Preise, Lieferanten und Verfügbarkeit auf den Beschaffungsmärkten.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Beschaffungsmarktforschung"
+    },
+    {
+      "id": "org-176",
+      "text": "Was ist ein Rahmenvertrag (Sukzessivlieferungsvertrag) in der Beschaffung?",
+      "options": [
+        "Eine einmalige Bestellung ohne weitere vertragliche Bindung",
+        "Ein Vertrag, der ausschließlich die Entsorgung von Elektroschrott regelt",
+        "Ein Synonym für den Sicherheitsbestand",
+        "Eine langfristige Vereinbarung mit einem Lieferanten über Konditionen, aus der einzelne Abrufe (Teillieferungen) über die Laufzeit erfolgen"
+      ],
+      "correct": 3,
+      "explanation": "Ein Rahmenvertrag regelt Konditionen langfristig; einzelne Lieferungen erfolgen über Abrufe während der Laufzeit.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Beschaffungsverträge"
+    },
+    {
+      "id": "org-177",
+      "text": "Welche Bedeutung hat die Incoterm-Klausel \"DDP\" (Delivered Duty Paid) im internationalen Warenverkehr für die Kostenverteilung?",
+      "options": [
+        "Der Verkäufer trägt alle Kosten, Risiken und Zölle bis zur Anlieferung beim Käufer",
+        "Der Käufer trägt sämtliche Kosten und Risiken ab Werk des Verkäufers",
+        "Käufer und Verkäufer teilen sich die Transportkosten stets hälftig",
+        "Die Klausel regelt ausschließlich Zahlungsfristen, nicht aber Kosten"
+      ],
+      "correct": 0,
+      "explanation": "Bei DDP trägt der Verkäufer alle Kosten, Risiken und Zölle bis zur Anlieferung beim Käufer.",
+      "difficulty": 3,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Incoterms"
+    },
+    {
+      "id": "org-178",
+      "text": "Welche drei Prüfaspekte umfasst die klassische Wareneingangskontrolle typischerweise?",
+      "options": [
+        "Ausschließlich die Prüfung der Rechnungssumme",
+        "Mengen-, Qualitäts- und Terminprüfung der gelieferten Ware",
+        "Nur die Prüfung der Verpackungsfarbe",
+        "Ausschließlich die Bonitätsprüfung des Lieferanten"
+      ],
+      "correct": 1,
+      "explanation": "Die Wareneingangskontrolle prüft üblicherweise Menge, Qualität und Termintreue der Lieferung.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Wareneingang"
+    },
+    {
+      "id": "org-179",
+      "text": "Was bezeichnet der Höchstbestand im Lager?",
+      "options": [
+        "Die Menge, bei deren Erreichen eine neue Bestellung ausgelöst wird",
+        "Die Menge, die niemals unterschritten werden darf",
+        "Die Menge, die aus Kapazitäts- und Wirtschaftlichkeitsgründen im Lager nicht überschritten werden soll",
+        "Die durchschnittliche Bestellmenge eines Jahres"
+      ],
+      "correct": 2,
+      "explanation": "Der Höchstbestand ist die Obergrenze, die im Lager aus wirtschaftlichen und Kapazitätsgründen nicht überschritten werden soll.",
+      "difficulty": 1,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Lagerbestände"
+    },
+    {
+      "id": "org-180",
+      "text": "Wodurch unterscheidet sich die Durchlaufzeit eines Lagerartikels von der Lieferzeit des Lieferanten?",
+      "options": [
+        "Beide Begriffe sind vollständig identisch",
+        "Die Lieferzeit umfasst grundsätzlich auch die Fertigungszeit im eigenen Betrieb",
+        "Die Durchlaufzeit bezieht sich ausschließlich auf externe Lieferanten",
+        "Die Durchlaufzeit beschreibt die gesamte innerbetriebliche Zeit von Bestellauslösung bzw. Fertigungsbeginn bis zur Verfügbarkeit, die Lieferzeit nur die Zeitspanne vom Lieferanten bis zum Wareneingang"
+      ],
+      "correct": 3,
+      "explanation": "Die Durchlaufzeit umfasst die gesamte innerbetriebliche Bearbeitungszeit, die Lieferzeit nur den externen Transportweg.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Durchlaufzeit"
+    },
+    {
+      "id": "org-181",
+      "text": "Der Jahresverbrauch eines Artikels beträgt 6.000 Stück, der durchschnittliche Lagerbestand beträgt 500 Stück. Wie hoch ist die durchschnittliche Lagerdauer in Tagen (360 Tage/Jahr)?",
+      "options": [
+        "30 Tage",
+        "60 Tage",
+        "12 Tage",
+        "500 Tage"
+      ],
+      "correct": 0,
+      "explanation": "Umschlagshäufigkeit = 6.000/500 = 12; Lagerdauer = 360/12 = 30 Tage.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Kennzahlen"
+    },
+    {
+      "id": "org-182",
+      "text": "Was kennzeichnet das Zwei-Behälter-System (Kanban mit zwei Behältern) in der Materialbereitstellung?",
+      "options": [
+        "Es dürfen grundsätzlich nur zwei Artikel pro Jahr bestellt werden",
+        "Es werden zwei identisch befüllte Behälter genutzt; ist der erste leer, wird aus dem zweiten entnommen und gleichzeitig der erste nachbestellt bzw. wieder aufgefüllt",
+        "Es handelt sich um ein Verfahren der Investitionsrechnung",
+        "Es beschreibt die Aufteilung des Lagers in genau zwei Hallen"
+      ],
+      "correct": 1,
+      "explanation": "Beim Zwei-Behälter-System löst die Leerung des ersten Behälters die Nachbestellung/Auffüllung aus, während aus dem zweiten weiterentnommen wird.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Kanban"
+    },
+    {
+      "id": "org-183",
+      "text": "Welchen Vorteil bietet Mehrwegverpackung (Behältermanagement) gegenüber Einwegverpackung in der Beschaffungslogistik?",
+      "options": [
+        "Geringere Transportkosten durch weniger Ladungssicherung",
+        "Vollständiger Wegfall jeglicher Reinigungskosten",
+        "Reduzierung von Verpackungsabfall und langfristig geringere Kosten trotz höherer Investition in die Behälter",
+        "Verzicht auf jede Kennzeichnungspflicht"
+      ],
+      "correct": 2,
+      "explanation": "Mehrwegverpackungen reduzieren Abfall und senken langfristig die Kosten trotz höherer Anfangsinvestition.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Verpackungslogistik"
+    },
+    {
+      "id": "org-184",
+      "text": "Wofür steht im Kontext der Bedarfsermittlung der Begriff Sekundärbedarf?",
+      "options": [
+        "Der Bedarf an Verkaufsprodukten direkt vom Endkunden",
+        "Der Bedarf an Personal in der Verwaltung",
+        "Der jährliche Energiebedarf eines Betriebs",
+        "Der Bedarf an Rohstoffen, Einzelteilen und Baugruppen, der sich aus dem Primärbedarf (Enderzeugnis) über die Stückliste ableitet"
+      ],
+      "correct": 3,
+      "explanation": "Der Sekundärbedarf leitet sich über die Stückliste aus dem Primärbedarf des Enderzeugnisses ab.",
+      "difficulty": 2,
+      "topic": "Materialwirtschaft & Logistik",
+      "subtopic": "Bedarfsarten"
+    },
+    {
+      "id": "org-185",
+      "text": "Welche Aufgabe hat der Betriebsarzt nach dem Arbeitssicherheitsgesetz (ASiG) im Betrieb?",
+      "options": [
+        "Er berät Arbeitgeber und Beschäftigte in Fragen des Gesundheitsschutzes und führt arbeitsmedizinische Vorsorge durch",
+        "Er trifft als einziger sämtliche unternehmerischen Entscheidungen zum Arbeitsschutz",
+        "Er ist ausschließlich für die Lohnbuchhaltung zuständig",
+        "Er ersetzt die Fachkraft für Arbeitssicherheit vollständig"
+      ],
+      "correct": 0,
+      "explanation": "Der Betriebsarzt berät zu Gesundheitsschutz und führt arbeitsmedizinische Vorsorgeuntersuchungen durch.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Betriebsarzt"
+    },
+    {
+      "id": "org-186",
+      "text": "Was ist der Arbeitsschutzausschuss (ASA) nach § 11 ASiG?",
+      "options": [
+        "Eine externe Behörde zur Kontrolle von Betrieben",
+        "Ein aus Arbeitgeber- und Arbeitnehmervertretern, Betriebsarzt, Fachkraft für Arbeitssicherheit und Sicherheitsbeauftragten zusammengesetztes Gremium, das mindestens vierteljährlich zusammentritt",
+        "Ein rein technisches Prüfgerät für elektrische Anlagen",
+        "Eine Bezeichnung für die Berufsgenossenschaft"
+      ],
+      "correct": 1,
+      "explanation": "Der ASA ist ein betriebliches Gremium aus den relevanten Arbeitsschutzakteuren, das mindestens vierteljährlich tagt.",
+      "difficulty": 3,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Arbeitsschutzausschuss"
+    },
+    {
+      "id": "org-187",
+      "text": "Was regelt die Betriebssicherheitsverordnung (BetrSichV) im Wesentlichen?",
+      "options": [
+        "Ausschließlich die Entsorgung von Elektroschrott",
+        "Nur die Höhe des Mindestlohns",
+        "Anforderungen an die Bereitstellung, Benutzung und wiederkehrende Prüfung von Arbeitsmitteln und überwachungsbedürftigen Anlagen",
+        "Ausschließlich die Ausbildung von Auszubildenden"
+      ],
+      "correct": 2,
+      "explanation": "Die BetrSichV regelt Bereitstellung, sichere Benutzung und Prüfung von Arbeitsmitteln und Anlagen.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Betriebssicherheitsverordnung"
+    },
+    {
+      "id": "org-188",
+      "text": "Wozu dient ein Sicherheitsdatenblatt nach der Gefahrstoffverordnung (GefStoffV)?",
+      "options": [
+        "Es ist ein Nachweis über die Lagerbestandsbewertung",
+        "Es dient ausschließlich der Preiskalkulation von Chemikalien",
+        "Es ersetzt die Betriebsanweisung vollständig",
+        "Es enthält Informationen zu Eigenschaften, Gefahren, Handhabung und Schutzmaßnahmen eines Gefahrstoffs für den betrieblichen Umgang"
+      ],
+      "correct": 3,
+      "explanation": "Das Sicherheitsdatenblatt informiert umfassend über Eigenschaften, Gefahren und Schutzmaßnahmen eines Gefahrstoffs.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Gefahrstoffe"
+    },
+    {
+      "id": "org-189",
+      "text": "Warum müssen durchgeführte Unterweisungen nach Arbeitsschutzrecht dokumentiert werden?",
+      "options": [
+        "Um im Bedarfsfall (z. B. bei Unfällen oder Kontrollen) den Nachweis der erfolgten Unterweisung erbringen zu können",
+        "Die Dokumentation ist rein freiwillig und ohne rechtliche Bedeutung",
+        "Ausschließlich zur internen Gehaltsabrechnung",
+        "Um die Lagerbestände zu erfassen"
+      ],
+      "correct": 0,
+      "explanation": "Die Dokumentation dient als Nachweis der erfolgten Unterweisung gegenüber Behörden oder im Unfallfall.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Unterweisung"
+    },
+    {
+      "id": "org-190",
+      "text": "Wie viele Ersthelfer müssen in Betrieben mit mehr als 20 anwesenden Beschäftigten nach den DGUV-Vorgaben grundsätzlich mindestens vorhanden sein (Verwaltungs- und Handelsbetriebe)?",
+      "options": [
+        "Mindestens 50 % der anwesenden Beschäftigten",
+        "Mindestens 5 % der anwesenden Beschäftigten",
+        "Grundsätzlich ist kein Ersthelfer erforderlich",
+        "Nur ein Ersthelfer je Standort unabhängig von der Beschäftigtenzahl"
+      ],
+      "correct": 1,
+      "explanation": "Nach DGUV-Vorgaben müssen in solchen Betrieben mindestens 5 % der anwesenden Beschäftigten als Ersthelfer ausgebildet sein.",
+      "difficulty": 3,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Erste Hilfe"
+    },
+    {
+      "id": "org-191",
+      "text": "Was ist im Falle eines meldepflichtigen Arbeitsunfalls (mit mehr als drei Tagen Arbeitsunfähigkeit) durch den Arbeitgeber zu veranlassen?",
+      "options": [
+        "Es besteht keinerlei Meldepflicht",
+        "Der Unfall darf ausschließlich intern dokumentiert werden",
+        "Der Arbeitgeber muss den Unfall der zuständigen Berufsgenossenschaft mittels Unfallanzeige melden",
+        "Der Arbeitgeber muss den Unfall der Gewerbeaufsicht erst nach einem Jahr melden"
+      ],
+      "correct": 2,
+      "explanation": "Meldepflichtige Arbeitsunfälle sind der zuständigen Berufsgenossenschaft per Unfallanzeige zu melden.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Unfallmeldung"
+    },
+    {
+      "id": "org-192",
+      "text": "Welche Kernaufgaben nehmen die Berufsgenossenschaften als Träger der gesetzlichen Unfallversicherung wahr?",
+      "options": [
+        "Ausschließlich die Auszahlung von Arbeitslosengeld",
+        "Die Festlegung von Tarifverträgen",
+        "Die Kalkulation von Verkaufspreisen der Mitgliedsbetriebe",
+        "Prävention von Arbeitsunfällen und Berufskrankheiten sowie Rehabilitation und Entschädigung im Schadensfall"
+      ],
+      "correct": 3,
+      "explanation": "Berufsgenossenschaften übernehmen Prävention, Rehabilitation und Entschädigung bei Arbeitsunfällen/Berufskrankheiten.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Berufsgenossenschaft"
+    },
+    {
+      "id": "org-193",
+      "text": "Welche Aussage zum Vergleich von EMAS und ISO 14001 als Umweltmanagementsysteme trifft zu?",
+      "options": [
+        "EMAS (Eco-Management and Audit Scheme) stellt im Vergleich zur ISO 14001 zusätzliche Anforderungen, u. a. die Veröffentlichung einer Umwelterklärung",
+        "ISO 14001 ist ausschließlich eine EU-Verordnung, EMAS eine internationale Norm",
+        "Beide Systeme sind inhaltlich und rechtlich völlig identisch",
+        "EMAS kennt keinerlei externe Prüfung"
+      ],
+      "correct": 0,
+      "explanation": "EMAS geht über ISO 14001 hinaus und verlangt zusätzlich u. a. eine veröffentlichte Umwelterklärung.",
+      "difficulty": 3,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Umweltmanagement"
+    },
+    {
+      "id": "org-194",
+      "text": "Welche Aufgabe hat ein betrieblicher Gefahrgutbeauftragter?",
+      "options": [
+        "Ausschließlich die Materialbestellung von Büromaterial",
+        "Überwachung der Vorschriften zum Transport gefährlicher Güter und Beratung des Unternehmens in diesem Bereich",
+        "Die Erstellung des Organigramms",
+        "Die Kalkulation der Break-even-Menge"
+      ],
+      "correct": 1,
+      "explanation": "Der Gefahrgutbeauftragte überwacht die Einhaltung der Gefahrgutvorschriften und berät das Unternehmen.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Gefahrgut"
+    },
+    {
+      "id": "org-195",
+      "text": "Welche Rangfolge der Abfallbehandlung gibt das Kreislaufwirtschaftsgesetz (KrWG) grundsätzlich vor?",
+      "options": [
+        "Beseitigung vor Recycling vor Vermeidung",
+        "Es gibt keine gesetzlich festgelegte Rangfolge",
+        "Vermeidung vor Vorbereitung zur Wiederverwendung vor Recycling vor sonstiger Verwertung vor Beseitigung",
+        "Recycling ist stets der Vermeidung vorzuziehen"
+      ],
+      "correct": 2,
+      "explanation": "Das KrWG legt die fünfstufige Abfallhierarchie fest: Vermeidung vor Wiederverwendung vor Recycling vor Verwertung vor Beseitigung.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Kreislaufwirtschaft"
+    },
+    {
+      "id": "org-196",
+      "text": "Wozu dient ein Explosionsschutzdokument gemäß Gefahrstoffverordnung in Betrieben mit explosionsgefährdeten Bereichen?",
+      "options": [
+        "Es ersetzt die Betriebsanweisung für alle Gefahrstoffe",
+        "Es dient ausschließlich der Lagerbestandsführung",
+        "Es ist nur für Bürogebäude vorgeschrieben",
+        "Es dokumentiert die Gefährdungsbeurteilung hinsichtlich Explosionsgefahren sowie die getroffenen Schutzmaßnahmen"
+      ],
+      "correct": 3,
+      "explanation": "Das Explosionsschutzdokument dokumentiert Gefährdungsbeurteilung und Schutzmaßnahmen bezüglich Explosionsgefahren.",
+      "difficulty": 2,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Explosionsschutz"
+    },
+    {
+      "id": "org-197",
+      "text": "Wozu dient ein Flucht- und Rettungsplan in einem Betrieb?",
+      "options": [
+        "Er zeigt Fluchtwege, Notausgänge und Sammelplätze zur schnellen und sicheren Evakuierung im Gefahrenfall",
+        "Er dient der Personaleinsatzplanung im Tagesgeschäft",
+        "Er ersetzt die Gefährdungsbeurteilung vollständig",
+        "Er ist ausschließlich für Produktionsbetriebe, nicht aber für Bürogebäude vorgeschrieben"
+      ],
+      "correct": 0,
+      "explanation": "Der Flucht- und Rettungsplan zeigt Fluchtwege, Notausgänge und Sammelplätze für den Gefahrenfall.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Notfallorganisation"
+    },
+    {
+      "id": "org-198",
+      "text": "Welche Pflicht trifft den Arbeitnehmer bezüglich persönlicher Schutzausrüstung (PSA) nach der PSA-Benutzungsverordnung?",
+      "options": [
+        "Er darf frei entscheiden, ob er die bereitgestellte PSA benutzt",
+        "Er ist verpflichtet, die vom Arbeitgeber bereitgestellte PSA bestimmungsgemäß zu benutzen",
+        "Er muss die PSA auf eigene Kosten beschaffen",
+        "Er darf die PSA an Kollegen verkaufen"
+      ],
+      "correct": 1,
+      "explanation": "Beschäftigte sind verpflichtet, bereitgestellte PSA bestimmungsgemäß zu nutzen.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "PSA"
+    },
+    {
+      "id": "org-199",
+      "text": "Wer trägt nach dem Arbeitsschutzgesetz die grundsätzliche Verantwortung für die Durchführung der Gefährdungsbeurteilung im Betrieb, auch wenn Teilaufgaben delegiert werden?",
+      "options": [
+        "Ausschließlich die Fachkraft für Arbeitssicherheit",
+        "Ausschließlich der Betriebsrat",
+        "Der Arbeitgeber",
+        "Ausschließlich die Berufsgenossenschaft"
+      ],
+      "correct": 2,
+      "explanation": "Der Arbeitgeber trägt die Gesamtverantwortung für die Gefährdungsbeurteilung, auch bei Delegation von Teilaufgaben.",
+      "difficulty": 1,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Gefährdungsbeurteilung"
+    },
+    {
+      "id": "org-200",
+      "text": "Welche Auslösewerte sieht die Lärm- und Vibrations-Arbeitsschutzverordnung für den unteren bzw. oberen Auslösewert des Lärmexpositionspegels grundsätzlich vor, ab denen bestimmte Schutzmaßnahmen (z. B. Bereitstellung bzw. verpflichtende Nutzung von Gehörschutz) greifen?",
+      "options": [
+        "50 dB(A) und 60 dB(A)",
+        "100 dB(A) und 120 dB(A)",
+        "65 dB(A) und 70 dB(A)",
+        "80 dB(A) und 85 dB(A)"
+      ],
+      "correct": 3,
+      "explanation": "Die LärmVibrationsArbSchV sieht einen unteren Auslösewert von 80 dB(A) und einen oberen von 85 dB(A) vor.",
+      "difficulty": 3,
+      "topic": "Arbeits- und Umweltschutzorganisation",
+      "subtopic": "Lärmschutz"
+    }
+  ]
+}
