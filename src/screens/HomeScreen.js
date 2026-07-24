@@ -41,7 +41,7 @@ export default function HomeScreen({ navigation }) {
         {/* Header */}
         <View style={[styles.header, { borderBottomColor: colors.border }]}>
           <View>
-            <Text style={[styles.title, { color: colors.text }]}>HQ Elektrotechnik</Text>
+            <Text style={[styles.title, { color: colors.text }]}>HQ Prüfung Elektrotechnik</Text>
             <Text style={[styles.subtitle, { color: colors.textSecondary }]}>
               {totalAnswered > 0 ? `${totalAnswered} von 600 Fragen bearbeitet` : 'Industriemeister Elektrotechnik – Handlungsspezifische Qualifikation'}
             </Text>

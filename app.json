@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "HQ Elektrotechnik",
+    "name": "HQ Prüfung Elektrotechnik",
     "slug": "hq-elektrotechnik",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,7 +17,7 @@
       "bundleIdentifier": "com.hqelektrotechnik.app",
       "buildNumber": "1",
       "infoPlist": {
-        "CFBundleDisplayName": "HQ Elektrotechnik",
+        "CFBundleDisplayName": "HQ Prüfung Elektrotechnik",
         "ITSAppUsesNonExemptEncryption": false
       }
     },

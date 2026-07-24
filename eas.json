@@ -30,6 +30,7 @@
     "production": {
       "ios": {
         "appleId": "dasc.software@gmail.com",
+        "ascAppId": "6794086070",
         "appleTeamId": "7MZ2H5DDS6"
       }
     }

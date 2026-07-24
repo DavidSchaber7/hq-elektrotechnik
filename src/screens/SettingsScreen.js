@@ -59,7 +59,7 @@ export default function SettingsScreen() {
 
   const handleShare = async () => {
     try { await Share.share({
-      message: `HQ Elektrotechnik\n${stats.currentStreak} Tage Streak\n${stats.totalAnswered} Fragen beantwortet\n${stats.accuracy}% Erfolgsquote`,
+      message: `HQ Prüfung Elektrotechnik\n${stats.currentStreak} Tage Streak\n${stats.totalAnswered} Fragen beantwortet\n${stats.accuracy}% Erfolgsquote`,
     }); } catch {}
   };
 
@@ -203,7 +203,7 @@ export default function SettingsScreen() {
           </TouchableOpacity>
         </View>
 
-        <Text style={[styles.version, { color: colors.textSecondary }]}>HQ Elektrotechnik v1.0 · 600 Fragen · 3 Fächer</Text>
+        <Text style={[styles.version, { color: colors.textSecondary }]}>HQ Prüfung Elektrotechnik v1.0 · 600 Fragen · 3 Fächer</Text>
       </ScrollView>
     </SafeAreaView>
   );

@@ -1,10 +1,10 @@
-# App Store Listing - HQ Elektrotechnik
+# App Store Listing - HQ Prüfung Elektrotechnik
 
 ## App Name
-HQ Elektrotechnik - Industriemeister
+HQ Prüfung Elektrotechnik - Industriemeister
 
 ## Subtitle (max 30 Zeichen)
-HQ Elektrotechnik lernen
+HQ Prüfung Elektrotechnik lernen
 
 ## Bundle-ID
 com.hqelektrotechnik.app
@@ -19,7 +19,7 @@ Bildung
 
 Bestehe deine Industriemeister-Prüfung Fachrichtung Elektrotechnik – mit 600 Prüfungsfragen zur Handlungsspezifischen Qualifikation (HQ) und wissenschaftlich bewiesenem Lernsystem.
 
-Die HQ Elektrotechnik App ist die Vorbereitung auf den handlungsspezifischen Prüfungsteil der IHK-Prüfung zum Geprüften Industriemeister Fachrichtung Elektrotechnik.
+Die HQ Prüfung Elektrotechnik App ist die Vorbereitung auf den handlungsspezifischen Prüfungsteil der IHK-Prüfung zum Geprüften Industriemeister Fachrichtung Elektrotechnik.
 
 ALLE 3 HANDLUNGSBEREICHE ABGEDECKT
 • Technik (Energietechnik, Antriebstechnik, Steuerungs- und Regelungstechnik, Mess- und Sensortechnik, Arbeitssicherheit, Instandhaltung, Automatisierung)
@@ -56,7 +56,7 @@ Keine Registrierung, kein Tracking, keine Werbung. Deine Lerndaten bleiben auf d
 
 ---
 
-Lade jetzt die HQ Elektrotechnik App herunter und starte deine Vorbereitung auf die Industriemeister-Prüfung.
+Lade jetzt die HQ Prüfung Elektrotechnik App herunter und starte deine Vorbereitung auf die Industriemeister-Prüfung.
 
 ## Keywords (max 100 Zeichen)
 Industriemeister,HQ,Elektrotechnik,Prüfung,IHK,Lernen,Elektro,Meister,Prüfungsfragen,Technik

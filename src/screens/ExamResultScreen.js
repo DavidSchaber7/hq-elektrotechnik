@@ -28,7 +28,7 @@ export default function ExamResultScreen({ route, navigation }) {
 
   const handleShare = async () => {
     try { await Share.share({
-      message: `HQ Elektrotechnik: ${subjectId.toUpperCase()}\n${correctCount}/${total} richtig (${percent}%)${timeStr ? ` in ${timeStr}` : ''}\n${passed ? 'Bestanden!' : 'Weiter lernen!'}`,
+      message: `HQ Prüfung Elektrotechnik: ${subjectId.toUpperCase()}\n${correctCount}/${total} richtig (${percent}%)${timeStr ? ` in ${timeStr}` : ''}\n${passed ? 'Bestanden!' : 'Weiter lernen!'}`,
     }); } catch {}
   };
 

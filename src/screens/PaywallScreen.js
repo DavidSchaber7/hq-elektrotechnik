@@ -113,7 +113,7 @@ export default function PaywallScreen({ navigation }) {
           <View style={styles.crownWrap}>
             <Ionicons name="star" size={48} color="#FFC33C" />
           </View>
-          <Text style={styles.title}>HQ Elektrotechnik Premium</Text>
+          <Text style={styles.title}>HQ Prüfung Elektrotechnik Premium</Text>
           <Text style={styles.subtitle}>
             Schalte alle Fächer und Funktionen frei – einmalig.
           </Text>

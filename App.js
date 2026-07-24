@@ -139,7 +139,7 @@ function AppNavigator() {
           name="Paywall"
           component={PaywallScreen}
           options={{
-            title: 'HQ Elektrotechnik Premium',
+            title: 'HQ Prüfung Elektrotechnik Premium',
             presentation: 'modal',
             headerShown: false,
           }}

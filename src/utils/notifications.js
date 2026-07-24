@@ -51,7 +51,7 @@ export async function scheduleDailyReminder() {
   // Evening reminder at 19:00 - "Hast du heute schon gelernt?"
   await Notifications.scheduleNotificationAsync({
     content: {
-      title: 'HQ Elektrotechnik',
+      title: 'HQ Prüfung Elektrotechnik',
       body: 'Hast du heute schon gelernt? Halte deine Streak aufrecht!',
       sound: null,
     },
