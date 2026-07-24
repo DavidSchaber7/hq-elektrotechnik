@@ -40,8 +40,8 @@ export default function HomeScreen({ navigation }) {
       <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={{ paddingBottom: 24 }}>
         {/* Header */}
         <View style={[styles.header, { borderBottomColor: colors.border }]}>
-          <View>
-            <Text style={[styles.title, { color: colors.text }]}>HQ Prüfung Elektrotechnik</Text>
+          <View style={{ flex: 1, marginRight: 12 }}>
+            <Text style={[styles.title, { color: colors.text }]} numberOfLines={1} adjustsFontSizeToFit>HQ Prüfung Elektrotechnik</Text>
             <Text style={[styles.subtitle, { color: colors.textSecondary }]}>
               {totalAnswered > 0 ? `${totalAnswered} von 600 Fragen bearbeitet` : 'Industriemeister Elektrotechnik – Handlungsspezifische Qualifikation'}
             </Text>
@@ -183,7 +183,7 @@ const styles = StyleSheet.create({
   header: { paddingHorizontal: 20, paddingTop: 20, paddingBottom: 16, flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
   title: { fontSize: 32, fontWeight: '800', letterSpacing: -0.5 },
   subtitle: { fontSize: 14, marginTop: 4 },
-  streakPill: { borderRadius: 14, paddingHorizontal: 12, paddingVertical: 6, minWidth: 36, alignItems: 'center' },
+  streakPill: { borderRadius: 14, paddingHorizontal: 12, paddingVertical: 6, minWidth: 36, alignItems: 'center', flexShrink: 0 },
   streakText: { fontSize: 16, fontWeight: '800', color: '#fff' },
 
   overallCard: { marginHorizontal: 16, borderRadius: 16, padding: 18, borderWidth: 1, marginBottom: 8 },

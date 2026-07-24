@@ -17,25 +17,6 @@ try {
 export const PREMIUM_PRODUCT_ID = 'com.hqelektrotechnik.app.premium_unlock';
 export const PREMIUM_PRICE_FALLBACK = '9,99 €';
 
-// Versions before this one were sold as a paid app for 9,99 €.
-// Anyone whose original App Store purchase predates 1.1.0 already
-// paid for the app and gets premium for free (legacy grandfather rule).
-const FREEMIUM_PIVOT_VERSION = '1.1.0';
-
-// Compare two semver-ish strings ("1.0.1" vs "1.1.0") → -1 / 0 / 1
-function compareVersions(a, b) {
-  const pa = String(a || '0').split('.').map((n) => parseInt(n, 10) || 0);
-  const pb = String(b || '0').split('.').map((n) => parseInt(n, 10) || 0);
-  const len = Math.max(pa.length, pb.length);
-  for (let i = 0; i < len; i++) {
-    const ai = pa[i] ?? 0;
-    const bi = pb[i] ?? 0;
-    if (ai > bi) return 1;
-    if (ai < bi) return -1;
-  }
-  return 0;
-}
-
 const PremiumContext = createContext({
   isPremium: false,
   isLoading: true,
@@ -124,28 +105,6 @@ export function PremiumProvider({ children }) {
           if (err?.code === 'E_USER_CANCELLED') return;
           console.warn('purchaseError:', err);
         });
-
-        // ---- Legacy grandfather rule (iOS only) ----
-        // Anyone who bought the app before it became freemium gets premium
-        // for free. We check the App Store receipt's originalAppVersion.
-        if (Platform.OS === 'ios' && !isPremium) {
-          try {
-            if (typeof IAP.getAppTransactionIOS === 'function') {
-              const tx = await IAP.getAppTransactionIOS();
-              const originalAppVersion = tx?.originalAppVersion;
-              if (
-                originalAppVersion &&
-                compareVersions(originalAppVersion, FREEMIUM_PIVOT_VERSION) < 0
-              ) {
-                await setPremiumUnlocked(true);
-                if (mounted) setIsPremium(true);
-              }
-            }
-          } catch (e) {
-            // Best effort – don't block the app if receipt is unavailable
-            console.warn('getAppTransactionIOS failed:', e?.message || e);
-          }
-        }
       } catch (e) {
         console.warn('IAP initConnection failed:', e?.message || e);
         if (mounted) setIapAvailable(false);

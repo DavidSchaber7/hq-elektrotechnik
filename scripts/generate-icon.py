@@ -63,8 +63,8 @@ draw.rectangle(
     fill=(255, 210, 0, 200)  # Gold accent
 )
 
-# "PRÜFUNG" below
-sub_text = "PRÜFUNG"
+# "ELEKTRO" below
+sub_text = "ELEKTRO"
 bbox2 = draw.textbbox((0, 0), sub_text, font=font_small)
 tw2 = bbox2[2] - bbox2[0]
 draw.text(((SIZE - tw2) // 2, line_y + 30), sub_text, fill=(255, 255, 255, 180), font=font_small)
